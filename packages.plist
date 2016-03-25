@@ -1,0 +1,12 @@
+{
+	packages = {
+		plugins = (
+			{
+				name = "Shadow.glyphsFilter";
+				url = "https://github.com/mekkablue/Shadow";
+				description = "This is a plugin for the Glyphs font editor by Georg Seifert. It turns your glyphs into shadowed versions of themselves. After installation, it will add the menu item Filter > Shadow. You can set a keyboard shortcut in System Preferences.";
+				screenshot = "https://github.com/mekkablue/Shadow/raw/master/Shadow.png";
+			},
+		);
+	};
+}
