@@ -16,3 +16,8 @@ Repository to collect all available plugins for Glyphs.
 - description
 - minVersion
 - maxVersion
+
+
+### Credits
+
+The plugin is based on the Xcode-plugin manager [Alcatras](http://alcatraz.io).
