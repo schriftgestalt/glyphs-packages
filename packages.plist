@@ -7,6 +7,26 @@
 				description = "This is a plugin for the Glyphs font editor by Georg Seifert. It turns your glyphs into shadowed versions of themselves. After installation, it will add the menu item Filter > Shadow. You can set a keyboard shortcut in System Preferences.";
 				screenshot = "https://github.com/mekkablue/Shadow/raw/master/Shadow.png";
 			},
+			{
+				name = "ShowItalic.glyphsReporter";
+				url = "https://github.com/mekkablue/ShowItalic";
+				description = "This is a plugin for the Glyphs font editor by Georg Seifert. It tries to display the italic (or upright) counterpart of the current glyph in Edit view, given that both the Upright and Italic fonts are opened in Glyphs, and given that the other font contains a glyph with the same name.
+
+It is useful for stepping through the glyphs and checking if there is an undesired deviation, e.g., a different diacritic height or different descender depth.";
+				screenshot = "https://github.com/mekkablue/ShowItalic/raw/master/ShowItalic.png";
+			},
+			{
+				name = "SmartPlumblines.glyphsReporter";
+				url = "https://github.com/Mark2Mark/Show-Smart-Plumblines";
+				description = "By default it displays **live guidelines** at the center of each paths’ *red* and components’ *grey* bounding box.\nIf you select anything, it also displays the center of that selection *blue dashed*.\nOne major feature is that the guideline **automatically matches your italic angle**.\nThis is useful for aligning objects by sight. As well as:\n\n- Align multiple paths and/or components\n- Setting up (horizontal) positions of anchors\n- Editing segments while easily keeping italic angle\n- etc.";
+				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Glyphsapp-Plugins/Screenshots/Screenshots/SmartPlumblines/SmPlL%2012.png?raw=true";
+			},
+			{
+				name = "RedArrow.glyphsReporter";
+				url = "https://github.com/jenskutilek/RedArrow-Glyphs";
+				description = "Now Glyphs users can also have red arrows!\nThis plugin points at possible outline errors, like FontAudit in FontLab Studio. This version only works in Glyphs 2.2 and newer. When the plugin is active, red arrows will point to possible mistakes in your outlines.";
+				screenshot = "https://github.com/jenskutilek/RedArrow-Glyphs/raw/glyphs2/screenshot.png";
+			},
 		);
 	};
 }
