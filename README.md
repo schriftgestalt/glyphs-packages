@@ -17,6 +17,10 @@ Repository to collect all available plugins for Glyphs.
 - maxVersion: for the last version of Glyphs that can run the plugin. That can be used for older versions of the plugin. 
 
 
+### How to add your own plugins
+
+To add your own plugin, fork this repository, add your plugin to the `packages.plist` and send a pull request.
+
 ### Credits
 
 The plugin is based on the Xcode-plugin manager [Alcatras](http://alcatraz.io).
