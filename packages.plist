@@ -5,13 +5,13 @@
 				name = "Shadow.glyphsFilter";
 				url = "https://github.com/mekkablue/Shadow";
 				description = "This is a plugin for the Glyphs font editor by Georg Seifert. It turns your glyphs into shadowed versions of themselves. After installation, it will add the menu item Filter > Shadow. You can set a keyboard shortcut in System Preferences.";
-				screenshot = "https://github.com/mekkablue/Shadow/raw/master/Shadow.png";
+				screenshot = "https://raw.githubusercontent.com/mekkablue/Shadow/raw/master/Shadow.png";
 			},
 			{
 				name = "ShowItalic.glyphsReporter";
 				url = "https://github.com/mekkablue/ShowItalic";
 				description = "Displays the italic (or upright) counterpart of the current glyph in Edit view, given that both the Upright and Italic fonts are opened in Glyphs, and given that the other font contains a glyph with the same name. It is useful for stepping through the glyphs and checking if there is an undesired deviation, e.g., a different diacritic height or different descender depth.";
-				screenshot = "https://github.com/mekkablue/ShowItalic/raw/master/ShowItalic.png";
+				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowItalic/raw/master/ShowItalic.png";
 			},
 			{
 				name = "SmartPlumblines.glyphsReporter";
@@ -35,61 +35,61 @@
 				name = "ShowTopsAndBottoms.glyphsReporter";
 				url = "https://github.com/mekkablue/ShowTopsAndBottoms";
 				description = "*View > Show Tops And Bottoms* displays the bounding box tops and bottoms for each glyph in the Edit view, and marks them red if they are not inside an alignment zone.";
-				screenshot = "https://github.com/mekkablue/ShowTopsAndBottoms/blob/master/ShowTopsAndBottoms.png";
+				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowTopsAndBottoms/master/ShowTopsAndBottoms.png";
 			},
 			{
 				name = "ShowOffsetCurveParameterPreview.glyphsReporter";
 				url = "https://github.com/mekkablue/ShowOffsetCurveParameterPreview";
 				description = "*View > Show Offset Curve Parameter Preview* calculates the *GlyphsFilterOffsetCurve* parameters in active instances for the given glyph and draws those instances behind your paths. It quietly adds extremum and inflection nodes to your preview outlines. But it does not give you a full preview of the final instance, because it does not show the effect of any other parameters. It is focused on helping you spot path offset problems.";
-				screenshot = "https://github.com/mekkablue/ShowOffsetCurveParameterPreview/blob/master/OffsetPreview.png";
+				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowOffsetCurveParameterPreview/master/OffsetPreview.png";
 			},
 			{
 				name = "ShowInterpolation.glyphsReporter";
 				url = "https://github.com/mekkablue/ShowInterpolations";
 				description = "*View > Show Interpolations* calculates all active instances for the given glyph and draws them behind your paths.";
-				screenshot = "https://github.com/mekkablue/ShowInterpolations/blob/master/ShowInterpolations.png";
+				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowInterpolations/master/ShowInterpolations.png";
 			},
 			{
 				name = "ShowHandlesEverywhere.glyphsReporter";
 				url = "https://github.com/mekkablue/ShowHandlesEverywhere";
 				description = "*View > Show Handles Everywhere* displays **nodes & handles** for paths **in the background** (if *View > Show Background* is on), **on other layers** (if the layer is set to visible) as well as **in inactive glyphs** surrounding the current glyph (if *View > Fill Preview* is off).";
-				screenshot = "https://github.com/mekkablue/ShowHandlesEverywhere/blob/master/ShowHandlesEverywhere.png";
+				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowHandlesEverywhere/master/ShowHandlesEverywhere.png";
 			},
 			{
 				name = "ShowFilledPreview.glyphsReporter";
 				url = "https://github.com/mekkablue/ShowFilledPreview";
 				description = "*View > Show Filled Preview* fills open paths with a dark gray color even while you are still drawing.";
-				screenshot = "https://github.com/mekkablue/ShowFilledPreview/blob/master/ShowFilledPreview.png";
+				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowFilledPreview/master/ShowFilledPreview.png";
 			},
 			{
 				name = "ShowExportStatus.glyphsReporter";
 				url = "https://github.com/mekkablue/ShowExportStatus";
 				description = "*View Show Export Status* displays a red cross over non-exporting glyphs in Edit View.";
-				screenshot = "https://github.com/mekkablue/ShowExportStatus/blob/master/ShowExportStatus.png";
+				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowExportStatus/master/ShowExportStatus.png";
 			},
 			{
 				name = "ShowDistanceBetweenTwoPoints.glyphsReporter";
 				url = "https://github.com/mekkablue/ShowDistanceBetweenTwoPoints";
 				description = "*View > Show Distance Between Two Points* displays the distance between two selected nodes when exactly two points are selected, ignoring intersections in between.";
-				screenshot = "https://github.com/mekkablue/ShowDistanceBetweenTwoPoints/blob/master/ShowDistanceBetweenTwoPoints.png";
+				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowDistanceBetweenTwoPoints/master/ShowDistanceBetweenTwoPoints.png";
 			},
 			{
 				name = "ShowCoordinatesOfSelectedNodes.glyphsReporter";
 				url = "https://github.com/mekkablue/ShowCoordinatesOfSelectedNodes";
 				description = "*View > Show Coordinates of Selected Nodes* displays coordinates for selected on-curve nodes, as well as length and angle of the surrounding handles and line segments.";
-				screenshot = "https://github.com/mekkablue/ShowCoordinatesOfSelectedNodes/blob/master/ShowCoordinatesOfSelectedNodes.png";
+				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowCoordinatesOfSelectedNodes/master/ShowCoordinatesOfSelectedNodes.png";
 			},
 			{
 				name = "ShowComponentOrder.glyphsReporter";
 				url = "https://github.com/mekkablue/ShowComponentOrder";
 				description = "*View > Show Component Order* displays components in different colors depending on the order of the component. This way, you can step through your component-based glyphs (fn-arrows or Home/End on large keyboards) and quickly spot an order mistake.";
-				screenshot = "https://github.com/mekkablue/ShowComponentOrder/blob/master/ShowComponentOrder.png";
+				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowComponentOrder/master/ShowComponentOrder.png";
 			},
 			{
 				name = "ShowAngledHandles.glyphsReporter";
 				url = "https://github.com/mekkablue/ShowAngledHandles";
 				description = "*View > Show Angled Handles* highlights BCPs (‘handles’) which are not horizontal or vertical, quite-but-not-completely-straight line segments, duplicate paths, crossed handles, and zero handles.";
-				screenshot = "https://github.com/mekkablue/ShowAngledHandles/blob/master/ShowAngledHandles.png";
+				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowAngledHandles/master/ShowAngledHandles.png";
 			},
 			{
 				name = "Retractor.glyphsFilter";
