@@ -4,14 +4,14 @@
 			{
 				name = "Shadow.glyphsFilter";
 				url = "https://github.com/mekkablue/Shadow";
-				description = "This is a plugin for the Glyphs font editor by Georg Seifert. It turns your glyphs into shadowed versions of themselves. After installation, it will add the menu item Filter > Shadow. You can set a keyboard shortcut in System Preferences.";
-				screenshot = "https://raw.githubusercontent.com/mekkablue/Shadow/raw/master/Shadow.png";
+				description = "*Filter > Shadow* turns your glyphs into shadowed versions of themselves.";
+				screenshot = "https://raw.githubusercontent.com/mekkablue/Shadow/master/Shadow.png";
 			},
 			{
 				name = "ShowItalic.glyphsReporter";
 				url = "https://github.com/mekkablue/ShowItalic";
-				description = "Displays the italic (or upright) counterpart of the current glyph in Edit view, given that both the Upright and Italic fonts are opened in Glyphs, and given that the other font contains a glyph with the same name. It is useful for stepping through the glyphs and checking if there is an undesired deviation, e.g., a different diacritic height or different descender depth.";
-				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowItalic/raw/master/ShowItalic.png";
+				description = "*View > Show Italic* displays the italic (or upright) counterpart of the current glyph in Edit view, given that both the Upright and Italic fonts are opened in Glyphs, and given that the other font contains a glyph with the same name. It is useful for stepping through the glyphs and checking if there is an undesired deviation, e.g., a different diacritic height or different descender depth.";
+				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowItalic/master/ShowItalic.png";
 			},
 			{
 				name = "SmartPlumblines.glyphsReporter";
