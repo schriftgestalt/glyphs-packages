@@ -95,6 +95,86 @@
 				name = "Retractor.glyphsFilter";
 				url = "https://github.com/mekkablue/Retractor";
 				description = "*Filter > Retractor* deletes (‘retracts’) all Bézier control points (a.k.a. BCPs, handles), making sure only straight line segments remain. This can be useful if you want to be certain that accidentally added curve segments are removed in designs where this is necessary. Careful: it does *not* respect your node selection. If you want to only retract selected BCPs, simply press Delete.";
+			},
+			{
+				name = "FixZeroHandles.glyphsFilter";
+				url = "https://github.com/mekkablue/FixZeroHandles";
+				description = "*Filter > Fix Zero Handles* analyzes the path structure of selected layers and will rearrange path segments that contain completely retracted handles, a.k.a. ‘zero handles’. Zero handles typically appear in outlines imported from other vector apps, such as Adobe Illustrator. Zero handles are considered bad style, or even an error, and can cause a range of problems, especially when you are trying to convert your outlines to TrueType curves.";
+				screenshot = "https://raw.githubusercontent.com/mekkablue/FixZeroHandles/master/FixZeroHandles.png";
+			},
+			{
+				name = "Disguiser.glyphsFilter";
+				url = "https://github.com/mekkablue/Disguiser";
+				description = "*Filter > Disguiser* replaces the layer with a rectangle covering its bounds. This is useful for sharing files that contain sensitive designs. If invoked on a partial selection, the Disguiser will place a rectangle only over the selected parts.";
+				screenshot = "https://raw.githubusercontent.com/mekkablue/Disguiser/master/Disguiser.png";
+			},
+			{
+				name = "CutAndShake.glyphsFilter";
+				url = "https://github.com/mekkablue/CutAndShake";
+				description = "*Filter > Cut and Shake* exercises cuts across selected glyphs, and then both moves and rotates the resulting parts by random amounts, for which the user can specify maximums.";
+				screenshot = "https://raw.githubusercontent.com/mekkablue/CutAndShake/master/CutAndShake.png";
+			},
+			{
+				name = "BroadNibber.glyphsFilter";
+				url = "https://github.com/mekkablue/BroadNibber";
+				description = "*Filter > Broad Nibber* turns monolines of all selected glyphs into broad-nib strokes.";
+				screenshot = "https://raw.githubusercontent.com/mekkablue/BroadNibber/master/BroadNibber.png";
+			},
+			{
+				name = "InsertInflections.glyphsFilter";
+				url = "https://github.com/mekkablue/InsertInflections";
+				description = "*Filter > Insert Inflections* inserts nodes on all inflections of all selected glyphs. This is useful for monoline workflows, where inflected paths need to be expanded to a closed stroke; and for conversion into TrueType outlines.";
+				screenshot = "https://raw.githubusercontent.com/mekkablue/InsertInflections/master/InsertInflections.png";
+			},
+			{
+				name = "Inverter.glyphsFilter";
+				url = "https://github.com/mekkablue/Inverter";
+				description = "*Filter > Inverter* provides a GUI for inverting glyphs. It puts an enclosing rectangle around your glyphs, slanted to the italic angle. You can set the top and bottom edge, as well as its overlap beyond its sidebearings.";
+				screenshot = "https://raw.githubusercontent.com/mekkablue/Inverter/master/Inverter.png";
+			},
+			{
+				name = "LayerGeek.glyphsFilter";
+				url = "https://github.com/mekkablue/LayerGeek";
+				description = '*Filter > Layer Geek* provides a GUI for batch-executing Python and PyObjC methods on selected layers. For an overview of available layer methods, type `help(GSLayer)` and press the *Run* button in the Macro Window. You can run a series of methods if you concatenate them with semicolons. Its true power, however, lies in its use as Custom Parameter:
+
+#### Usage Examples:
+
+Here are some values and what they do:
+
+    correctPathDirection();removePathAtIndex_(0);correctPathDirection()
+
+This removes the outermost path and corrects path direction.
+
+    makeFirstComponent_(Layer.componentAtIndex_(1))
+
+This takes the second component and makes it the first one. You can use `Layer` for a nested reference to the Layer object.
+
+    removeComponentAtIndex_(Layer.componentCount()-1)
+
+Removes the last component.
+
+    addExtremePoints();cleanUpPaths();
+
+Adds extremes and cleans up paths (like *Layer > Tidy up path*).
+
+    removeAnchorWithName_("bottom")
+
+Removes bottom anchors.
+
+    setHints_(None);setGuideLines_(None)
+
+Deletes all hints and guidelines.
+
+    addComponent_(GSComponent("B"))
+
+Adds the glyph `B` as a component to the layer.';
+				screenshot = "https://raw.githubusercontent.com/mekkablue/LayerGeek/master/LayerGeek.png";
+			},
+			{
+				name = "Noodler.glyphsFilter";
+				url = "https://github.com/mekkablue/Noodler";
+				description = "*Filter > Noodler* turns monolines of all selected glyphs into noodles.";
+				screenshot = "https://raw.githubusercontent.com/mekkablue/Noodler/master/Noodler.png";
 			}
 		);
 	};
