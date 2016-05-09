@@ -23,13 +23,13 @@
 				name = "RedArrow.glyphsReporter";
 				url = "https://github.com/jenskutilek/RedArrow-Glyphs";
 				description = "Now Glyphs users can also have red arrows!\nThis plugin points at possible outline errors, like FontAudit in FontLab Studio. This version only works in Glyphs 2.2 and newer. When the plugin is active, red arrows will point to possible mistakes in your outlines.";
-				screenshot = "https://github.com/jenskutilek/RedArrow-Glyphs/raw/glyphs2/screenshot.png";
+				screenshot = "https://raw.githubusercontent.com/jenskutilek/RedArrow-Glyphs/glyphs2/screenshot.png";
 			},
 			{
 				name = "DrawBot.glyphsPlugin";
 				url = "https://github.com/schriftgestalt/DrawBotGlyphsPlugin";
 				description = "DrawBot inside Glyphs.\nMake a new drawBot from the File menu > New DrawBot, or open a file with cmd+O. Save or Save As as usual. Run the script by hitting the Run button (or pressing cmd+⏎). Clean the output area by pressing cmd+K.\n\nTo save a drawing as pdf, hit cmd+E (or File > Export..)";
-				screenshot = "https://github.com/schriftgestalt/DrawBotGlyphsPlugin/blob/master/GlyphsLogoDrawBot.png";
+				screenshot = "https://raw.githubusercontent.com/schriftgestalt/DrawBotGlyphsPlugin/master/GlyphsLogoDrawBot.png";
 			},
 			{
 				name = "ShowTopsAndBottoms.glyphsReporter";
