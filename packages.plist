@@ -177,9 +177,9 @@
 			{
 				name = "ShowKerningGroups.glyphsReporter";
 				url = "https://github.com/Mark2Mark/Show-Kerning-Group-Reference";
-				description = "*View > Show * Kerning Groups* Displays all members of the currently acive glyph’s kerning group to either side in minitaure and realtime. Usefull when setting up kerning groups and getting visual feedback right away. If you see elements sticking out of the right group, you know there might be a group member set wrong. Same for th left side. It is somehow related to the built-in feature "Show Group Members" by Georg Seifert, but this one does not need the caret to sit between a certain pair.";
+				description = "*View > Show * Kerning Groups* Displays all members of the currently acive glyph’s kerning group to either side in minitaure and realtime. Usefull when setting up kerning groups and getting visual feedback right away. If you see elements sticking out of the right group, you know there might be a group member set wrong. Same for the left side. It is somehow related to the built-in feature \"Show Group Members\" by Georg Seifert, but this one does not need the caret to sit between a certain pair.";
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Show-Kerning-Group-Reference/12fd9ffaa0447f742dabce60a407ece582e1d6b2/Screenshots/KGR%2001.png?raw=true";
-			}			
+			}
 		);
 	};
 }
