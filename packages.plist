@@ -143,7 +143,43 @@
 				url = "https://github.com/mekkablue/Noodler";
 				description = "*Filter > Noodler* turns monolines of all selected glyphs into noodles.";
 				screenshot = "https://raw.githubusercontent.com/mekkablue/Noodler/master/Noodler.png";
-			}
+			},
+			{
+				name = "ShowRotated.glyphsReporter";
+				url = "https://github.com/Mark2Mark/Show-Rotated";
+				description = "*View >Show * Rotated* It superimposes the current glyph as a rotated copy of itself. Context Menu slider to adjust the rotation angle.";
+				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Glyphsapp-Plugins/Screenshots/ShowRotated/Screenshots/ShowRotated03_Mark-Froemberg.gif";
+			},
+			{
+				name = "ShowSiblings.glyphsReporter";
+				url = "https://github.com/Mark2Mark/Show-Siblings";
+				description = "*View > Show * Siblings* It superimposes a group of predefined glyphs in the background of your letters. This can be both pretty helpful in the beginning of a design as well as at intermediate progress where quick proof overview is needed. The degree of a desired match depends on each design, of course. Current Scripts: Latin, Greek, Cyrillic and »Twins« (glyph alternates like `g.ss01` or `g.alt`.";
+				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Glyphsapp-Plugins/Screenshots/ShowSiblings/Screenshots/screencapDemoFont.gif";
+			},
+			{
+				name = "BlindFold.glyphsReporter";
+				url = "https://github.com/Mark2Mark/Blindfold";
+				description = "*View > Show * Blindfold* Blackens out everything beyond the xHeight (or Cap-Height, option in Context Menu). Useful for Spacing and Kerning because the visible leftover is what matters the most here.";
+				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Glyphsapp-Plugins/11561cf20d110e314943e6294edf47defbdb73bc/Screenshots/UncoverXHeight/UcXh%2001.png?raw=true";
+			},
+			{
+				name = "LabelColor.glyphsReporter";
+				url = "https://github.com/Mark2Mark/Show-Label-Color";
+				description = "*View > Show * Label Color* It displays the Label Color for each glyph in the edit tab. For all glyphs. It also shows the recently introduced layer color (left: glyph color, right: layer color).";
+				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Show-Label-Color/d054d4d05d6f16b2be49f055f2b06b27725b81c8/Screenshots/Show%20Label%20Color%2001.png?raw=true";
+			},
+			{
+				name = "ReporterToggler.glyphsPalette";
+				url = "https://github.com/Mark2Mark/Show-Label-Color";
+				description = "Adds a menu to the Palette, which gives you instant access to all your reporter plugins. Quick’n’easy on/off switching with just a single click.";
+				screenshot = "https://github.com/Mark2Mark/Reporter-Toggler/blob/master/Screenshots/ReporterToggler%2001.png";
+			},
+			{
+				name = "ShowKerningGroups.glyphsReporter";
+				url = "https://github.com/Mark2Mark/Show-Kerning-Group-Reference";
+				description = "*View > Show * Kerning Groups* Displays all members of the currently acive glyph’s kerning group to either side in minitaure and realtime. Usefull when setting up kerning groups and getting visual feedback right away. If you see elements sticking out of the right group, you know there might be a group member set wrong. Same for th left side. It is somehow related to the built-in feature "Show Group Members" by Georg Seifert, but this one does not need the caret to sit between a certain pair.";
+				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Show-Kerning-Group-Reference/12fd9ffaa0447f742dabce60a407ece582e1d6b2/Screenshots/KGR%2001.png?raw=true";
+			}			
 		);
 	};
 }
