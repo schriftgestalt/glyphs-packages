@@ -179,7 +179,33 @@
 				url = "https://github.com/Mark2Mark/Show-Kerning-Group-Reference";
 				description = "*View > Show * Kerning Groups* Displays all members of the currently acive glyph’s kerning group to either side in minitaure and realtime. Usefull when setting up kerning groups and getting visual feedback right away. If you see elements sticking out of the right group, you know there might be a group member set wrong. Same for the left side. It is somehow related to the built-in feature \"Show Group Members\" by Georg Seifert, but this one does not need the caret to sit between a certain pair.";
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Show-Kerning-Group-Reference/12fd9ffaa0447f742dabce60a407ece582e1d6b2/Screenshots/KGR%2001.png?raw=true";
+			},
+			{
+				name = "ShowNextFont.glyphsReporter";
+				url = "https://github.com/guidoferreyra/ShowNextFont";
+				description = "This plugin shows in a light orange colour the same glyph of another opened font. It could be useful for visual comparison of italics with normal styles,or different versions of the same font.";
+				screenshot = "https://raw.githubusercontent.com/guidoferreyra/ShowNextFont/master/screen-nextfont.png";
+			},
+			{
+				name = "ShowAnchorsCompatibility.glyphsReporter";
+				url = "https://github.com/guidoferreyra/ShowAnchorsCompatibility";
+				description = "This plugin is a complementary tool for Show Masters compatibility for those cases where the masters are not compatible because the abscense of wrong naming of an anchor. The plugin displays a red circle behind the anchor that is not present in all masters.";
+				screenshot = "https://raw.githubusercontent.com/guidoferreyra/ShowAnchorsCompatibility/master/screen-anchorscompat.png";
+			},
+			{
+				name = "ShowNextFontAnchors.glyphsReporter";
+				url = "https://github.com/guidoferreyra/ShowNextFontAnchors";
+				description = "This plugin shows in a light orange colour the list of anchors used in the glyph of the next font and in gray colour the list of current font anchors.
+				If anchors names and quantity matches between fonts it display the word "OK" in green. Useful to compare versions of fonts or regular vs italics.";
+				screenshot = "https://raw.githubusercontent.com/guidoferreyra/ShowNextFontAnchors/master/screen-nextfontanchors.png";
+			},
+			{
+				name = "showCoordinates.glyphsReporter";
+				url = "https://github.com/guidoferreyra/showCoordinates";
+				description = "This plugin is similar to the Measurent tool, but it constantly displays the nodes cordinates and the handles's delta values.";
+				screenshot = "https://raw.githubusercontent.com/guidoferreyra/showCoordinates/master/screen-coordinates.png";
 			}
+
 		);
 	};
 }
