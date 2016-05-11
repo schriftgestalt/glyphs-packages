@@ -204,8 +204,12 @@
 				url = "https://github.com/guidoferreyra/showCoordinates";
 				description = "This plugin is similar to the Measurent tool, but it constantly displays the nodes cordinates and the handles's delta values.";
 				screenshot = "https://raw.githubusercontent.com/guidoferreyra/showCoordinates/master/screen-coordinates.png";
+			},
+			{
+				name = "Kernkraft.glyphsPlugin";
+				url = "https://github.com/schriftgestalt/Kernkraft.git";
+				description = "»Kernkraft« & »Kernschmelze« will help you to be easily confronted with all the neccessary pairs your Font provides (no matter how extended the character set is).\n\nBased on the way of kerning by Carrois’ (carrois.com). Code written by Mark Frömberg (@Mark2Mark). Please contact me for any issues or ideas.";
 			}
-
 		);
 	};
 }
