@@ -38,7 +38,7 @@
 				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowTopsAndBottoms/master/ShowTopsAndBottoms.png";
 			},
 			{
-				name = "ShowOffsetCurveParameterPreview.glyphsReporter";
+				name = "OffsetPreview.glyphsReporter";
 				url = "https://github.com/mekkablue/ShowOffsetCurveParameterPreview";
 				description = "*View > Show Offset Curve Parameter Preview* calculates the *GlyphsFilterOffsetCurve* parameters in active instances for the given glyph and draws those instances behind your paths. It quietly adds extremum and inflection nodes to your preview outlines. But it does not give you a full preview of the final instance, because it does not show the effect of any other parameters. It is focused on helping you spot path offset problems.";
 				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowOffsetCurveParameterPreview/master/OffsetPreview.png";
@@ -170,7 +170,7 @@
 			},
 			{
 				name = "ReporterToggler.glyphsPalette";
-				url = "https://github.com/Mark2Mark/Reporter-Togglerr";
+				url = "https://github.com/Mark2Mark/Reporter-Toggler";
 				description = "Adds a menu to the Palette, which gives you instant access to all your reporter plugins. Quick’n’easy on/off switching with just a single click.";
 				screenshot = "https://github.com/Mark2Mark/Reporter-Toggler/blob/master/Screenshots/ReporterToggler%2001.png";
 			},
