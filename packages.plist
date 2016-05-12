@@ -195,14 +195,13 @@
 			{
 				name = "ShowNextFontAnchors.glyphsReporter";
 				url = "https://github.com/guidoferreyra/ShowNextFontAnchors";
-				description = "This plugin shows in a light orange colour the list of anchors used in the glyph of the next font and in gray colour the list of current font anchors.
-				If anchors names and quantity matches between fonts it display the word \"OK\" in green. Useful to compare versions of fonts or regular vs italics.";
+				description = "This plugin shows in a light orange colour the list of anchors used in the glyph of the next font and in gray colour the list of current font anchors.\nIf anchors names and quantity matches between fonts it display the word \"OK\" in green. Useful to compare versions of fonts or regular vs italics.";
 				screenshot = "https://raw.githubusercontent.com/guidoferreyra/ShowNextFontAnchors/master/screen-nextfontanchors.png";
 			},
 			{
 				name = "showCoordinates.glyphsReporter";
 				url = "https://github.com/guidoferreyra/showCoordinates";
-				description = "This plugin is similar to the Measurent tool, but it constantly displays the nodes cordinates and the handles's delta values.";
+				description = "This plugin is similar to the Measurement tool, but it constantly displays the nodes cordinates and the handles' delta values.";
 				screenshot = "https://raw.githubusercontent.com/guidoferreyra/showCoordinates/master/screen-coordinates.png";
 			},
 			{
