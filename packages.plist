@@ -99,7 +99,7 @@
 			{
 				name = "FixZeroHandles.glyphsFilter";
 				url = "https://github.com/mekkablue/FixZeroHandles";
-				description = "*Filter > Fix Zero Handles* analyzes the path structure of selected layers and will rearrange path segments that contain completely retracted handles, a.k.a. ‘zero handles’. Zero handles typically appear in outlines imported from other vector apps, such as Adobe Illustrator. Zero handles are considered bad style, or even an error, and can cause a range of problems, especially when you are trying to convert your outlines to TrueType curves.";
+				description = "*Filter > Fix Zero Handles* analyses the path structure of selected layers and will rearrange path segments that contain completely retracted handles, a.k.a. ‘zero handles’. Zero handles typically appear in outlines imported from other vector apps, such as Adobe Illustrator. Zero handles are considered bad style, or even an error, and can cause a range of problems, especially when you are trying to convert your outlines to TrueType curves.";
 				screenshot = "https://raw.githubusercontent.com/mekkablue/FixZeroHandles/master/FixZeroHandles.png";
 			},
 			{
@@ -177,7 +177,7 @@
 			{
 				name = "ShowKerningGroups.glyphsReporter";
 				url = "https://github.com/Mark2Mark/Show-Kerning-Group-Reference";
-				description = "*View > Show * Kerning Groups* Displays all members of the currently acive glyph’s kerning group to either side in minitaure and realtime. Usefull when setting up kerning groups and getting visual feedback right away. If you see elements sticking out of the right group, you know there might be a group member set wrong. Same for the left side. It is somehow related to the built-in feature \"Show Group Members\" by Georg Seifert, but this one does not need the caret to sit between a certain pair.";
+				description = "*View > Show * Kerning Groups* Displays all members of the currently active glyph’s kerning group to either side in miniature and realtime. Useful when setting up kerning groups and getting visual feedback right away. If you see elements sticking out of the right group, you know there might be a group member set wrong. Same for the left side. It is somehow related to the built-in feature \"Show Group Members\" by Georg Seifert, but this one does not need the caret to sit between a certain pair.";
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Show-Kerning-Group-Reference/12fd9ffaa0447f742dabce60a407ece582e1d6b2/Screenshots/KGR%2001.png?raw=true";
 			},
 			{
@@ -189,7 +189,7 @@
 			{
 				name = "ShowAnchorsCompatibility.glyphsReporter";
 				url = "https://github.com/guidoferreyra/ShowAnchorsCompatibility";
-				description = "This plugin is a complementary tool for Show Masters compatibility for those cases where the masters are not compatible because the abscense of wrong naming of an anchor. The plugin displays a red circle behind the anchor that is not present in all masters.";
+				description = "This plugin is a complementary tool for Show Masters compatibility for those cases where the masters are not compatible because the absence of wrong naming of an anchor. The plugin displays a red circle behind the anchor that is not present in all masters.";
 				screenshot = "https://raw.githubusercontent.com/guidoferreyra/ShowAnchorsCompatibility/master/screen-anchorscompat.png";
 			},
 			{
@@ -201,13 +201,13 @@
 			{
 				name = "showCoordinates.glyphsReporter";
 				url = "https://github.com/guidoferreyra/showCoordinates";
-				description = "This plugin is similar to the Measurement tool, but it constantly displays the nodes cordinates and the handles' delta values.";
+				description = "This plugin is similar to the Measurement tool, but it constantly displays the node coordinates and the handles' delta values.";
 				screenshot = "https://raw.githubusercontent.com/guidoferreyra/showCoordinates/master/screen-coordinates.png";
 			},
 			{
 				name = "Kernkraft.glyphsPlugin";
 				url = "https://github.com/schriftgestalt/Kernkraft.git";
-				description = "»Kernkraft« & »Kernschmelze« will help you to be easily confronted with all the neccessary pairs your Font provides (no matter how extended the character set is).\n\nBased on the way of kerning by Carrois’ (carrois.com). Code written by Mark Frömberg (@Mark2Mark). Please contact me for any issues or ideas.";
+				description = "»Kernkraft« & »Kernschmelze« will help you to be easily confronted with all the necessary pairs your Font provides (no matter how extended the character set is).\n\nBased on the way of kerning by Carrois (carrois.com). Code written by Mark Frömberg (@Mark2Mark). Please contact me for any issues or ideas.";
 			}
 		);
 	};
