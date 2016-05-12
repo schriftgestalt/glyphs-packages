@@ -1,6 +1,6 @@
 # Glyphs Packages
 
-Repository for collecting all available plug-ins for Glyphs. What is registered here will end up in *Window > Plugin Manager*.
+Repository for collecting all available plug-ins for Glyphs. What is registered here will end up in *Window > Plugin Manager*. If you have written a plug-in and want to share it with the community, consider adding it to the `.plist` file.
 
 ![Window](https://github.com/schriftgestalt/glyphs-packages/blob/master/images/Screenshot.png?raw=true)
 
