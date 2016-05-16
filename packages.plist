@@ -212,7 +212,7 @@
 			},
 			{
 				name = "ShowStems.glyphsReporter";
-				url = "https://github.com/Mark2Mark/Show-Stems/blob/master/Images/Show%20Stems%2003.png";
+				url = "https://github.com/Mark2Mark/Show-Stems";
 				description = "`View > Show * Stems` If active, it shows a measurement line (even in edit mode) with all distances between the outlines. If any distance matches the saved metrics in the Glyphs Palette, it will highlight in green and tell you which one it matches. The vertical position is attached to the Glyphsapp measurement line and can be moved around the same way.";
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Show-Stems/master/Images/Show%20Stems%2003.png";
 			}
