@@ -16,7 +16,7 @@
 			{
 				name = "SmartPlumblines.glyphsReporter";
 				url = "https://github.com/Mark2Mark/Show-Smart-Plumblines";
-				description = "By default it displays **live guidelines** at the center of each paths’ *red* and components’ *grey* bounding box.\nIf you select anything, it also displays the center of that selection *blue dashed*.\nOne major feature is that the guideline **automatically matches your italic angle**.\nThis is useful for aligning objects by sight. As well as:\n\n- Align multiple paths and/or components\n- Setting up (horizontal) positions of anchors\n- Editing segments while easily keeping italic angle\n- etc.";
+				description = "`View > Show * Smart Plumblines` By default it displays **live guidelines** at the center of each paths’ (red) and components’ (grey) bounding box.\nIf you select anything, it also displays the center of that selection (blue dashed).\nOne major feature is that the guidelines **automatically match your italic angle**.\nThis is useful for aligning objects by sight. As well as:\n\n- Align multiple paths and/or components\n- Setting up horizontal positions of anchors\n- Editing segments while easily keeping italic angle, etc.";
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Glyphsapp-Plugins/Screenshots/Screenshots/SmartPlumblines/SmPlL%2012.png?raw=true";
 			},
 			{
@@ -147,25 +147,25 @@
 			{
 				name = "ShowRotated.glyphsReporter";
 				url = "https://github.com/Mark2Mark/Show-Rotated";
-				description = "*View >Show * Rotated* It superimposes the current glyph as a rotated copy of itself. Context Menu slider to adjust the rotation angle.";
+				description = "`View > Show * Rotated` Superimposes the current glyph as a rotated copy of itself. Context Menu slider to adjust the rotation angle.";
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Glyphsapp-Plugins/Screenshots/ShowRotated/Screenshots/ShowRotated03_Mark-Froemberg.gif";
 			},
 			{
 				name = "ShowSiblings.glyphsReporter";
 				url = "https://github.com/Mark2Mark/Show-Siblings";
-				description = "*View > Show * Siblings* It superimposes a group of predefined glyphs in the background of your letters. This can be both pretty helpful in the beginning of a design as well as at intermediate progress where quick proof overview is needed. The degree of a desired match depends on each design, of course. Current Scripts: Latin, Greek, Cyrillic and »Twins« (glyph alternates like `g.ss01` or `g.alt`.";
+				description = "`View > Show * Siblings` Superimposes a group of predefined glyphs in the background of your letters. This can be both pretty helpful in the beginning of a design as well as at intermediate progress where quick proof overview is needed. The degree of a desired match depends on each design, of course. Current Scripts: Latin, Greek, Cyrillic and »Twins« (glyph alternates like  `g.ss01` or  `g.alt`.";
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Glyphsapp-Plugins/Screenshots/ShowSiblings/Screenshots/screencapDemoFont.gif";
 			},
 			{
 				name = "BlindFold.glyphsReporter";
 				url = "https://github.com/Mark2Mark/Blindfold";
-				description = "*View > Show * Blindfold* Blackens out everything beyond the xHeight (or Cap-Height, option in Context Menu). Useful for Spacing and Kerning because the visible leftover is what matters the most here.";
+				description = "`View > Show * Blindfold` Blackens out everything beyond the xHeight (or Cap-Height --> option in context menu). Useful for Spacing and Kerning because the visible leftover is what matters the most here.";
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Glyphsapp-Plugins/11561cf20d110e314943e6294edf47defbdb73bc/Screenshots/UncoverXHeight/UcXh%2001.png?raw=true";
 			},
 			{
 				name = "LabelColor.glyphsReporter";
 				url = "https://github.com/Mark2Mark/Show-Label-Color";
-				description = "*View > Show * Label Color* It displays the Label Color for each glyph in the edit tab. For all glyphs. It also shows the recently introduced layer color (left: glyph color, right: layer color).";
+				description = "`View > Show * Label Color` Displays each glyphs’s Label Color in the edit tab. Full width or left: glyph color, right: layer color.";
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Show-Label-Color/d054d4d05d6f16b2be49f055f2b06b27725b81c8/Screenshots/Show%20Label%20Color%2001.png?raw=true";
 			},
 			{
@@ -177,7 +177,7 @@
 			{
 				name = "ShowKerningGroups.glyphsReporter";
 				url = "https://github.com/Mark2Mark/Show-Kerning-Group-Reference";
-				description = "*View > Show * Kerning Groups* Displays all members of the currently active glyph’s kerning group to either side in miniature and realtime. Useful when setting up kerning groups and getting visual feedback right away. If you see elements sticking out of the right group, you know there might be a group member set wrong. Same for the left side. It is somehow related to the built-in feature \"Show Group Members\" by Georg Seifert, but this one does not need the caret to sit between a certain pair.";
+				description = "`View > Show * Kerning Groups` Displays all members of the currently active glyph’s kerning group to either side in miniature and realtime. Useful when setting up kerning groups and getting visual feedback right away. If you see elements sticking out of the right group, you know there might be a group member set wrong. Same for the left side. It is somehow related to the built-in feature \"Show Group Members\" by Georg Seifert, but this one does not need the caret to sit between a certain pair.";
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Show-Kerning-Group-Reference/12fd9ffaa0447f742dabce60a407ece582e1d6b2/Screenshots/KGR%2001.png?raw=true";
 			},
 			{
@@ -207,7 +207,7 @@
 			{
 				name = "Kernkraft.glyphsPlugin";
 				url = "https://github.com/carrois/Kernkraft";
-				description = "»Kernkraft« & »Kernschmelze« will help you to be easily confronted with all the necessary pairs your Font provides (no matter how extended the character set is).\n\nBased on the way of kerning by Carrois (carrois.com). Code written by Mark Frömberg (@Mark2Mark). Please contact me for any issues or ideas.";
+				description = "»Kernkraft« & »Kernschmelze« will help you to be easily confronted with all the necessary pairs your Font provides (no matter how extended the character set is).\n\nBased on the way of kerning by Carrois (carrois.com).\nCode written by Mark Frömberg (@Mark2Mark).\nPlease contact me for any issues or ideas.";
 				screenshot = "https://raw.githubusercontent.com/carrois/Kernkraft/master/Kernkraft%2001.png";
 			}
 		);
