@@ -153,7 +153,7 @@
 			{
 				name = "ShowSiblings.glyphsReporter";
 				url = "https://github.com/Mark2Mark/Show-Siblings";
-				description = "`View > Show * Siblings` Superimposes a group of predefined glyphs in the background of your letters. This can be both pretty helpful in the beginning of a design as well as at intermediate progress where quick proof overview is needed. The degree of a desired match depends on each design, of course. Current Scripts: Latin, Greek, Cyrillic and »Twins« (glyph alternates like  `g.ss01` or  `g.alt`.";
+				description = "`View > Show * Siblings` Superimposes a group of predefined glyphs in the background of your letters. This can be both pretty helpful in the beginning of a design as well as at intermediate progress where quick proof overview is needed. The degree of a desired match depends on each design, of course. Current Scripts: Latin, Greek, Cyrillic and »Twins« (glyph alternates like  *g.ss01* or  *g.alt.*";
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Glyphsapp-Plugins/Screenshots/ShowSiblings/Screenshots/screencapDemoFont.gif";
 			},
 			{
