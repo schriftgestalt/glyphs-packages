@@ -215,6 +215,12 @@
 				url = "https://github.com/Mark2Mark/Show-Stems";
 				description = "`View > Show * Stems` If active, it shows a measurement line (even in edit mode) with all distances between the outlines. If any distance matches the saved metrics in the Glyphs Palette, it will highlight in green and tell you which one it matches. The vertical position is attached to the Glyphsapp measurement line and can be moved around the same way.\nShortcut: `cmd+opt+ctrl+s` (like **S**tems)";
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Show-Stems/master/Images/Show%20Stems%2003.png";
+			},
+			{
+				name = "Erode.glyphsFilter";
+				url = "https://github.com/simoncozens/Erode";
+				description = "*Filter > Erode* This simulates wear and tear on your glyphs by rubbing away random bits of the outlines, especially around corners.";
+				screenshot = "https://raw.githubusercontent.com/simoncozens/Erode/master/Erode.png";
 			}
 		);
 	};
