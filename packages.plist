@@ -227,7 +227,13 @@
 				url = "https://github.com/impallari/Unitizer";
 				description = "*View > Show Unitizer* helpful for working in Unitized fonts. It display unit guidelines in the background (correspondong to a value that you can configure at will) of the current glyph in Edit view.";
 				screenshot = "https://raw.githubusercontent.com/impallari/Unitizer/master/unitizer01.png";
-			}				
+			},
+			{
+				name = "ShowNodeIndexes.glyphsReporter";
+				url = "https://github.com/mekkablue/ShowNodeIndexes";
+				description = "*View > Show Node Indexes* shows index numbers for the current glyph in Edit view. Toggle display of BCP indexes via context menu.";
+				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowNodeIndexes/master/ShowNodeIndexes.png";
+			}
 		);
 	};
 }
