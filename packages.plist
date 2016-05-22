@@ -221,7 +221,13 @@
 				url = "https://github.com/simoncozens/Erode";
 				description = "*Filter > Erode* This simulates wear and tear on your glyphs by rubbing away random bits of the outlines, especially around corners.";
 				screenshot = "https://raw.githubusercontent.com/simoncozens/Erode/master/Erode.png";
-			}
+			},
+			{
+				name = "Unitizer.glyphsReporter";
+				url = "https://github.com/impallari/Unitizer";
+				description = "*View > Show Unitizer* helpful for working in Unitized fonts. It display unit guidelines in the background (correspondong to a value that you can configure at will) of the current glyph in Edit view.";
+				screenshot = "https://raw.githubusercontent.com/impallari/Unitizer/master/unitizer01.png";
+			}				
 		);
 	};
 }
