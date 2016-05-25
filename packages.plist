@@ -207,7 +207,7 @@
 			{
 				name = "Kernkraft.glyphsPlugin";
 				url = "https://github.com/carrois/Kernkraft";
-				description = "»Kernkraft« & »Kernschmelze« will help you to be easily confronted with all the necessary pairs your Font provides (no matter how extended the character set is).\n\nProgrammed by Mark Frömberg (@Mark2Mark).\nPlease contact me for any issues or ideas.\nBased on the way of kerning by Carrois (carrois.com).\\nnNavigate in UI with keys ←,  → and ⏎. Save notes for later.";
+				description = "»Kernkraft« & »Kernschmelze« will help you to be easily confronted with all the necessary pairs your Font provides (no matter how extended the character set is).\n\nProgrammed by Mark Frömberg (@Mark2Mark).\nPlease contact me for any issues or ideas.\nBased on the way of kerning by Carrois (carrois.com).\n\nNavigate in UI with keys ←,  → and ⏎. Save notes for later.";
 				screenshot = "https://raw.githubusercontent.com/carrois/Kernkraft/master/Kernkraft%2001.png";
 			},
 			{
