@@ -2,6 +2,12 @@
 	packages = {
 		plugins = (
 			{
+				name = "GuageTool.glyphsTool";
+				url = "https://github.com/weiweihuanghuang/GaugeTool/tree/master";
+				description = "The tool shows an oval for a mouse cursor which can be used to gauge the width of strokes.";
+				screenshot = "https://raw.githubusercontent.com/weiweihuanghuang/GaugeTool/master/images/gaugetool.gif";
+			},
+			{
 				name = "Shadow.glyphsFilter";
 				url = "https://github.com/mekkablue/Shadow";
 				description = "*Filter > Shadow* turns your glyphs into shadowed versions of themselves.";
