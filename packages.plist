@@ -3,7 +3,7 @@
 		plugins = (
 			{
 				name = "GuageTool.glyphsTool";
-				url = "https://github.com/weiweihuanghuang/GaugeTool/tree/master";
+				url = "https://github.com/weiweihuanghuang/GaugeTool";
 				description = "The tool shows an oval for a mouse cursor which can be used to gauge the width of strokes.";
 				screenshot = "https://raw.githubusercontent.com/weiweihuanghuang/GaugeTool/master/images/gaugetool.gif";
 			},
