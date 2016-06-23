@@ -239,6 +239,12 @@
 				url = "https://github.com/mekkablue/ShowNodeIndexes";
 				description = "*View > Show Node Indexes* shows index numbers for the current glyph in Edit view. Toggle display of BCP indexes via context menu.";
 				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowNodeIndexes/master/ShowNodeIndexes.png";
+			},
+			{
+				name = "DeleteSmallPaths.glyphsFilter";
+				url = "https://github.com/mekkablue/DeleteSmallPaths";
+				description = "*Filter > Delete Small Paths* deletes all paths smaller than a threshold value in square units. It can be useful for cleaning up glyphs from vector debris.";
+				screenshot = "https://raw.githubusercontent.com/mekkablue/DeleteSmallPaths/master/DeleteSmallPaths.png";
 			}
 		);
 	};
