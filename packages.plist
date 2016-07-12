@@ -245,6 +245,18 @@
 				url = "https://github.com/mekkablue/DeleteSmallPaths";
 				description = "*Filter > Delete Small Paths* deletes all paths smaller than a threshold value in square units. It can be useful for cleaning up glyphs from vector debris.";
 				screenshot = "https://raw.githubusercontent.com/mekkablue/DeleteSmallPaths/master/DeleteSmallPaths.png";
+			},
+			{
+				name = "RekhaViewer.glyphsReporter";
+				url = "https://github.com/mekkablue/Rekha";
+				description = "*View > Show Rekha* shows a Rekha line in Bengali, Devanagari and Gumurkhi letters. It takes its values from a custom parameter in *File > Font Info > Masters* called *Rekha*, with comma-seaparated values for height, thickness and overshoot. If a *rekha* anchor is present in the glyph, it will use it as the left edge of the Rekha line.";
+				screenshot = "https://raw.githubusercontent.com/mekkablue/Rekha/master/RekhaViewer.png";
+			},
+			{
+				name = "RekhaMaker.glyphsFilter";
+				url = "https://github.com/mekkablue/Rekha";
+				description = "*Filter > RekhaMaker* inserts a Rekha line in Bengali, Devanagari and Gumurkhi letters. Supply values for height, thickness and overshoot, and press the *Insert* button. If a *rekha* anchor is present in the glyph, it will use it as the left edge of the Rekha line.";
+				screenshot = "https://raw.githubusercontent.com/mekkablue/Rekha/master/RekhaMaker.png";
 			}
 		);
 	};
