@@ -262,6 +262,13 @@
 				name = "RemoveKerningExceptions.glyphsFilter";
 				url = "https://github.com/mekkablue/RemoveKerningExceptions";
 				description = "*Filter > Remove Kerning Exceptions* removes all kerning exception of selected glyphs in the current master, leaving group kerning intact. Its true power lies in its application as custom parameter. This can be useful in situations where you change the shape of a letter with a *Rename Glyphs* parameter, and its kerning exceptions do not apply anymore.";
+			},
+			{
+				name = "Heatmap.glyphsReporter";
+				url = "https://github.com/simoncozens/Heatmap";
+				branch = "binary";
+				description = "*View > Show Heatmap* visualizes the thickness of glyph stems, helping you to create even and consistent curves.";
+				screenshot = "https://raw.githubusercontent.com/simoncozens/Heatmap/master/heatmap.png";
 			}
 		);
 	};
