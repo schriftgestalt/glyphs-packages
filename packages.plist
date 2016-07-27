@@ -2,6 +2,12 @@
 	packages = {
 		plugins = (
 			{
+				name = "GlobalGlyph.glyphsReporter";
+				url = "https://github.com/Nevu/Show-Global-Glyph";
+				description = "Displays the glyph named *_global* in the background of other glyphs. This can give an alternative to global guidelines. See GitHub for some craft tips";
+				screenshot = "https://raw.githubusercontent.com/Nevu/Show-Global-Glyph/master/ShowGlobalGlyph.png";
+			},
+			{
 				name = "GaugeTool.glyphsTool";
 				url = "https://github.com/weiweihuanghuang/GaugeTool";
 				description = "The tool shows an oval for a mouse cursor which can be used to gauge the width of strokes.";
