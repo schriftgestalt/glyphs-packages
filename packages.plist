@@ -275,6 +275,12 @@
 				branch = "binary";
 				description = "*View > Show Heatmap* visualizes the thickness of glyph stems, helping you to create even and consistent curves.";
 				screenshot = "https://raw.githubusercontent.com/simoncozens/Heatmap/master/heatmap.png";
+			},
+			{
+    				name = "StemThickness.glyphsFilter";
+    				url = "https://github.com/RafalBuchner/StemThickness";
+    				description = "The tool shows how thick is the stem in a pointed place.";
+    				screenshot = "https://raw.githubusercontent.com/RafalBuchner/StemThickness/master/images/ilu_StemThickness.png";
 			}
 		);
 	};
