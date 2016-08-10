@@ -277,10 +277,16 @@
 				screenshot = "https://raw.githubusercontent.com/simoncozens/Heatmap/master/heatmap.png";
 			},
 			{
-    				name = "StemThickness.glyphsFilter";
-    				url = "https://github.com/RafalBuchner/StemThickness";
-    				description = "The tool shows how thick is the stem in a pointed place.";
-    				screenshot = "https://raw.githubusercontent.com/RafalBuchner/StemThickness/master/images/ilu_StemThickness.png";
+				name = "StemThickness.glyphsFilter";
+				url = "https://github.com/RafalBuchner/StemThickness";
+				description = "The tool shows how thick is the stem in a pointed place.";
+				screenshot = "https://raw.githubusercontent.com/RafalBuchner/StemThickness/master/images/ilu_StemThickness.png";
+			},
+			{
+				name = "GlyphNote.glyphsPalette";
+				url = "https://github.com/mekkablue/NotePalettes";
+				description = "Adds a Glyph Note Palette to your Palette (Cmd-Opt-P), displaying the note for the currently selected glyph.";
+				screenshot = "https://raw.githubusercontent.com/mekkablue/NotePalettes/master/NotePlugins.png";
 			}
 		);
 	};
