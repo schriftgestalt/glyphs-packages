@@ -255,7 +255,7 @@
 			{
 				name = "RekhaViewer.glyphsReporter";
 				url = "https://github.com/mekkablue/Rekha";
-				description = "*View > Show Rekha* shows a Rekha line in Bengali, Devanagari and Gumurkhi letters. It takes its values from a custom parameter in *File > Font Info > Masters* called *Rekha*, with comma-seaparated values for height, thickness and overshoot. If a *rekha* anchor is present in the glyph, it will use it as the left edge of the Rekha line.";
+				description = "*View > Show Rekha* shows a Rekha line in Bengali, Devanagari and Gumurkhi letters. It takes its values from a custom parameter in *File > Font Info > Masters* called *Rekha*, with comma-separated values for height, thickness and overshoot. If a *rekha* anchor is present in the glyph, it will use it as the left edge of the Rekha line.";
 				screenshot = "https://raw.githubusercontent.com/mekkablue/Rekha/master/RekhaViewer.png";
 			},
 			{
@@ -287,6 +287,12 @@
 				url = "https://github.com/mekkablue/NotePalettes";
 				description = "Adds a Glyph Note Palette to your Palette (Cmd-Opt-P), displaying the note for the currently selected glyph.";
 				screenshot = "https://raw.githubusercontent.com/mekkablue/NotePalettes/master/NotePlugins.png";
+			},
+			{
+				name = "MakeCorner.glyphsFilter";
+				url = "https://github.com/mekkablue/MakeCorner";
+				description = "*Filter > Make Corner* reverses the functionality of the Round Corner filter, and turns curves into corners again.";
+				screenshot = "https://raw.githubusercontent.com/mekkablue/MakeCorner/master/MakeCorner.png";
 			}
 		);
 	};
