@@ -293,6 +293,12 @@
 				url = "https://github.com/mekkablue/MakeCorner";
 				description = "*Filter > Make Corner* reverses the functionality of the Round Corner filter, and turns curves into corners again.";
 				screenshot = "https://raw.githubusercontent.com/mekkablue/MakeCorner/master/MakeCorner.png";
+			},
+			{
+				name = "ShowUnderline.glyphsPlugin";
+				url = "https://github.com/schriftgestalt/ShowUnderline";
+				description = "Installs an icon into the bottom toolbar and draws a preview of the underline according to the parameters *underlineThickness* and *underlinePosition* in *File > Font Info > Masters*.";
+				screenshot = "https://raw.githubusercontent.com/schriftgestalt/ShowUnderline/master/Screenshot.png";
 			}
 		);
 	};
