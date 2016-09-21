@@ -299,6 +299,12 @@
 				url = "https://github.com/schriftgestalt/ShowUnderline";
 				description = "Installs an icon into the bottom toolbar and draws a preview of the underline according to the parameters *underlineThickness* and *underlinePosition* in *File > Font Info > Masters*.";
 				screenshot = "https://raw.githubusercontent.com/schriftgestalt/ShowUnderline/master/Screenshot.png";
+			},
+			{
+				name = "ExtrudeTool.glyphsTool";
+				url = "https://github.com/danielgamage/Extrude-Tool";
+				description = "Tool for extruding selected path segments inwards or outwards. Great for quick, destructive path editing.";
+				screenshot = "https://raw.githubusercontent.com/danielgamage/Extrude-Tool/master/images/screenshot.png";
 			}
 		);
 	};
