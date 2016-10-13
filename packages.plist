@@ -305,6 +305,12 @@
 				url = "https://github.com/danielgamage/Extrude-Tool";
 				description = "Tool for extruding selected path segments inwards or outwards. Great for quick, destructive path editing.";
 				screenshot = "https://raw.githubusercontent.com/danielgamage/Extrude-Tool/master/images/screenshot.png";
+			},
+			{
+				name = "SelectionPalette.glyphsPalette";
+				url = "https://github.com/danielgamage/SelectionPalette";
+				description = "Palette that provides selection commands such as *undo*, *grow*, *shrink*, and a pattern-recognizing *continue*, as well as selection operations to *add*, *remove*, or *select only* elements of a certain type.";
+				screenshot = "https://raw.githubusercontent.com/danielgamage/SelectionPalette/master/Images/screenshot.png";
 			}
 		);
 	};
