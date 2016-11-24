@@ -318,9 +318,9 @@
 				description = "This is a plugin to trace image into editable paths. It uses either the library [porace](http://potrace.sourceforge.net) or [autotrace](http://autotrace.sourceforge.net).";
 			},
 			{
-				name = "SpeedPunk 30-day trial.glyphsTool";
+				name = "Speed Punk 30-day Trial.glyphsTool";
 				url = "https://github.com/yanone/SpeedPunk30DayTrial";
-				description = "Understand and improve your outlines with this curvature comb visualization. More infos at http://yanone.de/software/speedpunk/";
+				description = "Understand and improve your outlines with this curvature comb visualization.\nMore infos at http://yanone.de/software/speedpunk/";
 				screenshot = "https://dl.dropboxusercontent.com/u/5752966/Permanent/Speed%20Punk/GlyphsPluginScreenshot.jpg";
 			}
 		);
