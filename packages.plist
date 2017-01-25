@@ -327,7 +327,7 @@
 				name = "Ligature Caret";
 				url = "https://github.com/FAlthausen/GlyphsApp/tree/master/Plugins/LigatureCaret";
 				description = "Select a 'caret' named anchor to show the cursor position in ligatures as a vertical line.";
-				screenshot = "https://github.com/FAlthausen/GlyphsApp/blob/master/Plugins/LigatureCaret/LigatureCaretScreenshot.png";
+				screenshot = "https://raw.githubusercontent.com/FAlthausen/GlyphsApp/master/Plugins/LigatureCaret/LigatureCaretScreenshot.png";
 			}
 		);
 	};
