@@ -322,7 +322,7 @@
 				url = "https://github.com/yanone/SpeedPunk30DayTrial";
 				description = "Understand and improve your outlines with this curvature comb visualization.\nMore infos at http://yanone.de/software/speedpunk/";
 				screenshot = "https://raw.githubusercontent.com/yanone/SpeedPunk30DayTrial/master/speedpunkglyphs.jpg";
-			}
+			},
 			{
 				name = "Ligature Caret";
 				url = "https://github.com/FAlthausen/GlyphsApp/tree/master/Plugins/LigatureCaret";
