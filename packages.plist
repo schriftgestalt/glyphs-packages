@@ -324,10 +324,10 @@
 				screenshot = "https://raw.githubusercontent.com/yanone/SpeedPunk30DayTrial/master/speedpunkglyphs.jpg";
 			},
 			{
-				name = "Ligature Caret";
-				url = "https://github.com/FAlthausen/GlyphsApp/tree/master/Plugins/LigatureCaret";
-				description = "Select a 'caret' named anchor to show the cursor position in ligatures as a vertical line.";
-				screenshot = "https://raw.githubusercontent.com/FAlthausen/GlyphsApp/master/Plugins/LigatureCaret/LigatureCaretScreenshot.png";
+				name = "LigatureCaret.glyphsReporter";
+				url = "https://github.com/FAlthausen/LigatureCaret";
+				description = "Select a "caret" named anchor to show the cursor position in ligatures as a vertical line. Be aware that most software doesn’t take note of the font’s italic angle.";
+				screenshot = "https://raw.githubusercontent.com/FAlthausen/LigatureCaret/master/LigatureCaretScreenshot.png";
 			}
 		);
 	};
