@@ -328,6 +328,11 @@
 				url = "https://github.com/FAlthausen/LigatureCaret";
 				description = "Select a 'caret' named anchor to show the cursor position in ligatures as a vertical line. Be aware that most software doesn’t take note of the font’s italic angle.";
 				screenshot = "https://raw.githubusercontent.com/FAlthausen/LigatureCaret/master/LigatureCaretScreenshot.png";
+			},
+			{
+				name = "PixelTool.glyphsTool";
+				url = "https://github.com/schriftgestalt/PixelTool";
+				description = "This is a simple pixel drawing tool.\nIt needs a 'pixel' glyph in the font. And it is advised to have set the fonts grid to the size of the pixel.";
 			}
 		);
 	};
