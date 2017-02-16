@@ -333,6 +333,18 @@
 				name = "PixelTool.glyphsTool";
 				url = "https://github.com/schriftgestalt/PixelTool";
 				description = "This is a simple pixel drawing tool.\nIt needs a 'pixel' glyph in the font. And it is advised to have set the fonts grid to the size of the pixel.";
+			},
+			{
+				name = "showNextFontAnchors.glyphsReporter";
+				url = "https://github.com/guidoferreyra/ShowNextFontComponents";
+				description = "Shows in a light orange colour the list of components used in the glyph of the next font and in gray colour the list of current font components. If anchors names and quantity matches between fonts it display the word "OK" in green.";
+				screenshot = "https://raw.githubusercontent.com/guidoferreyra/ShowNextFontComponents/master/screen-nextfontcomponents.png";
+			},
+			{
+				name = "Obfuscator.glyphsFilter";
+				url = "https://github.com/guidoferreyra/ShowNextFontComponents";
+				description = "Replaces glyphs for another one in the font. Useful for replace glyphs in demo version of a font. See full [readme] (https://github.com/guidoferreyra/Obfuscator) for more info on how to use it.";
+				screenshot = "https://raw.githubusercontent.com/guidoferreyra/Obfuscator/master/screen-obfuscator.png";
 			}
 		);
 	};
