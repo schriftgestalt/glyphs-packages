@@ -337,7 +337,7 @@
 			{
 				name = "showNextFontAnchors.glyphsReporter";
 				url = "https://github.com/guidoferreyra/ShowNextFontComponents";
-				description = "Shows in a light orange colour the list of components used in the glyph of the next font and in gray colour the list of current font components. If anchors names and quantity matches between fonts it display the word "OK" in green.";
+				description = "Shows in a light orange colour the list of components used in the glyph of the next font and in gray colour the list of current font components. If anchors names and quantity matches between fonts it display the word \"OK\" in green.";
 				screenshot = "https://raw.githubusercontent.com/guidoferreyra/ShowNextFontComponents/master/screen-nextfontcomponents.png";
 			},
 			{
