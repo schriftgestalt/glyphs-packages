@@ -345,6 +345,12 @@
 				url = "https://github.com/guidoferreyra/Obfuscator";
 				description = "Replaces glyphs for another one in the font. Useful for replace glyphs in demo version of a font. See full [readme] (https://github.com/guidoferreyra/Obfuscator) for more info on how to use it.";
 				screenshot = "https://raw.githubusercontent.com/guidoferreyra/Obfuscator/master/screen-obfuscator.png";
+			},
+			{
+				name = "RotateView.glyphsFilter";
+				url = "https://github.com/aaronbell/RotateView";
+				description = "Allows one to rotate the currently-selected glyph to preview it from multiple angles";
+				screenshot = "https://github.com/aaronbell/RotateView/raw/master/RotateView-1.png";
 			}
 		);
 	};
