@@ -347,7 +347,7 @@
 				screenshot = "https://raw.githubusercontent.com/guidoferreyra/Obfuscator/master/screen-obfuscator.png";
 			},
 			{
-				name = "RotateView.glyphsFilter";
+				name = "RotateView.glyphsPlugin";
 				url = "https://github.com/aaronbell/RotateView";
 				description = "Allows one to rotate the currently-selected glyph to preview it from multiple angles";
 				screenshot = "https://github.com/aaronbell/RotateView/raw/master/RotateView-1.png";
