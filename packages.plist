@@ -355,7 +355,7 @@
 			{
 				name = "ShowCrosshair.glyphsReporter";
 				url = "https://github.com/mekkablue/ShowCrosshair";
-				description = "*View > Show Crosshair* show a mouse crosshair. Use the context menu to toggle between showing the crosshair permanently or only while dragging.";
+				description = "*View > Show Crosshair* displays a crosshair at your mouse coordinates. Use the context menu to toggle between showing the crosshair permanently or only while dragging.";
 				screenshot = "https://github.com/mekkablue/ShowCrosshair/raw/master/ShowCrosshair.png";
 			}
 			
