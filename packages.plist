@@ -351,7 +351,14 @@
 				url = "https://github.com/aaronbell/RotateView";
 				description = "Allows one to rotate the currently-selected glyph to preview it from multiple angles";
 				screenshot = "https://github.com/aaronbell/RotateView/raw/master/RotateView-1.png";
+			},
+			{
+				name = "ShowCrosshair.glyphsReporter";
+				url = "https://github.com/mekkablue/ShowCrosshair";
+				description = "*View > Show Crosshair* show a mouse crosshair. Use the context menu to toggle between showing the crosshair permanently or only while dragging.";
+				screenshot = "https://github.com/mekkablue/ShowCrosshair/raw/master/ShowCrosshair.png";
 			}
+			
 		);
 	};
 }
