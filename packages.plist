@@ -353,6 +353,12 @@
 				screenshot = "https://github.com/aaronbell/RotateView/raw/master/RotateView-1.png";
 			},
 			{
+				name = "ShowAllBackgrounds.glyphsReporter";
+				url = "https://github.com/mekkablue/ShowAllBackgrounds";
+				description = "*View > Show All Backgrounds* displays the background layers of inactive glyphs in Edit view, i.e., all glyphs except the one currently open for editing. It displays paths in a pinkish color, components in a pastel orange. It works best if you disable *View > Fill Preview*.";
+				screenshot = "https://github.com/mekkablue/ShowAllBackgrounds/raw/master/ShowAllBackgrounds.png";
+			},
+			{
 				name = "ShowCrosshair.glyphsReporter";
 				url = "https://github.com/mekkablue/ShowCrosshair";
 				description = "*View > Show Crosshair* displays a crosshair at your mouse coordinates. Use the context menu to toggle between showing the crosshair permanently or only while dragging.";
