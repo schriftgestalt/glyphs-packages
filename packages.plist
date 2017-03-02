@@ -60,6 +60,7 @@
 				url = "https://github.com/mekkablue/ShowInterpolations";
 				description = "*View > Show Interpolations* calculates all active instances for the given glyph and draws them behind your paths.";
 				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowInterpolations/master/ShowInterpolations.png";
+				minVersion = 830;
 			},
 			{
 				name = "ShowHandlesEverywhere.glyphsReporter";
