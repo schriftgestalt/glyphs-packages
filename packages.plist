@@ -370,6 +370,12 @@
 				url = "https://github.com/mekkablue/ShowVerticalMetrics";
 				description = "*View > Show Vertical Metrics* displays vertical metric parameters set in *File > Font Info > Masters.*";
 				screenshot = "https://github.com/mekkablue/ShowVerticalMetrics/raw/master/ShowVerticalMetrics.png";
+			},
+			{
+				name = "Space Bar 30-day Trial.glyphsReporter";
+				url = "https://github.com/yanone/SpaceBar30DayTrial";
+				description = "Take control of spacing values across your masters and instances. Public beta period.\nMore infos at http://yanone.de/software/spacebar/";
+				screenshot = "https://raw.githubusercontent.com/yanone/SpaceBar30DayTrial/master/spacebarglyphs.jpg";
 			}
 		);
 	};
