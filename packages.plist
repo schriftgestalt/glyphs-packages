@@ -364,8 +364,13 @@
 				url = "https://github.com/mekkablue/ShowCrosshair";
 				description = "*View > Show Crosshair* displays a crosshair at your mouse coordinates. Use the context menu to toggle between showing the crosshair permanently or only while dragging.";
 				screenshot = "https://github.com/mekkablue/ShowCrosshair/raw/master/ShowCrosshair.png";
+			},
+			{
+				name = "ShowVerticalMetrics.glyphsReporter";
+				url = "https://github.com/mekkablue/ShowVerticalMetrics";
+				description = "*View > Show Vertical Metrics* displays vertical metric parameters set in *File > Font Info > Masters.*";
+				screenshot = "https://github.com/mekkablue/ShowVerticalMetrics/raw/master/ShowVerticalMetrics.png";
 			}
-			
 		);
 	};
 }
