@@ -148,7 +148,7 @@
 			{
 				name = "LayerGeek.glyphsFilter";
 				url = "https://github.com/mekkablue/LayerGeek";
-				description = '*Filter > Layer Geek* provides a GUI for batch-executing Python and PyObjC methods on selected layers. For an overview of available layer methods, type `help(GSLayer)` and press the *Run* button in the Macro Window. You can run a series of methods if you concatenate them with semicolons. Its true power, however, lies in its use as Custom Parameter:\n#### Usage Examples:\n\nHere are some values and what they do:\n\n    correctPathDirection();removePathAtIndex_(0);correctPathDirection()\n\nThis removes the outermost path and corrects path direction.\n\n    makeFirstComponent_(Layer.componentAtIndex_(1))\n\nThis takes the second component and makes it the first one. You can use `Layer` for a nested reference to the Layer object.\n\n    removeComponentAtIndex_(Layer.componentCount()-1)\n\nRemoves the last component.\n\n    addExtremePoints();cleanUpPaths();\n\nAdds extremes and cleans up paths (like *Layer > Tidy up path*).\n\n    removeAnchorWithName_("bottom")\n\nRemoves bottom anchors.\n\n    setHints_(None);setGuideLines_(None)\n\nDeletes all hints and guidelines.\n\n    addComponent_(GSComponent("B"))\n\nAdds the glyph `B` as a component to the layer.';
+				description = '*Filter > Layer Geek* provides a GUI for batch-executing Python and PyObjC methods on selected layers. For an overview of what you can do, click on the GitHub link:';
 				screenshot = "https://raw.githubusercontent.com/mekkablue/LayerGeek/master/LayerGeek.png";
 			},
 			{
