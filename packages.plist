@@ -379,7 +379,7 @@
 			},
 			{
 				name = "ShowGlyphsInLabelColor.glyphsReporter";
-				url = "https://github.com/yanone/SpaceBar30DayTrial";
+				url = "https://github.com/mekkablue/ShowGlyphsInLabelColor";
 				description = "*View > Show Glyphs in Label Color* displays glyphs in Edit view in their respective label color.";
 				screenshot = "https://github.com/mekkablue/ShowGlyphsInLabelColor/raw/master/ShowGlyphsInLabelColor.png";
 			}
