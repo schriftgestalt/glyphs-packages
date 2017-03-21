@@ -170,6 +170,12 @@
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Glyphsapp-Plugins/Screenshots/ShowSiblings/Screenshots/screencapDemoFont.gif";
 			},
 			{
+				name = "SyncTool.glyphsReporter";
+				url = "https://github.com/Mark2Mark/SyncedTabs";
+				description = "`View > Show Synced Tabs` keeps all tabs from all open fonts in sync with the currently active tab. It is based on the **great idea and script** [Sync Edit Views.py](https://github.com/Tosche/Glyphs-Scripts/blob/master/Sync%20Edit%20Views.py) by [Tosche](https://github.com/Tosche).";
+				screenshot = "";
+			},
+			{
 				name = "BlindFold.glyphsReporter";
 				url = "https://github.com/Mark2Mark/Blindfold";
 				description = "`View > Show * Blindfold` Blackens out everything beyond the xHeight (or Cap-Height --> option in context menu). Useful for Spacing and Kerning because the visible leftover is what matters the most here.";
