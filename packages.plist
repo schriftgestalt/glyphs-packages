@@ -34,7 +34,7 @@
 			{
 				name = "RedArrow.glyphsReporter";
 				url = "https://github.com/jenskutilek/RedArrow-Glyphs";
-				description = "Now Glyphs users can also have red arrows!\nThis plugin points at possible outline errors, like FontAudit in FontLab Studio. This version only works in Glyphs 2.2 and newer. When the plugin is active, red arrows will point to possible mistakes in your outlines.";
+				description = "Now Glyphs users can also have red arrows!\nThis plugin points at possible outline errors, like FontAudit in FontLab Studio. This version works in Glyphs 2.3 and newer. When the plugin is active, red arrows will point to possible mistakes in your outlines.";
 				screenshot = "https://raw.githubusercontent.com/jenskutilek/RedArrow-Glyphs/glyphs2/screenshot.png";
 			},
 			{
