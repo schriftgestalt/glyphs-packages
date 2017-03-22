@@ -388,6 +388,12 @@
 				url = "https://github.com/mekkablue/ShowGlyphsInLabelColor";
 				description = "*View > Show Glyphs in Label Color* displays glyphs in Edit view in their respective label color.";
 				screenshot = "https://github.com/mekkablue/ShowGlyphsInLabelColor/raw/master/ShowGlyphsInLabelColor.png";
+			},
+			{
+				name = "Speedlines.glyphsFilter";
+				url = "https://github.com/mekkablue/Speedlines";
+				description = "*Filter > Speedlines* adds speedlines to your glyphs.";
+				screenshot = "https://github.com/mekkablue/Speedlines/raw/master/Speedlines.png";
 			}
 		);
 	};
