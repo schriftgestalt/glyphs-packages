@@ -172,7 +172,7 @@
 			{
 				name = "SyncedTabs.glyphsReporter";
 				url = "https://github.com/Mark2Mark/SyncedTabs";
-				description = "`View > Show Synced Tabs` keeps all tabs from all open fonts in sync with the currently active tab. In **realtime!**. It is based on the **great idea and script** [Sync Edit Views.py](https://github.com/Tosche/Glyphs-Scripts/blob/master/Sync%20Edit%20Views.py) by [Tosche](https://github.com/Tosche).";
+				description = "`View > Show Synced Tabs` keeps all tabs from all open fonts in sync with the currently active tab. In **realtime!**. It is based on the **great idea and script** [Sync Edit Views.py](https://github.com/Tosche/Glyphs-Scripts/blob/master/Sync%20Edit%20Views.py) by [Tosche](https://github.com/Tosche).\n OPTIONS + Sync Tool: type change option to sync Tools: `Glyphs.defaults["com.markfromberg.syncedTabs.doSyncTools"] = True` (or `False`) in Macro panel";
 				screenshot = "";
 			},
 			{
