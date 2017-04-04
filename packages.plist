@@ -185,7 +185,7 @@
 				name = "ArrangeWindows.glyphsReporter";
 				url = "https://github.com/Mark2Mark/ArrangeWindows";
 				description = "`Window > Arrange Windows` does just what it says. Include the Macro Panel by holding the Option Key";
-				screenshot = "";
+				screenshot = "https://raw.githubusercontent.com/Mark2Mark/ArrangeWindows/master/ArrangeWindows.gif";
 			},
 			{
 				name = "LabelColor.glyphsReporter";
