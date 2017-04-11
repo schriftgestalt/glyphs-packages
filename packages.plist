@@ -400,6 +400,12 @@
 				url = "https://github.com/mekkablue/Speedlines";
 				description = "*Filter > Speedlines* adds speedlines to your glyphs.";
 				screenshot = "https://github.com/mekkablue/Speedlines/raw/master/Speedlines.png";
+			},
+			{
+				name = "VerticalSkew.glyphsPalette";
+				url = "https://github.com/mekkablue/VerticalSkew";
+				description = "The *Vertical Skew* palette allows you to shear your artwork vertically. It reuses the transformation origin set in the *Transformations* palette.";
+				screenshot = "https://github.com/mekkablue/VerticalSkew/raw/master/VerticalSkew.png";
 			}
 		);
 	};
