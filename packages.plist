@@ -407,6 +407,20 @@
 				description = "The *Vertical Skew* palette allows you to shear your artwork vertically. It reuses the transformation origin set in the *Transformations* palette.";
 				screenshot = "https://github.com/mekkablue/VerticalSkew/raw/master/VerticalSkew.png";
 			}
+
+			{
+				name = "ShowBlackFill.glyphsReporter";
+				url = "https://github.com/Tosche/ShowBlackFill";
+				description = "*View > Show Black Fill* shows the outline in near-black colour. It is an alternative of Mekkablue's *Show Filled Preview* (thanks for the idea!), for those who want a darker and sharper version.";
+				screenshot = "https://github.com/Tosche/ShowBlackFill/raw/master/ShowBlackFill.png";
+			}
+
+			{
+				name = "Waterfall.glyphsPlugin";
+				url = "https://github.com/Tosche/Waterfall";
+				description = "*Window > Waterfall* shows the font in different sizes. The text is independent of the Edit View Content. Massive thanks to Mark2Mark for the help!";
+				screenshot = "https://github.com/Tosche/Waterfall/raw/master/Waterfall.png";
+			}
 		);
 	};
 }
