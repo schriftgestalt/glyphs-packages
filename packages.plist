@@ -182,7 +182,7 @@
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Glyphsapp-Plugins/11561cf20d110e314943e6294edf47defbdb73bc/Screenshots/UncoverXHeight/UcXh%2001.png?raw=true";
 			},
 			{
-				name = "ArrangeWindows.glyphsReporter";
+				name = "ArrangeWindows.glyphsPlugin";
 				url = "https://github.com/Mark2Mark/ArrangeWindows";
 				description = "`Window > Arrange Windows` does just what it says.\n**Options:**\n`Arrange Windows & Macro Panel` [Option Key].\n`Arrange Windows On Screens` [Shift Key] if 2 Fonts and 2 Screens are present.";
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/ArrangeWindows/master/ArrangeWindows.gif";
