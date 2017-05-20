@@ -418,6 +418,12 @@
 				url = "https://github.com/Tosche/Waterfall";
 				description = "*Window > Waterfall* shows the font in different sizes. The text is independent of the Edit View Content. Massive thanks to Mark2Mark for the help!";
 				screenshot = "https://github.com/Tosche/Waterfall/raw/master/Waterfall.png";
+			},
+			{
+				name = "SyncSelection.glyphsPlugin";
+				url = "https://github.com/mekkablue/SyncSelection";
+				description = "*Edit > Sync Layer Selections* keeps selections in sync between multiple layers pf the same glyph.";
+				screenshot = "https://github.com/mekkablue/SyncSelection/raw/master/SyncSelectionScreenshot.png";
 			}
 		);
 	};
