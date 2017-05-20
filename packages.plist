@@ -424,6 +424,7 @@
 				url = "https://github.com/mekkablue/SyncSelection";
 				description = "*Edit > Sync Layer Selections* keeps selections in sync between multiple layers pf the same glyph.";
 				screenshot = "https://github.com/mekkablue/SyncSelection/raw/master/SyncSelectionScreenshot.png";
+				minVersion = 920;
 			}
 		);
 	};
