@@ -425,7 +425,13 @@
 				description = "*Edit > Sync Layer Selections* keeps selections in sync between multiple layers of the same glyph.";
 				screenshot = "https://github.com/mekkablue/SyncSelection/raw/master/SyncSelectionScreenshot.png";
 				minVersion = 920;
-			}
+			},
+			{
+				name = "LabelKey.glyphsPalette";
+				url = "https://github.com/RobertPratley/labelKey";
+				description = "Adds a palette displaying a user defined key for Glyphs' colour labelling. \nRefer to the full readme (https://github.com/RobertPratley/labelKey) for information on how to use it.";
+				screenshot = "https://github.com/RobertPratley/labelKey/raw/master/labelKeyExample.png";
+			},
 		);
 	};
 }
