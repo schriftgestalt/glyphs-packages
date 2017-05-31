@@ -431,6 +431,12 @@
 				url = "https://github.com/RobertPratley/labelKey";
 				description = "Adds a palette displaying a user defined key for Glyphs' colour labelling. \nRefer to the full readme (https://github.com/RobertPratley/labelKey) for information on how to use it.";
 				screenshot = "https://github.com/RobertPratley/labelKey/raw/master/labelKeyExample.png";
+			},
+			{
+				name = "Anchors.glyphsPalette";
+				url = "https://github.com/justanotherfoundry/freemix-glyphsapp/tree/master/AnchorsPalette";
+				description = "The palette shows the position of anchors in the selected glyphs. This helps you check for consistent positioning of anchors if multiple glyphs are selected. For example, select A–Z to see whether all `top` anchors are on the same height, and adjust their position.";
+				screenshot = "https://github.com/justanotherfoundry/freemix-glyphsapp/raw/master/AnchorsPalette/AnchorsPalette.png";
 			}
 		);
 	};
