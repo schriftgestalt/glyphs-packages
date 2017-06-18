@@ -443,6 +443,12 @@
 				url = "https://github.com/jayKayEss/MetricsSolver";
 				description = "Update all metrics across all masters and check for bad metrics keys in a single step. This plugin adds the Edit > Resolve All Metrics menu option.";
 				screenshot = "https://github.com/jayKayEss/MetricsSolver/raw/master/Extras/screenshot.png";
+			},
+			{
+				name = "DeleteShortSegments.glyphsFilter";
+				url = "https://github.com/mekkablue/DeleteShortSegments";
+				description = "*Filter > Delete Short Segments* deletes line segments from your paths that are shorter than 1 unit. (Or, more precisely, if both x and y distances of the segment are shorter than 1 unit.) This can be very useful for cleaning up roughened paths when you have a grid step finer than 1 unit.";
+				screenshot = "https://github.com/mekkablue/DeleteShortSegments/raw/master/DeleteShortSegments.png";
 			}
 		);
 	};
