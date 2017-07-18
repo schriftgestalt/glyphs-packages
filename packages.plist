@@ -449,6 +449,13 @@
 				url = "https://github.com/mekkablue/DeleteShortSegments";
 				description = "*Filter > Delete Short Segments* deletes line segments from your paths that are shorter than 1 unit. (Or, more precisely, if both x and y distances of the segment are shorter than 1 unit.) This can be very useful for cleaning up roughened paths when you have a grid step finer than 1 unit.";
 				screenshot = "https://github.com/mekkablue/DeleteShortSegments/raw/master/DeleteShortSegments.png";
+			},
+			{
+				name = "DecomposeMixedCompounds.glyphsFilter";
+				url = "https://github.com/schriftlabor-miriam/DecomposeMixedCompounds";
+				description = "*Filter > Decompose Mixed Compounds* decomposes compound glyphs that contain non-exporting components (‘mixed compounds’). This can be useful when you are exporting TTFs. It has come in handy as a workaround in a TTF export bug (‘Something went wrong while compiling components for glyph...’).";
+				screenshot = "https://raw.githubusercontent.com/schriftlabor-miriam/DecomposeMixedCompounds/master/SomethingWentWrong.png";
+				minVersion = 1009;
 			}
 		);
 	};
