@@ -449,6 +449,12 @@
 				url = "https://github.com/mekkablue/DeleteShortSegments";
 				description = "*Filter > Delete Short Segments* deletes line segments from your paths that are shorter than 1 unit. (Or, more precisely, if both x and y distances of the segment are shorter than 1 unit.) This can be very useful for cleaning up roughened paths when you have a grid step finer than 1 unit.";
 				screenshot = "https://github.com/mekkablue/DeleteShortSegments/raw/master/DeleteShortSegments.png";
+			},
+			{
+				name = "ShowMarkPreview.glyphsReporter";
+				url = "https://github.com/mekkablue/ShowMarkPreview";
+				description = "*View > Show Mark Preview* is a displays mark-to-base and mark-to-mark attachment with the letters and marks you type in Edit view.";
+				screenshot = "https://github.com/mekkablue/ShowMarkPreview/raw/master/ShowMarkPreview.png";
 			}
 		);
 	};
