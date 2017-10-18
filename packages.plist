@@ -455,6 +455,12 @@
 				url = "https://github.com/mekkablue/ShowMarkPreview";
 				description = "*View > Show Mark Preview* is a displays mark-to-base and mark-to-mark attachment with the letters and marks you type in Edit view.";
 				screenshot = "https://github.com/mekkablue/ShowMarkPreview/raw/master/ShowMarkPreview.png";
+			},
+			{
+				name = "SyncMetricsKeys.glyphsPlugin";
+				url = "https://github.com/underscoretype/glyphs-plugin-sync-metrics-keys.git";
+				description = "*Glyph > Sync Metrics Keys* will automatically sync sidebearing changes in the editor view to any glyphs with a linked metrics key.";
+				screenshot = "https://raw.githubusercontent.com/underscoretype/glyphs-plugin-sync-metrics-keys/master/SyncMetricsKeys.png";
 			}
 		);
 	};
