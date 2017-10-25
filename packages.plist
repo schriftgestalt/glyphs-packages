@@ -460,7 +460,7 @@
 				name = "Skedge.glyphsPlugin";
 				url = "https://github.com/Mark2Mark/Skedge";
 				description = "*Window > Skedge* is a live python sketcher for Glyphsapp.";
-				screenshot = "https://github.com/Mark2Mark/Skedge/blob/master/Images/Skedge%20Screenshot%201.png";
+				screenshot = "https://github.com/Mark2Mark/Skedge/blob/master/Images/Skedge%20Screenshot%201.png.png";
 			}
 		);
 	};
