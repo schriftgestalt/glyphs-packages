@@ -455,6 +455,12 @@
 				url = "https://github.com/mekkablue/ShowMarkPreview";
 				description = "*View > Show Mark Preview* is a displays mark-to-base and mark-to-mark attachment with the letters and marks you type in Edit view.";
 				screenshot = "https://github.com/mekkablue/ShowMarkPreview/raw/master/ShowMarkPreview.png";
+			},
+			{
+				name = "Skedge.glyphsPlugin";
+				url = "https://github.com/Mark2Mark/Skedge";
+				description = "*Window > Skedge* is a live python sketcher for Glyphsapp.";
+				screenshot = "https://github.com/Mark2Mark/Skedge/blob/master/Images/Skedge%20Screenshot%201.png";
 			}
 		);
 	};
