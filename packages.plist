@@ -461,6 +461,11 @@
 				url = "https://github.com/Mark2Mark/Skedge";
 				description = "*Window > Skedge* is a live python sketcher for Glyphsapp.";
 				screenshot = "https://github.com/Mark2Mark/Skedge/raw/master/Images/Skedge%20Screenshot%203.png";
+			},
+			{
+				name = "Backuper.glyphsPlugin";
+				url = "https://github.com/schriftgestalt/Backuper";
+				description = "A plugin that makes a copy of the file if opened in a new version of Glyphs";
 			}
 		);
 	};
