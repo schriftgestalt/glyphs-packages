@@ -461,6 +461,17 @@
 				url = "https://github.com/underscoretype/glyphs-plugin-sync-metrics-keys.git";
 				description = "*Glyph > Sync Metrics Keys* will automatically sync sidebearing changes in the editor view to any glyphs with a linked metrics key.";
 				screenshot = "https://raw.githubusercontent.com/underscoretype/glyphs-plugin-sync-metrics-keys/master/SyncMetricsKeys.png";
+ 			},
+			{
+				name = "Skedge.glyphsPlugin";
+				url = "https://github.com/Mark2Mark/Skedge";
+				description = "*Window > Skedge* is a live python sketcher for Glyphsapp.";
+				screenshot = "https://github.com/Mark2Mark/Skedge/raw/master/Images/Skedge%20Screenshot%203.png";
+			},
+			{
+				name = "Backuper.glyphsPlugin";
+				url = "https://github.com/schriftgestalt/Backuper";
+				description = "A plugin that makes a copy of the file if opened in a new version of Glyphs";
 			}
 		);
 	};
