@@ -472,6 +472,12 @@
 				name = "Backuper.glyphsPlugin";
 				url = "https://github.com/schriftgestalt/Backuper";
 				description = "A plugin that makes a copy of the file if opened in a new version of Glyphs";
+			},
+			{
+				name = "MasterGrid.glyphsReporter";
+				url = "https://github.com/jenskutilek/MasterGrid";
+				description = "Set and display a grid that keeps different dimensions in different masters. Activate via *View > Show Master Grid*, edit or delete the grid via *Edit > Master Grid...*";
+				screenshot = "https://raw.githubusercontent.com/jenskutilek/MasterGrid/master/Images/screenshot.png";
 			}
 		);
 	};
