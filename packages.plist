@@ -483,6 +483,7 @@
 				name = "word-o-mat.glyphsPlugin";
 				url = "https://github.com/schriftgestalt/word-o-mat";
 				description = "Nina Stössingers plugin to generate sample texts";
+				screenshot = "https://raw.githubusercontent.com/schriftgestalt/word-o-mat/master/screenshotGlyphs.png"
 			},
 		);
 	};
