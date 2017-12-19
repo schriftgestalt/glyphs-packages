@@ -478,7 +478,12 @@
 				url = "https://github.com/jenskutilek/MasterGrid";
 				description = "Set and display a grid that keeps different dimensions in different masters. Activate via *View > Show Master Grid*, edit or delete the grid via *Edit > Master Grid...*";
 				screenshot = "https://raw.githubusercontent.com/jenskutilek/MasterGrid/master/Images/screenshot.png";
-			}
+			},
+			{
+				name = "word-o-mat.glyphsPlugin";
+				url = "https://github.com/schriftgestalt/word-o-mat";
+				description = "Nina Stössingers plugin to generate sample texts";
+			},
 		);
 	};
 }
