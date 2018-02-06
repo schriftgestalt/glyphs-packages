@@ -479,6 +479,12 @@
 				description = "Nina Stössinger’s plug-in for generating sample texts";
 				screenshot = "https://raw.githubusercontent.com/schriftgestalt/word-o-mat/master/screenshotGlyphs.png";
 			},
+			{
+				name = "Rimmer.glyphsFilter";
+				url = "https://github.com/mekkablue/Rimmer";
+				description = "*Filter > Rimmer* adds rims around your glyphs.";
+				screenshot = "https://raw.githubusercontent.com/mekkablue/Rimmer/master/Rimmer.png";
+			},
 		);
 	};
 }
