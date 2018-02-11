@@ -32,6 +32,12 @@
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Glyphsapp-Plugins/Screenshots/Screenshots/SmartPlumblines/SmPlL%2012.png?raw=true";
 			},
 			{
+				name = "ShowDistanceAndAngleOfNodes.glyphsReporter";
+				url = "https://github.com/Mark2Mark/Show-Distance-And-Angle-Of-Nodes";
+				description = "Shows the distance and angle of 2 selected elements. Those can be nodes, but also components or anchors and they don’t have to be of the same kind.\nWritten by Mark Frömberg (@Mark2Mark)";
+				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Show-Distance-And-Angle-Of-Nodes/master/Images/Distance_And_Angle_01.png?raw=true";
+			},
+			{
 				name = "RedArrow.glyphsReporter";
 				url = "https://github.com/jenskutilek/RedArrow-Glyphs";
 				description = "Now Glyphs users can also have red arrows!\nThis plugin points at possible outline errors, like FontAudit in FontLab Studio. This version works in Glyphs 2.3 and newer. When the plugin is active, red arrows will point to possible mistakes in your outlines.";
