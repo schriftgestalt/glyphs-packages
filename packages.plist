@@ -491,6 +491,12 @@
 				description = "*Filter > Rimmer* adds rims around your glyphs.";
 				screenshot = "https://raw.githubusercontent.com/mekkablue/Rimmer/master/Rimmer.png";
 			},
+			{
+				name = "Touche.glyphsPlugin";
+				url = "https://github.com/schriftgestalt/Touche";
+				description = "Nina Stössinger’s plug-in for finding touching/colliding glyph pairs.";
+				screenshot = "https://github.com/schriftgestalt/Touche/raw/master/screenshotGlyphs.png";
+			},
 		);
 	};
 }
