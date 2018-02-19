@@ -33,6 +33,7 @@
 			},
 			{
 				name = "ShowDistanceAndAngleOfNodes.glyphsReporter";
+				title = "Show Distance and Angle of Nodes";
 				url = "https://github.com/Mark2Mark/Show-Distance-And-Angle-Of-Nodes";
 				description = "Shows the distance and angle of 2 selected elements. Those can be nodes, but also components or anchors and they don’t have to be of the same kind.\nWritten by Mark Frömberg (@Mark2Mark)";
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Show-Distance-And-Angle-Of-Nodes/master/Images/Distance_And_Angle_01.png?raw=true";
