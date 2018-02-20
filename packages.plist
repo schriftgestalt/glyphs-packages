@@ -27,13 +27,14 @@
 			},
 			{
 				name = "SmartPlumblines.glyphsReporter";
+				title = "Smart Plumblines";
 				url = "https://github.com/Mark2Mark/Show-Smart-Plumblines";
 				description = "`View > Show Smart Plumblines` By default it displays **live guidelines** at the center of each paths’ (red) and components’ (grey) bounding box.\nIf you select anything, it also displays the center of that selection (blue dashed).\nOne major feature is that the guidelines **automatically match your italic angle**.\nThis is useful for aligning objects by sight. As well as:\n\n- Align multiple paths and/or components\n- Setting up horizontal positions of anchors\n- Editing segments while easily keeping italic angle, etc.\nWritten by Mark Frömberg (@Mark2Mark)";
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Glyphsapp-Plugins/Screenshots/Screenshots/SmartPlumblines/SmPlL%2012.png?raw=true";
 			},
 			{
 				name = "ShowDistanceAndAngleOfNodes.glyphsReporter";
-				title = "Show Distance and Angle of Nodes";
+				title = "Show Distance and Angle";
 				url = "https://github.com/Mark2Mark/Show-Distance-And-Angle-Of-Nodes";
 				description = "Shows the distance and angle of 2 selected elements. Those can be nodes, but also components or anchors and they don’t have to be of the same kind.\nWritten by Mark Frömberg (@Mark2Mark)";
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Show-Distance-And-Angle-Of-Nodes/master/Images/Distance_And_Angle_01.png?raw=true";
@@ -166,48 +167,56 @@
 			},
 			{
 				name = "ShowRotated.glyphsReporter";
+				title = "Show Rotated";
 				url = "https://github.com/Mark2Mark/Show-Rotated";
 				description = "`View > Show Rotated` Superimposes the current glyph as a rotated copy of itself. Context Menu slider to adjust the rotation angle.\nWritten by Mark Frömberg (@Mark2Mark)";
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Glyphsapp-Plugins/Screenshots/ShowRotated/Screenshots/ShowRotated03_Mark-Froemberg.gif";
 			},
 			{
 				name = "ShowSiblings.glyphsReporter";
+				title = "Show Siblings (Light)";
 				url = "https://github.com/Mark2Mark/Show-Siblings";
 				description = "`View > Show Siblings` Superimposes a group of predefined glyphs in the background of your letters. This can be both pretty helpful in the beginning of a design as well as at intermediate progress where quick proof overview is needed. The degree of a desired match depends on each design, of course. Current Scripts: Latin, Greek, Cyrillic and »Twins« (glyph alternates like  *g.ss01* or  *g.alt.*\nWritten by Mark Frömberg (@Mark2Mark)";
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Glyphsapp-Plugins/Screenshots/ShowSiblings/Screenshots/screencapDemoFont.gif";
 			},
 			{
 				name = "SyncedTabs.glyphsReporter";
+				title = "Synced Tabs";
 				url = "https://github.com/Mark2Mark/SyncedTabs";
 				description = "`View > Show Synced Tabs` keeps all tabs from all open fonts in sync with the currently active tab. In **realtime!**. It is based on the **great idea and script** [Sync Edit Views.py](https://github.com/Tosche/Glyphs-Scripts/blob/master/Sync%20Edit%20Views.py) by [Tosche](https://github.com/Tosche).\n**Options**: Synchronize Tools as well: type\n`Glyphs.defaults[#com.markfromberg.syncedTabs.doSyncTools#] = True`\n(or `False`) in Macro panel and swap the # by inch-quotes.\nWritten by Mark Frömberg (@Mark2Mark)";
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Synced-Tabs/master/Images/SyncedTabs_Gintronic_MarkFroemberg_still.png";
 			},
 			{
 				name = "BlindFold.glyphsReporter";
+				title = "Blindfold";
 				url = "https://github.com/Mark2Mark/Blindfold";
 				description = "`View > Show Blindfold` Blackens out everything beyond the xHeight (or Cap-Height --> option in context menu). Useful for Spacing and Kerning because the visible leftover is what matters the most here.\nWritten by Mark Frömberg (@Mark2Mark)";
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Glyphsapp-Plugins/11561cf20d110e314943e6294edf47defbdb73bc/Screenshots/UncoverXHeight/UcXh%2001.png?raw=true";
 			},
 			{
 				name = "ArrangeWindows.glyphsPlugin";
+				title = "Arrange Windows";
 				url = "https://github.com/Mark2Mark/ArrangeWindows";
 				description = "`Window > Arrange Windows` does just what it says.\n**Options:**\n`Arrange Windows & Macro Panel` [Option Key].\n`Arrange Windows On Screens` [Shift Key] if 2 Fonts and 2 Screens are present.\nWritten by Mark Frömberg (@Mark2Mark)";
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/ArrangeWindows/master/ArrangeWindows.gif";
 			},
 			{
 				name = "LabelColor.glyphsReporter";
+				title = "Label Color";
 				url = "https://github.com/Mark2Mark/Show-Label-Color";
 				description = "`View > Show Label Color` Displays each glyphs’s Label Color in the edit tab. Full width or left: glyph color, right: layer color.\nWritten by Mark Frömberg (@Mark2Mark)";
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Show-Label-Color/d054d4d05d6f16b2be49f055f2b06b27725b81c8/Screenshots/Show%20Label%20Color%2001.png?raw=true";
 			},
 			{
 				name = "ReporterToggler.glyphsPalette";
+				title = "Reporter Toggler";
 				url = "https://github.com/Mark2Mark/Reporter-Toggler";
 				description = "Adds a menu to the Palette, which gives you instant access to all your reporter plugins. Quick’n’easy on/off switching with just a single click.\nWritten by Mark Frömberg (@Mark2Mark)";
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Reporter-Toggler/master/Images/ReporterToggler%2002.png";
 			},
 			{
 				name = "ShowKerningGroups.glyphsReporter";
+				title = "Show Kerning Groups";
 				url = "https://github.com/Mark2Mark/Show-Kerning-Group-Reference";
 				description = "`View > Show Kerning Groups` Displays all members of the currently active glyph’s kerning group to either side in miniature and realtime. Useful when setting up kerning groups and getting visual feedback right away. If you see elements sticking out of the right group, you know there might be a group member set wrong. Same for the left side. It is somehow related to the built-in feature \"Show Group Members\" by Georg Seifert, but this one does not need the caret to sit between a certain pair.\nWritten by Mark Frömberg (@Mark2Mark)";
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Show-Kerning-Group-Reference/12fd9ffaa0447f742dabce60a407ece582e1d6b2/Screenshots/KGR%2001.png?raw=true";
@@ -244,6 +253,7 @@
 			},
 			{
 				name = "ShowStems.glyphsReporter";
+				title = "Show Stems (Light)";
 				url = "https://github.com/Mark2Mark/Show-Stems";
 				description = "`View > Show Stems` If active, it shows a measurement line (even in edit mode) with all distances between the outlines. If any distance matches the saved metrics in the Glyphs Palette, it will highlight in green and tell you which one it matches. The vertical position is attached to the Glyphsapp measurement line and can be moved around the same way.\nShortcut: `cmd+opt+ctrl+s` (like **S**tems)\nWritten by Mark Frömberg (@Mark2Mark)";
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Show-Stems/master/Images/Show%20Stems%2003.png";
