@@ -504,6 +504,7 @@
 			},
 			{
 				name = "Touche.glyphsPlugin";
+				title = "Touché";
 				url = "https://github.com/schriftgestalt/Touche";
 				description = "Nina Stössinger’s plug-in for finding touching/colliding glyph pairs.";
 				screenshot = "https://github.com/schriftgestalt/Touche/raw/master/screenshotGlyphs.png";
