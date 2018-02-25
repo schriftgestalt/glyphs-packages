@@ -562,6 +562,13 @@
 				description = "Nina Stössinger’s plug-in for finding touching/colliding glyph pairs.";
 				screenshot = "https://github.com/schriftgestalt/Touche/raw/master/screenshotGlyphs.png";
 			},
+			{
+				name = "ImageFrame.glyphsPlugin";
+				title = "Image Frame";
+				url = "https://github.com/dyyybek/ImageFrame";
+				description = "`Window > Image Frame`\nKeep your favourite images for inspiration during work in this simple always-on-top window.";
+			},
+
 		);
 	};
 }
