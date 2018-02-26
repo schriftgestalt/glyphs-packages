@@ -483,9 +483,9 @@
 			},
 			{
 				name = "SyncSelection.glyphsPlugin";
-				title = "Sync Selections";
+				title = "Sync Layer Selections";
 				url = "https://github.com/mekkablue/SyncSelection";
-				description = "*Edit > Sync Layer Selections* keeps selections in sync between multiple layers of the same glyph.";
+				description = "*Edit > Sync Layer Selections* keeps point, component and anchor selections in sync between all compatible layers of the same glyph.";
 				screenshot = "https://github.com/mekkablue/SyncSelection/raw/master/SyncSelectionScreenshot.png";
 				minVersion = 920;
 			},
