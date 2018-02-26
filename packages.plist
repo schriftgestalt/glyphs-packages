@@ -567,8 +567,8 @@
 				title = "Image Frame";
 				url = "https://github.com/dyyybek/ImageFrame";
 				description = "`Window > Image Frame`\nKeep your favourite images for inspiration during work in this simple always-on-top window.";
+				screenshot = "https://raw.githubusercontent.com/dyyybek/ImageFrame/master/screenshot.png";
 			},
-
 		);
 	};
 }
