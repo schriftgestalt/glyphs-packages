@@ -569,6 +569,27 @@
 				description = "*Window > Image Frame* keeps your favourite images for inspiration during work in this simple always-on-top window. Drag and drop to set a new image.";
 				screenshot = "https://raw.githubusercontent.com/dyyybek/ImageFrame/master/screenshot.png";
 			},
+			{
+				name = "SegmentLength.glyphsReporter";
+				title = "Show Segment Lengths";
+				url = "https://github.com/mekkablue/SegmentLength";
+				description = "*View > Show Segment Lengths* displays the approximate lengths of each path segment of the current glyph.";
+				screenshot = "https://raw.githubusercontent.com/mekkablue/SegmentLength/master/SegmentLength.png";
+			},
+			{
+				name = "Beowulferize.glyphsFilter";
+				title = "Beowulferize";
+				url = "https://github.com/mekkablue/Beowulferize";
+				description = "*Filter > Beowulferize* randomly moves glyph nodes around, creating an effect reminiscent of Letterror’s infamous Beowulf font, hence the name.";
+				screenshot = "https://raw.githubusercontent.com/mekkablue/Beowulferize/master/Beowulferize.png";
+			},
+			{
+				name = "RandomRotate.glyphsFilter";
+				title = "RandomRotate";
+				url = "https://github.com/mekkablue/RandomRotate";
+				description = "*Filter > Random Rotate* randomly rotates glyphs around their center.";
+				screenshot = "https://raw.githubusercontent.com/mekkablue/RandomRotate/master/RandomRotate.png";
+			},
 		);
 	};
 }
