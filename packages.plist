@@ -383,9 +383,16 @@
 				description = "This is a plugin to trace image into editable paths. It uses either the library [porace](http://potrace.sourceforge.net) or [autotrace](http://autotrace.sourceforge.net).";
 			},
 			{
-				name = "Speed Punk 30-day Trial.glyphsTool";
+				name = "Speed Punk 30-day Trial.glyphsReporter";
+				title = "Speed Punk 30-day Trial Reporter";
 				url = "https://github.com/yanone/SpeedPunk30DayTrial";
 				description = "Understand and improve your outlines with this curvature comb visualization.\nMore infos at http://yanone.de/software/speedpunk/";
+				screenshot = "https://raw.githubusercontent.com/yanone/SpeedPunk30DayTrial/master/speedpunkglyphs.jpg";
+			},
+			{
+				name = "Speed Punk 30-day Trial.glyphsTool";
+				url = "https://github.com/yanone/SpeedPunk30DayTrial";
+				description = "**Don’t install this. Please use the \"Speed Punk 30-day Trial Reporter\".**\nUnderstand and improve your outlines with this curvature comb visualization.\nMore infos at http://yanone.de/software/speedpunk/";
 				screenshot = "https://raw.githubusercontent.com/yanone/SpeedPunk30DayTrial/master/speedpunkglyphs.jpg";
 			},
 			{
