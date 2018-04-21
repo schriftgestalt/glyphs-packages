@@ -386,7 +386,7 @@
 				name = "Speed Punk 30-day Trial.glyphsReporter";
 				title = "Speed Punk 30-day Trial Reporter";
 				url = "https://github.com/yanone/SpeedPunk30DayTrial";
-				description = "Understand and improve your outlines with this curvature comb visualization.\nMore infos at http://yanone.de/software/speedpunk/";
+				description = "Understand and improve your outlines with this curvature comb visualization.\nMore infos at http://yanone.de/software/speedpunk/\n\n**Make sure to remove the old Speedpunk Tool**";
 				screenshot = "https://raw.githubusercontent.com/yanone/SpeedPunk30DayTrial/master/speedpunkglyphs.jpg";
 			},
 			{
