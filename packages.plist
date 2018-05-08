@@ -611,6 +611,12 @@
 				description = "*Filter > Offset Curve with Angle* provides a simple curve offset with an angle.";
 				screenshot = "https://raw.githubusercontent.com/mekkablue/OffsetCurveWithAngle/master/OffsetCurveWithAngle.png";
 			},
+			{
+				name = "Delete Duplicate Paths.glyphsFilter";
+				title = "Delete Duplicate Paths";
+				url = "https://github.com/mekkablue/DeleteDuplicatePaths";
+				description = "*Filter > Delete Duplicate Paths* deletes path duplicates. It does not care if the points are set to smooth (green) or not (blue), only if the coordinates are the same, and the closed/open status is the same.";
+			},
 		);
 	};
 }
