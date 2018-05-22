@@ -617,6 +617,12 @@
 				url = "https://github.com/mekkablue/DeleteDuplicatePaths";
 				description = "*Filter > Delete Duplicate Paths* deletes path duplicates. It does not care if the points are set to smooth (green) or not (blue), only if the coordinates are the same, and the closed/open status is the same.";
 			},
+			{
+				name = "FramesPerSecond.glyphsReporter";
+				title = "Frames Per Second";
+				url = "https://github.com/schriftgestalt/FramesPerSecond";
+				description = "Displays a the frames per second the edit view. This is useful for debugging.";
+			},
 		);
 	};
 }
