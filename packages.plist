@@ -623,6 +623,13 @@
 				url = "https://github.com/schriftgestalt/FramesPerSecond";
 				description = "Displays a the frames per second the edit view. This is useful for debugging.";
 			},
+			{
+				name = "Kern-A-Lytics.glyphsFilter";
+				title = "Kern-A-Lytics";
+				url = "https://github.com/schriftgestalt/kernalytics-rf-ext";
+				description = "Helps analyzing and fixing the consistency of kerning across all masters.";
+				screenshot = "https://raw.githubusercontent.com/schriftgestalt/kernalytics-rf-ext/master/kern-a-lytics-Glyphs.png";
+			},
 		);
 	};
 }
