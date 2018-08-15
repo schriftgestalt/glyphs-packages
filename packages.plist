@@ -535,7 +535,7 @@
 				name = "Skedge.glyphsPlugin";
 				url = "https://github.com/Mark2Mark/Skedge";
 				description = "*Window > Skedge* is a live python sketcher for Glyphsapp.\nWritten by Mark Frömberg (@Mark2Mark)";
-				screenshot = "https://github.com/Mark2Mark/Skedge/raw/master/Images/Skedge%20Screenshot%203.png";
+				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Skedge/master/Images/Skedge%2003.gif";
 			},
 			{
 				name = "Backuper.glyphsPlugin";
