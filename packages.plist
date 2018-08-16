@@ -638,7 +638,7 @@
 				screenshot = "https://raw.githubusercontent.com/mekkablue/Pixelate/master/Pixelate.png";
 			},
 			{
-				name = "TTControlInstructionsPalette.glyphsPalette";
+				name = "TTControlInstructions.glyphsPalette";
 				title = "TT Control Instructions Palette";
 				url = "https://github.com/mekkablue/TTControlInstructionsPalette";
 				description = "Palette for writing ttfAutohint control instructions while zoomed in.";
