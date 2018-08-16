@@ -637,6 +637,12 @@
 				description = "*Filter > Pixelate* rasterises shapes with a user-defined pixel glyph.";
 				screenshot = "https://raw.githubusercontent.com/mekkablue/Pixelate/master/Pixelate.png";
 			},
+			{
+				name = "TTControlInstructionsPalette.glyphsPalette";
+				title = "TT Control Instructions Palette";
+				url = "https://github.com/mekkablue/TTControlInstructionsPalette";
+				description = "Palette for writing ttfAutohint control instructions while zoomed in.";
+			},
 		);
 	};
 }
