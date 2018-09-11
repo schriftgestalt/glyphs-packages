@@ -3,12 +3,14 @@
 		plugins = (
 			{
 				name = "GlobalGlyph.glyphsReporter";
+				title = "Global Glyph";
 				url = "https://github.com/Nevu/Show-Global-Glyph";
 				description = "Displays the glyph named *_global* in the background of other glyphs. This can give an alternative to global guidelines. See GitHub for some craft tips";
 				screenshot = "https://raw.githubusercontent.com/Nevu/Show-Global-Glyph/master/ShowGlobalGlyph.png";
 			},
 			{
 				name = "GaugeTool.glyphsTool";
+				title = "Gauge Tool";
 				url = "https://github.com/weiweihuanghuang/GaugeTool";
 				description = "The tool shows an oval for a mouse cursor which can be used to gauge the width of strokes.";
 				screenshot = "https://raw.githubusercontent.com/weiweihuanghuang/GaugeTool/master/images/gaugetool.gif";
@@ -21,18 +23,28 @@
 			},
 			{
 				name = "ShowItalic.glyphsReporter";
+				title = "Show Italic";
 				url = "https://github.com/mekkablue/ShowItalic";
 				description = "*View > Show Italic* displays the italic (or upright) counterpart of the current glyph in Edit view, given that both the Upright and Italic fonts are opened in Glyphs, and given that the other font contains a glyph with the same name. It is useful for stepping through the glyphs and checking if there is an undesired deviation, e.g., a different diacritic height or different descender depth.";
 				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowItalic/master/ShowItalic.png";
 			},
 			{
 				name = "SmartPlumblines.glyphsReporter";
+				title = "Smart Plumblines";
 				url = "https://github.com/Mark2Mark/Show-Smart-Plumblines";
-				description = "`View > Show * Smart Plumblines` By default it displays **live guidelines** at the center of each paths’ (red) and components’ (grey) bounding box.\nIf you select anything, it also displays the center of that selection (blue dashed).\nOne major feature is that the guidelines **automatically match your italic angle**.\nThis is useful for aligning objects by sight. As well as:\n\n- Align multiple paths and/or components\n- Setting up horizontal positions of anchors\n- Editing segments while easily keeping italic angle, etc.";
+				description = "`View > Show Smart Plumblines` By default it displays **live guidelines** at the center of each paths’ (red) and components’ (grey) bounding box.\nIf you select anything, it also displays the center of that selection (blue dashed).\nOne major feature is that the guidelines **automatically match your italic angle**.\nThis is useful for aligning objects by sight. As well as:\n\n- Align multiple paths and/or components\n- Setting up horizontal positions of anchors\n- Editing segments while easily keeping italic angle, etc.\nWritten by Mark Frömberg (@Mark2Mark)";
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Glyphsapp-Plugins/Screenshots/Screenshots/SmartPlumblines/SmPlL%2012.png?raw=true";
 			},
 			{
+				name = "ShowDistanceAndAngleOfNodes.glyphsReporter";
+				title = "Show Distance and Angle";
+				url = "https://github.com/Mark2Mark/Show-Distance-And-Angle-Of-Nodes";
+				description = "Shows the distance and angle of 2 selected elements. Those can be nodes, but also components or anchors and they don’t have to be of the same kind.\nWritten by Mark Frömberg (@Mark2Mark)";
+				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Show-Distance-And-Angle-Of-Nodes/master/Images/Distance_And_Angle_01.png?raw=true";
+			},
+			{
 				name = "RedArrow.glyphsReporter";
+				title = "Red Arrow";
 				url = "https://github.com/jenskutilek/RedArrow-Glyphs";
 				description = "Now Glyphs users can also have red arrows!\nThis plugin points at possible outline errors, like FontAudit in FontLab Studio. This version works in Glyphs 2.3 and newer. When the plugin is active, red arrows will point to possible mistakes in your outlines.";
 				screenshot = "https://raw.githubusercontent.com/jenskutilek/RedArrow-Glyphs/master/screenshot.png";
@@ -45,61 +57,71 @@
 			},
 			{
 				name = "ShowTopsAndBottoms.glyphsReporter";
+				title = "Show Tops and Bottoms";
 				url = "https://github.com/mekkablue/ShowTopsAndBottoms";
 				description = "*View > Show Tops And Bottoms* displays the bounding box tops and bottoms for each glyph in the Edit view, and marks them red if they are not inside an alignment zone.";
 				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowTopsAndBottoms/master/ShowTopsAndBottoms.png";
 			},
 			{
 				name = "OffsetPreview.glyphsReporter";
+				title = "Offset Preview";
 				url = "https://github.com/mekkablue/ShowOffsetCurveParameterPreview";
 				description = "*View > Show Offset Curve Parameter Preview* calculates the *GlyphsFilterOffsetCurve* parameters in active instances for the given glyph and draws those instances behind your paths. It quietly adds extremum and inflection nodes to your preview outlines. But it does not give you a full preview of the final instance, because it does not show the effect of any other parameters. It is focused on helping you spot path offset problems.";
 				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowOffsetCurveParameterPreview/master/OffsetPreview.png";
 			},
 			{
 				name = "ShowInterpolation.glyphsReporter";
+				title = "Show Interpolation";
 				url = "https://github.com/mekkablue/ShowInterpolations";
 				description = "*View > Show Interpolations* calculates all active instances for the given glyph and draws them behind your paths.";
 				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowInterpolations/master/ShowInterpolations.png";
-				minVersion = 830;
+				minVersion = 944;
 			},
 			{
 				name = "ShowHandlesEverywhere.glyphsReporter";
+				title = "Show Handles Everywhere";
 				url = "https://github.com/mekkablue/ShowHandlesEverywhere";
 				description = "*View > Show Handles Everywhere* displays **nodes & handles** for paths **in the background** (if *View > Show Background* is on), **on other layers** (if the layer is set to visible) as well as **in inactive glyphs** surrounding the current glyph (if *View > Fill Preview* is off).";
 				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowHandlesEverywhere/master/ShowHandlesEverywhere.png";
 			},
 			{
 				name = "ShowFilledPreview.glyphsReporter";
+				title = "Show Filled Preview";
 				url = "https://github.com/mekkablue/ShowFilledPreview";
 				description = "*View > Show Filled Preview* fills open paths with a dark gray color even while you are still drawing.";
 				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowFilledPreview/master/ShowFilledPreview.png";
 			},
 			{
 				name = "ShowExportStatus.glyphsReporter";
+				title = "Show Export Status";
 				url = "https://github.com/mekkablue/ShowExportStatus";
 				description = "*View Show Export Status* displays a red cross over non-exporting glyphs in Edit View.";
 				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowExportStatus/master/ShowExportStatus.png";
 			},
 			{
 				name = "ShowDistanceBetweenTwoPoints.glyphsReporter";
+				title = "Show Distance Between two Points";
 				url = "https://github.com/mekkablue/ShowDistanceBetweenTwoPoints";
 				description = "*View > Show Distance Between Two Points* displays the distance between two selected nodes when exactly two points are selected, ignoring intersections in between.";
 				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowDistanceBetweenTwoPoints/master/ShowDistanceBetweenTwoPoints.png";
 			},
 			{
 				name = "ShowCoordinatesOfSelectedNodes.glyphsReporter";
+				title = "Show Coordinates of Selected Nodes";
 				url = "https://github.com/mekkablue/ShowCoordinatesOfSelectedNodes";
 				description = "*View > Show Coordinates of Selected Nodes* displays coordinates for selected on-curve nodes, as well as length and angle of the surrounding handles and line segments.";
 				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowCoordinatesOfSelectedNodes/master/ShowCoordinatesOfSelectedNodes.png";
 			},
 			{
 				name = "ShowComponentOrder.glyphsReporter";
+				title = "Show Component Order";
 				url = "https://github.com/mekkablue/ShowComponentOrder";
 				description = "*View > Show Component Order* displays components in different colors depending on the order of the component. This way, you can step through your component-based glyphs (fn-arrows or Home/End on large keyboards) and quickly spot an order mistake.";
 				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowComponentOrder/master/ShowComponentOrder.png";
 			},
 			{
 				name = "ShowAngledHandles.glyphsReporter";
+				title = "Show Angled Handles";
 				url = "https://github.com/mekkablue/ShowAngledHandles";
 				description = "*View > Show Angled Handles* highlights BCPs (‘handles’) which are not horizontal or vertical, quite-but-not-completely-straight line segments, duplicate paths, crossed handles, and zero handles.";
 				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowAngledHandles/master/ShowAngledHandles.png";
@@ -111,6 +133,7 @@
 			},
 			{
 				name = "FixZeroHandles.glyphsFilter";
+				title = "Fix Zero Handles";
 				url = "https://github.com/mekkablue/FixZeroHandles";
 				description = "*Filter > Fix Zero Handles* analyses the path structure of selected layers and will rearrange path segments that contain completely retracted handles, a.k.a. ‘zero handles’. Zero handles typically appear in outlines imported from other vector apps, such as Adobe Illustrator. Zero handles are considered bad style, or even an error, and can cause a range of problems, especially when you are trying to convert your outlines to TrueType curves.";
 				screenshot = "https://raw.githubusercontent.com/mekkablue/FixZeroHandles/master/FixZeroHandles.png";
@@ -123,18 +146,21 @@
 			},
 			{
 				name = "CutAndShake.glyphsFilter";
+				title = "Cut and Shake";
 				url = "https://github.com/mekkablue/CutAndShake";
 				description = "*Filter > Cut and Shake* exercises cuts across selected glyphs, and then both moves and rotates the resulting parts by random amounts, for which the user can specify maximums.";
 				screenshot = "https://raw.githubusercontent.com/mekkablue/CutAndShake/master/CutAndShake.png";
 			},
 			{
 				name = "BroadNibber.glyphsFilter";
+				title = "Broad Nibber";
 				url = "https://github.com/mekkablue/BroadNibber";
 				description = "*Filter > Broad Nibber* turns monolines of all selected glyphs into broad-nib strokes.";
 				screenshot = "https://raw.githubusercontent.com/mekkablue/BroadNibber/master/BroadNibber.png";
 			},
 			{
 				name = "InsertInflections.glyphsFilter";
+				title = "Insert Inflections";
 				url = "https://github.com/mekkablue/InsertInflections";
 				description = "*Filter > Insert Inflections* inserts nodes on all inflections of all selected glyphs. This is useful for monoline workflows, where inflected paths need to be expanded to a closed stroke; and for conversion into TrueType outlines.";
 				screenshot = "https://raw.githubusercontent.com/mekkablue/InsertInflections/master/InsertInflections.png";
@@ -147,6 +173,7 @@
 			},
 			{
 				name = "LayerGeek.glyphsFilter";
+				title = "Layer Geek";
 				url = "https://github.com/mekkablue/LayerGeek";
 				description = '*Filter > Layer Geek* provides a GUI for batch-executing Python and PyObjC methods on selected layers. For an overview of what you can do, click on the GitHub link:';
 				screenshot = "https://raw.githubusercontent.com/mekkablue/LayerGeek/master/LayerGeek.png";
@@ -159,86 +186,99 @@
 			},
 			{
 				name = "ShowRotated.glyphsReporter";
+				title = "Show Rotated";
 				url = "https://github.com/Mark2Mark/Show-Rotated";
-				description = "`View > Show * Rotated` Superimposes the current glyph as a rotated copy of itself. Context Menu slider to adjust the rotation angle.";
+				description = "`View > Show Rotated` Superimposes the current glyph as a rotated copy of itself. Context Menu slider to adjust the rotation angle.\nWritten by Mark Frömberg (@Mark2Mark)";
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Glyphsapp-Plugins/Screenshots/ShowRotated/Screenshots/ShowRotated03_Mark-Froemberg.gif";
 			},
 			{
 				name = "ShowSiblings.glyphsReporter";
+				title = "Show Siblings (Light)";
 				url = "https://github.com/Mark2Mark/Show-Siblings";
-				description = "`View > Show * Siblings` Superimposes a group of predefined glyphs in the background of your letters. This can be both pretty helpful in the beginning of a design as well as at intermediate progress where quick proof overview is needed. The degree of a desired match depends on each design, of course. Current Scripts: Latin, Greek, Cyrillic and »Twins« (glyph alternates like  *g.ss01* or  *g.alt.*";
+				description = "`View > Show Siblings` Superimposes a group of predefined glyphs in the background of your letters. This can be both pretty helpful in the beginning of a design as well as at intermediate progress where quick proof overview is needed. The degree of a desired match depends on each design, of course. Current Scripts: Latin, Greek, Cyrillic and »Twins« (glyph alternates like  *g.ss01* or  *g.alt.*\nWritten by Mark Frömberg (@Mark2Mark)";
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Glyphsapp-Plugins/Screenshots/ShowSiblings/Screenshots/screencapDemoFont.gif";
 			},
 			{
 				name = "SyncedTabs.glyphsReporter";
+				title = "Synced Tabs";
 				url = "https://github.com/Mark2Mark/SyncedTabs";
-				description = "`View > Show Synced Tabs` keeps all tabs from all open fonts in sync with the currently active tab. In **realtime!**. It is based on the **great idea and script** [Sync Edit Views.py](https://github.com/Tosche/Glyphs-Scripts/blob/master/Sync%20Edit%20Views.py) by [Tosche](https://github.com/Tosche).\n**Options**: Synchronize Tools as well: type\n`Glyphs.defaults[#com.markfromberg.syncedTabs.doSyncTools#] = True`\n(or `False`) in Macro panel and swap the # by inch-quotes.";
-				screenshot = "";
+				description = "`View > Show Synced Tabs` keeps all tabs from all open fonts in sync with the currently active tab. In **realtime!**. It is based on the **great idea and script** [Sync Edit Views.py](https://github.com/Tosche/Glyphs-Scripts/blob/master/Sync%20Edit%20Views.py) by [Tosche](https://github.com/Tosche).\n**Options**: Synchronize Tools as well: type\n`Glyphs.defaults[#com.markfromberg.syncedTabs.doSyncTools#] = True`\n(or `False`) in Macro panel and swap the # by inch-quotes.\nWritten by Mark Frömberg (@Mark2Mark)";
+				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Synced-Tabs/master/Images/SyncedTabs_Gintronic_MarkFroemberg_still.png";
 			},
 			{
 				name = "BlindFold.glyphsReporter";
+				title = "Blindfold";
 				url = "https://github.com/Mark2Mark/Blindfold";
-				description = "`View > Show * Blindfold` Blackens out everything beyond the xHeight (or Cap-Height --> option in context menu). Useful for Spacing and Kerning because the visible leftover is what matters the most here.";
+				description = "`View > Show Blindfold` Blackens out everything beyond the xHeight (or Cap-Height --> option in context menu). Useful for Spacing and Kerning because the visible leftover is what matters the most here.\nWritten by Mark Frömberg (@Mark2Mark)";
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Glyphsapp-Plugins/11561cf20d110e314943e6294edf47defbdb73bc/Screenshots/UncoverXHeight/UcXh%2001.png?raw=true";
 			},
 			{
 				name = "ArrangeWindows.glyphsPlugin";
+				title = "Arrange Windows";
 				url = "https://github.com/Mark2Mark/ArrangeWindows";
-				description = "`Window > Arrange Windows` does just what it says.\n**Options:**\n`Arrange Windows & Macro Panel` [Option Key].\n`Arrange Windows On Screens` [Shift Key] if 2 Fonts and 2 Screens are present.";
+				description = "`Window > Arrange Windows` does just what it says.\n**Options:**\n`Arrange Windows & Macro Panel` [Option Key].\n`Arrange Windows On Screens` [Shift Key] if 2 Fonts and 2 Screens are present.\nWritten by Mark Frömberg (@Mark2Mark)";
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/ArrangeWindows/master/ArrangeWindows.gif";
 			},
 			{
 				name = "LabelColor.glyphsReporter";
+				title = "Label Color";
 				url = "https://github.com/Mark2Mark/Show-Label-Color";
-				description = "`View > Show * Label Color` Displays each glyphs’s Label Color in the edit tab. Full width or left: glyph color, right: layer color.";
+				description = "`View > Show Label Color` Displays each glyphs’s Label Color in the edit tab. Full width or left: glyph color, right: layer color.\nWritten by Mark Frömberg (@Mark2Mark)";
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Show-Label-Color/d054d4d05d6f16b2be49f055f2b06b27725b81c8/Screenshots/Show%20Label%20Color%2001.png?raw=true";
 			},
 			{
 				name = "ReporterToggler.glyphsPalette";
+				title = "Reporter Toggler";
 				url = "https://github.com/Mark2Mark/Reporter-Toggler";
-				description = "Adds a menu to the Palette, which gives you instant access to all your reporter plugins. Quick’n’easy on/off switching with just a single click.";
-				screenshot = "https://github.com/Mark2Mark/Reporter-Toggler/raw/master/Screenshots/ReporterToggler%2001.png";
+				description = "Adds a menu to the Palette, which gives you instant access to all your reporter plugins. Quick’n’easy on/off switching with just a single click.\nWritten by Mark Frömberg (@Mark2Mark)";
+				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Reporter-Toggler/master/Images/ReporterToggler%2002.png";
 			},
 			{
 				name = "ShowKerningGroups.glyphsReporter";
+				title = "Show Kerning Groups";
 				url = "https://github.com/Mark2Mark/Show-Kerning-Group-Reference";
-				description = "`View > Show * Kerning Groups` Displays all members of the currently active glyph’s kerning group to either side in miniature and realtime. Useful when setting up kerning groups and getting visual feedback right away. If you see elements sticking out of the right group, you know there might be a group member set wrong. Same for the left side. It is somehow related to the built-in feature \"Show Group Members\" by Georg Seifert, but this one does not need the caret to sit between a certain pair.";
+				description = "`View > Show Kerning Groups` Displays all members of the currently active glyph’s kerning group to either side in miniature and realtime. Useful when setting up kerning groups and getting visual feedback right away. If you see elements sticking out of the right group, you know there might be a group member set wrong. Same for the left side. It is somehow related to the built-in feature \"Show Group Members\" by Georg Seifert, but this one does not need the caret to sit between a certain pair.\nWritten by Mark Frömberg (@Mark2Mark)";
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Show-Kerning-Group-Reference/12fd9ffaa0447f742dabce60a407ece582e1d6b2/Screenshots/KGR%2001.png?raw=true";
 			},
 			{
 				name = "ShowNextFont.glyphsReporter";
+				title = "Show Next Font";
 				url = "https://github.com/guidoferreyra/ShowNextFont";
 				description = "This plugin shows in a light orange colour the same glyph of another opened font. It could be useful for visual comparison of italics with normal styles,or different versions of the same font.";
 				screenshot = "https://raw.githubusercontent.com/guidoferreyra/ShowNextFont/master/screen-nextfont.png";
 			},
 			{
 				name = "ShowAnchorsCompatibility.glyphsReporter";
+				title = "Show Anchors Compatibility";
 				url = "https://github.com/guidoferreyra/ShowAnchorsCompatibility";
 				description = "This plugin is a complementary tool for Show Masters compatibility for those cases where the masters are not compatible because the absence of wrong naming of an anchor. The plugin displays a red circle behind the anchor that is not present in all masters.";
 				screenshot = "https://raw.githubusercontent.com/guidoferreyra/ShowAnchorsCompatibility/master/screen-anchorscompat.png";
 			},
 			{
 				name = "ShowNextFontAnchors.glyphsReporter";
+				title = "Show Next Font Anchors";
 				url = "https://github.com/guidoferreyra/ShowNextFontAnchors";
 				description = "This plugin shows in a light orange colour the list of anchors used in the glyph of the next font and in gray colour the list of current font anchors.\nIf anchors names and quantity matches between fonts it display the word \"OK\" in green. Useful to compare versions of fonts or regular vs italics.";
 				screenshot = "https://raw.githubusercontent.com/guidoferreyra/ShowNextFontAnchors/master/screen-nextfontanchors.png";
 			},
 			{
 				name = "showCoordinates.glyphsReporter";
+				title = "Show Coordinates";
 				url = "https://github.com/guidoferreyra/showCoordinates";
 				description = "This plugin is similar to the Measurement tool, but it constantly displays the node coordinates and the handles' delta values.";
 				screenshot = "https://raw.githubusercontent.com/guidoferreyra/showCoordinates/master/screen-coordinates.png";
 			},
 			{
 				name = "Kernkraft.glyphsPlugin";
-				url = "https://github.com/carrois/Kernkraft";
-				description = "»Kernkraft« & »Kernschmelze« will help you to be easily confronted with all the necessary pairs your Font provides (no matter how extended the character set is).\n\nProgrammed by Mark Frömberg (@Mark2Mark).\nPlease contact me for any issues or ideas.\nBased on the way of kerning by Carrois (carrois.com).\n\nNavigate in UI with your keyboard: ←,  → and ⏎. Save notes for later.\n\nDepends on `Vanilla` module to be installed. Please install via Glyphs Preferences > Addons > Modules";
-				screenshot = "https://raw.githubusercontent.com/carrois/Kernkraft/master/Kernkraft%2001.png";
+				url = "https://github.com/bBoxType/Kernkraft";
+				description = "»Kernkraft« & »Kernschmelze« will help you to be easily confronted with all the necessary pairs your Font provides (no matter how extended the character set is).\n\nProgrammed by Mark Frömberg (@Mark2Mark).\nPlease contact me for any issues or ideas.\nBased on the way of kerning by bBox Type GmbH (bboxtype.com).\n\nNavigate in UI with your keyboard: ←,  → and ⏎. Save notes for later.\n\nDepends on `Vanilla` module to be installed. Please install via Glyphs Preferences > Addons > Modules";
+				screenshot = "https://raw.githubusercontent.com/bBoxType/Kernkraft/master/Kernkraft%2002.png";
 			},
 			{
 				name = "ShowStems.glyphsReporter";
+				title = "Show Stems (Light)";
 				url = "https://github.com/Mark2Mark/Show-Stems";
-				description = "`View > Show * Stems` If active, it shows a measurement line (even in edit mode) with all distances between the outlines. If any distance matches the saved metrics in the Glyphs Palette, it will highlight in green and tell you which one it matches. The vertical position is attached to the Glyphsapp measurement line and can be moved around the same way.\nShortcut: `cmd+opt+ctrl+s` (like **S**tems)";
+				description = "`View > Show Stems` If active, it shows a measurement line (even in edit mode) with all distances between the outlines. If any distance matches the saved metrics in the Glyphs Palette, it will highlight in green and tell you which one it matches. The vertical position is attached to the Glyphsapp measurement line and can be moved around the same way.\nShortcut: `cmd+opt+ctrl+s` (like **S**tems)\nWritten by Mark Frömberg (@Mark2Mark)";
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Show-Stems/master/Images/Show%20Stems%2003.png";
 			},
 			{
@@ -255,30 +295,35 @@
 			},
 			{
 				name = "ShowNodeIndexes.glyphsReporter";
+				title = "Show Node Indexes";
 				url = "https://github.com/mekkablue/ShowNodeIndexes";
 				description = "*View > Show Node Indexes* shows index numbers for the current glyph in Edit view. Toggle display of BCP indexes via context menu.";
 				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowNodeIndexes/master/ShowNodeIndexes.png";
 			},
 			{
 				name = "DeleteSmallPaths.glyphsFilter";
+				title = "Delete Small Paths";
 				url = "https://github.com/mekkablue/DeleteSmallPaths";
 				description = "*Filter > Delete Small Paths* deletes all paths smaller than a threshold value in square units. It can be useful for cleaning up glyphs from vector debris.";
 				screenshot = "https://raw.githubusercontent.com/mekkablue/DeleteSmallPaths/master/DeleteSmallPaths.png";
 			},
 			{
 				name = "RekhaViewer.glyphsReporter";
+				title = "Rekha Viewer";
 				url = "https://github.com/mekkablue/Rekha";
 				description = "*View > Show Rekha* shows a Rekha line in Bengali, Devanagari and Gumurkhi letters. It takes its values from a custom parameter in *File > Font Info > Masters* called *Rekha*, with comma-separated values for height, thickness and overshoot. If a *rekha* anchor is present in the glyph, it will use it as the left edge of the Rekha line.";
 				screenshot = "https://raw.githubusercontent.com/mekkablue/Rekha/master/RekhaViewer.png";
 			},
 			{
 				name = "RekhaMaker.glyphsFilter";
+				title = "Rekha Maker";
 				url = "https://github.com/mekkablue/Rekha";
 				description = "*Filter > RekhaMaker* inserts a Rekha line in Bengali, Devanagari and Gumurkhi letters. Supply values for height, thickness and overshoot, and press the *Insert* button. If a *rekha* anchor is present in the glyph, it will use it as the left edge of the Rekha line.";
 				screenshot = "https://raw.githubusercontent.com/mekkablue/Rekha/master/RekhaMaker.png";
 			},
 			{
 				name = "RemoveKerningExceptions.glyphsFilter";
+				title = "Remove Kerning Exceptions";
 				url = "https://github.com/mekkablue/RemoveKerningExceptions";
 				description = "*Filter > Remove Kerning Exceptions* removes all kerning exception of selected glyphs in the current master, leaving group kerning intact. Its true power lies in its application as custom parameter. This can be useful in situations where you change the shape of a letter with a *Rename Glyphs* parameter, and its kerning exceptions do not apply anymore.";
 			},
@@ -291,64 +336,81 @@
 			},
 			{
 				name = "StemThickness.glyphsReporter";
+				title = "Stem Thickness";
 				url = "https://github.com/RafalBuchner/StemThickness";
 				description = "The tool shows how thick is the stem in a pointed place.";
 				screenshot = "https://raw.githubusercontent.com/RafalBuchner/StemThickness/master/images/ilu_StemThickness.png";
 			},
 			{
 				name = "GlyphNote.glyphsPalette";
+				title = "Glyph Note";
 				url = "https://github.com/mekkablue/NotePalettes";
 				description = "Adds a Glyph Note Palette to your Palette (Cmd-Opt-P), displaying the note for the currently selected glyph.";
 				screenshot = "https://raw.githubusercontent.com/mekkablue/NotePalettes/master/NotePlugins.png";
 			},
 			{
 				name = "MakeCorner.glyphsFilter";
+				title = "Make Corner";
 				url = "https://github.com/mekkablue/MakeCorner";
 				description = "*Filter > Make Corner* reverses the functionality of the Round Corner filter, and turns curves into corners again.";
 				screenshot = "https://raw.githubusercontent.com/mekkablue/MakeCorner/master/MakeCorner.png";
 			},
 			{
 				name = "ShowUnderline.glyphsPlugin";
+				title = "Show Underline";
 				url = "https://github.com/schriftgestalt/ShowUnderline";
 				description = "Installs an icon into the bottom toolbar and draws a preview of the underline according to the parameters *underlineThickness* and *underlinePosition* in *File > Font Info > Masters*.";
 				screenshot = "https://raw.githubusercontent.com/schriftgestalt/ShowUnderline/master/Screenshot.png";
 			},
 			{
 				name = "ExtrudeTool.glyphsTool";
+				title = "Extrude Tool";
 				url = "https://github.com/danielgamage/Extrude-Tool";
 				description = "Tool for extruding selected path segments inwards or outwards. Great for quick, destructive path editing.";
 				screenshot = "https://raw.githubusercontent.com/danielgamage/Extrude-Tool/master/images/screenshot.png";
 			},
 			{
 				name = "SelectionPalette.glyphsPalette";
+				title = "SelectionPalette";
 				url = "https://github.com/danielgamage/SelectionPalette";
 				description = "Palette that provides selection commands such as *undo*, *grow*, *shrink*, and a pattern-recognizing *continue*, as well as selection operations to *add*, *remove*, or *select only* elements of a certain type.";
 				screenshot = "https://raw.githubusercontent.com/danielgamage/SelectionPalette/master/Images/screenshot.png";
 			},
 			{
 				name = "TraceImage.glyphsFilter";
+				title = "Trace Image";
 				url = "https://github.com/schriftgestalt/GlyphsTracePlugin";
 				description = "This is a plugin to trace image into editable paths. It uses either the library [porace](http://potrace.sourceforge.net) or [autotrace](http://autotrace.sourceforge.net).";
 			},
 			{
+				name = "Speed Punk 30-day Trial.glyphsReporter";
+				title = "Speed Punk Reporter 30-day Trial";
+				url = "https://github.com/yanone/SpeedPunk30DayTrial";
+				description = "Understand and improve your outlines with this curvature comb visualization.\nMore infos at http://yanone.de/software/speedpunk/\n\n**Make sure to remove the old Speedpunk Tool**";
+				screenshot = "https://raw.githubusercontent.com/yanone/SpeedPunk30DayTrial/master/speedpunkglyphs.jpg";
+			},
+			{
 				name = "Speed Punk 30-day Trial.glyphsTool";
 				url = "https://github.com/yanone/SpeedPunk30DayTrial";
-				description = "Understand and improve your outlines with this curvature comb visualization.\nMore infos at http://yanone.de/software/speedpunk/";
+				description = "**Don’t install this. Please use the \"Speed Punk 30-day Trial Reporter\".**\nUnderstand and improve your outlines with this curvature comb visualization.\nMore infos at http://yanone.de/software/speedpunk/";
 				screenshot = "https://raw.githubusercontent.com/yanone/SpeedPunk30DayTrial/master/speedpunkglyphs.jpg";
 			},
 			{
 				name = "LigatureCaret.glyphsReporter";
+				title = "Ligature Caret";
 				url = "https://github.com/FAlthausen/LigatureCaret";
 				description = "Select a 'caret' named anchor to show the cursor position in ligatures as a vertical line. Be aware that most software doesn’t take note of the font’s italic angle.";
 				screenshot = "https://raw.githubusercontent.com/FAlthausen/LigatureCaret/master/LigatureCaretScreenshot.png";
 			},
 			{
 				name = "PixelTool.glyphsTool";
+				title = "Pixel Tool";
 				url = "https://github.com/schriftgestalt/PixelTool";
 				description = "This is a simple pixel drawing tool.\nIt needs a 'pixel' glyph in the font. And it is advised to have set the fonts grid to the size of the pixel.";
 			},
 			{
 				name = "ShowNextFontComponents.glyphsReporter";
+				title = "Show Next Font Components";
 				url = "https://github.com/guidoferreyra/ShowNextFontComponents";
 				description = "Shows in a light orange colour the list of components used in the glyph of the next font and in gray colour the list of current font components. If anchors names and quantity matches between fonts it display the word \"OK\" in green.";
 				screenshot = "https://raw.githubusercontent.com/guidoferreyra/ShowNextFontComponents/master/screen-nextfontcomponents.png";
@@ -361,24 +423,28 @@
 			},
 			{
 				name = "RotateView.glyphsPlugin";
+				title = "Rotate View";
 				url = "https://github.com/aaronbell/RotateView";
 				description = "Allows one to rotate the currently-selected glyph to preview it from multiple angles";
 				screenshot = "https://github.com/aaronbell/RotateView/raw/master/RotateView-1.png";
 			},
 			{
 				name = "ShowAllBackgrounds.glyphsReporter";
+				title = "Show all Backgrounds";
 				url = "https://github.com/mekkablue/ShowAllBackgrounds";
 				description = "*View > Show All Backgrounds* displays the background layers of inactive glyphs in Edit view, i.e., all glyphs except the one currently open for editing. It displays paths in a pinkish color, components in a pastel orange. It works best if you disable *View > Fill Preview*.";
 				screenshot = "https://github.com/mekkablue/ShowAllBackgrounds/raw/master/ShowAllBackgrounds.png";
 			},
 			{
 				name = "ShowCrosshair.glyphsReporter";
+				title = "Show Crosshair";
 				url = "https://github.com/mekkablue/ShowCrosshair";
 				description = "*View > Show Crosshair* displays a crosshair at your mouse coordinates. Use the context menu to toggle between showing the crosshair permanently or only while dragging.";
 				screenshot = "https://github.com/mekkablue/ShowCrosshair/raw/master/ShowCrosshair.png";
 			},
 			{
 				name = "ShowVerticalMetrics.glyphsReporter";
+				title = "Show Vertical Metrics";
 				url = "https://github.com/mekkablue/ShowVerticalMetrics";
 				description = "*View > Show Vertical Metrics* displays vertical metric parameters set in *File > Font Info > Masters.*";
 				screenshot = "https://github.com/mekkablue/ShowVerticalMetrics/raw/master/ShowVerticalMetrics.png";
@@ -391,6 +457,7 @@
 			},
 			{
 				name = "ShowGlyphsInLabelColor.glyphsReporter";
+				title = "Show Glyphs in Label Color";
 				url = "https://github.com/mekkablue/ShowGlyphsInLabelColor";
 				description = "*View > Show Glyphs in Label Color* displays glyphs in Edit view in their respective label color.";
 				screenshot = "https://github.com/mekkablue/ShowGlyphsInLabelColor/raw/master/ShowGlyphsInLabelColor.png";
@@ -403,12 +470,14 @@
 			},
 			{
 				name = "VerticalSkew.glyphsPalette";
+				title = "Vertical Skew";
 				url = "https://github.com/mekkablue/VerticalSkew";
 				description = "The *Vertical Skew* palette allows you to shear your artwork vertically. It reuses the transformation origin set in the *Transformations* palette.";
 				screenshot = "https://github.com/mekkablue/VerticalSkew/raw/master/VerticalSkew.png";
 			},
 			{
 				name = "ShowBlackFill.glyphsReporter";
+				title = "Show Black Fill";
 				url = "https://github.com/Tosche/ShowBlackFill";
 				description = "*View > Show Black Fill* shows the outline in near-black colour. It is an alternative of Mekkablue's *Show Filled Preview* (thanks for the idea!), for those who want a darker and sharper version.";
 				screenshot = "https://github.com/Tosche/ShowBlackFill/raw/master/ShowBlackFill.png";
@@ -421,43 +490,43 @@
 			},
 			{
 				name = "SyncSelection.glyphsPlugin";
+				title = "Sync Layer Selections";
 				url = "https://github.com/mekkablue/SyncSelection";
-				description = "*Edit > Sync Layer Selections* keeps selections in sync between multiple layers of the same glyph.";
+				description = "*Edit > Sync Layer Selections* keeps point, component and anchor selections in sync between all compatible layers of the same glyph.";
 				screenshot = "https://github.com/mekkablue/SyncSelection/raw/master/SyncSelectionScreenshot.png";
 				minVersion = 920;
 			},
 			{
 				name = "LabelKey.glyphsPalette";
+				title = "Label Key";
 				url = "https://github.com/RobertPratley/labelKey";
 				description = "Adds a palette displaying a user defined key for Glyphs' colour labelling. \nRefer to the full readme (https://github.com/RobertPratley/labelKey) for information on how to use it.";
 				screenshot = "https://github.com/RobertPratley/labelKey/raw/master/labelKeyExample.png";
 			},
-			// {
-			// 	name = "AnchorsPalette/Anchors.glyphsPalette";
-			// 	url = "https://github.com/justanotherfoundry/freemix-glyphsapp/";
-			// 	description = "The palette shows the position of anchors in the selected glyphs. This helps you check for consistent positioning of anchors if multiple glyphs are selected. For example, select A–Z to see whether all `top` anchors are on the same height, and adjust their position.";
-			// 	screenshot = "https://github.com/justanotherfoundry/freemix-glyphsapp/raw/master/AnchorsPalette/AnchorsPalette.png";
-			// },
 			{
 				name = "MetricsSolver.glyphsPlugin";
+				title = "Metrics Solver";
 				url = "https://github.com/jayKayEss/MetricsSolver";
 				description = "Update all metrics across all masters and check for bad metrics keys in a single step. This plugin adds the Edit > Resolve All Metrics menu option.";
 				screenshot = "https://github.com/jayKayEss/MetricsSolver/raw/master/Extras/screenshot.png";
 			},
 			{
 				name = "DeleteShortSegments.glyphsFilter";
+				title = "Delete Short Segments";
 				url = "https://github.com/mekkablue/DeleteShortSegments";
 				description = "*Filter > Delete Short Segments* deletes line segments from your paths that are shorter than 1 unit. (Or, more precisely, if both x and y distances of the segment are shorter than 1 unit.) This can be very useful for cleaning up roughened paths when you have a grid step finer than 1 unit.";
 				screenshot = "https://github.com/mekkablue/DeleteShortSegments/raw/master/DeleteShortSegments.png";
 			},
 			{
 				name = "ShowMarkPreview.glyphsReporter";
+				title = "Show Mark Preview";
 				url = "https://github.com/mekkablue/ShowMarkPreview";
 				description = "*View > Show Mark Preview* is a displays mark-to-base and mark-to-mark attachment with the letters and marks you type in Edit view.";
 				screenshot = "https://github.com/mekkablue/ShowMarkPreview/raw/master/ShowMarkPreview.png";
 			},
 			{
 				name = "SyncMetricsKeys.glyphsPlugin";
+				title = "Sync Metrics Keys";
 				url = "https://github.com/underscoretype/glyphs-plugin-sync-metrics-keys.git";
 				description = "*Glyph > Sync Metrics Keys* will automatically sync sidebearing changes in the editor view to any glyphs with a linked metrics key.";
 				screenshot = "https://raw.githubusercontent.com/underscoretype/glyphs-plugin-sync-metrics-keys/master/SyncMetricsKeys.png";
@@ -465,13 +534,114 @@
 			{
 				name = "Skedge.glyphsPlugin";
 				url = "https://github.com/Mark2Mark/Skedge";
-				description = "*Window > Skedge* is a live python sketcher for Glyphsapp.";
-				screenshot = "https://github.com/Mark2Mark/Skedge/raw/master/Images/Skedge%20Screenshot%203.png";
+				description = "*Window > Skedge* is a live python sketcher for Glyphsapp.\nWritten by Mark Frömberg (@Mark2Mark)";
+				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Skedge/master/Images/Skedge%2003.gif";
 			},
 			{
 				name = "Backuper.glyphsPlugin";
 				url = "https://github.com/schriftgestalt/Backuper";
 				description = "A plugin that makes a copy of the file if opened in a new version of Glyphs";
+			},
+			{
+				name = "MasterGrid.glyphsReporter";
+				title = "Master Grid";
+				url = "https://github.com/jenskutilek/MasterGrid";
+				description = "Set and display a grid that keeps different dimensions in different masters. Activate via *View > Show Master Grid*, edit or delete the grid via *Edit > Master Grid...*";
+				screenshot = "https://raw.githubusercontent.com/jenskutilek/MasterGrid/master/Images/screenshot.png";
+			},
+			{
+				name = "word-o-mat.glyphsPlugin";
+				title = "Word-o-Mat";
+				url = "https://github.com/schriftgestalt/word-o-mat";
+				description = "Nina Stössinger’s plug-in for generating sample texts";
+				screenshot = "https://raw.githubusercontent.com/schriftgestalt/word-o-mat/master/screenshotGlyphs.png";
+			},
+			{
+				name = "Rimmer.glyphsFilter";
+				url = "https://github.com/mekkablue/Rimmer";
+				description = "*Filter > Rimmer* adds rims around your glyphs.";
+				screenshot = "https://raw.githubusercontent.com/mekkablue/Rimmer/master/Rimmer.png";
+			},
+			{
+				name = "Touche.glyphsPlugin";
+				title = "Touché";
+				url = "https://github.com/schriftgestalt/Touche";
+				description = "Nina Stössinger’s plug-in for finding touching/colliding glyph pairs.";
+				screenshot = "https://github.com/schriftgestalt/Touche/raw/master/screenshotGlyphs.png";
+			},
+			{
+				name = "ImageFrame.glyphsPlugin";
+				title = "Image Frame";
+				url = "https://github.com/dyyybek/ImageFrame";
+				description = "*Window > Image Frame* keeps your favourite images for inspiration during work in this simple always-on-top window. Drag and drop to set a new image.";
+				screenshot = "https://raw.githubusercontent.com/dyyybek/ImageFrame/master/screenshot.png";
+			},
+			{
+				name = "SegmentLength.glyphsReporter";
+				title = "Show Segment Lengths";
+				url = "https://github.com/mekkablue/SegmentLength";
+				description = "*View > Show Segment Lengths* displays the approximate lengths of each path segment of the current glyph.";
+				screenshot = "https://raw.githubusercontent.com/mekkablue/SegmentLength/master/SegmentLength.png";
+			},
+			{
+				name = "Beowulferize.glyphsFilter";
+				title = "Beowulferize";
+				url = "https://github.com/mekkablue/Beowulferize";
+				description = "*Filter > Beowulferize* randomly moves glyph nodes around, creating an effect reminiscent of Letterror’s infamous Beowulf font, hence the name.";
+				screenshot = "https://raw.githubusercontent.com/mekkablue/Beowulferize/master/Beowulferize.png";
+			},
+			{
+				name = "RandomRotate.glyphsFilter";
+				title = "RandomRotate";
+				url = "https://github.com/mekkablue/RandomRotate";
+				description = "*Filter > Random Rotate* randomly rotates glyphs around their center.";
+				screenshot = "https://raw.githubusercontent.com/mekkablue/RandomRotate/master/RandomRotate.png";
+			},
+			{
+				name = "CollectHangul.glyphsPlugin";
+				title = "Collect-Hangul";
+				url = "https://github.com/nanife/CollectHangul_Glyphs";
+				description = "*Collect-Hangul* lets you select or input Korean hangul characters easily by selecting consonants and vowels.\n *한글 모으기*는 초성, 중성, 종성 자소 선택으로 한글 입력 및 선택을 쉽게할 수 있고, 선택된 결과를 저장할 수 있어 한글 폰트 제작에 매우 유용합니다.\n **requirements** : `Vanilla` module - you can install via Glyphs Preferences > Addons > Modules \n **사용 환경** : Vanilla 모듈 - 글립스의 환경설정 > 애드온 > 모듈 에서 '모듈 설치'를 통해 설치 가능.\n http://www.linegap.com/portfolio-items/collect-hangul-in-glyphs/";
+				screenshot = "https://raw.githubusercontent.com/nanife/CollectHangul_Glyphs/master/mainView.png";
+			},
+			{
+				name = "OffsetCurveWithAngle.glyphsFilter";
+				title = "Offset Curve with Angle";
+				url = "https://github.com/mekkablue/OffsetCurveWithAngle";
+				description = "*Filter > Offset Curve with Angle* provides a simple curve offset with an angle.";
+				screenshot = "https://raw.githubusercontent.com/mekkablue/OffsetCurveWithAngle/master/OffsetCurveWithAngle.png";
+			},
+			{
+				name = "Delete Duplicate Paths.glyphsFilter";
+				title = "Delete Duplicate Paths";
+				url = "https://github.com/mekkablue/DeleteDuplicatePaths";
+				description = "*Filter > Delete Duplicate Paths* deletes path duplicates. It does not care if the points are set to smooth (green) or not (blue), only if the coordinates are the same, and the closed/open status is the same.";
+			},
+			{
+				name = "FramesPerSecond.glyphsReporter";
+				title = "Frames Per Second";
+				url = "https://github.com/schriftgestalt/FramesPerSecond";
+				description = "Displays a the frames per second the edit view. This is useful for debugging.";
+			},
+			{
+				name = "Kern-A-Lytics.glyphsFilter";
+				title = "Kern-A-Lytics";
+				url = "https://github.com/schriftgestalt/kernalytics-rf-ext";
+				description = "Helps analyzing and fixing the consistency of kerning across all masters.";
+				screenshot = "https://raw.githubusercontent.com/schriftgestalt/kernalytics-rf-ext/master/kern-a-lytics-Glyphs.png";
+			},
+			{
+				name = "Pixelate.glyphsFilter";
+				title = "Pixelate";
+				url = "https://github.com/mekkablue/Pixelate";
+				description = "*Filter > Pixelate* rasterises shapes with a user-defined pixel glyph.";
+				screenshot = "https://raw.githubusercontent.com/mekkablue/Pixelate/master/Pixelate.png";
+			},
+			{
+				name = "TTControlInstructions.glyphsPalette";
+				title = "TT Control Instructions Palette";
+				url = "https://github.com/mekkablue/TTControlInstructionsPalette";
+				description = "Palette for writing ttfAutohint control instructions while zoomed in.";
 			},
 			{
 				name = "Wordfinder.glyphsPlugin";
