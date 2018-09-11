@@ -272,7 +272,7 @@
 				name = "Kernkraft.glyphsPlugin";
 				url = "https://github.com/bBoxType/Kernkraft";
 				description = "»Kernkraft« & »Kernschmelze« will help you to be easily confronted with all the necessary pairs your Font provides (no matter how extended the character set is).\n\nProgrammed by Mark Frömberg (@Mark2Mark).\nPlease contact me for any issues or ideas.\nBased on the way of kerning by bBox Type GmbH (bboxtype.com).\n\nNavigate in UI with your keyboard: ←,  → and ⏎. Save notes for later.\n\nDepends on `Vanilla` module to be installed. Please install via Glyphs Preferences > Addons > Modules";
-				screenshot = "https://raw.githubusercontent.com/bBoxType/Kernkraft/master/Kernkraft%2001.png";
+				screenshot = "https://raw.githubusercontent.com/bBoxType/Kernkraft/master/Kernkraft%2002.png";
 			},
 			{
 				name = "ShowStems.glyphsReporter";
@@ -535,7 +535,7 @@
 				name = "Skedge.glyphsPlugin";
 				url = "https://github.com/Mark2Mark/Skedge";
 				description = "*Window > Skedge* is a live python sketcher for Glyphsapp.\nWritten by Mark Frömberg (@Mark2Mark)";
-				screenshot = "https://github.com/Mark2Mark/Skedge/raw/master/Images/Skedge%20Screenshot%203.png";
+				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Skedge/master/Images/Skedge%2003.gif";
 			},
 			{
 				name = "Backuper.glyphsPlugin";
@@ -630,13 +630,31 @@
 				description = "Helps analyzing and fixing the consistency of kerning across all masters.";
 				screenshot = "https://raw.githubusercontent.com/schriftgestalt/kernalytics-rf-ext/master/kern-a-lytics-Glyphs.png";
 			},
+				name = "Pixelate.glyphsFilter";
+				title = "Pixelate";
+				url = "https://github.com/mekkablue/Pixelate";
+				description = "*Filter > Pixelate* rasterises shapes with a user-defined pixel glyph.";
+				screenshot = "https://raw.githubusercontent.com/mekkablue/Pixelate/master/Pixelate.png";
+			},
+			{
+				name = "TTControlInstructions.glyphsPalette";
+				title = "TT Control Instructions Palette";
+				url = "https://github.com/mekkablue/TTControlInstructionsPalette";
+				description = "Palette for writing ttfAutohint control instructions while zoomed in.";
+			},
+			{
+				name = "Wordfinder.glyphsPlugin";
+				url = "https://github.com/underscoretype/glyphs-plugin-wordfinder";
+				description = "A simple Glyphs App plugin to find words that contain the selected glyphs";
+				screenshot = "https://raw.githubusercontent.com/underscoretype/glyphs-plugin-wordfinder/master/Wordfinder.png";
+			},
 			{
 				name = "ChangeIncrement.glyphsPalette";
 				title = "Change Keyboard Increment";
 				url = "https://github.com/filipenegrao/Change-Keyboard-Increment";
 				description = "It changes the default keyboard increment value to a settable new one.";
 				screenshot = "https://github.com/filipenegrao/Change-Keyboard-Increment/blob/master/change_increment.png";
-			},
+			}
 		);
 	};
 }
