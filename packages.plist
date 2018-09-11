@@ -630,6 +630,7 @@
 				description = "Helps analyzing and fixing the consistency of kerning across all masters.";
 				screenshot = "https://raw.githubusercontent.com/schriftgestalt/kernalytics-rf-ext/master/kern-a-lytics-Glyphs.png";
 			},
+			{
 				name = "Pixelate.glyphsFilter";
 				title = "Pixelate";
 				url = "https://github.com/mekkablue/Pixelate";
