@@ -643,6 +643,12 @@
 				url = "https://github.com/mekkablue/TTControlInstructionsPalette";
 				description = "Palette for writing ttfAutohint control instructions while zoomed in.";
 			},
+			{
+				name = "Wordfinder.glyphsPlugin";
+				url = "https://github.com/underscoretype/glyphs-plugin-wordfinder";
+				description = "A simple Glyphs App plugin to find words that contain the selected glyphs";
+				screenshot = "https://raw.githubusercontent.com/underscoretype/glyphs-plugin-wordfinder/master/Wordfinder.png";
+			}
 		);
 	};
 }
