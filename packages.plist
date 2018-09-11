@@ -472,6 +472,12 @@
 				name = "Backuper.glyphsPlugin";
 				url = "https://github.com/schriftgestalt/Backuper";
 				description = "A plugin that makes a copy of the file if opened in a new version of Glyphs";
+			},
+			{
+				name = "Wordfinder.glyphsPlugin";
+				url = "https://github.com/underscoretype/glyphs-plugin-wordfinder";
+				description = "A simple Glyphs App plugin to find words that contain the selected glyphs";
+				screenshot = "https://raw.githubusercontent.com/underscoretype/glyphs-plugin-wordfinder/master/Wordfinder.png";
 			}
 		);
 	};
