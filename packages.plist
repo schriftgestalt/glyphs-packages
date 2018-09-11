@@ -630,7 +630,6 @@
 				description = "Helps analyzing and fixing the consistency of kerning across all masters.";
 				screenshot = "https://raw.githubusercontent.com/schriftgestalt/kernalytics-rf-ext/master/kern-a-lytics-Glyphs.png";
 			},
-			{
 				name = "Pixelate.glyphsFilter";
 				title = "Pixelate";
 				url = "https://github.com/mekkablue/Pixelate";
@@ -648,6 +647,13 @@
 				url = "https://github.com/underscoretype/glyphs-plugin-wordfinder";
 				description = "A simple Glyphs App plugin to find words that contain the selected glyphs";
 				screenshot = "https://raw.githubusercontent.com/underscoretype/glyphs-plugin-wordfinder/master/Wordfinder.png";
+			},
+			{
+				name = "ChangeIncrement.glyphsPalette";
+				title = "Change Keyboard Increment";
+				url = "https://github.com/filipenegrao/Change-Keyboard-Increment";
+				description = "It changes the default keyboard increment value to a settable new one.";
+				screenshot = "https://github.com/filipenegrao/Change-Keyboard-Increment/blob/master/change_increment.png";
 			}
 		);
 	};
