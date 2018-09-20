@@ -662,6 +662,13 @@
 				url = "https://github.com/mekkablue/MakeBoxes";
 				description = "*Filter > Make Boxes* turns the glyph into a box reaching from LSB to RSB, and from descender to ascender, as set in *Font Info > Masters.* Useful as custom parameter for making a backdrop instance.";
 				screenshot = "https://github.com/mekkablue/MakeBoxes/blob/master/MakeBoxes.png";
+			},
+			{
+				name = "ShowGlyphFocus.glyphsReporter";
+				title = "Show Glyph Focus";
+				url = "https://github.com/mekkablue/ShowGlyphFocus";
+				description = "*View > Show Glyph Focus* highlights the current glyph. Also handy for spotting open paths and overlaps.";
+				screenshot = "https://github.com/mekkablue/ShowGlyphFocus/blob/master/GlyphFocus.png";
 			}
 		);
 	};
