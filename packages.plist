@@ -654,21 +654,21 @@
 				title = "Change Keyboard Increment";
 				url = "https://github.com/filipenegrao/Change-Keyboard-Increment";
 				description = "It changes the default keyboard increment value to a settable new one.";
-				screenshot = "https://github.com/filipenegrao/Change-Keyboard-Increment/blob/master/change_increment.png";
+				screenshot = "https://raw.githubusercontent.com/filipenegrao/Change-Keyboard-Increment/master/change_increment.png";
 			},
 			{
 				name = "MakeBoxes.glyphsFilter";
 				title = "Make Boxes";
 				url = "https://github.com/mekkablue/MakeBoxes";
 				description = "*Filter > Make Boxes* turns the glyph into a box reaching from LSB to RSB, and from descender to ascender, as set in *Font Info > Masters.* Useful as custom parameter for making a backdrop instance.";
-				screenshot = "https://github.com/mekkablue/MakeBoxes/blob/master/MakeBoxes.png";
+				screenshot = "https://raw.githubusercontent.com/mekkablue/MakeBoxes/master/MakeBoxes.png";
 			},
 			{
 				name = "ShowGlyphFocus.glyphsReporter";
 				title = "Show Glyph Focus";
 				url = "https://github.com/mekkablue/ShowGlyphFocus";
 				description = "*View > Show Glyph Focus* highlights the current glyph. Also handy for spotting open paths and overlaps.";
-				screenshot = "https://github.com/mekkablue/ShowGlyphFocus/blob/master/GlyphFocus.png";
+				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowGlyphFocus/master/GlyphFocus.png";
 			}
 		);
 	};
