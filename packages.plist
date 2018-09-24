@@ -669,6 +669,12 @@
 				url = "https://github.com/mekkablue/ShowGlyphFocus";
 				description = "*View > Show Glyph Focus* highlights the current glyph. Also handy for spotting open paths and overlaps.";
 				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowGlyphFocus/master/GlyphFocus.png";
+			},
+			{
+				name = "ShowComponentsCompatibility.glyphsReporter";
+				url = "https://github.com/guidoferreyra/ShowComponentsCompatibility";
+				description = "*View > Show Components Compatibility* displays in a list the names of the components used in the current layer if a component is missing in other master it uses red color on the component name label.";
+				screenshot = "https://raw.githubusercontent.com/guidoferreyra/ShowComponentsCompatibility/master/screen-componentesCompat.png";
 			}
 		);
 	};
