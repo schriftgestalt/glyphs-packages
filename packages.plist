@@ -538,6 +538,12 @@
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Skedge/master/Images/Skedge%2003.gif";
 			},
 			{
+				name = "ShowMarkZones.glyphsReporter";
+				url = "https://github.com/Mark2Mark/show-mark-zones";
+				description = "*View > Show Mark Zones* Displays custom zones as set up in your font masters.\nMore infos here in a bit ... \nWritten by Mark Frömberg (@Mark2Mark)";
+				screenshot = "https://raw.githubusercontent.com/Mark2Mark/show-mark-zones/master/ShowMarkZones%2001.png";
+			},
+			{
 				name = "Backuper.glyphsPlugin";
 				url = "https://github.com/schriftgestalt/Backuper";
 				description = "A plugin that makes a copy of the file if opened in a new version of Glyphs";
