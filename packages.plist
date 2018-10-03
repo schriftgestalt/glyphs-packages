@@ -418,7 +418,7 @@
 			{
 				name = "Obfuscator.glyphsFilter";
 				url = "https://github.com/guidoferreyra/Obfuscator";
-				description = "Replaces glyphs for another one in the font. Useful for replace glyphs in demo version of a font. See full [readme] (https://github.com/guidoferreyra/Obfuscator) for more info on how to use it.";
+				description = "Replaces glyphs for another one in the font. Useful for replace glyphs in demo version of a font. See full ([readme] [github.com/guidoferreyra/Obfuscator](https://github.com/guidoferreyra/Obfuscator)) for more info on how to use it.";
 				screenshot = "https://raw.githubusercontent.com/guidoferreyra/Obfuscator/master/screen-obfuscator.png";
 			},
 			{
