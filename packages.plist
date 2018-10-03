@@ -540,7 +540,7 @@
 			{
 				name = "ShowMarkZones.glyphsReporter";
 				url = "https://github.com/Mark2Mark/show-mark-zones";
-				description = "*View > Show Mark Zones* Displays custom zones as set up in your font masters.\nMore infos here in a bit ... \nWritten by Mark Frömberg (@Mark2Mark)";
+				description = "*View > Show Mark Zones* Displays custom zones as set up in your font masters.\nFor a detailed description click this link here: \nWritten by Mark Frömberg (@Mark2Mark)";
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/show-mark-zones/master/ShowMarkZones%2001.png";
 			},
 			{
