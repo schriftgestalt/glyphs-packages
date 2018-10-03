@@ -675,12 +675,6 @@
 				url = "https://github.com/guidoferreyra/ShowComponentsCompatibility";
 				description = "*View > Show Components Compatibility* displays in a list the names of the components used in the current layer if a component is missing in other master it uses red color on the component name label.";
 				screenshot = "https://raw.githubusercontent.com/guidoferreyra/ShowComponentsCompatibility/master/screen-componentesCompat.png";
-			},
-			{
-				name = "ShowMarkZones.glyphsReporter";
-				url = "https://github.com/Mark2Mark/show-mark-zones";
-				description = "*View > Show Mark Zones* Displays custom zones as set up in your font masters.\nA detailed description here: [github.com/Mark2Mark/show-mark-zones](https://github.com/Mark2Mark/show-mark-zones) \nWritten by Mark Frömberg (@Mark2Mark)";
-				screenshot = "https://raw.githubusercontent.com/Mark2Mark/show-mark-zones/master/ShowMarkZones%2001.png";
 			}
 		);
 	};
