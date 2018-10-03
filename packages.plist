@@ -500,7 +500,7 @@
 				name = "LabelKey.glyphsPalette";
 				title = "Label Key";
 				url = "https://github.com/RobertPratley/labelKey";
-				description = "Adds a palette displaying a user defined key for Glyphs' colour labelling. \nRefer to the full readme (https://github.com/RobertPratley/labelKey) for information on how to use it.";
+				description = "Adds a palette displaying a user defined key for Glyphs’ colour labelling. \nRefer to the full readme ([github.com/RobertPratley/labelKey](https://github.com/RobertPratley/labelKey)) for information on how to use it.";
 				screenshot = "https://github.com/RobertPratley/labelKey/raw/master/labelKeyExample.png";
 			},
 			{
