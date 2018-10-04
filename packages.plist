@@ -683,7 +683,14 @@
 				description = "The palette shows the position of anchors in the selected glyphs. This helps you check for consistent positioning of anchors if multiple glyphs are selected. For example, select A–Z to see whether all top anchors are on the same height, and adjust their position. If the position of the anchors is not identical in all selected glyphs then a gray x or y is shown.
 
 The palette shows the four most frequently used anchors. Setting the x or y position of a particular anchor via the palette only affects glyphs that have an anchor with the respecive name (anchors are never insterted or removed).";
-			}
+			},
+			{
+				name = "GlyphSILE.glyphsFilter";
+				title = "GlyphSILE";
+				url = "https://github.com/simoncozens/GlyphSILE.glyphsplugin";
+				description = "Embeds the SILE typesetter into Glyphs, allowing you to create and view complex font proofs while you edit.";
+				screenshot = "https://raw.githubusercontent.com/simoncozens/GlyphSILE.glyphsplugin/master/GlyphSILE.png";
+			},
 		);
 	};
 }
