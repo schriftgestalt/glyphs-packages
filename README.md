@@ -21,6 +21,12 @@ Separate multiple entries with commas. Best place to put it is right behind the 
 - **minVersion:** the minimum Glyphs version required for running the plug-in. Use the three- or four-digit build number as displayed between parentheses next to the version string in *Glyphs > About Glyphs,* e.g., `895`.
 - **maxVersion:** build number of the last version of Glyphs capable of running the plug-in. This can be used for older versions of the plug-in.
 
+#### Conventions
+
+* Use emphasis (text surrounded by by single asterisks `*` or underscores `_`) for text that appears in the UI, like a menu command. E.g., *File > Save.*
+* Use code (text surrounded by single backticks `\``) for text entered by the user, e.g. Python commands like `Glyphs.defaults["x"]=y`.
+* Do not stylize keyboard commands. Capitalise key names (Cmd, Ctrl, Shift, Opt), and use dashes between keys, e.g. Cmd-Shift-B.
+
 #### Example
 
 	{
