@@ -32,7 +32,7 @@
 				name = "SmartPlumblines.glyphsReporter";
 				title = "Smart Plumblines";
 				url = "https://github.com/Mark2Mark/Show-Smart-Plumblines";
-				description = "`View > Show Smart Plumblines` By default it displays **live guidelines** at the center of each paths’ (red) and components’ (grey) bounding box.\nIf you select anything, it also displays the center of that selection (blue dashed).\nOne major feature is that the guidelines **automatically match your italic angle**.\nThis is useful for aligning objects by sight. As well as:\n\n- Align multiple paths and/or components\n- Setting up horizontal positions of anchors\n- Editing segments while easily keeping italic angle, etc.\nWritten by Mark Frömberg (@Mark2Mark)";
+				description = "*View > Show Smart Plumblines* By default it displays **live guidelines** at the center of each paths’ (red) and components’ (grey) bounding box.\nIf you select anything, it also displays the center of that selection (blue dashed).\nOne major feature is that the guidelines **automatically match your italic angle**.\nThis is useful for aligning objects by sight. As well as:\n\n- Align multiple paths and/or components\n- Setting up horizontal positions of anchors\n- Editing segments while easily keeping italic angle, etc.\nWritten by Mark Frömberg (@Mark2Mark)";
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Glyphsapp-Plugins/Screenshots/Screenshots/SmartPlumblines/SmPlL%2012.png?raw=true";
 			},
 			{
@@ -52,7 +52,7 @@
 			{
 				name = "DrawBot.glyphsPlugin";
 				url = "https://github.com/schriftgestalt/DrawBotGlyphsPlugin";
-				description = "DrawBot inside Glyphs.\nMake a new drawBot from the File menu > New DrawBot, or open a file with cmd+O. Save or Save As as usual. Run the script by hitting the Run button (or pressing cmd+⏎). Clean the output area by pressing cmd+K.\n\nTo save a drawing as pdf, hit cmd+E (or File > Export..)";
+				description = "DrawBot inside Glyphs.\nMake a new drawBot from the File menu > New DrawBot, or open a file with Cmd-O. Save or Save As as usual. Run the script by hitting the Run button (or pressing Cmd-⏎). Clean the output area by pressing Cmd-K.\n\nTo save a drawing as pdf, hit Cmd-E (or File > Export..)";
 				screenshot = "https://raw.githubusercontent.com/schriftgestalt/DrawBotGlyphsPlugin/master/GlyphsLogoDrawBot.png";
 			},
 			{
@@ -188,42 +188,42 @@
 				name = "ShowRotated.glyphsReporter";
 				title = "Show Rotated";
 				url = "https://github.com/Mark2Mark/Show-Rotated";
-				description = "`View > Show Rotated` Superimposes the current glyph as a rotated copy of itself. Context Menu slider to adjust the rotation angle.\nWritten by Mark Frömberg (@Mark2Mark)";
+				description = "*View > Show Rotated* Superimposes the current glyph as a rotated copy of itself. Context Menu slider to adjust the rotation angle.\nWritten by Mark Frömberg (@Mark2Mark)";
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Glyphsapp-Plugins/Screenshots/ShowRotated/Screenshots/ShowRotated03_Mark-Froemberg.gif";
 			},
 			{
 				name = "ShowSiblings.glyphsReporter";
 				title = "Show Siblings (Light)";
 				url = "https://github.com/Mark2Mark/Show-Siblings";
-				description = "`View > Show Siblings` Superimposes a group of predefined glyphs in the background of your letters. This can be both pretty helpful in the beginning of a design as well as at intermediate progress where quick proof overview is needed. The degree of a desired match depends on each design, of course. Current Scripts: Latin, Greek, Cyrillic and »Twins« (glyph alternates like  *g.ss01* or  *g.alt.*\nWritten by Mark Frömberg (@Mark2Mark)";
+				description = "*View > Show Siblings* Superimposes a group of predefined glyphs in the background of your letters. This can be both pretty helpful in the beginning of a design as well as at intermediate progress where quick proof overview is needed. The degree of a desired match depends on each design, of course. Current Scripts: Latin, Greek, Cyrillic and »Twins« (glyph alternates like  *g.ss01* or  *g.alt.*\nWritten by Mark Frömberg (@Mark2Mark)";
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Glyphsapp-Plugins/Screenshots/ShowSiblings/Screenshots/screencapDemoFont.gif";
 			},
 			{
 				name = "SyncedTabs.glyphsReporter";
 				title = "Synced Tabs";
 				url = "https://github.com/Mark2Mark/SyncedTabs";
-				description = "`View > Show Synced Tabs` keeps all tabs from all open fonts in sync with the currently active tab. In **realtime!**. It is based on the **great idea and script** [Sync Edit Views.py](https://github.com/Tosche/Glyphs-Scripts/blob/master/Sync%20Edit%20Views.py) by [Tosche](https://github.com/Tosche).\n**Options**: Synchronize Tools as well: type\n`Glyphs.defaults[#com.markfromberg.syncedTabs.doSyncTools#] = True`\n(or `False`) in Macro panel and swap the # by inch-quotes.\nWritten by Mark Frömberg (@Mark2Mark)";
+				description = "*View > Show Synced Tabs* keeps all tabs from all open fonts in sync with the currently active tab. In **realtime!**. It is based on the **great idea and script** [Sync Edit Views.py](https://github.com/Tosche/Glyphs-Scripts/blob/master/Sync%20Edit%20Views.py) by [Tosche](https://github.com/Tosche).\n**Options**: Synchronize Tools as well: type\n`Glyphs.defaults[#com.markfromberg.syncedTabs.doSyncTools#] = True`\n(or `False`) in Macro panel and swap the # by inch-quotes.\nWritten by Mark Frömberg (@Mark2Mark)";
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Synced-Tabs/master/Images/SyncedTabs_Gintronic_MarkFroemberg_still.png";
 			},
 			{
 				name = "BlindFold.glyphsReporter";
 				title = "Blindfold";
 				url = "https://github.com/Mark2Mark/Blindfold";
-				description = "`View > Show Blindfold` Blackens out everything beyond the xHeight (or Cap-Height --> option in context menu). Useful for Spacing and Kerning because the visible leftover is what matters the most here.\nWritten by Mark Frömberg (@Mark2Mark)";
+				description = "*View > Show Blindfold* Blackens out everything beyond the xHeight (or Cap-Height --> option in context menu). Useful for Spacing and Kerning because the visible leftover is what matters the most here.\nWritten by Mark Frömberg (@Mark2Mark)";
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Glyphsapp-Plugins/11561cf20d110e314943e6294edf47defbdb73bc/Screenshots/UncoverXHeight/UcXh%2001.png?raw=true";
 			},
 			{
 				name = "ArrangeWindows.glyphsPlugin";
 				title = "Arrange Windows";
 				url = "https://github.com/Mark2Mark/ArrangeWindows";
-				description = "`Window > Arrange Windows` does just what it says.\n**Options:**\n`Arrange Windows & Macro Panel` [Option Key].\n`Arrange Windows On Screens` [Shift Key] if 2 Fonts and 2 Screens are present.\nWritten by Mark Frömberg (@Mark2Mark)";
+				description = "*Window > Arrange Windows* does just what it says.\n**Options:**\n*Arrange Windows & Macro Panel* [Option Key].\n*Arrange Windows On Screens* [Shift Key] if 2 Fonts and 2 Screens are present.\nWritten by Mark Frömberg (@Mark2Mark)";
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/ArrangeWindows/master/ArrangeWindows.gif";
 			},
 			{
 				name = "LabelColor.glyphsReporter";
 				title = "Label Color";
 				url = "https://github.com/Mark2Mark/Show-Label-Color";
-				description = "`View > Show Label Color` Displays each glyphs’s Label Color in the edit tab. Full width or left: glyph color, right: layer color.\nWritten by Mark Frömberg (@Mark2Mark)";
+				description = "*View > Show Label Color* Displays each glyphs’s Label Color in the edit tab. Full width or left: glyph color, right: layer color.\nWritten by Mark Frömberg (@Mark2Mark)";
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Show-Label-Color/d054d4d05d6f16b2be49f055f2b06b27725b81c8/Screenshots/Show%20Label%20Color%2001.png?raw=true";
 			},
 			{
@@ -237,7 +237,7 @@
 				name = "ShowKerningGroups.glyphsReporter";
 				title = "Show Kerning Groups";
 				url = "https://github.com/Mark2Mark/Show-Kerning-Group-Reference";
-				description = "`View > Show Kerning Groups` Displays all members of the currently active glyph’s kerning group to either side in miniature and realtime. Useful when setting up kerning groups and getting visual feedback right away. If you see elements sticking out of the right group, you know there might be a group member set wrong. Same for the left side. It is somehow related to the built-in feature \"Show Group Members\" by Georg Seifert, but this one does not need the caret to sit between a certain pair.\nWritten by Mark Frömberg (@Mark2Mark)";
+				description = "*View > Show Kerning Groups* Displays all members of the currently active glyph’s kerning group to either side in miniature and realtime. Useful when setting up kerning groups and getting visual feedback right away. If you see elements sticking out of the right group, you know there might be a group member set wrong. Same for the left side. It is somehow related to the built-in feature \"Show Group Members\" by Georg Seifert, but this one does not need the caret to sit between a certain pair.\nWritten by Mark Frömberg (@Mark2Mark)";
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Show-Kerning-Group-Reference/12fd9ffaa0447f742dabce60a407ece582e1d6b2/Screenshots/KGR%2001.png?raw=true";
 			},
 			{
@@ -271,14 +271,14 @@
 			{
 				name = "Kernkraft.glyphsPlugin";
 				url = "https://github.com/bBoxType/Kernkraft";
-				description = "»Kernkraft« & »Kernschmelze« will help you to be easily confronted with all the necessary pairs your Font provides (no matter how extended the character set is).\n\nProgrammed by Mark Frömberg (@Mark2Mark).\nPlease contact me for any issues or ideas.\nBased on the way of kerning by bBox Type GmbH (bboxtype.com).\n\nNavigate in UI with your keyboard: ←,  → and ⏎. Save notes for later.\n\nDepends on `Vanilla` module to be installed. Please install via Glyphs Preferences > Addons > Modules";
+				description = "»Kernkraft« & »Kernschmelze« will help you to be easily confronted with all the necessary pairs your Font provides (no matter how extended the character set is).\n\nProgrammed by Mark Frömberg (@Mark2Mark).\nPlease contact me for any issues or ideas.\nBased on the way of kerning by bBox Type GmbH (bboxtype.com).\n\nNavigate in UI with your keyboard: ←,  → and ⏎. Save notes for later.\n\nDepends on `vanilla` module to be installed. Please install via Glyphs Preferences > Addons > Modules";
 				screenshot = "https://raw.githubusercontent.com/bBoxType/Kernkraft/master/Kernkraft%2002.png";
 			},
 			{
 				name = "ShowStems.glyphsReporter";
 				title = "Show Stems (Light)";
 				url = "https://github.com/Mark2Mark/Show-Stems";
-				description = "`View > Show Stems` If active, it shows a measurement line (even in edit mode) with all distances between the outlines. If any distance matches the saved metrics in the Glyphs Palette, it will highlight in green and tell you which one it matches. The vertical position is attached to the Glyphsapp measurement line and can be moved around the same way.\nShortcut: `cmd+opt+ctrl+s` (like **S**tems)\nWritten by Mark Frömberg (@Mark2Mark)";
+				description = "*View > Show Stems* If active, it shows a measurement line (even in edit mode) with all distances between the outlines. If any distance matches the saved metrics in the Glyphs Palette, it will highlight in green and tell you which one it matches. The vertical position is attached to the Glyphsapp measurement line and can be moved around the same way.\nShortcut: Cmd-Opt-Ctrl-S (like **S**tems)\nWritten by Mark Frömberg (@Mark2Mark)";
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Show-Stems/master/Images/Show%20Stems%2003.png";
 			},
 			{
@@ -540,7 +540,7 @@
 			{
 				name = "ShowStemRhythm.glyphsReporter";
 				url = "https://github.com/Mark2Mark/Show-Stem-Rhythm";
-				description = "`View > Show Stem Rhythm` Displays a dynamic stem pattern. Useful for SEA scripts.\nWritten by Mark Frömberg (@Mark2Mark)\nMore info here:";
+				description = "*View > Show Stem Rhythm* Displays a dynamic stem pattern. Useful for SEA scripts.\nWritten by Mark Frömberg (@Mark2Mark)\nMore info here:";
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/show-stem-rhythm/master/Stem%20Rhythm%20-%20Mark%20Fromberg%2001.png";
 			},
 			{
@@ -607,7 +607,7 @@
 				name = "CollectHangul.glyphsPlugin";
 				title = "Collect-Hangul";
 				url = "https://github.com/nanife/CollectHangul_Glyphs";
-				description = "*Collect-Hangul* lets you select or input Korean hangul characters easily by selecting consonants and vowels.\n *한글 모으기*는 초성, 중성, 종성 자소 선택으로 한글 입력 및 선택을 쉽게할 수 있고, 선택된 결과를 저장할 수 있어 한글 폰트 제작에 매우 유용합니다.\n **requirements** : `Vanilla` module - you can install via Glyphs Preferences > Addons > Modules \n **사용 환경** : Vanilla 모듈 - 글립스의 환경설정 > 애드온 > 모듈 에서 '모듈 설치'를 통해 설치 가능.\n http://www.linegap.com/portfolio-items/collect-hangul-in-glyphs/";
+				description = "*Collect-Hangul* lets you select or input Korean hangul characters easily by selecting consonants and vowels.\n *한글 모으기*는 초성, 중성, 종성 자소 선택으로 한글 입력 및 선택을 쉽게할 수 있고, 선택된 결과를 저장할 수 있어 한글 폰트 제작에 매우 유용합니다.\n **requirements** : `vanilla` module - you can install via Glyphs Preferences > Addons > Modules \n **사용 환경** : Vanilla 모듈 - 글립스의 환경설정 > 애드온 > 모듈 에서 '모듈 설치'를 통해 설치 가능.\n http://www.linegap.com/portfolio-items/collect-hangul-in-glyphs/";
 				screenshot = "https://raw.githubusercontent.com/nanife/CollectHangul_Glyphs/master/mainView.png";
 			},
 			{
