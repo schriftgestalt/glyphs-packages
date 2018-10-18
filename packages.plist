@@ -540,7 +540,7 @@
 			{
 				name = "ShowStemRhythm.glyphsReporter";
 				url = "https://github.com/Mark2Mark/Show-Stem-Rhythm";
-				description = "*View > Show Stem Rhythm* Displays a dynamic stem pattern. Useful for SEA scripts.\nWritten by Mark Frömberg (@Mark2Mark)\nMore info here:";
+				description = "*View > Show Stem Rhythm* Displays a dynamic stem pattern. Useful for SEA scripts. Italic angle is not respected in this free version.\nWritten by Mark Frömberg (@Mark2Mark)\nMore info here:";
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/show-stem-rhythm/master/Stem%20Rhythm%20-%20Mark%20Fromberg%2001.png";
 			},
 			{
