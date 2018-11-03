@@ -697,9 +697,9 @@
 			},
 			{
 				name = "ShowHintsAlsoInOtherMasters.glyphsReporter";
-				title = "Show Hints Also in Other Masters";
+				title = "Show PS Hints Also in Other Masters";
 				url = "https://github.com/mekkablue/ShowHintsAlsoInOtherMasters";
-				description = "*View > Show Hints Also in Other Masters* displays hints from the hint-origin master also in masters other than the hint-origin. The main idea is to find stem hint overlaps that could cause Hint Replacement.";
+				description = "*View > Show PS Hints Also in Other Masters* displays hints from the hint-origin master also in masters other than the hint-origin. The main idea is to find stem hint overlaps that could cause Hint Replacement.";
 				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowHintsAlsoInOtherMasters/master/ShowHintsAlsoInOtherMasters.png";
 			},
 		);
