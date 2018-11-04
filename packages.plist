@@ -702,6 +702,13 @@
 				description = "*View > Show PS Hints Also in Other Masters* displays hints from the hint-origin master also in masters other than the hint-origin. The main idea is to find stem hint overlaps that could cause Hint Replacement.";
 				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowHintsAlsoInOtherMasters/master/ShowHintsAlsoInOtherMasters-Preview.png";
 			},
+			{
+				name = "SetPalette.glyphsPalette";
+				title = "Set Palette";
+				url = "https://github.com/mekkablue/SetPalette";
+				description = "Palette for toggling stylistic sets in Edit view.";
+				screenshot = "https://raw.githubusercontent.com/mekkablue/SetPalette/master/SetPalette.png";
+			},
 		);
 	};
 }
