@@ -709,6 +709,13 @@
 				description = "Palette for toggling stylistic sets in Edit view.";
 				screenshot = "https://raw.githubusercontent.com/mekkablue/SetPalette/master/SetPalette.png";
 			},
+			{
+				name = "LayerWhale.glyphsPalette";
+				title = "Layer Whale";
+				url = "https://github.com/aiaf/LayerWhale";
+				description = "A design workflow tool.\n\n- Record layer history\n- Design using *checkpoints*\n- Help declutter your Layers palette!\n- Playback & export time-lapse animations of glyphs.";
+				screenshot = "https://raw.githubusercontent.com/aiaf/LayerWhale/master/LayerWhale.png";
+			},
 		);
 	};
 }
