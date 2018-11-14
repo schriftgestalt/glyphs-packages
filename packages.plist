@@ -723,6 +723,12 @@
 				description = "*View > Show Kerning Values* shows the kerning values above the typed text in Edit view.";
 				screenshot = "https://raw.githubusercontent.com/mekkablue/KerningValues/master/KerningIndicators.png";
 			},
+			{
+				name = "SnapKiller.glyphsPlugin";
+				title = "Snap Killer";
+				url = "https://github.com/mekkablue/SnapKiller";
+				description = "*Edit > Kill Snapping* (de: *Bearbeiten > Einrasten unterdrücken*, es: *Editar > Evitar magnetismo entre los nodos*) reduces the amount of magnetic snapping in Edit view in Glyphs 2.5.";
+			},
 		);
 	};
 }
