@@ -729,6 +729,13 @@
 				url = "https://github.com/mekkablue/SnapKiller";
 				description = "*Edit > Kill Snapping* (de: *Bearbeiten > Einrasten unterdrücken*, es: *Editar > Evitar magnetismo entre los nodos*) reduces the amount of magnetic snapping in Edit view in Glyphs 2.5.";
 			},
+			{
+				name = "DeCasteljauBezier.glyphsPlugin";
+				title = "De Casteljau";
+				url = "https://github.com/luke-snider/de-casteljau-for-GlyphsApp";
+				description = "*Edit > De Casteljau* is a live visualisation tool of the De Casteljau curve algorithm.";
+				screenshot = "https://raw.githubusercontent.com/luke-snider/de-casteljau-for-GlyphsApp/master/deCasteljau_screen2.png";
+			},
 		);
 	};
 }
