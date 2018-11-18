@@ -734,7 +734,7 @@
 				title = "De Casteljau";
 				url = "https://github.com/luke-snider/de-casteljau-for-GlyphsApp";
 				description = "*Edit > De Casteljau* is a live visualisation tool of the De Casteljau curve algorithm.";
-				screenshot = "https://raw.githubusercontent.com/luke-snider/de-casteljau-for-GlyphsApp/master/deCasteljau_screen2.png";
+				// screenshot = "https://raw.githubusercontent.com/luke-snider/de-casteljau-for-GlyphsApp/master/deCasteljau_screen2.png";
 			},
 		);
 	};
