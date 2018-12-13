@@ -736,6 +736,14 @@
 				description = "*Edit > De Casteljau* is a live visualisation tool of the De Casteljau curve algorithm.";
 				// screenshot = "https://raw.githubusercontent.com/luke-snider/de-casteljau-for-GlyphsApp/master/deCasteljau_screen2.png";
 			},
+			{
+				name = "ShowCharacter.glyphsReporter";
+				title = "Show Character";
+				url = "https://github.com/mekkablue/ShowCharacter";
+				description = "*View > Show Character* (de: *Zeichen anzeigen,* fr: *Affiche caractère,* zh: 👩‍🏫参考字) displays the glyph you are editing in the system font.";
+				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowCharacter/master/ShowCharacter.png";
+			},
+			
 		);
 	};
 }
