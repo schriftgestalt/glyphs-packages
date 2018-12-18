@@ -743,6 +743,13 @@
 				description = "*View > Show Character* (de: *Zeichen anzeigen,* fr: *Affiche caractère,* zh: 👩‍🏫参考字) displays the glyph you are editing in the system font.";
 				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowCharacter/master/ShowCharacter.png";
 			},
+			{
+				name = "MasterSelector.glyphsPlugin";
+				title = "Master Selector";
+				url = "https://github.com/AlphabetType/MasterSelector";
+				description = "*Window > Master Selector* helps to navigate complex multi master files.";
+				screenshot = "https://raw.githubusercontent.com/AlphabetType/MasterSelector/master/images/MasterSelector.gif";
+			},
 			
 		);
 	};
