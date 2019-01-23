@@ -750,7 +750,13 @@
 				description = "*Window > Master Selector* helps to navigate complex multi master files.";
 				screenshot = "https://raw.githubusercontent.com/AlphabetType/MasterSelector/master/images/MasterSelector.gif";
 			},
-			
+			{
+				name = "Show Nodes Outside Paths.glyphsReporter";
+				title = "Show Nodes Outside Paths";
+				url = "https://github.com/mekkablue/ShowNodesOutsidePaths";
+				description = "*View > Show Nodes Outside Paths* will visualize nodes that are not located inside a path. This can be useful if you need to make sure that a node is just inside another path, without zooming in too far.";
+				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowNodesOutsidePaths/master/Show%20Nodes%20Outside%20Paths.png";
+			},
 		);
 	};
 }
