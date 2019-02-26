@@ -32,7 +32,7 @@
 				name = "SmartPlumblines.glyphsReporter";
 				title = "Smart Plumblines";
 				url = "https://github.com/Mark2Mark/Show-Smart-Plumblines";
-				description = "`View > Show Smart Plumblines` By default it displays **live guidelines** at the center of each paths’ (red) and components’ (grey) bounding box.\nIf you select anything, it also displays the center of that selection (blue dashed).\nOne major feature is that the guidelines **automatically match your italic angle**.\nThis is useful for aligning objects by sight. As well as:\n\n- Align multiple paths and/or components\n- Setting up horizontal positions of anchors\n- Editing segments while easily keeping italic angle, etc.\nWritten by Mark Frömberg (@Mark2Mark)";
+				description = "*View > Show Smart Plumblines* By default it displays **live guidelines** at the center of each paths’ (red) and components’ (grey) bounding box.\nIf you select anything, it also displays the center of that selection (blue dashed).\nOne major feature is that the guidelines **automatically match your italic angle**.\nThis is useful for aligning objects by sight. As well as:\n\n- Align multiple paths and/or components\n- Setting up horizontal positions of anchors\n- Editing segments while easily keeping italic angle, etc.\nWritten by Mark Frömberg (@Mark2Mark)";
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Glyphsapp-Plugins/Screenshots/Screenshots/SmartPlumblines/SmPlL%2012.png?raw=true";
 			},
 			{
@@ -52,7 +52,7 @@
 			{
 				name = "DrawBot.glyphsPlugin";
 				url = "https://github.com/schriftgestalt/DrawBotGlyphsPlugin";
-				description = "DrawBot inside Glyphs.\nMake a new drawBot from the File menu > New DrawBot, or open a file with cmd+O. Save or Save As as usual. Run the script by hitting the Run button (or pressing cmd+⏎). Clean the output area by pressing cmd+K.\n\nTo save a drawing as pdf, hit cmd+E (or File > Export..)";
+				description = "DrawBot inside Glyphs.\nMake a new drawBot from the File menu > New DrawBot, or open a file with Cmd-O. Save or Save As as usual. Run the script by hitting the Run button (or pressing Cmd-⏎). Clean the output area by pressing Cmd-K.\n\nTo save a drawing as pdf, hit Cmd-E (or File > Export..)";
 				screenshot = "https://raw.githubusercontent.com/schriftgestalt/DrawBotGlyphsPlugin/master/GlyphsLogoDrawBot.png";
 			},
 			{
@@ -188,42 +188,42 @@
 				name = "ShowRotated.glyphsReporter";
 				title = "Show Rotated";
 				url = "https://github.com/Mark2Mark/Show-Rotated";
-				description = "`View > Show Rotated` Superimposes the current glyph as a rotated copy of itself. Context Menu slider to adjust the rotation angle.\nWritten by Mark Frömberg (@Mark2Mark)";
+				description = "*View > Show Rotated* Superimposes the current glyph as a rotated copy of itself. Context Menu slider to adjust the rotation angle.\nWritten by Mark Frömberg (@Mark2Mark)";
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Glyphsapp-Plugins/Screenshots/ShowRotated/Screenshots/ShowRotated03_Mark-Froemberg.gif";
 			},
 			{
 				name = "ShowSiblings.glyphsReporter";
 				title = "Show Siblings (Light)";
 				url = "https://github.com/Mark2Mark/Show-Siblings";
-				description = "`View > Show Siblings` Superimposes a group of predefined glyphs in the background of your letters. This can be both pretty helpful in the beginning of a design as well as at intermediate progress where quick proof overview is needed. The degree of a desired match depends on each design, of course. Current Scripts: Latin, Greek, Cyrillic and »Twins« (glyph alternates like  *g.ss01* or  *g.alt.*\nWritten by Mark Frömberg (@Mark2Mark)";
+				description = "*View > Show Siblings* Superimposes a group of predefined glyphs in the background of your letters. This can be both pretty helpful in the beginning of a design as well as at intermediate progress where quick proof overview is needed. The degree of a desired match depends on each design, of course. Current Scripts: Latin, Greek, Cyrillic and »Twins« (glyph alternates like  *g.ss01* or  *g.alt.*\nWritten by Mark Frömberg (@Mark2Mark)";
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Glyphsapp-Plugins/Screenshots/ShowSiblings/Screenshots/screencapDemoFont.gif";
 			},
 			{
 				name = "SyncedTabs.glyphsReporter";
 				title = "Synced Tabs";
 				url = "https://github.com/Mark2Mark/SyncedTabs";
-				description = "`View > Show Synced Tabs` keeps all tabs from all open fonts in sync with the currently active tab. In **realtime!**. It is based on the **great idea and script** [Sync Edit Views.py](https://github.com/Tosche/Glyphs-Scripts/blob/master/Sync%20Edit%20Views.py) by [Tosche](https://github.com/Tosche).\n**Options**: Synchronize Tools as well: type\n`Glyphs.defaults[#com.markfromberg.syncedTabs.doSyncTools#] = True`\n(or `False`) in Macro panel and swap the # by inch-quotes.\nWritten by Mark Frömberg (@Mark2Mark)";
+				description = "*View > Show Synced Tabs* keeps all tabs from all open fonts in sync with the currently active tab. In **realtime!**. It is based on the **great idea and script** [Sync Edit Views.py](https://github.com/Tosche/Glyphs-Scripts/blob/master/Sync%20Edit%20Views.py) by [Tosche](https://github.com/Tosche).\n**Options**: Synchronize Tools as well: type\n`Glyphs.defaults[#com.markfromberg.syncedTabs.doSyncTools#] = True`\n(or `False`) in Macro panel and swap the # by inch-quotes.\nWritten by Mark Frömberg (@Mark2Mark)";
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Synced-Tabs/master/Images/SyncedTabs_Gintronic_MarkFroemberg_still.png";
 			},
 			{
 				name = "BlindFold.glyphsReporter";
 				title = "Blindfold";
 				url = "https://github.com/Mark2Mark/Blindfold";
-				description = "`View > Show Blindfold` Blackens out everything beyond the xHeight (or Cap-Height --> option in context menu). Useful for Spacing and Kerning because the visible leftover is what matters the most here.\nWritten by Mark Frömberg (@Mark2Mark)";
+				description = "*View > Show Blindfold* Blackens out everything beyond the xHeight (or Cap-Height --> option in context menu). Useful for Spacing and Kerning because the visible leftover is what matters the most here.\nWritten by Mark Frömberg (@Mark2Mark)";
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Glyphsapp-Plugins/11561cf20d110e314943e6294edf47defbdb73bc/Screenshots/UncoverXHeight/UcXh%2001.png?raw=true";
 			},
 			{
 				name = "ArrangeWindows.glyphsPlugin";
 				title = "Arrange Windows";
 				url = "https://github.com/Mark2Mark/ArrangeWindows";
-				description = "`Window > Arrange Windows` does just what it says.\n**Options:**\n`Arrange Windows & Macro Panel` [Option Key].\n`Arrange Windows On Screens` [Shift Key] if 2 Fonts and 2 Screens are present.\nWritten by Mark Frömberg (@Mark2Mark)";
+				description = "*Window > Arrange Windows* does just what it says.\n**Options:**\n*Arrange Windows & Macro Panel* [Option Key].\n*Arrange Windows On Screens* [Shift Key] if 2 Fonts and 2 Screens are present.\nWritten by Mark Frömberg (@Mark2Mark)";
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/ArrangeWindows/master/ArrangeWindows.gif";
 			},
 			{
 				name = "LabelColor.glyphsReporter";
 				title = "Label Color";
 				url = "https://github.com/Mark2Mark/Show-Label-Color";
-				description = "`View > Show Label Color` Displays each glyphs’s Label Color in the edit tab. Full width or left: glyph color, right: layer color.\nWritten by Mark Frömberg (@Mark2Mark)";
+				description = "*View > Show Label Color* Displays each glyphs’s Label Color in the edit tab. Full width or left: glyph color, right: layer color.\nWritten by Mark Frömberg (@Mark2Mark)";
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Show-Label-Color/d054d4d05d6f16b2be49f055f2b06b27725b81c8/Screenshots/Show%20Label%20Color%2001.png?raw=true";
 			},
 			{
@@ -237,7 +237,7 @@
 				name = "ShowKerningGroups.glyphsReporter";
 				title = "Show Kerning Groups";
 				url = "https://github.com/Mark2Mark/Show-Kerning-Group-Reference";
-				description = "`View > Show Kerning Groups` Displays all members of the currently active glyph’s kerning group to either side in miniature and realtime. Useful when setting up kerning groups and getting visual feedback right away. If you see elements sticking out of the right group, you know there might be a group member set wrong. Same for the left side. It is somehow related to the built-in feature \"Show Group Members\" by Georg Seifert, but this one does not need the caret to sit between a certain pair.\nWritten by Mark Frömberg (@Mark2Mark)";
+				description = "*View > Show Kerning Groups* Displays all members of the currently active glyph’s kerning group to either side in miniature and realtime. Useful when setting up kerning groups and getting visual feedback right away. If you see elements sticking out of the right group, you know there might be a group member set wrong. Same for the left side. It is somehow related to the built-in feature \"Show Group Members\" by Georg Seifert, but this one does not need the caret to sit between a certain pair.\nWritten by Mark Frömberg (@Mark2Mark)";
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Show-Kerning-Group-Reference/12fd9ffaa0447f742dabce60a407ece582e1d6b2/Screenshots/KGR%2001.png?raw=true";
 			},
 			{
@@ -271,14 +271,14 @@
 			{
 				name = "Kernkraft.glyphsPlugin";
 				url = "https://github.com/bBoxType/Kernkraft";
-				description = "»Kernkraft« & »Kernschmelze« will help you to be easily confronted with all the necessary pairs your Font provides (no matter how extended the character set is).\n\nProgrammed by Mark Frömberg (@Mark2Mark).\nPlease contact me for any issues or ideas.\nBased on the way of kerning by bBox Type GmbH (bboxtype.com).\n\nNavigate in UI with your keyboard: ←,  → and ⏎. Save notes for later.\n\nDepends on `Vanilla` module to be installed. Please install via Glyphs Preferences > Addons > Modules";
-				screenshot = "https://raw.githubusercontent.com/bBoxType/Kernkraft/master/Kernkraft%2001.png";
+				description = "»Kernkraft« & »Kernschmelze« will help you to be easily confronted with all the necessary pairs your Font provides (no matter how extended the character set is).\n\nProgrammed by Mark Frömberg (@Mark2Mark).\nPlease contact me for any issues or ideas.\nBased on the way of kerning by bBox Type GmbH (bboxtype.com).\n\nNavigate in UI with your keyboard: ←,  → and ⏎. Save notes for later.\n\nDepends on `vanilla` module to be installed. Please install via Glyphs Preferences > Addons > Modules";
+				screenshot = "https://raw.githubusercontent.com/bBoxType/Kernkraft/master/Kernkraft%2002.png";
 			},
 			{
 				name = "ShowStems.glyphsReporter";
 				title = "Show Stems (Light)";
 				url = "https://github.com/Mark2Mark/Show-Stems";
-				description = "`View > Show Stems` If active, it shows a measurement line (even in edit mode) with all distances between the outlines. If any distance matches the saved metrics in the Glyphs Palette, it will highlight in green and tell you which one it matches. The vertical position is attached to the Glyphsapp measurement line and can be moved around the same way.\nShortcut: `cmd+opt+ctrl+s` (like **S**tems)\nWritten by Mark Frömberg (@Mark2Mark)";
+				description = "*View > Show Stems* If active, it shows a measurement line (even in edit mode) with all distances between the outlines. If any distance matches the saved metrics in the Glyphs Palette, it will highlight in green and tell you which one it matches. The vertical position is attached to the Glyphsapp measurement line and can be moved around the same way.\nShortcut: Cmd-Opt-Ctrl-S (like **S**tems)\nWritten by Mark Frömberg (@Mark2Mark)";
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Show-Stems/master/Images/Show%20Stems%2003.png";
 			},
 			{
@@ -418,7 +418,7 @@
 			{
 				name = "Obfuscator.glyphsFilter";
 				url = "https://github.com/guidoferreyra/Obfuscator";
-				description = "Replaces glyphs for another one in the font. Useful for replace glyphs in demo version of a font. See full [readme] (https://github.com/guidoferreyra/Obfuscator) for more info on how to use it.";
+				description = "Replaces glyphs for another one in the font. Useful for replace glyphs in demo version of a font. See full ([readme] [github.com/guidoferreyra/Obfuscator](https://github.com/guidoferreyra/Obfuscator)) for more info on how to use it.";
 				screenshot = "https://raw.githubusercontent.com/guidoferreyra/Obfuscator/master/screen-obfuscator.png";
 			},
 			{
@@ -500,7 +500,7 @@
 				name = "LabelKey.glyphsPalette";
 				title = "Label Key";
 				url = "https://github.com/RobertPratley/labelKey";
-				description = "Adds a palette displaying a user defined key for Glyphs' colour labelling. \nRefer to the full readme (https://github.com/RobertPratley/labelKey) for information on how to use it.";
+				description = "Adds a palette displaying a user defined key for Glyphs’ colour labelling. \nRefer to the full readme ([github.com/RobertPratley/labelKey](https://github.com/RobertPratley/labelKey)) for information on how to use it.";
 				screenshot = "https://github.com/RobertPratley/labelKey/raw/master/labelKeyExample.png";
 			},
 			{
@@ -535,7 +535,13 @@
 				name = "Skedge.glyphsPlugin";
 				url = "https://github.com/Mark2Mark/Skedge";
 				description = "*Window > Skedge* is a live python sketcher for Glyphsapp.\nWritten by Mark Frömberg (@Mark2Mark)";
-				screenshot = "https://github.com/Mark2Mark/Skedge/raw/master/Images/Skedge%20Screenshot%203.png";
+				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Skedge/master/Images/Skedge%2003.gif";
+			},
+			{
+				name = "ShowStemRhythm.glyphsReporter";
+				url = "https://github.com/Mark2Mark/Show-Stem-Rhythm";
+				description = "*View > Show Stem Rhythm* Displays a dynamic stem pattern. Useful for SEA scripts. Italic angle is not respected in this free version.\nWritten by Mark Frömberg (@Mark2Mark)\nMore info here:";
+				screenshot = "https://raw.githubusercontent.com/Mark2Mark/show-stem-rhythm/master/Stem%20Rhythm%20-%20Mark%20Fromberg%2001.png";
 			},
 			{
 				name = "Backuper.glyphsPlugin";
@@ -601,7 +607,7 @@
 				name = "CollectHangul.glyphsPlugin";
 				title = "Collect-Hangul";
 				url = "https://github.com/nanife/CollectHangul_Glyphs";
-				description = "*Collect-Hangul* lets you select or input Korean hangul characters easily by selecting consonants and vowels.\n *한글 모으기*는 초성, 중성, 종성 자소 선택으로 한글 입력 및 선택을 쉽게할 수 있고, 선택된 결과를 저장할 수 있어 한글 폰트 제작에 매우 유용합니다.\n **requirements** : `Vanilla` module - you can install via Glyphs Preferences > Addons > Modules \n **사용 환경** : Vanilla 모듈 - 글립스의 환경설정 > 애드온 > 모듈 에서 '모듈 설치'를 통해 설치 가능.\n http://www.linegap.com/portfolio-items/collect-hangul-in-glyphs/";
+				description = "*Collect-Hangul* lets you select or input Korean hangul characters easily by selecting consonants and vowels.\n *한글 모으기*는 초성, 중성, 종성 자소 선택으로 한글 입력 및 선택을 쉽게할 수 있고, 선택된 결과를 저장할 수 있어 한글 폰트 제작에 매우 유용합니다.\n **requirements** : `vanilla` module - you can install via Glyphs Preferences > Addons > Modules \n **사용 환경** : Vanilla 모듈 - 글립스의 환경설정 > 애드온 > 모듈 에서 '모듈 설치'를 통해 설치 가능.\n http://www.linegap.com/portfolio-items/collect-hangul-in-glyphs/";
 				screenshot = "https://raw.githubusercontent.com/nanife/CollectHangul_Glyphs/master/mainView.png";
 			},
 			{
@@ -636,6 +642,127 @@
 				url = "https://github.com/source-foundry/FilterListManager";
 				description = "Glyphs filter list management with newline-delimited local and remote text files.\n\n*Edit > Update Filter Lists* updates filter lists with local and/or remote definition files\n*Edit > Restore Default Filter Lists* restores a default set of filter lists\n*Edit > Open GlyphsFilters Directory* opens the ~/GlyphsFilters directory which is used to define local and remote filter list definition files + file paths.";
 				screenshot = "https://user-images.githubusercontent.com/4249591/43370298-dd03127c-934a-11e8-99cd-3b8138811b49.png";
+			},
+			{
+				name = "Pixelate.glyphsFilter";
+				title = "Pixelate";
+				url = "https://github.com/mekkablue/Pixelate";
+				description = "*Filter > Pixelate* rasterises shapes with a user-defined pixel glyph.";
+				screenshot = "https://raw.githubusercontent.com/mekkablue/Pixelate/master/Pixelate.png";
+			},
+			{
+				name = "TTControlInstructions.glyphsPalette";
+				title = "TT Control Instructions Palette";
+				url = "https://github.com/mekkablue/TTControlInstructionsPalette";
+				description = "Palette for writing ttfAutohint control instructions while zoomed in.";
+			},
+			{
+				name = "Wordfinder.glyphsPlugin";
+				url = "https://github.com/underscoretype/glyphs-plugin-wordfinder";
+				description = "A simple Glyphs App plugin to find words that contain the selected glyphs";
+				screenshot = "https://raw.githubusercontent.com/underscoretype/glyphs-plugin-wordfinder/master/Wordfinder.png";
+			},
+			{
+				name = "ChangeIncrement.glyphsPalette";
+				title = "Change Keyboard Increment";
+				url = "https://github.com/filipenegrao/Change-Keyboard-Increment";
+				description = "It changes the default keyboard increment value to a settable new one.";
+				screenshot = "https://raw.githubusercontent.com/filipenegrao/Change-Keyboard-Increment/master/change_increment.png";
+			},
+			{
+				name = "MakeBoxes.glyphsFilter";
+				title = "Make Boxes";
+				url = "https://github.com/mekkablue/MakeBoxes";
+				description = "*Filter > Make Boxes* turns the glyph into a box reaching from LSB to RSB, and from descender to ascender, as set in *Font Info > Masters.* Useful as custom parameter for making a backdrop instance.";
+				screenshot = "https://raw.githubusercontent.com/mekkablue/MakeBoxes/master/MakeBoxes.png";
+			},
+			{
+				name = "ShowGlyphFocus.glyphsReporter";
+				title = "Show Glyph Focus";
+				url = "https://github.com/mekkablue/ShowGlyphFocus";
+				description = "*View > Show Glyph Focus* highlights the current glyph. Also handy for spotting open paths and overlaps.";
+				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowGlyphFocus/master/GlyphFocus.png";
+			},
+			{
+				name = "ShowComponentsCompatibility.glyphsReporter";
+				url = "https://github.com/guidoferreyra/ShowComponentsCompatibility";
+				description = "*View > Show Components Compatibility* displays in a list the names of the components used in the current layer if a component is missing in other master it uses red color on the component name label.";
+				screenshot = "https://raw.githubusercontent.com/guidoferreyra/ShowComponentsCompatibility/master/screen-componentesCompat.png";
+			},
+			{
+				name = "AnchorsPalette/Anchors.glyphsPalette";
+				title = "Anchors Palette";
+				url = "https://github.com/justanotherfoundry/freemix-glyphsapp";
+				description = "The palette shows the position of anchors in the selected glyphs. This helps you check for consistent positioning of anchors if multiple glyphs are selected. For example, select A–Z to see whether all top anchors are on the same height, and adjust their position. If the position of the anchors is not identical in all selected glyphs then a gray x or y is shown. The palette shows the four most frequently used anchors. Setting the x or y position of a particular anchor via the palette only affects glyphs that have an anchor with the respective name (anchors are never inserted or removed).";
+			},
+			{
+				name = "GlyphSILE.glyphsPlugin";
+				title = "GlyphSILE";
+				url = "https://github.com/simoncozens/GlyphSILE.glyphsplugin";
+				description = "Embeds the SILE typesetter into Glyphs, allowing you to create and view complex font proofs while you edit.";
+				screenshot = "https://raw.githubusercontent.com/simoncozens/GlyphSILE.glyphsplugin/master/GlyphSILE.png";
+			},
+			{
+				name = "ShowHintsAlsoInOtherMasters.glyphsReporter";
+				title = "Show PS Hints Also in Other Masters";
+				url = "https://github.com/mekkablue/ShowHintsAlsoInOtherMasters";
+				description = "*View > Show PS Hints Also in Other Masters* displays hints from the hint-origin master also in masters other than the hint-origin. The main idea is to find stem hint overlaps that could cause Hint Replacement.";
+				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowHintsAlsoInOtherMasters/master/ShowHintsAlsoInOtherMasters-Preview.png";
+			},
+			{
+				name = "SetPalette.glyphsPalette";
+				title = "Set Palette";
+				url = "https://github.com/mekkablue/SetPalette";
+				description = "Palette for toggling stylistic sets in Edit view.";
+				screenshot = "https://raw.githubusercontent.com/mekkablue/SetPalette/master/SetPalette.png";
+			},
+			{
+				name = "LayerWhale.glyphsPalette";
+				title = "Layer Whale";
+				url = "https://github.com/aiaf/LayerWhale";
+				description = "A design workflow tool.\n\n- Record layer history\n- Design using *checkpoints*\n- Help declutter your Layers palette!\n- Playback & export time-lapse animations of glyphs.";
+				screenshot = "https://raw.githubusercontent.com/aiaf/LayerWhale/master/LayerWhale.png";
+			},
+			{
+				name = "KernIndicator.glyphsReporter";
+				title = "Kerning Values";
+				url = "https://github.com/mekkablue/KerningValues";
+				description = "*View > Show Kerning Values* shows the kerning values above the typed text in Edit view.";
+				screenshot = "https://raw.githubusercontent.com/mekkablue/KerningValues/master/KerningIndicators.png";
+			},
+			{
+				name = "SnapKiller.glyphsPlugin";
+				title = "Snap Killer";
+				url = "https://github.com/mekkablue/SnapKiller";
+				description = "*Edit > Kill Snapping* (de: *Bearbeiten > Einrasten unterdrücken*, es: *Editar > Evitar magnetismo entre los nodos*) reduces the amount of magnetic snapping in Edit view in Glyphs 2.5.";
+			},
+			{
+				name = "DeCasteljauBezier.glyphsPlugin";
+				title = "De Casteljau";
+				url = "https://github.com/luke-snider/de-casteljau-for-GlyphsApp";
+				description = "*Edit > De Casteljau* is a live visualisation tool of the De Casteljau curve algorithm.";
+				// screenshot = "https://raw.githubusercontent.com/luke-snider/de-casteljau-for-GlyphsApp/master/deCasteljau_screen2.png";
+			},
+			{
+				name = "ShowCharacter.glyphsReporter";
+				title = "Show Character";
+				url = "https://github.com/mekkablue/ShowCharacter";
+				description = "*View > Show Character* (de: *Zeichen anzeigen,* fr: *Affiche caractère,* zh: 👩‍🏫参考字) displays the glyph you are editing in the system font.";
+				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowCharacter/master/ShowCharacter.png";
+			},
+			{
+				name = "MasterSelector.glyphsPlugin";
+				title = "Master Selector";
+				url = "https://github.com/AlphabetType/MasterSelector";
+				description = "*Window > Master Selector* helps to navigate complex multi master files.";
+				screenshot = "https://raw.githubusercontent.com/AlphabetType/MasterSelector/master/images/MasterSelector.gif";
+			},
+			{
+				name = "Show Nodes Outside Paths.glyphsReporter";
+				title = "Show Nodes Outside Paths";
+				url = "https://github.com/mekkablue/ShowNodesOutsidePaths";
+				description = "*View > Show Nodes Outside Paths* will visualize nodes that are not located inside a path. This can be useful if you need to make sure that a node is just inside another path, without zooming in too far.";
+				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowNodesOutsidePaths/master/Show%20Nodes%20Outside%20Paths.png";
 			},
 		);
 	};
