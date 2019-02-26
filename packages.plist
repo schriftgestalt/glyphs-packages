@@ -764,6 +764,19 @@
 				description = "*View > Show Nodes Outside Paths* will visualize nodes that are not located inside a path. This can be useful if you need to make sure that a node is just inside another path, without zooming in too far.";
 				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowNodesOutsidePaths/master/Show%20Nodes%20Outside%20Paths.png";
 			},
+			{
+				name = "Scrawl.glyphsTool";
+				title = "Scrawl Tool";
+				url = "https://github.com/jenskutilek/Scrawl-Glyphs";
+				description = "TypeCooker™-style drawing for Glyphs. A tool for pixel-based drawing and erasing in edit view, best used with a pen tablet.";
+				screenshot = "https://raw.githubusercontent.com/jenskutilek/Scrawl-Glyphs/master/data/ui.png";
+			},
+			{
+				name = "Scrawl.glyphsReporter";
+				title = "Scrawl Viewer";
+				url = "https://github.com/jenskutilek/Scrawl-Glyphs";
+				description = "Displays drawings from Scrawl Tool when other tools are active. Activate via *View > Show Scrawl*.";
+			},
 		);
 	};
 }
