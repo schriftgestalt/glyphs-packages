@@ -782,6 +782,7 @@
 				title = "Show Smooth Node Angle and Proportion";
 				url = "https://github.com/harbortype/ShowSmoothNodeAngleAndProportion";
 				description = "*View > Show Smooth Node Angle and Proportion* will highlight the nodes that may produce kinks in yellow. When you select it, it will tell you the angle between the handles and their proportions. If any one of the values match the other masters (becoming light gray), a kink will not happen.";
+				screenshot = "https://raw.githubusercontent.com/harbortype/ShowSmoothNodeAngleAndProportion/master/images/preview.png";
 			},
 		);
 	};
