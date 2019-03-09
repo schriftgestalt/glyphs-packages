@@ -777,6 +777,12 @@
 				url = "https://github.com/jenskutilek/Scrawl-Glyphs";
 				description = "Displays drawings from Scrawl Tool when other tools are active. Activate via *View > Show Scrawl*.";
 			},
+			{
+				name = "Show Smooth Node Angle and Proportion.glyphsReporter";
+				title = "Show Smooth Node Angle and Proportion";
+				url = "https://github.com/harbortype/ShowSmoothNodeAngleAndProportion";
+				description = "*View > Show Smooth Node Angle and Proportion* will highlight the nodes that may produce kinks in yellow. When you select it, it will tell you the angle between the handles and their proportions. If any one of the values match the other masters (becoming light gray), a kink will not happen.";
+			},
 		);
 	};
 }
