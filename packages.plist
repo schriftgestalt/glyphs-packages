@@ -2,6 +2,13 @@
 	packages = {
 		plugins = (
 			{
+				name = "NodesCloseToZones.glyphsReporter";
+				title = "Nodes Close To Zones";
+				url = "https://github.com/moontypespace/NodesCloseToZones-Glyphs";
+				description = "*View > Show Nodes Close To Zones* highlights nodes which are close to an alignmentzone but not in the zone or not touching it. (Tolarance is 4 units)\n*Right Click > New Tab: Nodes Close to Zone* opens a new tab with all glyphs which may have potential issues related to nodes close to aligmentzones.\nWritten by Olli Meier";
+				screenshot = "https://raw.githubusercontent.com/moontypespace/NodesCloseToZones-Glyphs/553d3fa3eeaf5897bf65f6c9222b4eb6b17a3fe9/screenshot_nodesHighlighted.png";
+			},
+			{
 				name = "GlobalGlyph.glyphsReporter";
 				title = "Global Glyph";
 				url = "https://github.com/Nevu/Show-Global-Glyph";
