@@ -84,13 +84,13 @@
 				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowInterpolations/master/ShowInterpolations.png";
 				minVersion = 944;
 			},
-			{
-				name = "ShowHandlesEverywhere.glyphsReporter";
-				title = "Show Handles Everywhere";
-				url = "https://github.com/mekkablue/ShowHandlesEverywhere";
-				description = "*View > Show Handles Everywhere* displays **nodes & handles** for paths **in the background** (if *View > Show Background* is on), **on other layers** (if the layer is set to visible) as well as **in inactive glyphs** surrounding the current glyph (if *View > Fill Preview* is off).";
-				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowHandlesEverywhere/master/ShowHandlesEverywhere.png";
-			},
+			// {
+			// 	name = "ShowHandlesEverywhere.glyphsReporter";
+			// 	title = "Show Handles Everywhere";
+			// 	url = "https://github.com/mekkablue/ShowHandlesEverywhere";
+			// 	description = "*View > Show Handles Everywhere* displays **nodes & handles** for paths **in the background** (if *View > Show Background* is on), **on other layers** (if the layer is set to visible) as well as **in inactive glyphs** surrounding the current glyph (if *View > Fill Preview* is off).";
+			// 	screenshot = "https://raw.githubusercontent.com/mekkablue/ShowHandlesEverywhere/master/ShowHandlesEverywhere.png";
+			// },
 			{
 				name = "ShowFilledPreview.glyphsReporter";
 				title = "Show Filled Preview";
