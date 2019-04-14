@@ -396,12 +396,11 @@
 				description = "Understand and improve your outlines with this curvature comb visualization.\nMore infos at http://yanone.de/software/speedpunk/\n\n**Make sure to remove the old Speedpunk Tool**";
 				screenshot = "https://raw.githubusercontent.com/yanone/SpeedPunk30DayTrial/master/speedpunkglyphs.jpg";
 			},
-			{
-				name = "Speed Punk 30-day Trial.glyphsTool";
-				url = "https://github.com/yanone/SpeedPunk30DayTrial";
-				description = "**Don’t install this. Please use the \"Speed Punk 30-day Trial Reporter\".**\nUnderstand and improve your outlines with this curvature comb visualization.\nMore infos at http://yanone.de/software/speedpunk/";
-				screenshot = "https://raw.githubusercontent.com/yanone/SpeedPunk30DayTrial/master/speedpunkglyphs.jpg";
-			},
+			// {
+			// 	name = "Speed Punk 30-day Trial.glyphsTool";
+			// 	url = "https://github.com/yanone/SpeedPunk30DayTrial";
+			// 	description = "**Do not install this. Please use the \"Speed Punk 30-day Trial Reporter\".**";
+			// },
 			{
 				name = "LigatureCaret.glyphsReporter";
 				title = "Ligature Caret";
