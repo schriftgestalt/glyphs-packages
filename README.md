@@ -50,8 +50,9 @@ Separate multiple entries with commas. Best place to put it is right behind the 
 
 To add your own plug-in, fork this repository, add your plug-in to the `packages.plist` and send a pull request.
 
-Run the command `plutil -lint packages.plist` in a Terminal window to check for syntax errors. It should print the following message:
+Run the command `plutil -lint packages.plist` in a Terminal window to check for syntax errors. It should print the following message (the `:; ` is just the Terminal shell prompt in this example):
 ```
+:; plutil -lint packages.plist
 packages.plist: OK
 ```
 
