@@ -790,6 +790,13 @@
 				description = "*View > Show Smooth Node Angle and Proportion* will highlight the nodes that may produce kinks in yellow. When you select it, it will tell you the angle between the handles and their proportions. If any one of the values match the other masters (becoming light gray), a kink will not happen.";
 				screenshot = "https://raw.githubusercontent.com/harbortype/ShowSmoothNodeAngleAndProportion/master/images/preview.png";
 			},
+			{
+				name = "ShowCenterLines.glyphsReporter";
+				title = "Show Center Lines";
+				url = "https://github.com/mekkablue/ShowCenterLines";
+				description = "*View > Show Center Lines* (de: *Mittellinien azeigen,* es: *Mostrar lineas centrales,* fr: *Afficher lignes centrales*) will display a subtle crosshair in the middle of the current selection. Respects italic angle and Dark Mode.";
+				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowCenterLines/master/images/ShowCenterLines.png";
+			},
 		);
 	};
 }
