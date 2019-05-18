@@ -795,7 +795,7 @@
 				title = "Show Center Lines";
 				url = "https://github.com/mekkablue/ShowCenterLines";
 				description = "*View > Show Center Lines* (de: *Mittellinien azeigen,* es: *Mostrar lineas centrales,* fr: *Afficher lignes centrales*) will display a subtle crosshair in the middle of the current selection. Respects italic angle and Dark Mode.";
-				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowCenterLines/master/images/ShowCenterLines.png";
+				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowCenterLines/master/ShowCenterLines.png";
 			},
 		);
 	};
