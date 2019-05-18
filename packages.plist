@@ -797,6 +797,13 @@
 				description = "*View > Show Center Lines* (de: *Mittellinien azeigen,* es: *Mostrar lineas centrales,* fr: *Afficher lignes centrales*) will display a subtle crosshair in the middle of the current selection. Respects italic angle and Dark Mode.";
 				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowCenterLines/master/ShowCenterLines.png";
 			},
+			{
+				name = "FillBackgroundPath.glyphsReporter";
+				title = "Fill Background Path";
+				url = "https://github.com/markmonroy/FillBackgroundPath";
+				description = "*View > Show Fill Background Path* is a simple Reporter plugin that fills the background path of the selected glyph with a semi-transparent "non-photo blue" color (#a4dded).";
+				screenshot = "https://raw.githubusercontent.com/markmonroy/FillBackgroundPath/master/FillBackgroundPath.png";
+			},
 		);
 	};
 }
