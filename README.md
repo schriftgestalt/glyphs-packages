@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/schriftgestalt/glyphs-packages.svg?branch=master)](https://travis-ci.org/schriftgestalt/glyphs-packages)
+
 # Glyphs Packages
 
 Repository for collecting all available plug-ins for Glyphs. What is registered here will end up in *Window > Plugin Manager*. If you have written a plug-in and want to share it with the community, consider adding it to the `.plist` file.
