@@ -1,0 +1,3 @@
+language: python
+os: osx
+script: python test.py
