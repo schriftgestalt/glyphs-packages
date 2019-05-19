@@ -794,7 +794,7 @@
 				name = "ShowCenterLines.glyphsReporter";
 				title = "Show Center Lines";
 				url = "https://github.com/mekkablue/ShowCenterLines";
-				description = "*View > Show Center Lines* (de: *Mittellinien azeigen,* es: *Mostrar lineas centrales,* fr: *Afficher lignes centrales*) will display a subtle crosshair in the middle of the current selection. Respects italic angle and Dark Mode.";
+				description = "*View > Show Center Lines* (de: *Mittellinien anzeigen,* es: *Mostrar lineas centrales,* fr: *Afficher lignes centrales*) will display a subtle crosshair in the middle of the current selection. Respects italic angle and Dark Mode. Add the center lines as guides via the context menu.";
 				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowCenterLines/master/ShowCenterLines.png";
 			},
 			{
