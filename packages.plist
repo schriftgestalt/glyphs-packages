@@ -805,11 +805,11 @@
 				screenshot = "https://raw.githubusercontent.com/markmonroy/FillBackgroundPath/master/FillBackgroundPath.png";
 			},
 			{
-				name = "Case Change/CaseChange.glyphsPalette";
+				name = "CaseChange/CaseChange.glyphsPalette";
 				title = "Change Case";
 				url = "https://github.com/Ricard-Garcia/Glyphs_plugins";
 				description = "A palette with three buttons in order to change the case of Edit View’s text";
-				screenshot = "https://raw.githubusercontent.com/Ricard-Garcia/Glyphs_plugins/master/Case%20Change/Image/ChangeCase.png";
+				screenshot = "https://raw.githubusercontent.com/Ricard-Garcia/Glyphs_plugins/master/CaseChange/Image/ChangeCase.png";
 			},
 		);
 	};
