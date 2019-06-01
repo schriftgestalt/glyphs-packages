@@ -807,7 +807,7 @@
 			{
 				name = "CaseChange.glyphsPalette";
 				title = "Change Case";
-				url = "https://github.com/Ricard-Garcia/Glyphs_plugins";
+				url = "https://github.com/Ricard-Garcia/Glyphs_plugins/Case%20Change";
 				description = "A palette with three buttons in order to change the case of Edit View’s text";
 				screenshot = "https://raw.githubusercontent.com/Ricard-Garcia/Glyphs_plugins/master/Case%20Change/Image/ChangeCase.png";
 			},
