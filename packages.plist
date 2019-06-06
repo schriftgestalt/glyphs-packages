@@ -811,6 +811,12 @@
 				description = "A palette with three buttons in order to change the case of Edit View’s text";
 				screenshot = "https://raw.githubusercontent.com/Ricard-Garcia/Glyphs_plugins/master/CaseChange/Image/ChangeCase.png";
 			},
+			{
+				name = "AddCaps.glyphsFilter";
+				title = "Add Caps";
+				url = "https://github.com/mekkablue/AddCaps";
+				description = "Automatically add cap components to your outline. This makes most sense for script typefaces in order to facilitate overlaps at where the letter shapes are supposed to connect.";
+			},
 		);
 	};
 }
