@@ -817,6 +817,13 @@
 				url = "https://github.com/mekkablue/AddCaps";
 				description = "Automatically add cap components to your outline. This makes most sense for script typefaces in order to facilitate overlaps at where the letter shapes are supposed to connect.";
 			},
+			{
+				name = "BaseReductor.glyphsFilter";
+				title = "BaseReductor";
+				url = "https://github.com/mekkablue/BaseReductor";
+				description = "*Filter > BaseReductor* will reduce diacritics to their base glyphs, e.g. äáàāą will appear as aaaa. This can be useful as custom parameter in trial font instances.";
+				screenshot = "https://raw.githubusercontent.com/mekkablue/BaseReductor/master/BaseReductorAnimation.gif";
+			},
 		);
 	};
 }
