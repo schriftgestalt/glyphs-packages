@@ -828,7 +828,7 @@
 				name = "SuperTool.glyphsTool";
 				title = "SuperTool";
 				url = "https://github.com/simoncozens/SuperTool/";
-				description = "Multitool providing curvature visualization, curve harmonization, Tunni line manipulation, path simplification, digital callipers and maore";
+				description = "Multitool providing curvature visualization, curve harmonization, Tunni line manipulation, path simplification, digital callipers and more";
 				screenshot = "https://raw.githubusercontent.com/simoncozens/SuperTool/master/supertool-screenshot.png";
 			},
 		);
