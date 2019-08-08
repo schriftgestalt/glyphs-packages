@@ -824,6 +824,13 @@
 				description = "*Filter > BaseReductor* will reduce diacritics to their base glyphs, e.g. äáàāą will appear as aaaa. This can be useful as custom parameter in trial font instances.";
 				screenshot = "https://raw.githubusercontent.com/mekkablue/BaseReductor/master/BaseReductorAnimation.gif";
 			},
+			{
+				name = "SuperTool.glyphsTool";
+				title = "SuperTool";
+				url = "https://github.com/simoncozens/SuperTool/";
+				description = "Multitool providing curvature visualization, curve harmonization, Tunni line manipulation, path simplification, digital callipers and maore";
+				screenshot = "https://raw.githubusercontent.com/simoncozens/SuperTool/master/supertool-screenshot.png";
+			},
 		);
 	};
 }
