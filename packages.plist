@@ -831,6 +831,13 @@
 				description = "Multitool providing curvature visualization, curve harmonization, Tunni line manipulation, path simplification, digital callipers and more";
 				screenshot = "https://raw.githubusercontent.com/simoncozens/SuperTool/master/supertool-screenshot.png";
 			},
+			{
+				name = "ShowAnchorsWithDuplicateCoordinates.glyphsReporter";
+				title = "Show Anchors with Duplicate Coordinates";
+				url = "https://github.com/mekkablue/ShowAnchorsWithDuplicateCoordinates/";
+				description = "View > Show Anchors with Duplicate Coordinates* (de: *Anker mit selben Koordinaten anzeigen*, es: *Mostrar anclas con mismas coordenadas*, fr: *Afficher ancres avec mêmes coordinées*, pt: *Mostrar âncoras com as mesmas coordenadas*) highlights ‘overlapping’ anchors (2+ anchors with the same coordinates).";
+				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowAnchorsWithDuplicateCoordinates/master/ShowAnchorsWithDuplicateCoordinates.png";
+			},
 		);
 	};
 }
