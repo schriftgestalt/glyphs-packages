@@ -12,7 +12,7 @@
 				name = "GlobalGlyph.glyphsReporter";
 				title = "Global Glyph";
 				url = "https://github.com/Nevu/Show-Global-Glyph";
-				description = "Displays the glyph named *_global* in the background of other glyphs. This can give an alternative to global guidelines. See GitHub for some craft tips";
+				description = "*View > Show Global Glyph* displays the glyph named *_global* in the background of other glyphs. This can give an alternative to global guidelines. See GitHub for some craft tips";
 				screenshot = "https://raw.githubusercontent.com/Nevu/Show-Global-Glyph/master/ShowGlobalGlyph.png";
 			},
 			{
@@ -25,14 +25,14 @@
 			{
 				name = "Shadow.glyphsFilter";
 				url = "https://github.com/mekkablue/Shadow";
-				description = "*Filter > Shadow* turns your glyphs into shadowed versions of themselves.";
+				description = "*Filter > Shadow* (de: *Schatten*, fr: *Ombreur*, nl: *Schaduw*, es: *Sombrear*, zh: *🌖阴影*) turns your glyphs into shadowed versions of themselves.";
 				screenshot = "https://raw.githubusercontent.com/mekkablue/Shadow/master/Shadow.png";
 			},
 			{
 				name = "ShowItalic.glyphsReporter";
 				title = "Show Italic";
 				url = "https://github.com/mekkablue/ShowItalic";
-				description = "*View > Show Italic* displays the italic (or upright) counterpart of the current glyph in Edit view, given that both the Upright and Italic fonts are opened in Glyphs, and given that the other font contains a glyph with the same name. It is useful for stepping through the glyphs and checking if there is an undesired deviation, e.g., a different diacritic height or different descender depth.";
+				description = "*View > Show Italic* (de: *Kursive*, es: *itálicas*, fr: *italique*, zh: *🥂意大利体*) displays the italic counterpart of the current upright glyph in Edit view (and vice versa), given that both the Upright and Italic fonts are opened in Glyphs, and given that the other font contains a glyph with the same name. It is useful for stepping through the glyphs and checking if there is an undesired deviation, e.g., a different diacritic height or different descender depth.";
 				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowItalic/master/ShowItalic.png";
 			},
 			{
@@ -80,7 +80,7 @@
 				name = "ShowInterpolation.glyphsReporter";
 				title = "Show Interpolation";
 				url = "https://github.com/mekkablue/ShowInterpolations";
-				description = "*View > Show Interpolations* calculates all active instances for the given glyph and draws them behind your paths.";
+				description = "*View > Show Interpolations* (de: *Interpolationen*, es: *interpolaciones*, fr: *interpolations*, zh: *💗插值*) calculates all active instances for the given glyph and draws them behind your paths.";
 				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowInterpolations/master/ShowInterpolations.png";
 				minVersion = 944;
 			},
@@ -188,7 +188,7 @@
 			{
 				name = "Noodler.glyphsFilter";
 				url = "https://github.com/mekkablue/Noodler";
-				description = "*Filter > Noodler* turns monolines of all selected glyphs into noodles.";
+				description = "*Filter > Noodler* (de: *Nudler*, fr: *Nouilleur*, es: *Fileteador*, zh: *🍜等线圆体*) turns monolines of all selected glyphs into noodles with rounded stroke endings.";
 				screenshot = "https://raw.githubusercontent.com/mekkablue/Noodler/master/Noodler.png";
 			},
 			{
@@ -244,74 +244,74 @@
 				name = "ShowKerningGroups.glyphsReporter";
 				title = "Show Kerning Groups";
 				url = "https://github.com/Mark2Mark/Show-Kerning-Group-Reference";
-				description = "*View > Show Kerning Groups* Displays all members of the currently active glyph’s kerning group to either side in miniature and realtime. Useful when setting up kerning groups and getting visual feedback right away. If you see elements sticking out of the right group, you know there might be a group member set wrong. Same for the left side. It is somehow related to the built-in feature \"Show Group Members\" by Georg Seifert, but this one does not need the caret to sit between a certain pair.\nWritten by Mark Frömberg (@Mark2Mark)";
+				description = "*View > Show Kerning Groups* displays all members of the currently active glyph’s kerning group to either side in miniature and realtime. Useful when setting up kerning groups and getting visual feedback right away. If you see elements sticking out of the right group, you know there might be a group member set wrong. Same for the left side. It is somehow related to the built-in feature \"Show Group Members\" by Georg Seifert, but this one does not need the caret to sit between a certain pair.\nWritten by Mark Frömberg (@Mark2Mark)";
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Show-Kerning-Group-Reference/12fd9ffaa0447f742dabce60a407ece582e1d6b2/Screenshots/KGR%2001.png?raw=true";
 			},
 			{
 				name = "ShowNextFont.glyphsReporter";
 				title = "Show Next Font";
 				url = "https://github.com/guidoferreyra/ShowNextFont";
-				description = "This plugin shows in a light orange colour the same glyph of another opened font. It could be useful for visual comparison of italics with normal styles,or different versions of the same font.";
+				description = "*View > Show Next Font* shows in a light orange colour the same glyph of another opened font. It could be useful for visual comparison of italics with normal styles,or different versions of the same font.";
 				screenshot = "https://raw.githubusercontent.com/guidoferreyra/ShowNextFont/master/screen-nextfont.png";
 			},
 			{
 				name = "ShowAnchorsCompatibility.glyphsReporter";
 				title = "Show Anchors Compatibility";
 				url = "https://github.com/guidoferreyra/ShowAnchorsCompatibility";
-				description = "This plugin is a complementary tool for Show Masters compatibility for those cases where the masters are not compatible because the absence of wrong naming of an anchor. The plugin displays a red circle behind the anchor that is not present in all masters.";
+				description = "*View > Show Anchors Compatibility* is a complementary tool for Show Masters compatibility for those cases where the masters are not compatible because the absence of wrong naming of an anchor. The plugin displays a red circle behind the anchor that is not present in all masters.";
 				screenshot = "https://raw.githubusercontent.com/guidoferreyra/ShowAnchorsCompatibility/master/screen-anchorscompat.png";
 			},
 			{
 				name = "ShowNextFontAnchors.glyphsReporter";
 				title = "Show Next Font Anchors";
 				url = "https://github.com/guidoferreyra/ShowNextFontAnchors";
-				description = "This plugin shows in a light orange colour the list of anchors used in the glyph of the next font and in gray colour the list of current font anchors.\nIf anchors names and quantity matches between fonts it display the word \"OK\" in green. Useful to compare versions of fonts or regular vs italics.";
+				description = "*View > Show Next Font Anchors* shows in a light orange colour the list of anchors used in the glyph of the next font and in gray colour the list of current font anchors.\nIf anchors names and quantity matches between fonts it display the word \"OK\" in green. Useful to compare versions of fonts or regular vs italics.";
 				screenshot = "https://raw.githubusercontent.com/guidoferreyra/ShowNextFontAnchors/master/screen-nextfontanchors.png";
 			},
 			{
 				name = "showCoordinates.glyphsReporter";
 				title = "Show Coordinates";
 				url = "https://github.com/guidoferreyra/showCoordinates";
-				description = "This plugin is similar to the Measurement tool, but it constantly displays the node coordinates and the handles' delta values.";
+				description = "*View > Show Coordinates* is similar to the Measurement tool, but it constantly displays the node coordinates and the handles' delta values.";
 				screenshot = "https://raw.githubusercontent.com/guidoferreyra/showCoordinates/master/screen-coordinates.png";
 			},
 			{
 				name = "Kernkraft.glyphsPlugin";
 				url = "https://github.com/bBoxType/Kernkraft";
-				description = "»Kernkraft« & »Kernschmelze« will help you to be easily confronted with all the necessary pairs your Font provides (no matter how extended the character set is).\n\nProgrammed by Mark Frömberg (@Mark2Mark).\nPlease contact me for any issues or ideas.\nBased on the way of kerning by bBox Type GmbH (bboxtype.com).\n\nNavigate in UI with your keyboard: ←,  → and ⏎. Save notes for later.\n\nDepends on `vanilla` module to be installed. Please install via Glyphs Preferences > Addons > Modules";
+				description = "*Glyph > Kernkraft* and *Glyph > Kernschmelze* will help you to be easily confronted with all the necessary pairs your Font provides (no matter how extended the character set is).\n\nProgrammed by Mark Frömberg (@Mark2Mark).\nPlease contact me for any issues or ideas.\nBased on the way of kerning by bBox Type GmbH (bboxtype.com).\n\nNavigate in UI with your keyboard: ←,  → and ⏎. Save notes for later.\n\nDepends on `vanilla` module to be installed. Please install via Glyphs Preferences > Addons > Modules";
 				screenshot = "https://raw.githubusercontent.com/bBoxType/Kernkraft/master/Kernkraft%2002.png";
 			},
 			{
 				name = "ShowStems.glyphsReporter";
 				title = "Show Stems (Light)";
 				url = "https://github.com/Mark2Mark/Show-Stems";
-				description = "*View > Show Stems* If active, it shows a measurement line (even in edit mode) with all distances between the outlines. If any distance matches the saved metrics in the Glyphs Palette, it will highlight in green and tell you which one it matches. The vertical position is attached to the Glyphsapp measurement line and can be moved around the same way.\nShortcut: Cmd-Opt-Ctrl-S (like **S**tems)\nWritten by Mark Frömberg (@Mark2Mark)";
+				description = "*View > Show Stems* shows a measurement line (even in edit mode) with all distances between the outlines. If any distance matches the saved metrics in the Glyphs Palette, it will highlight in green and tell you which one it matches. The vertical position is attached to the Glyphsapp measurement line and can be moved around the same way.\nShortcut: Cmd-Opt-Ctrl-S (like **S**tems)\nWritten by Mark Frömberg (@Mark2Mark)";
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Show-Stems/master/Images/Show%20Stems%2003.png";
 			},
 			{
 				name = "Erode.glyphsFilter";
 				url = "https://github.com/simoncozens/Erode";
-				description = "*Filter > Erode* This simulates wear and tear on your glyphs by rubbing away random bits of the outlines, especially around corners.";
+				description = "*Filter > Erode* simulates wear and tear on your glyphs by rubbing away random bits of the outlines, especially around corners.";
 				screenshot = "https://raw.githubusercontent.com/simoncozens/Erode/master/Erode.png";
 			},
 			{
 				name = "Unitizer.glyphsReporter";
 				url = "https://github.com/impallari/Unitizer";
-				description = "*View > Show Unitizer* helpful for working in Unitized fonts. It display unit guidelines in the background (correspondong to a value that you can configure at will) of the current glyph in Edit view.";
+				description = "*View > Show Unitizer* displays unit guidelines in the background (correspondong to a value that you can configure at will) of the current glyph in Edit view. This is helpful for working in unitized fonts.";
 				screenshot = "https://raw.githubusercontent.com/impallari/Unitizer/master/unitizer01.png";
 			},
 			{
 				name = "ShowNodeIndexes.glyphsReporter";
 				title = "Show Node Indexes";
 				url = "https://github.com/mekkablue/ShowNodeIndexes";
-				description = "*View > Show Node Indexes* shows index numbers for the current glyph in Edit view. Toggle display of BCP indexes via context menu.";
+				description = "*View > Show Node Indexes* (es: *listado de nodos*, de: *Indexnummern*, nl: *Indexgetallen*) shows index numbers for the current glyph in Edit view. Toggle display of BCP indexes via context menu.";
 				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowNodeIndexes/master/ShowNodeIndexes.png";
 			},
 			{
 				name = "DeleteSmallPaths.glyphsFilter";
 				title = "Delete Small Paths";
 				url = "https://github.com/mekkablue/DeleteSmallPaths";
-				description = "*Filter > Delete Small Paths* deletes all paths smaller than a threshold value in square units. It can be useful for cleaning up glyphs from vector debris.";
+				description = "*Filter > Delete Small Paths* (es: *Borrar trazados pequeños*, de: *Kleine Pfade löschen*, fr: *Supprimer les petits tracés*) deletes all paths smaller than a threshold value in square units. It can be useful for cleaning up glyphs from vector debris.";
 				screenshot = "https://raw.githubusercontent.com/mekkablue/DeleteSmallPaths/master/DeleteSmallPaths.png";
 			},
 			{
@@ -345,7 +345,7 @@
 				name = "StemThickness.glyphsReporter";
 				title = "Stem Thickness";
 				url = "https://github.com/RafalBuchner/StemThickness";
-				description = "The tool shows how thick is the stem in a pointed place.";
+				description = "*View > Stem Thickness* shows how thick the stem is at the current mouse position.";
 				screenshot = "https://raw.githubusercontent.com/RafalBuchner/StemThickness/master/images/ilu_StemThickness.png";
 			},
 			{
@@ -387,7 +387,7 @@
 				name = "TraceImage.glyphsFilter";
 				title = "Trace Image";
 				url = "https://github.com/schriftgestalt/GlyphsTracePlugin";
-				description = "This is a plugin to trace image into editable paths. It uses either the library [porace](http://potrace.sourceforge.net) or [autotrace](http://autotrace.sourceforge.net).";
+				description = "*Filter > Trace Image* is a plugin to trace bitmap images into editable paths. You can choose between the [porace](http://potrace.sourceforge.net) and the [autotrace](http://autotrace.sourceforge.net) algorithm.";
 			},
 			{
 				name = "Speed Punk 30-day Trial.glyphsReporter";
@@ -405,26 +405,26 @@
 				name = "LigatureCaret.glyphsReporter";
 				title = "Ligature Caret";
 				url = "https://github.com/FAlthausen/LigatureCaret";
-				description = "Select a 'caret' named anchor to show the cursor position in ligatures as a vertical line. Be aware that most software doesn’t take note of the font’s italic angle.";
+				description = "*View > Ligature Caret:* Select a `caret` anchor to show the cursor position in ligatures as a vertical line. Be aware that most software doesn’t take note of the font’s italic angle.";
 				screenshot = "https://raw.githubusercontent.com/FAlthausen/LigatureCaret/master/LigatureCaretScreenshot.png";
 			},
 			{
 				name = "PixelTool.glyphsTool";
 				title = "Pixel Tool";
 				url = "https://github.com/schriftgestalt/PixelTool";
-				description = "This is a simple pixel drawing tool.\nIt needs a 'pixel' glyph in the font. And it is advised to have set the fonts grid to the size of the pixel.";
+				description = "Adds a simple pixel drawing tool to the toolbar. It needs a `pixel` glyph in the font. And it is advised to have set the fonts grid to the size of the pixel.";
 			},
 			{
 				name = "ShowNextFontComponents.glyphsReporter";
 				title = "Show Next Font Components";
 				url = "https://github.com/guidoferreyra/ShowNextFontComponents";
-				description = "Shows in a light orange colour the list of components used in the glyph of the next font and in gray colour the list of current font components. If anchors names and quantity matches between fonts it display the word \"OK\" in green.";
+				description = "*View > Show Next Font Components* shows in a light orange colour the list of components used in the glyph of the next font and in gray colour the list of current font components. If anchors names and quantity matches between fonts it display the word \"OK\" in green.";
 				screenshot = "https://raw.githubusercontent.com/guidoferreyra/ShowNextFontComponents/master/screen-nextfontcomponents.png";
 			},
 			{
 				name = "Obfuscator.glyphsFilter";
 				url = "https://github.com/guidoferreyra/Obfuscator";
-				description = "Replaces glyphs for another one in the font. Useful for replace glyphs in demo version of a font. See full ([readme] [github.com/guidoferreyra/Obfuscator](https://github.com/guidoferreyra/Obfuscator)) for more info on how to use it.";
+				description = "*Filter > Obfuscator* replaces glyphs for another one in the font. Useful for replacing glyphs in the demo versions of a font. See full readme on [the repository page](https://github.com/guidoferreyra/Obfuscator) for more info on how to use it.";
 				screenshot = "https://raw.githubusercontent.com/guidoferreyra/Obfuscator/master/screen-obfuscator.png";
 			},
 			{
@@ -436,7 +436,7 @@
 			},
 			{
 				name = "ShowAllBackgrounds.glyphsReporter";
-				title = "Show all Backgrounds";
+				title = "Show All Backgrounds";
 				url = "https://github.com/mekkablue/ShowAllBackgrounds";
 				description = "*View > Show All Backgrounds* displays the background layers of inactive glyphs in Edit view, i.e., all glyphs except the one currently open for editing. It displays paths in a pinkish color, components in a pastel orange. It works best if you disable *View > Fill Preview*.";
 				screenshot = "https://github.com/mekkablue/ShowAllBackgrounds/raw/master/ShowAllBackgrounds.png";
@@ -452,7 +452,7 @@
 				name = "ShowVerticalMetrics.glyphsReporter";
 				title = "Show Vertical Metrics";
 				url = "https://github.com/mekkablue/ShowVerticalMetrics";
-				description = "*View > Show Vertical Metrics* displays vertical metric parameters set in *File > Font Info > Masters.*";
+				description = "*View > Show Vertical Metrics* (de: *Vertikalmaße*, es: *métricas verticales*) displays vertical metric parameters set in *File > Font Info > Masters.*";
 				screenshot = "https://github.com/mekkablue/ShowVerticalMetrics/raw/master/ShowVerticalMetrics.png";
 			},
 			{
@@ -513,7 +513,7 @@
 				name = "MetricsSolver.glyphsPlugin";
 				title = "Metrics Solver";
 				url = "https://github.com/jayKayEss/MetricsSolver";
-				description = "Update all metrics across all masters and check for bad metrics keys in a single step. This plugin adds the Edit > Resolve All Metrics menu option.";
+				description = "*Edit > Resolve All Metrics* updates all metrics across all masters and checks for bad metrics keys in a single step.";
 				screenshot = "https://github.com/jayKayEss/MetricsSolver/raw/master/Extras/screenshot.png";
 			},
 			{
@@ -527,7 +527,7 @@
 				name = "ShowMarkPreview.glyphsReporter";
 				title = "Show Mark Preview";
 				url = "https://github.com/mekkablue/ShowMarkPreview";
-				description = "*View > Show Mark Preview* is a displays mark-to-base and mark-to-mark attachment with the letters and marks you type in Edit view.";
+				description = "*View > Show Mark Preview* (de: *Akzent-Vorschau*, es: *previsualización de acentos*) is a displays mark-to-base and mark-to-mark attachment with the letters and marks you type in Edit view.";
 				screenshot = "https://github.com/mekkablue/ShowMarkPreview/raw/master/ShowMarkPreview.png";
 			},
 			{
