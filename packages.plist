@@ -12,7 +12,7 @@
 				name = "GlobalGlyph.glyphsReporter";
 				title = "Global Glyph";
 				url = "https://github.com/Nevu/Show-Global-Glyph";
-				description = "*View > Show Global Glyph* displays the glyph named *_global* in the background of other glyphs. This can give an alternative to global guidelines. See GitHub for some craft tips";
+				description = "*View > Show Global Glyph* displays the glyph named `_global` in the background of other glyphs. This can give an alternative to global guidelines. See GitHub for some craft tips";
 				screenshot = "https://raw.githubusercontent.com/Nevu/Show-Global-Glyph/master/ShowGlobalGlyph.png";
 			},
 			{
@@ -39,7 +39,7 @@
 				name = "SmartPlumblines.glyphsReporter";
 				title = "Smart Plumblines";
 				url = "https://github.com/Mark2Mark/Show-Smart-Plumblines";
-				description = "*View > Show Smart Plumblines* By default it displays **live guidelines** at the center of each paths’ (red) and components’ (grey) bounding box.\nIf you select anything, it also displays the center of that selection (blue dashed).\nOne major feature is that the guidelines **automatically match your italic angle**.\nThis is useful for aligning objects by sight. As well as:\n\n- Align multiple paths and/or components\n- Setting up horizontal positions of anchors\n- Editing segments while easily keeping italic angle, etc.\nWritten by Mark Frömberg (@Mark2Mark)";
+				description = "*View > Show Smart Plumblines* displays **live guidelines** at the center of each paths’ (red) and components’ (grey) bounding box.\nIf you select anything, it also displays the center of that selection (blue dashed).\nOne major feature is that the guidelines **automatically match your italic angle**.\nThis is useful for aligning objects by sight. As well as:\n\n- Align multiple paths and/or components\n- Setting up horizontal positions of anchors\n- Editing segments while easily keeping italic angle, etc.\nWritten by Mark Frömberg (@Mark2Mark)";
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Glyphsapp-Plugins/Screenshots/Screenshots/SmartPlumblines/SmPlL%2012.png?raw=true";
 			},
 			{
@@ -53,20 +53,20 @@
 				name = "RedArrow.glyphsReporter";
 				title = "Red Arrow";
 				url = "https://github.com/jenskutilek/RedArrow-Glyphs";
-				description = "Now Glyphs users can also have red arrows!\nThis plugin points at possible outline errors, like FontAudit in FontLab Studio. This version works in Glyphs 2.3 and newer. When the plugin is active, red arrows will point to possible mistakes in your outlines.";
+				description = "*View > Red Arrows:* Now Glyphs users can also have red arrows!\nThis plugin points at possible outline errors, like FontAudit in FontLab Studio. This version works in Glyphs 2.3 and newer. When the plugin is active, red arrows will point to possible mistakes in your outlines.";
 				screenshot = "https://raw.githubusercontent.com/jenskutilek/RedArrow-Glyphs/master/screenshot.png";
 			},
 			{
 				name = "DrawBot.glyphsPlugin";
 				url = "https://github.com/schriftgestalt/DrawBotGlyphsPlugin";
-				description = "DrawBot inside Glyphs.\nMake a new drawBot from the File menu > New DrawBot, or open a file with Cmd-O. Save or Save As as usual. Run the script by hitting the Run button (or pressing Cmd-⏎). Clean the output area by pressing Cmd-K.\n\nTo save a drawing as pdf, hit Cmd-E (or File > Export..)";
+				description = "DrawBot inside Glyphs.\nMake a new drawBot from *File > New DrawBot,* or open a `.py` file with Cmd-O. *File > Save* as usual. Run the script by hitting the Run button (or pressing Cmd-⏎). Clean the output area by pressing Cmd-K.\n\nTo save a drawing as pdf, hit Cmd-E (*File > Export…*)";
 				screenshot = "https://raw.githubusercontent.com/schriftgestalt/DrawBotGlyphsPlugin/master/GlyphsLogoDrawBot.png";
 			},
 			{
 				name = "ShowTopsAndBottoms.glyphsReporter";
 				title = "Show Tops and Bottoms";
 				url = "https://github.com/mekkablue/ShowTopsAndBottoms";
-				description = "*View > Show Tops And Bottoms* displays the bounding box tops and bottoms for each glyph in the Edit view, and marks them red if they are not inside an alignment zone.";
+				description = "*View > Show Tops And Bottoms* (es: *superiores e inferiores*, de: *Höchste und tiefste Stellen*, nl: *hoogste en laagste plekken*, fr: *les hauts et les bas*, zh: *🚧底部到顶点的数值*) displays the bounding box tops and bottoms for each glyph in the Edit view, and marks them red if they are not inside an alignment zone. Also highlights nodes *inside* zones if they are missing a metric line by 1 unit.";
 				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowTopsAndBottoms/master/ShowTopsAndBottoms.png";
 			},
 			{
@@ -130,7 +130,7 @@
 				name = "ShowAngledHandles.glyphsReporter";
 				title = "Show Angled Handles";
 				url = "https://github.com/mekkablue/ShowAngledHandles";
-				description = "*View > Show Angled Handles* highlights BCPs (‘handles’) which are not horizontal or vertical, quite-but-not-completely-straight line segments, duplicate paths, crossed handles, and zero handles.";
+				description = "*View > Show Angled Handles* (de: *Schräge Anfasser*, es: *manejadores inclinados*, fr: *les poignées inclinées*, zh: *⚖️路径检查工具*) highlights BCPs (‘handles’) which are not horizontal or vertical, quite-but-not-completely-straight line segments, duplicate path segments, crossed handles, and zero handles. Options in the context menu.";
 				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowAngledHandles/master/ShowAngledHandles.png";
 			},
 			{
