@@ -703,6 +703,13 @@
 				screenshot = "https://raw.githubusercontent.com/justanotherfoundry/freemix-glyphsapp/master/AnchorsPalette/AnchorsPalette.png";
 			},
 			{
+				name = "AlignmentPalette/Alignment.glyphsPalette";
+				title = "Alignment Palette";
+				url = "https://github.com/justanotherfoundry/freemix-glyphsapp";
+				description = "This palette shows the position of the center of the glphs’s bounding box. This works with components, with multiple glyphs selected and is also editable. Useful for centering all case-sensitive punctuation vertically, or to check whether mathematical operands are on the same x position (use Glyphs’ built-in glyph info to check whether they have the same advance width). Note that the bounding box center may be .5 even if your font has a grid of 1 without subdivisions (i.e. integer coordinates). The node/path selection is intentionally ignored.\n\nThe Overshoots section displays the overshoot of the selected glyph(s) relative to each alignment zone.";
+				screenshot = "https://raw.githubusercontent.com/justanotherfoundry/freemix-glyphsapp/master/AlignmentPalette/AlignmentPalette.png";
+			},
+			{
 				name = "GlyphSILE.glyphsPlugin";
 				title = "GlyphSILE";
 				url = "https://github.com/simoncozens/GlyphSILE.glyphsplugin";
