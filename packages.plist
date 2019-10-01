@@ -846,6 +846,12 @@
 				description = "*View > Show Anchors with Duplicate Coordinates* (de: *Anker mit selben Koordinaten anzeigen*, es: *Mostrar anclas con mismas coordenadas*, fr: *Afficher ancres avec mêmes coordinées*, pt: *Mostrar âncoras com as mesmas coordenadas*) highlights ‘overlapping’ anchors (2+ anchors with the same coordinates).";
 				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowAnchorsWithDuplicateCoordinates/master/ShowAnchorsWithDuplicateCoordinates.png";
 			},
+			{
+				name = "SF Symbol Template.glyphsFileFormat";
+				title = "SF Symbol Template";
+				url = "https://github.com/schriftgestalt/SFSymbolTemplate";
+				description = "*File > Import > Symbol Template* and *File > Export > SF Symbol* help open and create SF Symbol Template files.";
+			},
 		);
 	};
 }
