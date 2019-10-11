@@ -710,6 +710,13 @@
 				screenshot = "https://raw.githubusercontent.com/justanotherfoundry/freemix-glyphsapp/master/AlignmentPalette/AlignmentPalette.png";
 			},
 			{
+				name = "SuffixesPalette/Suffixes.glyphsPalette";
+				title = "Suffixes Palette";
+				url = "https://github.com/justanotherfoundry/freemix-glyphsapp";
+				description = "This palette shows the name(s) of the selected glyph(s), split by suffix. The fields are editable. This is useful for quickly changing the suffix of multiple glyphs at once.";
+				screenshot = "https://raw.githubusercontent.com/justanotherfoundry/freemix-glyphsapp/master/SuffixesPalette/SuffixesPalette.png";
+			},
+			{
 				name = "GlyphSILE.glyphsPlugin";
 				title = "GlyphSILE";
 				url = "https://github.com/simoncozens/GlyphSILE.glyphsplugin";
