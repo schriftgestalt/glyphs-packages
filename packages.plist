@@ -859,6 +859,13 @@
 				url = "https://github.com/schriftgestalt/SFSymbolTemplate";
 				description = "*File > Import > Symbol Template* and *File > Export > SF Symbol* help open and create SF Symbol Template files. [See the tutorial](https://glyphsapp.com/tutorials/creating-an-sf-symbol) for details.";
 			},
+						{
+				name = "OptimizeStartNodes.glyphsFilter";
+				title = "Optimize Start Node Placement";
+				url = "https://github.com/LucasFonts/Glyphs-OptimizeStartNodes";
+				description = "*Filter > Optimize Start Nodes* will optimize the placement of start nodes so that they immediately follow after a straight line segment if possible.";
+				screenshot = "https://raw.githubusercontent.com/LucasFonts/Glyphs-OptimizeStartNodes/master/round.png";
+			},
 		);
 	};
 }
