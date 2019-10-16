@@ -866,6 +866,13 @@
 				description = "*Filter > Optimize Start Nodes* will optimize the placement of start nodes so that they immediately follow after a straight line segment if possible.";
 				screenshot = "https://raw.githubusercontent.com/LucasFonts/Glyphs-OptimizeStartNodes/master/round.png";
 			},
+			{
+				name = "Stitcher.glyphsFilter";
+				title = "Stitcher";
+				url = "https://github.com/mekkablue/Stitcher";
+				description = "*Filter > Stitcher* will distribute components along an (open) path at a certain interval. Components will be placed according to the origin point (0,0) or, if available, an `origin` anchor in the original glyph. The *Balance Components* option stretches the distribution along the *complete* path, so that components are placed on the first and last point of the (open) path. Hint: If used as custom parameter, use as `PreFilter` rather than `Filter`.";
+				screenshot = "https://raw.githubusercontent.com/mekkablue/Stitcher/master/Stitcher.png";
+			},
 		);
 	};
 }
