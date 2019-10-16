@@ -859,7 +859,7 @@
 				url = "https://github.com/schriftgestalt/SFSymbolTemplate";
 				description = "*File > Import > Symbol Template* and *File > Export > SF Symbol* help open and create SF Symbol Template files. [See the tutorial](https://glyphsapp.com/tutorials/creating-an-sf-symbol) for details.";
 			},
-						{
+			{
 				name = "OptimizeStartNodes.glyphsFilter";
 				title = "Optimize Start Node Placement";
 				url = "https://github.com/LucasFonts/Glyphs-OptimizeStartNodes";
