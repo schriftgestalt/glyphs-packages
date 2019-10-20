@@ -873,6 +873,14 @@
 				description = "*Filter > Stitcher* will distribute components along an (open) path at a certain interval. Components will be placed according to the origin point (0,0) or, if available, an *origin* anchor in the original glyph. The *Balance Components* option stretches the distribution along the *complete* path, so that components are placed on the first and last point of the (open) path. Hint: If used as custom parameter, use as *PreFilter* rather than *Filter.*";
 				screenshot = "https://raw.githubusercontent.com/mekkablue/Stitcher/master/Stitcher.png";
 			},
+			{
+				name = "Inliner.glyphsFilter";
+				title = "Inliner";
+				url = "https://github.com/mekkablue/Inliner";
+				description = "*Filter > Inliner* will will expand a skeleton path to an inlined stroke. *Stroke Width* is the complete width of the (double) stroke. *Inline Width* is the width of the white gap inside the stroke.
+";
+				screenshot = "https://raw.githubusercontent.com/mekkablue/Inliner/master/Inliner.png";
+			},
 		);
 	};
 }
