@@ -231,7 +231,7 @@
 				title = "Presenter (Free)";
 				url = "https://github.com/Mark2Mark/Presenter-Free";
 				description = "Make up your fonts ready to present and save as image in seconds.\nUnlock tons of more features in the [Pro Version](https://markfromberg.com/projects/presenter/) \nWritten by Mark Frömberg (@Mark2Mark)";
-				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Presenter-Free/master/images/Presenter-001-markFromberg.png";
+				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Presenter-Free/master/images/Presenter-000-markFromberg.png";
 			},
 			{
 				name = "LabelColor.glyphsReporter";
