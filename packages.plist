@@ -228,7 +228,7 @@
 			},
 			{
 				name = "Presenter.glyphsPlugin";
-				title = "Presenter (Free)";
+				title = "Presenter - Free";
 				url = "https://github.com/Mark2Mark/Presenter-Free";
 				description = "Let your fonts shine in all glory to present them and save as image in seconds.\nUnlock tons of more features in the [Pro Version](https://markfromberg.com/projects/presenter/) \nWritten by Mark Frömberg (@Mark2Mark)";
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Presenter-Free/master/images/Presenter-000-markFromberg.png";
