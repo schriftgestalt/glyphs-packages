@@ -882,6 +882,13 @@
 				description = "*Filter > Inliner* will will expand a skeleton path to an inlined stroke. *Stroke Width* is the complete width of the (double) stroke. *Inline Width* is the width of the white gap inside the stroke.";
 				screenshot = "https://raw.githubusercontent.com/mekkablue/Inliner/master/Inliner.png";
 			},
+			{
+				name = "ShowOnlySelectedHandles.glyphsReporter";
+				title = "Show Only Selected Handles";
+				url = "https://github.com/mekkablue/ShowOnlySelectedHandles";
+				description = "*View > Show Only Selected Handles* (de: *Nur ausgewählte Anfasser anzeigen,* fr: *Montrer seulement les poignées sélectionnées,* es: *Mostrar los manejadores seleccionados*) will display handles only when they are selected.";
+				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowOnlySelectedHandles/master/ShowOnlySelectedHandles.png";
+			},
 		);
 	};
 }
