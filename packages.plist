@@ -879,8 +879,7 @@
 				name = "Inliner.glyphsFilter";
 				title = "Inliner";
 				url = "https://github.com/mekkablue/Inliner";
-				description = "*Filter > Inliner* will will expand a skeleton path to an inlined stroke. *Stroke Width* is the complete width of the (double) stroke. *Inline Width* is the width of the white gap inside the stroke.
-";
+				description = "*Filter > Inliner* will will expand a skeleton path to an inlined stroke. *Stroke Width* is the complete width of the (double) stroke. *Inline Width* is the width of the white gap inside the stroke.";
 				screenshot = "https://raw.githubusercontent.com/mekkablue/Inliner/master/Inliner.png";
 			},
 		);
