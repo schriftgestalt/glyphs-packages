@@ -488,7 +488,7 @@
 				title = "Pixel Pen Tool";
 				url = "https://github.com/Tosche/PixelPenTool";
 				description = "Component drawing tool that makes designing pixel-based fonts easier. Schriftgestalt's Pixel Tool is a similar alternate, but this one guides you more closely by setting up the source file suited for pixelation. It also has auto-eraser function.";
-				screenshot = "https://github.com/Tosche/PixelPenTool/raw/master/Images/PixelPenTool.png";
+				screenshot = "https://github.com/Tosche/PixelPenTool/raw/master/Images/PixelPenTool.gif";
 			},
 			{
 				name = "ShowBlackFill.glyphsReporter";
