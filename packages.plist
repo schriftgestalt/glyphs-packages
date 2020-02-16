@@ -484,6 +484,13 @@
 				screenshot = "https://github.com/mekkablue/VerticalSkew/raw/master/VerticalSkew.png";
 			},
 			{
+				name = "PixelPenTool.glyphsTool";
+				title = "Pixel Pen Tool";
+				url = "https://github.com/Tosche/PixelPenTool";
+				description = "Component drawing tool that makes designing pixel-based fonts easier. Schriftgestalt's Pixel Tool is a similar alternate, but this one guides you more closely by setting up the source file suited for pixelation. It also has auto-eraser function.";
+				screenshot = "https://github.com/Tosche/PixelPenTool/raw/master/Images/PixelPenTool.png";
+			},
+			{
 				name = "ShowBlackFill.glyphsReporter";
 				title = "Show Black Fill";
 				url = "https://github.com/Tosche/ShowBlackFill";
