@@ -904,5 +904,32 @@
 				screenshot = "https://raw.githubusercontent.com/mekkablue/MasterSwitcher/master/MasterSwitcher.png";
 			},
 		);
+		scripts = (
+			{
+				name = "Mekkablue Scripts";
+				url = "https://github.com/mekkablue/Glyphs-Scripts";
+				description = "Big collection of Python scripts by Rainer";
+			},
+		);
+		modules = (
+			{
+				title = "Vanilla";
+				name = "Lib/vanilla";
+				url = "https://github.com/typesupply/vanilla";
+				description = "A Pythonic wrapper around Cocoa.";
+			},
+			{
+				title = "RoboFab";
+				name = "Lib/robofab";
+				url = "https://github.com/robofab-developers/robofab";
+				description = "A Python library with objects that deal with data usually associated with fonts and type design.";
+			},
+			{
+				title = "FontTools";
+				name = "Lib/fontTools";
+				url = "https://github.com/fonttools/fonttools";
+				description = "A Python library with objects that deal with data usually associated with fonts and type design.";
+			},
+		);
 	};
 }
