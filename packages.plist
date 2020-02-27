@@ -903,6 +903,13 @@
 				description = "This palette extension allows you to step through font masters. Use the left button to step to the previous master, and the right button to step to the next master. Use the middle button for jumping half the masters.";
 				screenshot = "https://raw.githubusercontent.com/mekkablue/MasterSwitcher/master/MasterSwitcher.png";
 			},
+			{
+				name = "NodeNamer.glyphsPalette";
+				title = "Node Namer";
+				url = "https://github.com/mekkablue/NodeNamer";
+				description = "*Node Namer* (de: *NodeNamer,* es: *Nombreador de nodos*) is a small item in the Palette sidebar (Cmd-Opt-P) that allows you to set and delete node names.";
+				screenshot = "https://raw.githubusercontent.com/mekkablue/NodeNamer/master/NodeNamer.png";
+			},
 		);
 	};
 }
