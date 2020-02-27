@@ -907,7 +907,7 @@
 				name = "NodeNamer.glyphsPalette";
 				title = "Node Namer";
 				url = "https://github.com/mekkablue/NodeNamer";
-				description = "*Node Namer* (de: *NodeNamer,* es: *Nombreador de nodos*) is a small item in the Palette sidebar (Cmd-Opt-P) that allows you to set and delete node names.";
+				description = "*Node Namer* (de: *NodeNamer*, es: *Nombrar los nodos*, fr: *Nommer les nœuds*, zh: 锚点名称) is a small item in the Palette sidebar (*Window > Palette,* Cmd-Opt-P) that allows you to set and delete node names.";
 				screenshot = "https://raw.githubusercontent.com/mekkablue/NodeNamer/master/NodeNamer.png";
 			},
 		);
