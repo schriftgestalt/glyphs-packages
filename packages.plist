@@ -910,6 +910,13 @@
 				description = "*Node Namer* (de: *NodeNamer*, es: *Nombrar los nodos*, fr: *Nommer les nœuds*, zh: 锚点名称) is a small item in the Palette sidebar (*Window > Palette,* Cmd-Opt-P) that allows you to set and delete node names.";
 				screenshot = "https://raw.githubusercontent.com/mekkablue/NodeNamer/master/NodeNamer.png";
 			},
+			{
+				name = "System7Shadow.glyphsFilter";
+				title = "System 7 Shadow";
+				url = "https://github.com/mekkablue/System7Shadow";
+				description = "*System 7 Shadow* (de: *System-7-Schattem*) reproduces a shadow around a glyph that looks like the old Chicago Shadowed pixelfonts by Susan Kare which came bundled with the old Mac System 7.";
+				screenshot = "https://raw.githubusercontent.com/mekkablue/System7Shadow/master/System7Shadow.png";
+			},
 		);
 	};
 }
