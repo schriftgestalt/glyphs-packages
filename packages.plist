@@ -917,6 +917,13 @@
 				description = "*System 7 Shadow* (de: *System-7-Schattem*) reproduces a shadow around a glyph that looks like the old Chicago Shadowed pixelfonts by Susan Kare which came bundled with the old Mac System 7.";
 				screenshot = "https://raw.githubusercontent.com/mekkablue/System7Shadow/master/System7Shadow.png";
 			},
+			{
+				name = "BlindFold Neue.glyphsReporter";
+				title = "BlindFold Neue";
+				url = "https://github.com/stone-zeng/Blindfold-Neue";
+				description = "*BlindFold Neue* (zh: 眼罩 Neue) is a forked version of Blindfold, a plugin for the Glyphs font editor. It covers the boundary of the glyphs. Useful for design CJK fonts.";
+				screenshot = "https://user-images.githubusercontent.com/18233088/74555875-a8de0500-4f97-11ea-9b36-7afae6b74cbe.png";
+			},
 		);
 	};
 }
