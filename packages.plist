@@ -458,7 +458,7 @@
 				screenshot = "https://github.com/mekkablue/ShowVerticalMetrics/raw/master/ShowVerticalMetrics.png";
 			},
 			{
-				name = "Space Bar.glyphsReporter";
+				name = "SpaceBar.glyphsReporter";
 				title = "Space Bar";
 				url = "https://github.com/yanone/spacebar";
 				description = "Take control of spacing values across your masters and instances.";
