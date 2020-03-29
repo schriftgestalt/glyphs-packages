@@ -458,10 +458,11 @@
 				screenshot = "https://github.com/mekkablue/ShowVerticalMetrics/raw/master/ShowVerticalMetrics.png";
 			},
 			{
-				name = "Space Bar 30-day Trial.glyphsReporter";
-				url = "https://github.com/yanone/SpaceBar30DayTrial";
-				description = "Take control of spacing values across your masters and instances. Public beta period.\nMore infos at http://yanone.de/software/spacebar/";
-				screenshot = "https://raw.githubusercontent.com/yanone/SpaceBar30DayTrial/master/spacebarglyphs.jpg";
+				name = "SpaceBar.glyphsReporter";
+				title = "Space Bar";
+				url = "https://github.com/yanone/spacebar";
+				description = "Take control of spacing values across your masters and instances.";
+				screenshot = "https://raw.githubusercontent.com/yanone/spacebar/master/spacebarglyphs.jpg";
 			},
 			{
 				name = "ShowGlyphsInLabelColor.glyphsReporter";
@@ -902,6 +903,20 @@
 				url = "https://github.com/mekkablue/MasterSwitcher";
 				description = "This palette extension allows you to step through font masters. Use the left button to step to the previous master, and the right button to step to the next master. Use the middle button for jumping half the masters.";
 				screenshot = "https://raw.githubusercontent.com/mekkablue/MasterSwitcher/master/MasterSwitcher.png";
+			},
+			{
+				name = "NodeNamer.glyphsPalette";
+				title = "Node Namer";
+				url = "https://github.com/mekkablue/NodeNamer";
+				description = "*Node Namer* (de: *NodeNamer*, es: *Nombrar los nodos*, fr: *Nommer les nœuds*, zh: 锚点名称) is a small item in the Palette sidebar (*Window > Palette,* Cmd-Opt-P) that allows you to set and delete node names.";
+				screenshot = "https://raw.githubusercontent.com/mekkablue/NodeNamer/master/NodeNamer.png";
+			},
+			{
+				name = "System7Shadow.glyphsFilter";
+				title = "System 7 Shadow";
+				url = "https://github.com/mekkablue/System7Shadow";
+				description = "*System 7 Shadow* (de: *System-7-Schattem*) reproduces a shadow around a glyph that looks like the old Chicago Shadowed pixelfonts by Susan Kare which came bundled with the old Mac System 7.";
+				screenshot = "https://raw.githubusercontent.com/mekkablue/System7Shadow/master/System7Shadow.png";
 			},
 		);
 		scripts = (
