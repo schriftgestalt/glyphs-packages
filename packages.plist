@@ -918,6 +918,13 @@
 				description = "*System 7 Shadow* (de: *System-7-Schattem*) reproduces a shadow around a glyph that looks like the old Chicago Shadowed pixelfonts by Susan Kare which came bundled with the old Mac System 7.";
 				screenshot = "https://raw.githubusercontent.com/mekkablue/System7Shadow/master/System7Shadow.png";
 			},
+			{
+				name = "Scrambler.glyphsPalette";
+				title = "Scrambler";
+				url = "https://github.com/FEDER-CO/Scrambler";
+				description = "*Scrambler* is a palette extension that creates a new tab with a generated random sequence of selected glyphs. Useful at the initial design stages or to have a feel of the rhythm of the typeface. Works with numbers or non-latin characters.";
+				screenshot = "https://raw.githubusercontent.com/FEDER-CO/Scrambler/master/Scrambler.png";
+			},
 		);
 	};
 }
