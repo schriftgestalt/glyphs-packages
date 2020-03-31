@@ -1692,6 +1692,13 @@
 				screenshot = "https://raw.githubusercontent.com/mekkablue/System7Shadow/master/System7Shadow.png";
 			},
 			{
+				name = "Scrambler.glyphsPalette";
+				title = "Scrambler";
+				url = "https://github.com/FEDER-CO/Scrambler";
+				description = "*Scrambler* is a palette extension that creates a new tab with a generated random sequence of selected glyphs. Useful at the initial design stages or to have a feel of the rhythm of the typeface. Works with numbers or non-latin characters.";
+				screenshot = "https://raw.githubusercontent.com/FEDER-CO/Scrambler/master/Scrambler.png";
+			},
+			{
 				path = "GlyphGiffer.glyphsPlugin";
 				titles = {
 					en = "GlyphGiffer";
