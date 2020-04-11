@@ -19,7 +19,7 @@
 				};
 				url = "https://github.com/moontypespace/NodesCloseToZones-Glyphs";
 				descriptions = {
-					en = "*View > Show Nodes Close To Zones* Highlights nodes which are close to an alignment zone but are neither in nor on the boundary of an alignment zone (sensitivity is ≤ 4 units distance).\n*Right Click > New Tab: Nodes Close to Zone* opens a new tab listing all glyphs with potentially misaligned nodes.\nWritten by Olli Meier";
+					en = "*View > Show Nodes Close To Zones* highlights nodes which are close to an alignment zone but are neither in nor on the boundary of an alignment zone (sensitivity is ≤ 4 units distance).\n*Right Click > New Tab: Nodes Close to Zone* opens a new tab listing all glyphs with potentially misaligned nodes.\nWritten by Olli Meier";
 				};
 				screenshot = "https://raw.githubusercontent.com/moontypespace/NodesCloseToZones-Glyphs/553d3fa3eeaf5897bf65f6c9222b4eb6b17a3fe9/screenshot_nodesHighlighted.png";
 			},
@@ -47,6 +47,14 @@
 			},
 			{
 				name = "Shadow.glyphsFilter";
+				title = {
+					en = "Shadow";
+					de = "Schatten";
+					fr = "Ombreur";
+					nl = "Schaduw";
+					es = "Sombrear";
+					zh = "🌖阴影";
+				};
 				url = "https://github.com/mekkablue/Shadow";
 				descriptions = {
 					en = "*Filter > Shadow* (de: *Schatten*, fr: *Ombreur*, nl: *Schaduw*, es: *Sombrear*, zh: *🌖阴影*) turns your glyphs into shadowed versions of themselves.";
@@ -109,6 +117,10 @@
 				name = "ShowTopsAndBottoms.glyphsReporter";
 				titles = {
 					en = "Show Tops and Bottoms";
+					es = "Mostrar superiores e inferiores";
+					de = "Höchste und tiefste Stellen anzeigen";
+					fr = "Affiche les hauts et les bas";
+					zh = "🚧底部到顶点的数值";
 				};
 				url = "https://github.com/mekkablue/ShowTopsAndBottoms";
 				descriptions = {
@@ -224,6 +236,7 @@
 				name = "FixZeroHandles.glyphsFilter";
 				titles = {
 					en = "Fix Zero Handles";
+					de = "Null-Anfasser beheben";
 				};
 				url = "https://github.com/mekkablue/FixZeroHandles";
 				descriptions = {
@@ -291,6 +304,13 @@
 			},
 			{
 				name = "Noodler.glyphsFilter";
+				titles = {
+					en = "Noodler";
+					de = "Nudler";
+					fr = "Nouilleur";
+					es = "Fileteador";
+					zh = "🍜等线圆体";
+				};
 				url = "https://github.com/mekkablue/Noodler";
 				descriptions = {
 					en = "*Filter > Noodler* (de: *Nudler*, fr: *Nouilleur*, es: *Fileteador*, zh: *🍜等线圆体*) turns monolines of all selected glyphs into noodles with rounded stroke endings.";
@@ -818,6 +838,8 @@
 				name = "ShowMarkPreview.glyphsReporter";
 				titles = {
 					en = "Show Mark Preview";
+					de = "Akzent-Vorschau anzeigen";
+					es = "Mostrar previsualización de acentos";
 				};
 				url = "https://github.com/mekkablue/ShowMarkPreview";
 				descriptions = {
@@ -1629,7 +1651,7 @@
 				};
 				url = "https://github.com/filipenegrao/glyphsapp-scripts";
 				descriptions = {
-					en = "Collection of useful (or not) scripts by Brazilian type designer Filipe Negrão. [Check out how some of then work on Vimeo.](https://vimeo.com/album/4932608)";
+					en = "Collection of scripts by Brazilian type designer Filipe Negrão. [Check out how some of then work on Vimeo.](https://vimeo.com/album/4932608)";
 				};
 			},
 			{
