@@ -241,6 +241,9 @@
 				titles = {
 					en = "Fix Zero Handles";
 					de = "Null-Anfasser beheben";
+					fr = "Corriger les poignées rétractées";
+					es = "Corregir manejadores cero";
+					zh = "🍭修正单摇臂";
 				};
 				url = "https://github.com/mekkablue/FixZeroHandles";
 				descriptions = {
