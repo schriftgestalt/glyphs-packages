@@ -65,6 +65,10 @@
 				name = "ShowItalic.glyphsReporter";
 				titles = {
 					en = "Show Italic";
+					de = "Kursive anzeigen";
+					es = "Mostrar itálicas";
+					fr = "Afficher italique";
+					zh = "🥂意大利体";
 				};
 				url = "https://github.com/mekkablue/ShowItalic";
 				descriptions = {
@@ -119,7 +123,7 @@
 					en = "Show Tops and Bottoms";
 					es = "Mostrar superiores e inferiores";
 					de = "Höchste und tiefste Stellen anzeigen";
-					fr = "Affiche les hauts et les bas";
+					fr = "Afficher les hauts et les bas";
 					zh = "🚧底部到顶点的数值";
 				};
 				url = "https://github.com/mekkablue/ShowTopsAndBottoms";
@@ -145,7 +149,7 @@
 					en = "Show Interpolation";
 					de = "Interpolationen anzeigen";
 					es = "Mostrar interpolaciones";
-					fr = "Affiche interpolations";
+					fr = "Afficher interpolations";
 					zh = "💗插值";
 				};
 				url = "https://github.com/mekkablue/ShowInterpolations";
@@ -216,7 +220,7 @@
 					en = "Show Angled Handles";
 					de = "Schräge Anfasser anzeigen";
 					es = "Mostrar manejadores inclinados";
-					fr = "Affiche les poignées inclinées";
+					fr = "Afficher les poignées inclinées";
 					zh = "⚖️路径检查工具";
 				};
 				url = "https://github.com/mekkablue/ShowAngledHandles";
@@ -1219,12 +1223,12 @@
 				titles = {
 					en = "Show Character";
 					de = "Zeichen anzeigen";
-					fr = "Affiche caractère";
+					fr = "Afficher caractère";
 					zh = "👩‍🏫参考字";
 				};
 				url = "https://github.com/mekkablue/ShowCharacter";
 				descriptions = {
-					en = "*View > Show Character* (de: *Zeichen anzeigen,* fr: *Affiche caractère,* zh: 👩‍🏫参考字) displays the glyph you are editing in the system font.";
+					en = "*View > Show Character* (de: *Zeichen anzeigen,* fr: *Afficher caractère,* zh: 👩‍🏫参考字) displays the glyph you are editing in the system font.";
 				};
 				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowCharacter/master/ShowCharacter.png";
 			},
