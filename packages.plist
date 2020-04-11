@@ -131,6 +131,10 @@
 				name = "ShowInterpolation.glyphsReporter";
 				titles = {
 					en = "Show Interpolation";
+					de = "Interpolationen anzeigen";
+					es = "Mostrar interpolaciones";
+					fr = "Affiche interpolations";
+					zh = "💗插值";
 				};
 				url = "https://github.com/mekkablue/ShowInterpolations";
 				descriptions = {
@@ -198,6 +202,10 @@
 				name = "ShowAngledHandles.glyphsReporter";
 				titles = {
 					en = "Show Angled Handles";
+					de = "Schräge Anfasser anzeigen";
+					es = "Mostrar manejadores inclinados";
+					fr = "Affiche les poignées inclinées";
+					zh = "⚖️路径检查工具";
 				};
 				url = "https://github.com/mekkablue/ShowAngledHandles";
 				descriptions = {
