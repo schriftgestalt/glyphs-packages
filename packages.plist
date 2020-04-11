@@ -233,7 +233,7 @@
 				name = "Retractor.glyphsFilter";
 				url = "https://github.com/mekkablue/Retractor";
 				descriptions = {
-					en = "*Filter > Retractor* deletes (‘retracts’) all Bézier control points (a.k.a. BCPs, handles), making sure only straight line segments remain. This can be useful if you want to be certain that accidentally added curve segments are removed in designs where this is necessary. Careful: it does *not* respect your node selection. If you want to only retract selected BCPs, simply press Delete.";
+					en = "*Filter > Retractor* deletes (‘retracts’) all Bézier control points (a. k. a. BCPs, handles), making sure only straight line segments remain. This can be useful if you want to be certain that accidentally added curve segments are removed in designs where this is necessary. Careful: it does *not* respect your node selection. If you want to only retract selected BCPs, simply press Delete.";
 				};
 			},
 			{
@@ -244,7 +244,7 @@
 				};
 				url = "https://github.com/mekkablue/FixZeroHandles";
 				descriptions = {
-					en = "*Filter > Fix Zero Handles* analyses the path structure of selected layers and will rearrange path segments that contain completely retracted handles, a.k.a. ‘zero handles’. Zero handles typically appear in outlines imported from other vector apps, such as Adobe Illustrator. Zero handles are considered bad style, or even an error, and can cause a range of problems, especially when you are trying to convert your outlines to TrueType curves.";
+					en = "*Filter > Fix Zero Handles* analyses the path structure of selected layers and will rearrange path segments that contain completely retracted handles, a. k. a. ‘zero handles’. Zero handles typically appear in outlines imported from other vector apps, such as Adobe Illustrator. Zero handles are considered bad style, or even an error, and can cause a range of problems, especially when you are trying to convert your outlines to TrueType curves.";
 				};
 				screenshot = "https://raw.githubusercontent.com/mekkablue/FixZeroHandles/master/FixZeroHandles.png";
 			},
@@ -1467,7 +1467,7 @@
 				};
 				url = "https://github.com/mekkablue/Glyphs-Scripts";
 				descriptions = {
-					en = "Collection of Python scripts by Glyphs member Rainer Scheichelbauer (a.k.a. mekkablue). Also includes the former schriftgestalt scripts.";
+					en = "Collection of Python scripts by Glyphs member Rainer Scheichelbauer (a. k. a. mekkablue). Also includes the former schriftgestalt scripts.";
 				};
 			},
 			{
@@ -1527,7 +1527,7 @@
 				};
 				url = "https://github.com/weiweihuanghuang/wei-glyphs-scripts";
 				descriptions = {
-					en = "Wei Huang (a.k.a. ‘One Wei Or Another’) wrote a series of scripts for Glyphs, including one that flips the entire Edit tab upside down.";
+					en = "Wei Huang (a. k. a. ‘One Wei Or Another’) wrote a series of scripts for Glyphs, including one that flips the entire Edit tab upside down.";
 				};
 			},
 			{
@@ -1657,7 +1657,7 @@
 				};
 				url = "https://github.com/filipenegrao/glyphsapp-scripts";
 				descriptions = {
-					en = "Collection of scripts by Brazilian type designer Filipe Negrão. [Check out how some of then work on Vimeo.](https://vimeo.com/album/4932608)";
+					en = "Collection of scripts by Brazilian type designer Filipe Negrão. [Check out how some of them work on Vimeo.](https://vimeo.com/album/4932608)";
 				};
 			},
 			{
