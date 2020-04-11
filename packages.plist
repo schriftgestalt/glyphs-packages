@@ -1636,16 +1636,16 @@
 					en = "Scripts by Robert Pratley.";
 				};
 			},
-			{
-				name = "Rafał Buchner";
-				titles = {
-					en = "Rafał Buchner’s Scripts";
-				};
-				url = "https://github.com/RafalBuchner/GlyphsApp-scripts";
-				descriptions = {
-					en = "Scripts by Rafał Buchner.";
-				};
-			},
+			// {
+			// 	name = "Rafał Buchner";
+			// 	titles = {
+			// 		en = "Rafał Buchner’s Scripts";
+			// 	};
+			// 	url = "https://github.com/RafalBuchner/GlyphsApp-scripts";
+			// 	descriptions = {
+			// 		en = "Scripts by Rafał Buchner.";
+			// 	};
+			// },
 			{
 				name = "Yanone";
 				titles = {
