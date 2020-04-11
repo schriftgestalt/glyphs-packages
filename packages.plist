@@ -1417,7 +1417,7 @@
 				name = "mekkablue";
 				titles = {
 					en = "mekkablue Scripts";
-				}
+				};
 				url = "https://github.com/mekkablue/Glyphs-Scripts";
 				descriptions = {
 					en = "Collection of Python scripts by Glyphs member Rainer Scheichelbauer (a.k.a. mekkablue). Also includes the former schriftgestalt scripts.";
@@ -1427,7 +1427,7 @@
 				name = "Tim Ahrens";
 				titles = {
 					en = "JAF Freemix Scripts";
-				}
+				};
 				url = "https://github.com/justanotherfoundry/freemix-glyphsapp";
 				descriptions = {
 					en = "Scripts by Tim Ahrens (Just Another Foundry), including the Symmetry script for quick prototyping, and a script that finds all inaccessible glyphs.";
@@ -1437,7 +1437,7 @@
 				name = "Toshi Omagari";
 				titles = {
 					en = "Tosche’s Scripts";
-				}
+				};
 				url = "https://github.com/Tosche/Glyphs-Scripts";
 				descriptions = {
 					en = "Handy set of helper scripts by type designer Toshi Omagari. Of special interest is the InDesign Tagged Text script, which puts glyphs (including all alternate glyphs that cannot directly be accessed via a Unicode) into a text that can be imported into InDesign for proofing.";
@@ -1447,7 +1447,7 @@
 				name = "Mark2Mark";
 				titles = {
 					en = "Mark2Mark Scripts";
-				}
+				};
 				url = "https://github.com/Mark2Mark/Glyphsapp-Scripts-Free";
 				descriptions = {
 					en = "Continually expanded scripts by German type designer Mark Frömberg, including one for setting all Alignment Zones at once, and many QA scripts.";
@@ -1457,7 +1457,7 @@
 				name = "Huerta Tipografica Letterspacer";
 				titles = {
 					en = "HT Letterspacer";
-				}
+				};
 				url = "https://huertatipografica.github.io/HTLetterspacer/";
 				descriptions = {
 					en = "HT Letterspacer is a revolutionary tool for spacing fonts from Huerta Tipografica, written and maintained by Andrés Torresi.";
@@ -1467,7 +1467,7 @@
 				name = "Marc Foley";
 				titles = {
 					en = "MF Scripts";
-				}
+				};
 				url = "https://github.com/m4rc1e/mf-glyphs-scripts";
 				descriptions = {
 					en = "Marc Foley’s set of production scripts, including many that are essential for QA and testing.";
@@ -1477,7 +1477,7 @@
 				name = "Wei Huang";
 				titles = {
 					en = "Wei’s Scripts";
-				}
+				};
 				url = "https://github.com/weiweihuanghuang/wei-glyphs-scripts";
 				descriptions = {
 					en = "Wei Huang (a.k.a. ‘One Wei Or Another’) wrote a series of scripts for Glyphs, including one that flips the entire Edit tab upside down.";
@@ -1487,7 +1487,7 @@
 				name = "Simon Cozens";
 				titles = {
 					en = "Simon Cozens’ Scripts";
-				}
+				};
 				url = "https://github.com/simoncozens/GlyphsScripts";
 				descriptions = {
 					en = "Set of vector manipulation scripts by SuperTool author Simon Cozens. Also includes the glyphmonkey library for outline editing.";
@@ -1497,7 +1497,7 @@
 				name = "Henrique Beier";
 				titles = {
 					en = "Harbortype Scripts";
-				}
+				};
 				url = "https://github.com/harbortype/glyphs-scripts";
 				descriptions = {
 					en = "Scripts written by Brazilian type designer Henrique Beier (Harbortype), in particular some useful SVG workflow automation.";
@@ -1507,7 +1507,7 @@
 				name = "Nico Hagenburger";
 				titles = {
 					en = "Export and Install";
-				}
+				};
 				url = "https://github.com/hagenburger/glyphs-export-and-install";
 				descriptions = {
 					en = "Berlin-based type designer Nico Hagenburger found out that you can avoid font cache trouble if you rename the font file every time you export your font into the macOS Fonts folder. And the script does exactly that.";
@@ -1517,7 +1517,7 @@
 				name = "Daniel Gamage";
 				titles = {
 					en = "Daniel Gamage’s Scripts";
-				}
+				};
 				url = "https://github.com/danielgamage/Glyphs-Scripts";
 				descriptions = {
 					en = "Daniel Gamage wrote a couple of scripts, most notably some that apply the Catmull-Clark algorithm to type design. The algorithm stems from 3D modelling and helps turn straight-line constructions into smooth, round shapes.";
@@ -1527,7 +1527,7 @@
 				name = "Johannes Neumeier";
 				titles = {
 					en = "Underscore Scripts";
-				}
+				};
 				url = "https://github.com/underscoretype/underscore-glyphs-scripts";
 				descriptions = {
 					en = "Assorted collection of (opinionated) helper scripts by Johannes Neumeier (Underscore Type).";
@@ -1537,7 +1537,7 @@
 				name = "Ricard Garcia";
 				titles = {
 					en = "Ricard Garcia Scripts";
-				}
+				};
 				url = "https://github.com/Ricard-Garcia/Glyphs-Scripts";
 				descriptions = {
 					en = "Python scripts by Ricard Garcia.";
@@ -1547,7 +1547,7 @@
 				name = "Typerepublic";
 				titles = {
 					en = "Typerepublic Scripts";
-				}
+				};
 				url = "https://github.com/Ricard-Garcia/TR-Glyphs-Scripts";
 				descriptions = {
 					en = "Python scripts made for Typerepublic by Ricard Garcia.";
@@ -1557,7 +1557,7 @@
 				name = "Jens Kutílek";
 				titles = {
 					en = "Jens Kutílek’s Scripts";
-				}
+				};
 				url = "https://github.com/jenskutilek/Glyphs-Scripts";
 				descriptions = {
 					en = "Scripts by German type designer and font engineer Jens Kutílek.";
@@ -1567,7 +1567,7 @@
 				name = "Marcin Dybaś";
 				titles = {
 					en = "dyyybek Scripts";
-				}
+				};
 				url = "https://github.com/dyyybek/Glyphs-Scripts";
 				descriptions = {
 					en = "Scripts by Marcin Dybaś (dyyybek).";
@@ -1577,7 +1577,7 @@
 				name = "Robert Pratley";
 				titles = {
 					en = "Robert Pratley’s Scripts";
-				}
+				};
 				url = "https://github.com/RobertPratley/Glyphs-Scripts";
 				descriptions = {
 					en = "Scripts by Robert Pratley.";
@@ -1587,7 +1587,7 @@
 				name = "Rafał Buchner";
 				titles = {
 					en = "Rafał Buchner’s Scripts";
-				}
+				};
 				url = "https://github.com/RafalBuchner/GlyphsApp-scripts";
 				descriptions = {
 					en = "Scripts by Rafał Buchner.";
@@ -1597,7 +1597,7 @@
 				name = "Yanone";
 				titles = {
 					en = "Yanone Scripts";
-				}
+				};
 				url = "https://github.com/yanone/Yanone-GlyphsApp-Scripts";
 				descriptions = {
 					en = "Scripts by Jan Gerner (Yanone), particularly for interoperability with fontmake.";
@@ -1607,7 +1607,7 @@
 				name = "Filipe Negrão";
 				titles = {
 					en = "Filipe Negrão’s Scripts";
-				}
+				};
 				url = "https://github.com/filipenegrao/glyphsapp-scripts";
 				descriptions = {
 					en = "Collection of useful (or not) scripts by Brazilian type designer Filipe Negrão. [Check out how some of then work on Vimeo.](https://vimeo.com/album/4932608)";
@@ -1617,7 +1617,7 @@
 				name = "Guido Ferreyra";
 				titles = {
 					en = "Guido Ferreyra’s Scripts";
-				}
+				};
 				url = "https://github.com/guidoferreyra/Glyphs-Scripts";
 				descriptions = {
 					en = "Scripts by Argentinian type designer Guido Ferreyra.";
