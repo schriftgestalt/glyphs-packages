@@ -2,6 +2,17 @@
 	packages = {
 		plugins = (
 			{
+				name = "Scrambler.glyphsPalette";
+				titles = {
+					en = "Scrambler";
+				};
+				url = "https://github.com/FEDER-CO/Scrambler";
+				descriptions = {
+					en = "*Scrambler* is a palette extension that creates a new tab with a generated random sequence of selected glyphs. Useful at the initial design stages or to have a feel of the rhythm of the typeface. Works with numbers and non-Latin characters.";
+				};
+				screenshot = "https://raw.githubusercontent.com/FEDER-CO/Scrambler/master/Scrambler.png";
+			},
+			{
 				name = "NodesCloseToZones.glyphsReporter";
 				titles = {
 					en = "Nodes Close To Zones";
