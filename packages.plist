@@ -47,7 +47,7 @@
 			},
 			{
 				name = "Shadow.glyphsFilter";
-				title = {
+				titles = {
 					en = "Shadow";
 					de = "Schatten";
 					fr = "Ombreur";
@@ -299,7 +299,9 @@
 					en = "Layer Geek";
 				};
 				url = "https://github.com/mekkablue/LayerGeek";
-				description = '*Filter > Layer Geek* provides a GUI for batch-executing Python and PyObjC methods on selected layers. For an overview of what you can do, click on the GitHub link:';
+				descriptions = {
+					en = '*Filter > Layer Geek* provides a GUI for batch-executing Python and PyObjC methods on selected layers. For an overview of what you can do, click on the GitHub link:';
+				};
 				screenshot = "https://raw.githubusercontent.com/mekkablue/LayerGeek/master/LayerGeek.png";
 			},
 			{
