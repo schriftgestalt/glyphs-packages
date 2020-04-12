@@ -681,6 +681,7 @@
 				descriptions = {
 					en = "Adds a simple pixel drawing tool to the toolbar. It needs a `pixel` glyph in the font. And it is advised to have set the fonts grid to the size of the pixel.";
 				};
+				maxGlyphsVersion = "2.99";
 			},
 			{
 				name = "ShowNextFontComponents.glyphsReporter";
@@ -816,6 +817,7 @@
 				};
 				screenshot = "https://github.com/mekkablue/SyncSelection/raw/master/SyncSelectionScreenshot.png";
 				minVersion = 920;
+				maxGlyphsVersion = "2.99";
 			},
 			{
 				name = "LabelKey.glyphsPalette";
@@ -1219,6 +1221,7 @@
 					de = "*Bearbeiten > Einrasten unterdrücken* reduziert die Einrastungen während des Bearbeitens.";
 					es = "*Editar > Evitar magnetismo entre los nodos* reduce las lineas rojas magneticas durante editar.";
 				};
+				maxGlyphsVersion = "2.99";
 			},
 			{
 				name = "DeCasteljauBezier.glyphsPlugin";
