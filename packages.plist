@@ -1479,10 +1479,12 @@
 				titles = {
 					en = "System 7 Shadow";
 					de = "System-7-Schatten";
+					fr = 'Ombre de Système 7';
+					es = 'Ombra de la Sistema 7';
 				};
 				url = "https://github.com/mekkablue/System7Shadow";
 				descriptions = {
-					en = "*System 7 Shadow* (de: *System-7-Schatten*) reproduces a shadow around a glyph that looks like the old Chicago Shadowed pixelfonts by Susan Kare which came bundled with the old Mac System 7.";
+					en = "*System 7 Shadow* (de: *System-7-Schatten,* fr: *Ombre de Système 7,* es: *Ombra de la Sistema 7*) reproduces a shadow around a glyph that looks like the old Chicago Shadowed pixelfonts by Susan Kare which came bundled with the old Mac System 7.";
 				};
 				screenshot = "https://raw.githubusercontent.com/mekkablue/System7Shadow/master/System7Shadow.png";
 			},
