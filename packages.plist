@@ -966,10 +966,13 @@
 				name = "Beowulferize.glyphsFilter";
 				titles = {
 					en = "Beowulferize";
+					de = "Beowulferisieren";
+					fr = "Beowulfeur";
+					es = "Beowulferisador";
 				};
 				url = "https://github.com/mekkablue/Beowulferize";
 				descriptions = {
-					en = "*Filter > Beowulferize* randomly moves glyph nodes around, creating an effect reminiscent of Letterror’s infamous Beowulf font, hence the name.";
+					en = "*Filter > Beowulferize* (de: *Beowulferisieren*, fr: *Beowulfeur*, es: *Beowulferisador*) randomly moves glyph nodes around, creating an effect reminiscent of Letterror’s infamous Beowulf font, hence the name.";
 				};
 				screenshot = "https://raw.githubusercontent.com/mekkablue/Beowulferize/master/Beowulferize.png";
 			},
