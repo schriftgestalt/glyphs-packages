@@ -1134,10 +1134,13 @@
 				name = "ShowGlyphFocus.glyphsReporter";
 				titles = {
 					en = "Show Glyph Focus";
+					de = "Fokus auf aktuelle Glyphe anzeigen";
+					fr = "Afficher focus sur le glyphe actuel";
+					es = "Mostrar concentración en el glifo actual";
 				};
 				url = "https://github.com/mekkablue/ShowGlyphFocus";
 				descriptions = {
-					en = "*View > Show Glyph Focus* highlights the current glyph. Also handy for spotting open paths and overlaps.";
+					en = "*View > Show Glyph Focus* (de: *Fokus auf aktuelle Glyphe anzeigen,* fr: *Afficher focus sur le glyphe actuel,* es: *Mostrar concentración en el glifo actual*) highlights the current glyph. Also handy for spotting open paths and overlaps.";
 				};
 				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowGlyphFocus/master/GlyphFocus.png";
 			},
