@@ -517,10 +517,13 @@
 				name = "ShowNodeIndexes.glyphsReporter";
 				titles = {
 					en = "Show Node Indexes";
+					es = "Mostrar listado de nodos";
+					fr = "Afficher numéros des nœuds";
+					de = "Indexnummern anzeigen";
 				};
 				url = "https://github.com/mekkablue/ShowNodeIndexes";
 				descriptions = {
-					en = "*View > Show Node Indexes* (es: *listado de nodos*, de: *Indexnummern*, nl: *Indexgetallen*) shows index numbers for the current glyph in Edit view. Toggle display of BCP indexes via context menu.";
+					en = "*View > Show Node Indexes* (fr: *Afficher numéros des nœuds,* es: *listado de nodos,* de: *Indexnummern*) shows index numbers for the current glyph in Edit view. Toggle display of BCP indexes via context menu.";
 				};
 				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowNodeIndexes/master/ShowNodeIndexes.png";
 			},
