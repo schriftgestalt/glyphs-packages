@@ -162,11 +162,14 @@
 			{
 				name = "ShowFilledPreview.glyphsReporter";
 				titles = {
-					en = "Show Filled Preview";
+					en = "Show Filled Preview while Editing";
+					de = "Gefüllte Vorschau beim Bearbeiten anzeigen";
+					es = "Mostrar contornos rellenos durante la edición";
+					fr = "Afficher aperçu des formes pendant la édition";
 				};
 				url = "https://github.com/mekkablue/ShowFilledPreview";
 				descriptions = {
-					en = "*View > Show Filled Preview* fills open paths with a dark gray color even while you are still drawing.";
+					en = "*View > Show Filled Preview* (de: *Gefüllte Vorschau beim Bearbeiten,* es: *contornos rellenos durante la edición,* fr: *aperçu des formes pendant la édition*) fills open paths with a dark gray color even while you are still drawing.";
 				};
 				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowFilledPreview/master/ShowFilledPreview.png";
 			},
