@@ -608,10 +608,13 @@
 				name = "GlyphNote.glyphsPalette";
 				titles = {
 					en = "Glyph Note";
+					de = "Glyphennotiz";
+					es = "Nota de glifo";
+					fr = "Notes du glyphe";
 				};
 				url = "https://github.com/mekkablue/NotePalettes";
 				descriptions = {
-					en = "Adds a Glyph Note Palette to your Palette (Cmd-Opt-P), displaying the note for the currently selected glyph.";
+					en = "Adds Glyph Note (de: *Glyphennotiz,* es: *Nota de glifo,* fr: *Notes du glyphe*) to your Palette (Cmd-Opt-P), displaying the notes for the currently selected glyph(s).";
 				};
 				screenshot = "https://raw.githubusercontent.com/mekkablue/NotePalettes/master/NotePlugins.png";
 			},
