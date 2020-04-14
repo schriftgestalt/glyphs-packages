@@ -174,10 +174,14 @@
 				name = "ShowExportStatus.glyphsReporter";
 				titles = {
 					en = "Show Export Status";
+					de = "Export-Status anzeigen";
+					es = "Mostrar estado del exporto";
+					fr = "Afficher stade d’export";
+					
 				};
 				url = "https://github.com/mekkablue/ShowExportStatus";
 				descriptions = {
-					en = "*View Show Export Status* displays a red cross over non-exporting glyphs in Edit View.";
+					en = "*View Show Export Status* (de: *Export-Status anzeigen,* es: *Mostrar estado del exporto,* fr: *Afficher stade d’export*) displays a red cross over non-exporting glyphs in Edit View.";
 				};
 				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowExportStatus/master/ShowExportStatus.png";
 			},
