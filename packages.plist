@@ -1027,10 +1027,13 @@
 				name = "Delete Duplicate Paths.glyphsFilter";
 				titles = {
 					en = "Delete Duplicate Paths";
+					de = 'Doppelte Pfade löschen';
+					es = 'Borrar trazados duplicados';
+					fr = 'Supprimer doubles tracés';
 				};
 				url = "https://github.com/mekkablue/DeleteDuplicatePaths";
 				descriptions = {
-					en = "*Filter > Delete Duplicate Paths* deletes path duplicates. It does not care if the points are set to smooth (green) or not (blue), only if the coordinates are the same, and the closed/open status is the same.";
+					en = "*Filter > Delete Duplicate Paths* (de: *Doppelte Pfade löschen,* es: *Borrar trazados duplicados,* fr: *Supprimer doubles tracés*) deletes path duplicates. It does not care if the points are set to smooth (green) or not (blue), only if the coordinates are the same, and the closed/open status is the same.";
 				};
 			},
 			{
