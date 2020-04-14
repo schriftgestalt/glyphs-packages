@@ -728,10 +728,15 @@
 				name = "ShowCrosshair.glyphsReporter";
 				titles = {
 					en = "Show Crosshair";
+					de = "Fadenkreuz anzeigen";
+					es = "Mostrar cruz";
+					fr = "Afficher réticule";
+					jp = "カーソル照準";
+					zh = "✨显示准星线";
 				};
 				url = "https://github.com/mekkablue/ShowCrosshair";
 				descriptions = {
-					en = "*View > Show Crosshair* (de: *Zeige Fadenkreuz*, es: *Mostrar cruz*, fr: *Afficher réticule*, jp: *カーソル照準*, zh: ✨显示准星线) displays a crosshair at your mouse coordinates. Use the context menu to access extra options: mouse coordinates in the lower left corner, hiding the crosshair when the mouse is not dragging, and showing intersection thicknesses.";
+					en = "*View > Show Crosshair* (de: *Fadenkreuz anzeigen*, es: *Mostrar cruz*, fr: *Afficher réticule*, jp: *カーソル照準*, zh: ✨显示准星线) displays a crosshair at your mouse coordinates. Use the context menu to access extra options: mouse coordinates in the lower left corner, hiding the crosshair when the mouse is not dragging, and showing intersection thicknesses.";
 				};
 				screenshot = "https://github.com/mekkablue/ShowCrosshair/raw/master/ShowCrosshair.png";
 			},
