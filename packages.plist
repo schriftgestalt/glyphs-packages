@@ -622,10 +622,13 @@
 				name = "MakeCorner.glyphsFilter";
 				titles = {
 					en = "Make Corner";
+					de = "Ecke herstellen";
+					es = "Generar esquina";
+					fr = "Générer coin";
 				};
 				url = "https://github.com/mekkablue/MakeCorner";
 				descriptions = {
-					en = "*Filter > Make Corner* reverses the functionality of the Round Corner filter, and turns curves into corners again.";
+					en = "*Filter > Make Corner* (de: *Ecke herstellen,* es: *Generar esquina,* fr: *Générer coin*) reverses the functionality of the Round Corner filter, and turns curves into corners again.";
 				};
 				screenshot = "https://raw.githubusercontent.com/mekkablue/MakeCorner/master/MakeCorner.png";
 			},
@@ -739,10 +742,13 @@
 				name = "ShowAllBackgrounds.glyphsReporter";
 				titles = {
 					en = "Show All Backgrounds";
+					de = "Alle Hintergründe anzeigen";
+					es = "Mostrar todos los fondos";
+					fr = "Afficher tous les arrière-plans";
 				};
 				url = "https://github.com/mekkablue/ShowAllBackgrounds";
 				descriptions = {
-					en = "*View > Show All Backgrounds* displays the background layers of inactive glyphs in Edit view, i.e., all glyphs except the one currently open for editing. It displays paths in a pinkish color, components in a pastel orange. It works best if you disable *View > Fill Preview*.";
+					en = "*View > Show All Backgrounds* (de: *Alle Hintergründe,* es: *todos los fondos,* fr: *tous les arrière-plans*) displays the background layers of inactive glyphs in Edit view, i.e., all glyphs except the one currently open for editing. It displays paths in a pinkish color, components in a pastel orange. It works best if you disable *View > Fill Preview*.";
 				};
 				screenshot = "https://github.com/mekkablue/ShowAllBackgrounds/raw/master/ShowAllBackgrounds.png";
 			},
