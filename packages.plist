@@ -863,10 +863,11 @@
 					en = "Show Mark Preview";
 					de = "Akzent-Vorschau anzeigen";
 					es = "Mostrar previsualización de acentos";
+					fr = "Afficher aperçu des accents";
 				};
 				url = "https://github.com/mekkablue/ShowMarkPreview";
 				descriptions = {
-					en = "*View > Show Mark Preview* (de: *Akzent-Vorschau*, es: *previsualización de acentos*) is a displays mark-to-base and mark-to-mark attachment with the letters and marks you type in Edit view.";
+					en = "*View > Show Mark Preview* (de: *Akzent-Vorschau*, es: *previsualización de acentos*, fr: *Afficher aperçu des accents*) is a displays mark-to-base and mark-to-mark attachment with the letters and marks you type in Edit view.";
 				};
 				screenshot = "https://github.com/mekkablue/ShowMarkPreview/raw/master/ShowMarkPreview.png";
 			},
