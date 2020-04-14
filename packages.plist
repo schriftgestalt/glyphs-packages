@@ -772,10 +772,13 @@
 				name = "ShowVerticalMetrics.glyphsReporter";
 				titles = {
 					en = "Show Vertical Metrics";
+					de = "Vertikalmaße anzeigen";
+					es = "Mostrar métricas verticales";
+					fr = "Afficher mesures verticales";
 				};
 				url = "https://github.com/mekkablue/ShowVerticalMetrics";
 				descriptions = {
-					en = "*View > Show Vertical Metrics* (de: *Vertikalmaße*, es: *métricas verticales*) displays vertical metric parameters set in *File > Font Info > Masters.*";
+					en = "*View > Show Vertical Metrics* (de: *Vertikalmaße,* es: *métricas verticales,* fr: *Afficher mesures verticales*) displays vertical metric parameters set in *File > Font Info > Masters.*";
 				};
 				screenshot = "https://github.com/mekkablue/ShowVerticalMetrics/raw/master/ShowVerticalMetrics.png";
 			},
