@@ -1368,11 +1368,14 @@
 			{
 				name = "BaseReductor.glyphsFilter";
 				titles = {
-					en = "BaseReductor";
+					en = "Base Reductor";
+					de = "Basis-Reduktor";
+					fr = "Réducteur à base";
+					es = "Reductor a la base";
 				};
 				url = "https://github.com/mekkablue/BaseReductor";
 				descriptions = {
-					en = "*Filter > BaseReductor* will reduce diacritics to their base glyphs, e.g. äáàāą will appear as aaaa. This can be useful as custom parameter in trial font instances.";
+					en = "*Filter > BaseReductor* (de: *Basis-Reduktor,* fr: *Réducteur à base,* es: *Reductor a la base*) will reduce diacritics to their base glyphs, e.g. äáàāą will appear as aaaa. This can be useful as custom parameter in trial font instances.";
 				};
 				screenshot = "https://raw.githubusercontent.com/mekkablue/BaseReductor/master/BaseReductorAnimation.gif";
 			},
