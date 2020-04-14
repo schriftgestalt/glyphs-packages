@@ -955,10 +955,13 @@
 				name = "SegmentLength.glyphsReporter";
 				titles = {
 					en = "Show Segment Lengths";
+					de = "Segmentlängen anzeigen";
+					fr = "Afficher longueurs de segments";
+					es = "Mostrar longitudos de segmentos";
 				};
 				url = "https://github.com/mekkablue/SegmentLength";
 				descriptions = {
-					en = "*View > Show Segment Lengths* displays the approximate lengths of each path segment of the current glyph.";
+					en = "*View > Show Segment Lengths* (de: *Segmentlängen anzeigen*, fr: *Afficher longueurs de segments*, es: *Mostrar longitudos de segmentos*) displays the approximate lengths of each path segment of the current glyph.";
 				};
 				screenshot = "https://raw.githubusercontent.com/mekkablue/SegmentLength/master/SegmentLength.png";
 			},
