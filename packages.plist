@@ -1007,11 +1007,14 @@
 			{
 				name = "RandomRotate.glyphsFilter";
 				titles = {
-					en = "RandomRotate";
+					en = "Random Rotate";
+					de = "Zufallsrotation";
+					es = "Rotación aleatoria";
+					fr = "Rotation aléatoire";
 				};
 				url = "https://github.com/mekkablue/RandomRotate";
 				descriptions = {
-					en = "*Filter > Random Rotate* randomly rotates glyphs around their center.";
+					en = "*Filter > Random Rotate* (de: *Zufallsrotation,* es: *Rotación aleatoria,* fr: *Rotation aléatoire*) randomly rotates glyphs around their center.";
 				};
 				screenshot = "https://raw.githubusercontent.com/mekkablue/RandomRotate/master/RandomRotate.png";
 			},
