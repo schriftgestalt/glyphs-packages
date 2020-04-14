@@ -582,11 +582,15 @@
 			{
 				name = "StemThickness.glyphsReporter";
 				titles = {
-					en = "Stem Thickness";
+					en = "Show Stem Thickness";
+					de = "Stammstärke anzeigen";
+					fr = "Afficher l’épaisseur de traits";
+					es = "Mostrar espesor";
+					jp = "ステムの太さ";
 				};
 				url = "https://github.com/RafalBuchner/StemThickness";
 				descriptions = {
-					en = "*View > Stem Thickness* shows how thick the stem is at the current mouse position.";
+					en = "*View > Stem Thickness* (de: *Stammstärke anzeigen,* fr: *Afficher l’épaisseur de traits,* es: *Mostrar espesor,* jp: *ステムの太さ*) shows how thick the stem is at the current mouse position.";
 				};
 				screenshot = "https://raw.githubusercontent.com/RafalBuchner/StemThickness/master/images/ilu_StemThickness.png";
 			},
