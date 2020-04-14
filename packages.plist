@@ -796,11 +796,14 @@
 			{
 				name = "ShowGlyphsInLabelColor.glyphsReporter";
 				titles = {
-					en = "Show Glyphs in Label Color";
+					en = "Show Glyphs in Their Label Color";
+					de = "Glyphen in ihrer Etikettenfarbe anzeigen";
+					fr = "Afficher les glyphes dans leurs couleurs";
+					es = "Mostrar los glifos en sus colores";
 				};
 				url = "https://github.com/mekkablue/ShowGlyphsInLabelColor";
 				descriptions = {
-					en = "*View > Show Glyphs in Label Color* displays glyphs in Edit view in their respective label color.";
+					en = "*View > Show Glyphs in Label Color* (de: *Glyphen in ihrer Etikettenfarbe anzeigen,* fr: *Afficher les glyphes dans leurs couleurs,* es: *Mostrar los glifos en sus colores*) displays glyphs in Edit view in their respective label color.";
 				};
 				screenshot = "https://github.com/mekkablue/ShowGlyphsInLabelColor/raw/master/ShowGlyphsInLabelColor.png";
 			},
@@ -1144,10 +1147,13 @@
 				name = "MakeBoxes.glyphsFilter";
 				titles = {
 					en = "Make Boxes";
+					de = "Kasteln machen";
+					es = "Hacer cajas";
+					fr = "Générer rectangles";
 				};
 				url = "https://github.com/mekkablue/MakeBoxes";
 				descriptions = {
-					en = "*Filter > Make Boxes* turns the glyph into a box reaching from LSB to RSB, and from descender to ascender, as set in *Font Info > Masters.* Useful as custom parameter for making a backdrop instance.";
+					en = "*Filter > Make Boxes* (de: *Kasteln machen,* es: *Hacer cajas,* fr: *Générer rectangles*) turns the glyph into a box reaching from LSB to RSB, and from descender to ascender, as set in *Font Info > Masters.* Useful as custom parameter for making a backdrop instance.";
 				};
 				screenshot = "https://raw.githubusercontent.com/mekkablue/MakeBoxes/master/MakeBoxes.png";
 			},
