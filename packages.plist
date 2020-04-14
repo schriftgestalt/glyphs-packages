@@ -263,10 +263,15 @@
 				name = "CutAndShake.glyphsFilter";
 				titles = {
 					en = "Cut and Shake";
+					de = "Schneiden und schütteln";
+					fr = "Couper et secouer";
+					es = "Cortar y agitar";
+					zh = "🤺碎片化";
+
 				};
 				url = "https://github.com/mekkablue/CutAndShake";
 				descriptions = {
-					en = "*Filter > Cut and Shake* exercises cuts across selected glyphs, and then both moves and rotates the resulting parts by random amounts, for which the user can specify maximums.";
+					en = "*Filter > Cut and Shake* (de: *Schneiden und schütteln,* fr: *Couper et secouer,* es: *Cortar y agitar,* zh: 🤺碎片化) exercises cuts across selected glyphs, and then both moves and rotates the resulting parts by random amounts, for which the user can specify maximums.";
 				};
 				screenshot = "https://raw.githubusercontent.com/mekkablue/CutAndShake/master/CutAndShake.png";
 			},
