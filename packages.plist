@@ -285,11 +285,15 @@
 			{
 				name = "BroadNibber.glyphsFilter";
 				titles = {
-					en = "Broad Nibber";
+					en = "BroadNibber";
+					fr = "Traceur";
+					de = "Mit Breitfeder nachziehen";
+					es = "Trazar con pluma chata";
+					zh = "✒️扁头笔风格化";
 				};
 				url = "https://github.com/mekkablue/BroadNibber";
 				descriptions = {
-					en = "*Filter > Broad Nibber* turns monolines of all selected glyphs into broad-nib strokes.";
+					en = "*Filter > BroadNibber* (fr: *Traceur,* de: *Mit Breitfeder nachziehen,* es: *Trazar con pluma chata,* zh: *✒️扁头笔风格化*) turns monolines of all selected glyphs into broad-nib strokes.";
 				};
 				screenshot = "https://raw.githubusercontent.com/mekkablue/BroadNibber/master/BroadNibber.png";
 			},
