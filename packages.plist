@@ -382,11 +382,14 @@
 			{
 				name = "BlindFold.glyphsReporter";
 				titles = {
-					en = "Blindfold";
+					en = "Show Blindfold";
+					de = "Blenden anzeigen";
+					fr = "Afficher bandeaux";
+					es = "Mostrar vendas";
 				};
 				url = "https://github.com/Mark2Mark/Blindfold";
 				descriptions = {
-					en = "*View > Show Blindfold* Blackens out everything beyond the xHeight (or Cap-Height --> option in context menu). Useful for Spacing and Kerning because the visible leftover is what matters the most here.\nWritten by Mark Frömberg (@Mark2Mark)";
+					en = "*View > Show Blindfold* (de: *Blenden anzeigen,* fr: *Afficher bandeaux,* es: *Mostrar vendas*) blackens out everything beyond the xHeight (or Cap-Height --> option in context menu). Useful for Spacing and Kerning because the visible leftover is what matters the most here.\nWritten by Mark Frömberg (@Mark2Mark)";
 				};
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Glyphsapp-Plugins/11561cf20d110e314943e6294edf47defbdb73bc/Screenshots/UncoverXHeight/UcXh%2001.png?raw=true";
 			},
