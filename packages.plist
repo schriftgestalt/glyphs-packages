@@ -415,11 +415,14 @@
 			{
 				name = "LabelColor.glyphsReporter";
 				titles = {
-					en = "Label Color";
+					en = "Show Label Color";
+					de = "Etikettenfarbe anzeigen";
+					fr = "Afficher couleur d’etiquette";
+					es = "Mostrar color de etiqueta";
 				};
 				url = "https://github.com/Mark2Mark/Show-Label-Color";
 				descriptions = {
-					en = "*View > Show Label Color* Displays each glyphs’s Label Color in the edit tab. Full width or left: glyph color, right: layer color.\nWritten by Mark Frömberg (@Mark2Mark)";
+					en = "*View > Show Label Color* (de: *Etikettenfarbe anzeigen,* fr: *Afficher couleur d’etiquette,* es: *Mostrar color de etiqueta*) displays each glyphs’s Label Color in the edit tab. Full width or left: glyph color, right: layer color.\nWritten by Mark Frömberg (@Mark2Mark)";
 				};
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Show-Label-Color/d054d4d05d6f16b2be49f055f2b06b27725b81c8/Screenshots/Show%20Label%20Color%2001.png?raw=true";
 			},
