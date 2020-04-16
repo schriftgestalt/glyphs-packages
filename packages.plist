@@ -90,11 +90,14 @@
 			{
 				name = "ShowDistanceAndAngleOfNodes.glyphsReporter";
 				titles = {
-					en = "Show Distance and Angle";
+					en = "Show Distance & Angle";
+					de = 'Abstand & Winkel anzeigen';
+					fr = 'Afficher distance & angle';
+					es = 'Mostrar distancia & angulo';
 				};
 				url = "https://github.com/Mark2Mark/Show-Distance-And-Angle-Of-Nodes";
 				descriptions = {
-					en = "Shows the distance and angle of 2 selected elements. Those can be nodes, but also components or anchors and they don’t have to be of the same kind.\nWritten by Mark Frömberg (@Mark2Mark)";
+					en = "*View > Show Distance & Angle* (de: *Abstand & Winkel anzeigen,* fr: *Afficher distance & angle,* es: *Mostrar distancia & angulo*) shows the distance and angle of 2 selected elements. Those can be nodes, but also components or anchors and they don’t have to be of the same kind.\nWritten by Mark Frömberg (@Mark2Mark)";
 				};
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Show-Distance-And-Angle-Of-Nodes/master/Images/Distance_And_Angle_01.png?raw=true";
 			},
