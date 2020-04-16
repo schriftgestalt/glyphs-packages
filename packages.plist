@@ -376,7 +376,7 @@
 					fr = "Synchroniser les onglets";
 					es = "Sincronizar pestañas";
 				};
-				url = "https://github.com/Mark2Mark/SyncedTabs";
+				url = "https://github.com/Mark2Mark/Synced-Tabs";
 				descriptions = {
 					en = "*View > Sync Tabs* (de: *Tabs synchron halten,* fr: *Synchroniser les onglets,* es: *Sincronizar pestañas*) keeps the current tabs of all open fonts in sync with the currently active tab. In **realtime!**";
 				};
