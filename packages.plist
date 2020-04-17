@@ -241,9 +241,16 @@
 			},
 			{
 				name = "Retractor.glyphsFilter";
+				titles = {
+					en = 'Retractor';
+					de = 'Retraktor';
+					fr = 'Retracteur';
+					es = 'Retractor';
+					zh = '📐直线化';
+				};
 				url = "https://github.com/mekkablue/Retractor";
 				descriptions = {
-					en = "*Filter > Retractor* deletes (‘retracts’) all Bézier control points (a. k. a. BCPs, handles), making sure only straight line segments remain. This can be useful if you want to be certain that accidentally added curve segments are removed in designs where this is necessary. Careful: it does *not* respect your node selection. If you want to only retract selected BCPs, simply press Delete.";
+					en = "*Filter > Retractor* (de: *Retraktor,* fr: *Retracteur,* es: *Retractor,* zh: 📐直线化) deletes (‘retracts’) all Bézier control points (a. k. a. BCPs, handles), making sure only straight line segments remain. This can be useful if you want to be certain that accidentally added curve segments are removed in designs where this is necessary. Careful: it does *not* respect your node selection. If you want to only retract selected BCPs, simply press Delete.";
 				};
 			},
 			{
@@ -407,7 +414,7 @@
 				};
 				url = "https://github.com/stone-zeng/Blindfold-Neue";
 				descriptions = {
-					en = "*BlindFold Neue* (zh: 眼罩 Neue) is a forked version of Blindfold, a plugin for the Glyphs font editor. It covers the boundary of the glyphs. Useful for CJK font design.";
+					en = "*BlindFold Neue* (zh: 眼罩 Neue) is a forked version of Blindfold. It covers the boundary of the glyphs. Useful for CJK font design.";
 				};
 				screenshot = "https://user-images.githubusercontent.com/18233088/74555875-a8de0500-4f97-11ea-9b36-7afae6b74cbe.png";
 			},
@@ -517,7 +524,7 @@
 				name = "Kernkraft.glyphsPlugin";
 				url = "https://github.com/bBoxType/Kernkraft";
 				descriptions = {
-					en = "*Glyph > Kernkraft* and *Glyph > Kernschmelze* will help you to be easily confronted with all the necessary pairs your Font provides (no matter how extended the character set is).\n\nProgrammed by Mark Frömberg (@Mark2Mark).\nPlease contact me for any issues or ideas.\nBased on the way of kerning by bBox Type GmbH (bboxtype.com).\n\nNavigate in UI with your keyboard: ←,  → and ⏎. Save notes for later.\n\nDepends on `vanilla` module to be installed. Please install via Glyphs Preferences > Addons > Modules";
+					en = "*Glyph > Kernkraft* and *Glyph > Kernschmelze* will help you to be easily confronted with all the necessary pairs your Font provides (no matter how extended the character set is).\nNavigate in UI with your keyboard: ←,  → and ⏎. Save notes for later.\nDepends on `vanilla` module to be installed. Please install via *Window > Plugin Manager > Modules.*";
 				};
 				screenshot = "https://raw.githubusercontent.com/bBoxType/Kernkraft/master/Kernkraft%2002.png";
 			},
@@ -997,9 +1004,14 @@
 			},
 			{
 				name = "Rimmer.glyphsFilter";
+				titles = {
+					en = 'Rimmer';
+					de = 'Umrandung';
+					zh = '🌈轮廓描边';
+				};
 				url = "https://github.com/mekkablue/Rimmer";
 				descriptions = {
-					en = "*Filter > Rimmer* adds rims around your glyphs.";
+					en = "*Filter > Rimmer* (de: *Umrandung,* zh: 🌈轮廓描边) adds rims around your glyphs.";
 				};
 				screenshot = "https://raw.githubusercontent.com/mekkablue/Rimmer/master/Rimmer.png";
 			},
