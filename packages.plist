@@ -144,6 +144,7 @@
 				descriptions = {
 					en = "*View > Show Offset Curve Parameter Preview* calculates the *GlyphsFilterOffsetCurve* parameters in active instances for the given glyph and draws those instances behind your paths. It quietly adds extremum and inflection nodes to your preview outlines. But it does not give you a full preview of the final instance, because it does not show the effect of any other parameters. It is focused on helping you spot path offset problems.";
 				};
+				maxGlyphsVersion = "2.99";
 				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowOffsetCurveParameterPreview/master/OffsetPreview.png";
 			},
 			{
@@ -206,10 +207,15 @@
 				name = "ShowCoordinatesOfSelectedNodes.glyphsReporter";
 				titles = {
 					en = "Show Coordinates of Selected Nodes";
+					de = "Koordinaten ausgewählter Punkte anzeigen";
+					nl = "Toon coördinaten van geselecteerde punten";
+					fr = "Afficher les coordonnées des nœuds sélectionnés";
+					es = "Mostrar las coordenadas de nodos seleccionados";
+					pt = "Exibir coordenadas dos nós selecionados";
 				};
 				url = "https://github.com/mekkablue/ShowCoordinatesOfSelectedNodes";
 				descriptions = {
-					en = "*View > Show Coordinates of Selected Nodes* displays coordinates for selected on-curve nodes, as well as length and angle of the surrounding handles and line segments.";
+					en = "*View > Show Coordinates of Selected Nodes* (de: *Koordinaten ausgewählter Punkte anzeigen,* fr: *Afficher les coordonnées des nœuds sélectionnés,* es: *Mostrar las coordenadas de nodos seleccionados,* pt: *Exibir coordenadas dos nós selecionados*) displays coordinates for selected on-curve nodes, as well as length and angle of the surrounding handles and line segments.";
 				};
 				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowCoordinatesOfSelectedNodes/master/ShowCoordinatesOfSelectedNodes.png";
 			},
@@ -789,7 +795,7 @@
 				};
 				url = "https://github.com/mekkablue/ShowAllBackgrounds";
 				descriptions = {
-					en = "*View > Show All Backgrounds* (de: *Alle Hintergründe,* es: *todos los fondos,* fr: *tous les arrière-plans*) displays the background layers of inactive glyphs in Edit view, i.e., all glyphs except the one currently open for editing. It displays paths in a pinkish color, components in a pastel orange. It works best if you disable *View > Fill Preview*.";
+					en = "*View > Show All Backgrounds* (de: *Alle Hintergründe,* es: *todos los fondos,* fr: *tous les arrière-plans*) displays the background layers of inactive glyphs in Edit view, i. e., all glyphs except the one currently open for editing. It displays paths in a pinkish color, components in a pastel orange. It works best if you disable *View > Fill Preview*.";
 				};
 				screenshot = "https://github.com/mekkablue/ShowAllBackgrounds/raw/master/ShowAllBackgrounds.png";
 			},
@@ -1243,7 +1249,7 @@
 				};
 				url = "https://github.com/justanotherfoundry/freemix-glyphsapp";
 				descriptions = {
-					en = "This palette shows the position of the center of the glyph bounding box. This works with components, with multiple glyphs selected and is also editable. Useful for centering all case-sensitive punctuation vertically, or to check whether mathematical operands are on the same x position (use Glyphs’ built-in glyph info to check whether they have the same advance width). Note that the bounding box center may be .5 even if your font has a grid of 1 without subdivisions (i.e. integer coordinates). The node/path selection is intentionally ignored.\n\nThe Overshoots section displays the overshoot of the selected glyph(s) relative to each alignment zone.";
+					en = "This palette shows the position of the center of the glyph bounding box. This works with components, with multiple glyphs selected and is also editable. Useful for centering all case-sensitive punctuation vertically, or to check whether mathematical operands are on the same x position (use Glyphs’ built-in glyph info to check whether they have the same advance width). Note that the bounding box center may be .5 even if your font has a grid of 1 without subdivisions (i. e. integer coordinates). The node/path selection is intentionally ignored.\n\nThe Overshoots section displays the overshoot of the selected glyph(s) relative to each alignment zone.";
 				};
 				screenshot = "https://raw.githubusercontent.com/justanotherfoundry/freemix-glyphsapp/master/AlignmentPalette/AlignmentPalette.png";
 			},
