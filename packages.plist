@@ -721,9 +721,9 @@
 				titles = {
 					en = "Speed Punk";
 				};
-				url = "https://github.com/yanone/speedpunk";
+				url = "https://github.com/mekkablue/speedpunk"; // https://github.com/yanone/speedpunk
 				descriptions = {
-					en = "Understand and improve your outlines with this curvature comb visualization.";
+					en = "*View > Show Speed Punk.* Understand and improve your outlines with this curvature comb visualization.";
 				};
 				screenshot = "https://raw.githubusercontent.com/yanone/speedpunk/master/Resources/speedpunkglyphs.jpg";
 			},
