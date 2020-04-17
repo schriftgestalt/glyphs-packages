@@ -217,10 +217,13 @@
 				name = "ShowComponentOrder.glyphsReporter";
 				titles = {
 					en = "Show Component Order";
+					de = "Reihenfolge der Komponenten anzeigen";
+					fr = "Afficher ordre des components";
+					es = "Mostrar orden de componentes";
 				};
 				url = "https://github.com/mekkablue/ShowComponentOrder";
 				descriptions = {
-					en = "*View > Show Component Order* displays components in different colors depending on the order of the component. This way, you can step through your component-based glyphs (fn-arrows or Home/End on large keyboards) and quickly spot an order mistake.";
+					en = "*View > Show Component Order* (de: *Reihenfolge der Komponenten anzeigen,* fr: *Afficher ordre des components,* es: *Mostrar orden de componentes*) displays components in different colors depending on the order of the component. This way, you can step through your component-based glyphs (fn-arrows or Home/End on large keyboards), or open them all in a tab, and quickly spot an order mistake.";
 				};
 				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowComponentOrder/master/ShowComponentOrder.png";
 			},
