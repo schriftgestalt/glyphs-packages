@@ -400,6 +400,19 @@
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Glyphsapp-Plugins/11561cf20d110e314943e6294edf47defbdb73bc/Screenshots/UncoverXHeight/UcXh%2001.png?raw=true";
 			},
 			{
+				name = "BlindFold Neue.glyphsReporter";
+				titles = {
+					en = "BlindFold Neue";
+					zh = "眼罩 Neue";
+				};
+				url = "https://github.com/stone-zeng/Blindfold-Neue";
+				descriptions = {
+					en = "*BlindFold Neue* (zh: 眼罩 Neue) is a forked version of Blindfold, a plugin for the Glyphs font editor. It covers the boundary of the glyphs. Useful for CJK font design.";
+				};
+				screenshot = "https://user-images.githubusercontent.com/18233088/74555875-a8de0500-4f97-11ea-9b36-7afae6b74cbe.png";
+			},
+			
+			{
 				name = "ArrangeWindows.glyphsPlugin";
 				titles = {
 					en = "Arrange Windows";
