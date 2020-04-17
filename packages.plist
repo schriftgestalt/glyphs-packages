@@ -83,7 +83,7 @@
 				};
 				url = "https://github.com/Mark2Mark/Show-Smart-Plumblines";
 				descriptions = {
-					en = "*View > Show Smart Plumblines* displays **live guidelines** at the center of each paths’ (red) and components’ (grey) bounding box.\nIf you select anything, it also displays the center of that selection (blue dashed).\nOne major feature is that the guidelines **automatically match your italic angle**.\nThis is useful for aligning objects by sight. As well as:\n\n- Align multiple paths and/or components\n- Setting up horizontal positions of anchors\n- Editing segments while easily keeping italic angle, etc.\nWritten by Mark Frömberg (@Mark2Mark)";
+					en = "*View > Show Smart Plumblines* displays **live guidelines** at the center of each paths’ (red) and components’ (grey) bounding box.\nIf you select anything, it also displays the center of that selection (blue dashed).\nOne major feature is that the guidelines **automatically match your italic angle**.\nThis is useful for aligning objects by sight. As well as:\n\n- Align multiple paths and/or components\n- Setting up horizontal positions of anchors\n- Editing segments while easily keeping italic angle, etc.";
 				};
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Glyphsapp-Plugins/Screenshots/Screenshots/SmartPlumblines/SmPlL%2012.png?raw=true";
 			},
@@ -97,7 +97,7 @@
 				};
 				url = "https://github.com/Mark2Mark/Show-Distance-And-Angle-Of-Nodes";
 				descriptions = {
-					en = "*View > Show Distance & Angle* (de: *Abstand & Winkel anzeigen,* fr: *Afficher distance & angle,* es: *Mostrar distancia & angulo*) shows the distance and angle of 2 selected elements. Those can be nodes, but also components or anchors and they don’t have to be of the same kind.\nWritten by Mark Frömberg (@Mark2Mark)";
+					en = "*View > Show Distance & Angle* (de: *Abstand & Winkel anzeigen,* fr: *Afficher distance & angle,* es: *Mostrar distancia & angulo*) shows the distance and angle of 2 selected elements. Those can be nodes, but also components or anchors and they don’t have to be of the same kind.";
 				};
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Show-Distance-And-Angle-Of-Nodes/master/Images/Distance_And_Angle_01.png?raw=true";
 			},
@@ -356,7 +356,7 @@
 				};
 				url = "https://github.com/Mark2Mark/Show-Rotated";
 				descriptions = {
-					en = "*View > Show Rotated* Superimposes the current glyph as a rotated copy of itself. Context Menu slider to adjust the rotation angle.\nWritten by Mark Frömberg (@Mark2Mark)";
+					en = "*View > Show Rotated* Superimposes the current glyph as a rotated copy of itself. Context Menu slider to adjust the rotation angle.";
 				};
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Glyphsapp-Plugins/Screenshots/ShowRotated/Screenshots/ShowRotated03_Mark-Froemberg.gif";
 			},
@@ -367,7 +367,7 @@
 				};
 				url = "https://github.com/Mark2Mark/Show-Siblings";
 				descriptions = {
-					en = "*View > Show Siblings* Superimposes a group of predefined glyphs in the background of your letters. This can be both pretty helpful in the beginning of a design as well as at intermediate progress where quick proof overview is needed. The degree of a desired match depends on each design, of course. Current Scripts: Latin, Greek, Cyrillic and »Twins« (glyph alternates like  *g.ss01* or  *g.alt.*\nWritten by Mark Frömberg (@Mark2Mark)";
+					en = "*View > Show Siblings* Superimposes a group of predefined glyphs in the background of your letters. This can be both pretty helpful in the beginning of a design as well as at intermediate progress where quick proof overview is needed. The degree of a desired match depends on each design, of course. Current Scripts: Latin, Greek, Cyrillic and »Twins« (glyph alternates like  *g.ss01* or  *g.alt.*";
 				};
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Glyphsapp-Plugins/Screenshots/ShowSiblings/Screenshots/screencapDemoFont.gif";
 			},
@@ -395,7 +395,7 @@
 				};
 				url = "https://github.com/Mark2Mark/Blindfold";
 				descriptions = {
-					en = "*View > Show Blindfold* (de: *Blenden anzeigen,* fr: *Afficher bandeaux,* es: *Mostrar vendas*) blackens out everything beyond the xHeight (or Cap-Height --> option in context menu). Useful for Spacing and Kerning because the visible leftover is what matters the most here.\nWritten by Mark Frömberg (@Mark2Mark)";
+					en = "*View > Show Blindfold* (de: *Blenden anzeigen,* fr: *Afficher bandeaux,* es: *Mostrar vendas*) blackens out everything beyond the xHeight (or Cap-Height --> option in context menu). Useful for Spacing and Kerning because the visible leftover is what matters the most here.";
 				};
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Glyphsapp-Plugins/11561cf20d110e314943e6294edf47defbdb73bc/Screenshots/UncoverXHeight/UcXh%2001.png?raw=true";
 			},
@@ -406,7 +406,7 @@
 				};
 				url = "https://github.com/Mark2Mark/ArrangeWindows";
 				descriptions = {
-					en = "*Window > Arrange Windows* does just what it says.\n**Options:**\n*Arrange Windows & Macro Panel* [Option Key].\n*Arrange Windows On Screens* [Shift Key] if 2 Fonts and 2 Screens are present.\nWritten by Mark Frömberg (@Mark2Mark)";
+					en = "*Window > Arrange Windows* does just what it says.\n**Options:**\n*Arrange Windows & Macro Panel* [Option Key].\n*Arrange Windows On Screens* [Shift Key] if 2 Fonts and 2 Screens are present.";
 				};
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/ArrangeWindows/master/ArrangeWindows.gif";
 			},
@@ -417,7 +417,7 @@
 				};
 				url = "https://github.com/Mark2Mark/Presenter-Free";
 				descriptions = {
-					en = "Let your fonts shine in all glory to present them and save as image in seconds.\nUnlock tons of more features in the [Pro Version](https://markfromberg.com/projects/presenter/) \nWritten by Mark Frömberg (@Mark2Mark)";
+					en = "Let your fonts shine in all glory to present them and save as image in seconds.\nUnlock tons of more features in the [Pro Version](https://markfromberg.com/projects/presenter/) ";
 				};
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Presenter-Free/master/images/Presenter-000-markFromberg.png";
 			},
@@ -431,7 +431,7 @@
 				};
 				url = "https://github.com/Mark2Mark/Show-Label-Color";
 				descriptions = {
-					en = "*View > Show Label Color* (de: *Etikettenfarbe anzeigen,* fr: *Afficher couleur d’etiquette,* es: *Mostrar color de etiqueta*) displays each glyphs’s Label Color in the edit tab. Full width or left: glyph color, right: layer color.\nWritten by Mark Frömberg (@Mark2Mark)";
+					en = "*View > Show Label Color* (de: *Etikettenfarbe anzeigen,* fr: *Afficher couleur d’etiquette,* es: *Mostrar color de etiqueta*) displays each glyphs’s Label Color in the edit tab. Full width or left: glyph color, right: layer color.";
 				};
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Show-Label-Color/d054d4d05d6f16b2be49f055f2b06b27725b81c8/Screenshots/Show%20Label%20Color%2001.png?raw=true";
 			},
@@ -442,7 +442,7 @@
 				};
 				url = "https://github.com/Mark2Mark/Reporter-Toggler";
 				descriptions = {
-					en = "Adds a menu to the Palette, which gives you instant access to all your reporter plugins. Quick’n’easy on/off switching with just a single click.\nWritten by Mark Frömberg (@Mark2Mark)";
+					en = "Adds a menu to the Palette, which gives you instant access to all your reporter plugins. Quick’n’easy on/off switching with just a single click.";
 				};
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Reporter-Toggler/master/Images/ReporterToggler%2002.png";
 			},
@@ -453,7 +453,7 @@
 				};
 				url = "https://github.com/Mark2Mark/Show-Kerning-Group-Reference";
 				descriptions = {
-					en = "*View > Show Kerning Groups* displays all members of the currently active glyph’s kerning group to either side in miniature and realtime. Useful when setting up kerning groups and getting visual feedback right away. If you see elements sticking out of the right group, you know there might be a group member set wrong. Same for the left side. It is somehow related to the built-in feature \"Show Group Members\" by Georg Seifert, but this one does not need the caret to sit between a certain pair.\nWritten by Mark Frömberg (@Mark2Mark)";
+					en = "*View > Show Kerning Groups* displays all members of the currently active glyph’s kerning group to either side in miniature and realtime. Useful when setting up kerning groups and getting visual feedback right away. If you see elements sticking out of the right group, you know there might be a group member set wrong. Same for the left side. It is somehow related to the built-in feature \"Show Group Members\" by Georg Seifert, but this one does not need the caret to sit between a certain pair.";
 				};
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Show-Kerning-Group-Reference/12fd9ffaa0447f742dabce60a407ece582e1d6b2/Screenshots/KGR%2001.png?raw=true";
 			},
@@ -513,10 +513,13 @@
 				name = "ShowStems.glyphsReporter";
 				titles = {
 					en = "Show Stems (Light)";
+					de = "Stämme anzeigen (Light)";
+					fr = "Afficher les traits (Light)";
+					es = "Mostrar astas (Light)";
 				};
 				url = "https://github.com/Mark2Mark/Show-Stems";
 				descriptions = {
-					en = "*View > Show Stems* shows a measurement line (even in edit mode) with all distances between the outlines. If any distance matches the saved metrics in the Glyphs Palette, it will highlight in green and tell you which one it matches. The vertical position is attached to the Glyphsapp measurement line and can be moved around the same way.\nShortcut: Cmd-Opt-Ctrl-S (like **S**tems)\nWritten by Mark Frömberg (@Mark2Mark)";
+					en = "*View > Show Stems* (de: *Stämme anzeigen,* fr: *Afficher les traits,* es: *Mostrar astas*) shows a measurement line (even in edit mode) with all distances between the outlines. If any distance matches the saved metrics in the Glyphs Palette, it will highlight in green and tell you which one it matches. The vertical position is attached to the Glyphsapp measurement line and can be moved around the same way.\nShortcut: Cmd-Opt-Ctrl-S (like **S**tems)";
 				};
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Show-Stems/master/Images/Show%20Stems%2003.png";
 			},
@@ -939,7 +942,7 @@
 				name = "Skedge.glyphsPlugin";
 				url = "https://github.com/Mark2Mark/Skedge";
 				descriptions = {
-					en = "*Window > Skedge* is a live python sketcher for Glyphsapp.\nWritten by Mark Frömberg (@Mark2Mark)";
+					en = "*Window > Skedge* is a live python sketcher for Glyphsapp.";
 				};
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Skedge/master/Images/Skedge%2003.gif";
 			},
@@ -947,7 +950,7 @@
 				name = "ShowStemRhythm.glyphsReporter";
 				url = "https://github.com/Mark2Mark/Show-Stem-Rhythm";
 				descriptions = {
-					en = "*View > Show Stem Rhythm* Displays a dynamic stem pattern. Useful for SEA scripts. Italic angle is not respected in this free version.\nWritten by Mark Frömberg (@Mark2Mark)\nMore info here:";
+					en = "*View > Show Stem Rhythm* Displays a dynamic stem pattern. Useful for SEA scripts. Italic angle is not respected in this free version.\nMore info here:";
 				};
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/show-stem-rhythm/master/Stem%20Rhythm%20-%20Mark%20Fromberg%2001.png";
 			},
