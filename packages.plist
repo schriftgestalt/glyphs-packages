@@ -411,7 +411,6 @@
 				};
 				screenshot = "https://user-images.githubusercontent.com/18233088/74555875-a8de0500-4f97-11ea-9b36-7afae6b74cbe.png";
 			},
-			
 			{
 				name = "ArrangeWindows.glyphsPlugin";
 				titles = {
@@ -1470,10 +1469,14 @@
 				name = "ShowAnchorsWithDuplicateCoordinates.glyphsReporter";
 				titles = {
 					en = "Show Anchors with Duplicate Coordinates";
+					de = "Anker mit selben Koordinaten anzeigen";
+					es = "Mostrar anclas con mismas coordenadas";
+					fr = "Afficher ancres avec mêmes coordonnées";
+					pt = "Mostrar âncoras com as mesmas coordenadas";
 				};
 				url = "https://github.com/mekkablue/ShowAnchorsWithDuplicateCoordinates/";
 				descriptions = {
-					en = "*View > Show Anchors with Duplicate Coordinates* (de: *Anker mit selben Koordinaten anzeigen*, es: *Mostrar anclas con mismas coordenadas*, fr: *Afficher ancres avec mêmes coordinées*, pt: *Mostrar âncoras com as mesmas coordenadas*) highlights ‘overlapping’ anchors (2+ anchors with the same coordinates).";
+					en = "*View > Show Anchors with Duplicate Coordinates* (de: *Anker mit selben Koordinaten anzeigen*, es: *Mostrar anclas con mismas coordenadas*, fr: *Afficher ancres avec mêmes coordonnées*, pt: *Mostrar âncoras com as mesmas coordenadas*) highlights ‘overlapping’ anchors (2+ anchors with the same coordinates).";
 				};
 				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowAnchorsWithDuplicateCoordinates/master/ShowAnchorsWithDuplicateCoordinates.png";
 			},
