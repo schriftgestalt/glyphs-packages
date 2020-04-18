@@ -199,10 +199,15 @@
 				name = "ShowDistanceBetweenTwoPoints.glyphsReporter";
 				titles = {
 					en = "Show Distance Between two Points";
+					es = "Mostrar distancia entre dos puntos";
+					de = "Abstand zwischen zwei Punkten anzeigen";
+					fr = "Afficher distance entre deux points";
+					pt = "Exibir distância entre dois pontos";
+					
 				};
 				url = "https://github.com/mekkablue/ShowDistanceBetweenTwoPoints";
 				descriptions = {
-					en = "*View > Show Distance Between Two Points* displays the distance between two selected nodes when exactly two points are selected, ignoring intersections in between.";
+					en = "*View > Show Distance Between Two Points* (es: *Mostrar distancia entre dos puntos,* de: *Abstand zwischen zwei Punkten anzeigen,* fr: *Afficher distance entre deux points,* pt: *Exibir distância entre dois pontos*) displays the distance between two selected nodes when exactly two points are selected, ignoring intersections in between.";
 				};
 				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowDistanceBetweenTwoPoints/master/ShowDistanceBetweenTwoPoints.png";
 			},
@@ -1018,12 +1023,15 @@
 				name = "Rimmer.glyphsFilter";
 				titles = {
 					en = 'Rimmer';
-					de = 'Umrandung';
+					de = 'Umranden';
+					fr = 'Déborder';
+					es = 'Contornear';
+					pt = 'Afiação';
 					zh = '🌈轮廓描边';
 				};
 				url = "https://github.com/mekkablue/Rimmer";
 				descriptions = {
-					en = "*Filter > Rimmer* (de: *Umrandung,* zh: 🌈轮廓描边) adds rims around your glyphs.";
+					en = "*Filter > Rimmer* (de: *Umranden,* fr: *Déborder,* es: *Contornear,* pt: *Afiação,* zh: 🌈轮廓描边) adds rims around your glyphs.";
 				};
 				screenshot = "https://raw.githubusercontent.com/mekkablue/Rimmer/master/Rimmer.png";
 			},
@@ -1113,10 +1121,13 @@
 				name = "OffsetCurveWithAngle.glyphsFilter";
 				titles = {
 					en = "Offset Curve with Angle";
+					de = "Verfetten mit Winkel";
+					es = "Desplazar curva con ángulo";
+					fr = "Épaissir le tracé avec un angle";
 				};
 				url = "https://github.com/mekkablue/OffsetCurveWithAngle";
 				descriptions = {
-					en = "*Filter > Offset Curve with Angle* provides a simple curve offset with an angle.";
+					en = "*Filter > Offset Curve with Angle* (de: *Verfetten mit Winkel,* es: *Desplazar curva con ángulo,* fr: *Épaissir le tracé avec un angle*) provides a simple curve offset with an angle for the vertical and horizontal offset axes.";
 				};
 				screenshot = "https://raw.githubusercontent.com/mekkablue/OffsetCurveWithAngle/master/OffsetCurveWithAngle.png";
 			},
@@ -1169,10 +1180,13 @@
 				name = "Pixelate.glyphsFilter";
 				titles = {
 					en = "Pixelate";
+					de = "Verpixeln";
+					fr = "Pixelliser";
+					es = "Pixelar";
 				};
 				url = "https://github.com/mekkablue/Pixelate";
 				descriptions = {
-					en = "*Filter > Pixelate* rasterises shapes with a user-defined pixel glyph.";
+					en = "*Filter > Pixelate* (de: *Verpixeln,* fr: *Pixelliser,* es: *Pixelar*) rasterises shapes with a user-defined pixel glyph.";
 				};
 				screenshot = "https://raw.githubusercontent.com/mekkablue/Pixelate/master/Pixelate.png";
 			},
