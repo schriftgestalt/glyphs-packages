@@ -1042,10 +1042,17 @@
 				name = "ImageFrame.glyphsPlugin";
 				titles = {
 					en = "Image Frame";
+					de = "Bilderrahmen";
+					fr = "Cadre photo";
+					es = "Marco de imagen";
+					pt = "Moldura";
+					ja = "額縁";
+					ko = "액자";
+					zh = "画框";
 				};
 				url = "https://github.com/dyyybek/ImageFrame";
 				descriptions = {
-					en = "*Window > Image Frame* keeps your favourite images for inspiration during work in this simple always-on-top window. Drag and drop to set a new image.";
+					en = "*Window > Image Frame* (de: *Bilderrahmen,* fr: *Cadre photo,* es: *Marco de imagen,* pt: *Moldura,* ja: 額縁, ko: 액자, zh: 画框) keeps your favourite images for inspiration during work in this simple always-on-top window. Drag and drop to set a new image.";
 				};
 				screenshot = "https://raw.githubusercontent.com/dyyybek/ImageFrame/master/screenshot.png";
 			},
@@ -1508,10 +1515,13 @@
 				name = "OptimizeStartNodes.glyphsFilter";
 				titles = {
 					en = "Optimize Start Node Placement";
+					de = "Startpunkte optimieren";
+					es = "Optimizar los primeros nodos";
+					fr = "Optimiser les nœuds prémiers";
 				};
 				url = "https://github.com/LucasFonts/Glyphs-OptimizeStartNodes";
 				descriptions = {
-					en = "*Filter > Optimize Start Nodes* will optimize the placement of start nodes so that they immediately follow after a straight line segment if possible.";
+					en = "*Filter > Optimize Start Nodes* (de: *Startpunkte optimieren,* es: *Optimizar los primeros nodos,* fr: *Optimiser les nœuds prémiers*) will optimize the placement of start nodes so that they immediately follow after a straight line segment if possible.";
 				};
 				screenshot = "https://raw.githubusercontent.com/LucasFonts/Glyphs-OptimizeStartNodes/master/round.png";
 			},
