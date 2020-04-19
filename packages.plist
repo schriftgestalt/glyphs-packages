@@ -1065,7 +1065,7 @@
 					ko = "액자";
 					zh = "画框";
 				};
-				url = "https://github.com/mekkablue/ImageFrame";
+				url = "https://github.com/dyyybek/ImageFrame";
 				descriptions = {
 					en = "*Window > Image Frame* (de: *Bilderrahmen,* fr: *Cadre photo,* es: *Marco de imagen,* pt: *Moldura,* ja: 額縁, ko: 액자, zh: 画框) keeps your favourite images for inspiration during work in this simple always-on-top window. Drag and drop to set a new image.";
 				};
