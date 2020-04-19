@@ -21,7 +21,7 @@
 					es = 'Mostrar nodos cerca de zonas';
 					pt = 'Exibir nós perto de zonas';
 				};
-				url = "https://github.com/mekkablue/NodesCloseToZones-Glyphs"; // WAIT FOR PULL moontypespace
+				url = "https://github.com/moontypespace/NodesCloseToZones-Glyphs";
 				descriptions = {
 					en = "*View > Show Nodes Close To Zones* (de: *Punkte knapp neben Zonen anzeigen,* fr: *Afficher nœuds proches des zones,* es: *Mostrar nodos cerca de zonas,* pt: *Exibir nós perto de zonas*) highlights nodes which are close to an alignment zone but are neither in nor on the boundary of an alignment zone (sensitivity is ≤ 4 units distance).\n*Right Click > New Tab: Nodes Close to Zone* opens a new tab listing all glyphs with potentially misaligned nodes.\nWritten by Olli Meier";
 				};
