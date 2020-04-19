@@ -794,9 +794,16 @@
 			},
 			{
 				name = "Obfuscator.glyphsFilter";
+				titles = {
+					en = 'Obfuscator';
+					de = 'Verschleiern';
+					es = 'Ofuscar';
+					fr = 'Brouiller';
+					pt = 'Ofuscar';
+				};
 				url = "https://github.com/guidoferreyra/Obfuscator";
 				descriptions = {
-					en = "*Filter > Obfuscator* replaces glyphs for another one in the font. Useful for replacing glyphs in the demo versions of a font. See full readme on [the repository page](https://github.com/guidoferreyra/Obfuscator) for more info on how to use it.";
+					en = "*Filter > Obfuscator* (de: *Verschleiern,* es: *Ofuscar,* fr: *Brouiller,* pt: *Ofuscar*) replaces glyphs for another one in the font. Useful for replacing glyphs in the demo versions of a font. See full readme on [the repository page](https://github.com/guidoferreyra/Obfuscator) for more info on how to use it.";
 				};
 				screenshot = "https://raw.githubusercontent.com/guidoferreyra/Obfuscator/master/screen-obfuscator.png";
 			},
