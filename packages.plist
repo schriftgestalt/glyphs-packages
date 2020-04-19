@@ -15,13 +15,17 @@
 			{
 				name = "NodesCloseToZones.glyphsReporter";
 				titles = {
-					en = "Nodes Close To Zones";
+					en = 'Show Nodes Close To Zones';
+					de = 'Punkte knapp neben Zonen anzeigen';
+					fr = 'Afficher nœuds proches des zones';
+					es = 'Mostrar nodos cerca de zonas';
+					pt = 'Exibir nós perto de zonas';
 				};
-				url = "https://github.com/moontypespace/NodesCloseToZones-Glyphs";
+				url = "https://github.com/mekkablue/NodesCloseToZones-Glyphs"; // WAIT FOR PULL moontypespace
 				descriptions = {
-					en = "*View > Show Nodes Close To Zones* highlights nodes which are close to an alignment zone but are neither in nor on the boundary of an alignment zone (sensitivity is ≤ 4 units distance).\n*Right Click > New Tab: Nodes Close to Zone* opens a new tab listing all glyphs with potentially misaligned nodes.\nWritten by Olli Meier";
+					en = "*View > Show Nodes Close To Zones* (de: *Punkte knapp neben Zonen anzeigen,* fr: *Afficher nœuds proches des zones,* es: *Mostrar nodos cerca de zonas,* pt: *Exibir nós perto de zonas*) highlights nodes which are close to an alignment zone but are neither in nor on the boundary of an alignment zone (sensitivity is ≤ 4 units distance).\n*Right Click > New Tab: Nodes Close to Zone* opens a new tab listing all glyphs with potentially misaligned nodes.\nWritten by Olli Meier";
 				};
-				screenshot = "https://raw.githubusercontent.com/moontypespace/NodesCloseToZones-Glyphs/553d3fa3eeaf5897bf65f6c9222b4eb6b17a3fe9/screenshot_nodesHighlighted.png";
+				screenshot = "https://raw.githubusercontent.com/moontypespace/NodesCloseToZones-Glyphs/master/screenshot_nodesHighlighted.png";
 			},
 			{
 				name = "GlobalGlyph.glyphsReporter";
@@ -111,7 +115,7 @@
 				};
 				url = "https://github.com/jenskutilek/RedArrow-Glyphs";
 				descriptions = {
-					en = "*View > Red Arrows:* Now Glyphs users can also have red arrows!\nThis plugin points at possible outline errors, like FontAudit in FontLab Studio. This version works in Glyphs 2.3 and newer. When the plugin is active, red arrows will point to possible mistakes in your outlines.";
+					en = "*View > Red Arrows:* Now Glyphs users can also have red arrows!\nThis plug-in points at possible outline errors, like FontAudit in FontLab Studio. This version works in Glyphs 2.3 and newer. When the plugin is active, red arrows will point to possible mistakes in your outlines.";
 				};
 				screenshot = "https://raw.githubusercontent.com/jenskutilek/RedArrow-Glyphs/master/screenshot.png";
 			},
@@ -749,7 +753,7 @@
 					fr = "Afficher les curseurs dans les ligatures";
 					es = "Mostrar los cursores en las ligaturas";
 				};
-				url = "https://github.com/mekkablue/LigatureCaret"; // WAIT FOR PULL https://github.com/FAlthausen/LigatureCaret
+				url = "https://github.com/FAlthausen/LigatureCaret";
 				descriptions = {
 					en = "*View > Ligature Caret* (de: *Einfügemarken in Ligaturen anzeigen,* fr: *Afficher les curseurs dans les ligatures,* es: *Mostrar los cursores en las ligaturas*): Select a `caret` anchor to show the cursor position in ligatures as a vertical line. Be aware that most software doesn’t take note of the font’s italic angle.";
 				};
