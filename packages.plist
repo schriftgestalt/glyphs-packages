@@ -735,7 +735,7 @@
 				titles = {
 					en = "Speed Punk";
 				};
-				url = "https://github.com/mekkablue/speedpunk"; // https://github.com/yanone/speedpunk
+				url = "https://github.com/mekkablue/speedpunk"; // WAIT FOR PULL https://github.com/yanone/speedpunk
 				descriptions = {
 					en = "*View > Show Speed Punk.* Understand and improve your outlines with this curvature comb visualization.";
 				};
@@ -745,10 +745,13 @@
 				name = "LigatureCaret.glyphsReporter";
 				titles = {
 					en = "Ligature Caret";
+					de = "Einfügemarken in Ligaturen anzeigen";
+					fr = "Afficher les curseurs dans les ligatures";
+					es = "Mostrar los cursores en las ligaturas";
 				};
-				url = "https://github.com/FAlthausen/LigatureCaret";
+				url = "https://github.com/mekkablue/LigatureCaret"; // WAIT FOR PULL https://github.com/FAlthausen/LigatureCaret
 				descriptions = {
-					en = "*View > Ligature Caret:* Select a `caret` anchor to show the cursor position in ligatures as a vertical line. Be aware that most software doesn’t take note of the font’s italic angle.";
+					en = "*View > Ligature Caret* (de: *Einfügemarken in Ligaturen anzeigen,* fr: *Afficher les curseurs dans les ligatures,* es: *Mostrar los cursores en las ligaturas*): Select a `caret` anchor to show the cursor position in ligatures as a vertical line. Be aware that most software doesn’t take note of the font’s italic angle.";
 				};
 				screenshot = "https://raw.githubusercontent.com/FAlthausen/LigatureCaret/master/LigatureCaretScreenshot.png";
 			},
@@ -1608,7 +1611,7 @@
 				};
 				url = "https://github.com/mekkablue/System7Shadow";
 				descriptions = {
-					en = "*System 7 Shadow* (de: *System-7-Schatten,* fr: *Ombre de Système 7,* es: *Ombra de la Sistema 7*) reproduces a shadow around a glyph that looks like the old Chicago Shadowed pixelfonts by Susan Kare which came bundled with the old Mac System 7.";
+					en = "*Filter > System 7 Shadow* (de: *System-7-Schatten,* fr: *Ombre de Système 7,* es: *Ombra de la Sistema 7*) reproduces a shadow around a glyph that looks like the old Chicago Shadowed pixelfonts by Susan Kare which came bundled with the old Mac System 7.";
 				};
 				screenshot = "https://raw.githubusercontent.com/mekkablue/System7Shadow/master/System7Shadow.png";
 			},
