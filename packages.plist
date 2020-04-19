@@ -739,7 +739,7 @@
 				titles = {
 					en = "Speed Punk";
 				};
-				url = "https://github.com/mekkablue/speedpunk"; // WAIT FOR PULL https://github.com/yanone/speedpunk
+				url = "https://github.com/yanone/speedpunk";
 				descriptions = {
 					en = "*View > Show Speed Punk.* Understand and improve your outlines with this curvature comb visualization.";
 				};
