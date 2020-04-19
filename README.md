@@ -55,6 +55,7 @@ descriptions = {
 - **maxGlyphsVersion:** maximum Glyphs version, use dumb quotes for the value, e.g. `"2.6.1"`.
 - **minSystemVersion:** minimum macOS version, use dumb quotes for the value, e.g. `"10.11"`. Useful if you use a (Py)ObjC method that has been introduced or deprecated in a certain macOS version.
 - **maxSystemVersion:** maximum macOS version, use dumb quotes for the value, e.g. `"10.12"`. Useful if you use a (Py)ObjC method that has been introduced or deprecated in a certain macOS version.
+- **branch:** name of the branch in which Plugin Manager is supposed to look for the plug-in file. Default is `master`.
 
 #### Conventions
 
@@ -87,6 +88,7 @@ descriptions = {
 			en = "This is an old version of Noodler. Consider updating Glyphs to use the latest version of the plug-in.";
 			de = "Diese Version von Nudler ist veraltet. Bitte aktualisieren Sie Glyphs, umd die neueste Version nutzen zu können.";
 		};
+		branch = "deprecated";
 		screenshot = "https://raw.githubusercontent.com/mekkablue/Noodler/master/Noodler.png";
 		maxVersion = 894;
 	}
