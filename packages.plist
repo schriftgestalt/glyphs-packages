@@ -925,10 +925,13 @@
 				name = "ShowBlackFill.glyphsReporter";
 				titles = {
 					en = "Show Black Fill";
+					de = "Schwarze Füllung anzeigen";
+					fr = "Afficher remplissage noir";
+					es = "Mostrar relleno negro";
 				};
 				url = "https://github.com/Tosche/ShowBlackFill";
 				descriptions = {
-					en = "*View > Show Black Fill* shows the outline in near-black colour. It is an alternative of Mekkablue's *Show Filled Preview* (thanks for the idea!), for those who want a darker and sharper version.";
+					en = "*View > Show Black Fill* (de = *Schwarze Füllung anzeigen,* fr = *Afficher remplissage noir,* es = *Mostrar relleno negro*) shows the outline in near-black colour. It is an alternative of Mekkablue’s *Show Filled Preview,* for those who want a darker and sharper version.";
 				};
 				screenshot = "https://github.com/Tosche/ShowBlackFill/raw/master/ShowBlackFill.png";
 			},
