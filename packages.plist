@@ -2,7 +2,7 @@
 	packages = {
 		plugins = (
 			{
-				name = "MagicRemove.glyphsPalette";
+				path = "MagicRemove.glyphsPalette";
 				titles = {
 					en = "Magic Remover";
 					de = "Magic-Löscher";
@@ -17,7 +17,7 @@
 				screenshot = "https://raw.githubusercontent.com/mekkablue/MagicRemove/master/MagicRemove.png";
 			},
 			{
-				name = "Scrambler.glyphsPalette";
+				path = "Scrambler.glyphsPalette";
 				titles = {
 					en = "Scrambler";
 				};
@@ -28,7 +28,7 @@
 				screenshot = "https://raw.githubusercontent.com/FEDER-CO/Scrambler/master/Scrambler.png";
 			},
 			{
-				name = "NodesCloseToZones.glyphsReporter";
+				path = "NodesCloseToZones.glyphsReporter";
 				titles = {
 					en = 'Show Nodes Close To Zones';
 					de = 'Punkte knapp neben Zonen anzeigen';
@@ -43,7 +43,7 @@
 				screenshot = "https://raw.githubusercontent.com/moontypespace/NodesCloseToZones-Glyphs/master/screenshot_nodesHighlighted.png";
 			},
 			{
-				name = "GlobalGlyph.glyphsReporter";
+				path = "GlobalGlyph.glyphsReporter";
 				titles = {
 					en = "Global Glyph";
 				};
@@ -54,7 +54,7 @@
 				screenshot = "https://raw.githubusercontent.com/Nevu/Show-Global-Glyph/master/ShowGlobalGlyph.png";
 			},
 			{
-				name = "GaugeTool.glyphsTool";
+				path = "GaugeTool.glyphsTool";
 				titles = {
 					en = "Gauge Tool";
 				};
@@ -65,7 +65,7 @@
 				screenshot = "https://raw.githubusercontent.com/weiweihuanghuang/GaugeTool/master/images/gaugetool.gif";
 			},
 			{
-				name = "Shadow.glyphsFilter";
+				path = "Shadow.glyphsFilter";
 				titles = {
 					en = "Shadow";
 					de = "Schatten";
@@ -81,7 +81,7 @@
 				screenshot = "https://raw.githubusercontent.com/mekkablue/Shadow/master/Shadow.png";
 			},
 			{
-				name = "ShowItalic.glyphsReporter";
+				path = "ShowItalic.glyphsReporter";
 				titles = {
 					en = "Show Italic";
 					de = "Kursive anzeigen";
@@ -96,7 +96,7 @@
 				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowItalic/master/ShowItalic.png";
 			},
 			{
-				name = "SmartPlumblines.glyphsReporter";
+				path = "SmartPlumblines.glyphsReporter";
 				titles = {
 					en = "Show Smart Plumblines";
 					de = "Intelligente Lotschnur anzeigen";
@@ -110,7 +110,7 @@
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Glyphsapp-Plugins/Screenshots/Screenshots/SmartPlumblines/SmPlL%2012.png?raw=true";
 			},
 			{
-				name = "ShowDistanceAndAngleOfNodes.glyphsReporter";
+				path = "ShowDistanceAndAngleOfNodes.glyphsReporter";
 				titles = {
 					en = "Show Distance & Angle";
 					de = 'Abstand & Winkel anzeigen';
@@ -124,7 +124,7 @@
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Show-Distance-And-Angle-Of-Nodes/master/Images/Distance_And_Angle_01.png?raw=true";
 			},
 			{
-				name = "RedArrow.glyphsReporter";
+				path = "RedArrow.glyphsReporter";
 				titles = {
 					en = "Red Arrow";
 				};
@@ -135,7 +135,7 @@
 				screenshot = "https://raw.githubusercontent.com/jenskutilek/RedArrow-Glyphs/master/screenshot.png";
 			},
 			{
-				name = "DrawBot.glyphsPlugin";
+				path = "DrawBot.glyphsPlugin";
 				url = "https://github.com/schriftgestalt/DrawBotGlyphsPlugin";
 				descriptions = {
 					en = "DrawBot inside Glyphs.\nMake a new drawBot from *File > New DrawBot,* or open a `.py` file with Cmd-O. *File > Save* as usual. Run the script by hitting the Run button (or pressing Cmd-⏎). Clean the output area by pressing Cmd-K.\n\nTo save a drawing as pdf, hit Cmd-E (*File > Export…*)";
@@ -143,7 +143,7 @@
 				screenshot = "https://raw.githubusercontent.com/schriftgestalt/DrawBotGlyphsPlugin/master/GlyphsLogoDrawBot.png";
 			},
 			{
-				name = "ShowTopsAndBottoms.glyphsReporter";
+				path = "ShowTopsAndBottoms.glyphsReporter";
 				titles = {
 					en = "Show Tops and Bottoms";
 					es = "Mostrar superiores e inferiores";
@@ -158,7 +158,7 @@
 				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowTopsAndBottoms/master/ShowTopsAndBottoms.png";
 			},
 			{
-				name = "OffsetPreview.glyphsReporter";
+				path = "OffsetPreview.glyphsReporter";
 				titles = {
 					en = "Offset Preview";
 				};
@@ -170,7 +170,7 @@
 				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowOffsetCurveParameterPreview/master/OffsetPreview.png";
 			},
 			{
-				name = "ShowStyles.glyphsReporter";
+				path = "ShowStyles.glyphsReporter";
 				titles = {
 					en = "Show Styles";
 					de = "Stile anzeigen";
@@ -187,7 +187,7 @@
 				minGlyphsVersion = "3.0";
 			},
 			{
-				name = "ShowFilledPreview.glyphsReporter";
+				path = "ShowFilledPreview.glyphsReporter";
 				titles = {
 					en = "Show Filled Preview while Editing";
 					de = "Gefüllte Vorschau beim Bearbeiten anzeigen";
@@ -201,7 +201,7 @@
 				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowFilledPreview/master/ShowFilledPreview.png";
 			},
 			{
-				name = "ShowExportStatus.glyphsReporter";
+				path = "ShowExportStatus.glyphsReporter";
 				titles = {
 					en = "Show Export Status";
 					de = "Export-Status anzeigen";
@@ -216,7 +216,7 @@
 				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowExportStatus/master/ShowExportStatus.png";
 			},
 			{
-				name = "ShowDistanceBetweenTwoPoints.glyphsReporter";
+				path = "ShowDistanceBetweenTwoPoints.glyphsReporter";
 				titles = {
 					en = "Show Distance Between two Points";
 					es = "Mostrar distancia entre dos puntos";
@@ -232,7 +232,7 @@
 				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowDistanceBetweenTwoPoints/master/ShowDistanceBetweenTwoPoints.png";
 			},
 			{
-				name = "ShowCoordinatesOfSelectedNodes.glyphsReporter";
+				path = "ShowCoordinatesOfSelectedNodes.glyphsReporter";
 				titles = {
 					en = "Show Coordinates of Selected Nodes";
 					de = "Koordinaten ausgewählter Punkte anzeigen";
@@ -248,7 +248,7 @@
 				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowCoordinatesOfSelectedNodes/master/ShowCoordinatesOfSelectedNodes.png";
 			},
 			{
-				name = "ShowComponentOrder.glyphsReporter";
+				path = "ShowComponentOrder.glyphsReporter";
 				titles = {
 					en = "Show Component Order";
 					de = "Reihenfolge der Komponenten anzeigen";
@@ -262,7 +262,7 @@
 				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowComponentOrder/master/ShowComponentOrder.png";
 			},
 			{
-				name = "ShowAngledHandles.glyphsReporter";
+				path = "ShowAngledHandles.glyphsReporter";
 				titles = {
 					en = "Show Angled Handles";
 					de = "Schräge Anfasser anzeigen";
@@ -277,7 +277,7 @@
 				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowAngledHandles/master/ShowAngledHandles.png";
 			},
 			{
-				name = "Retractor.glyphsFilter";
+				path = "Retractor.glyphsFilter";
 				titles = {
 					en = 'Retractor';
 					de = 'Retraktor';
@@ -291,7 +291,7 @@
 				};
 			},
 			{
-				name = "FixZeroHandles.glyphsFilter";
+				path = "FixZeroHandles.glyphsFilter";
 				titles = {
 					en = "Fix Zero Handles";
 					de = "Null-Anfasser beheben";
@@ -306,7 +306,7 @@
 				screenshot = "https://raw.githubusercontent.com/mekkablue/FixZeroHandles/master/FixZeroHandles.png";
 			},
 			{
-				name = "Disguiser.glyphsFilter";
+				path = "Disguiser.glyphsFilter";
 				url = "https://github.com/mekkablue/Disguiser";
 				descriptions = {
 					en = "*Filter > Disguiser* replaces the layer with a rectangle covering its bounds. This is useful for sharing files that contain sensitive designs. If invoked on a partial selection, the Disguiser will place a rectangle only over the selected parts.";
@@ -314,7 +314,7 @@
 				screenshot = "https://raw.githubusercontent.com/mekkablue/Disguiser/master/Disguiser.png";
 			},
 			{
-				name = "CutAndShake.glyphsFilter";
+				path = "CutAndShake.glyphsFilter";
 				titles = {
 					en = "Cut and Shake";
 					de = "Schneiden und schütteln";
@@ -330,7 +330,7 @@
 				screenshot = "https://raw.githubusercontent.com/mekkablue/CutAndShake/master/CutAndShake.png";
 			},
 			{
-				name = "BroadNibber.glyphsFilter";
+				path = "BroadNibber.glyphsFilter";
 				titles = {
 					en = "BroadNibber";
 					fr = "Traceur";
@@ -345,7 +345,7 @@
 				screenshot = "https://raw.githubusercontent.com/mekkablue/BroadNibber/master/BroadNibber.png";
 			},
 			{
-				name = "InsertInflections.glyphsFilter";
+				path = "InsertInflections.glyphsFilter";
 				titles = {
 					en = "Insert Inflections";
 					de = "Inflektionspunkte einfügen";
@@ -360,7 +360,7 @@
 				screenshot = "https://raw.githubusercontent.com/mekkablue/InsertInflections/master/InsertInflections.png";
 			},
 			{
-				name = "Inverter.glyphsFilter";
+				path = "Inverter.glyphsFilter";
 				titles = {
 					en = "Inverter";
 					de = "Umkehren";
@@ -376,7 +376,7 @@
 				screenshot = "https://raw.githubusercontent.com/mekkablue/Inverter/master/Inverter.png";
 			},
 			{
-				name = "LayerGeek.glyphsFilter";
+				path = "LayerGeek.glyphsFilter";
 				titles = {
 					en = "Layer Geek";
 				};
@@ -387,7 +387,7 @@
 				screenshot = "https://raw.githubusercontent.com/mekkablue/LayerGeek/master/LayerGeek.png";
 			},
 			{
-				name = "Noodler.glyphsFilter";
+				path = "Noodler.glyphsFilter";
 				titles = {
 					en = "Noodler";
 					de = "Nudler";
@@ -402,7 +402,7 @@
 				screenshot = "https://raw.githubusercontent.com/mekkablue/Noodler/master/Noodler.png";
 			},
 			{
-				name = "ShowRotated.glyphsReporter";
+				path = "ShowRotated.glyphsReporter";
 				titles = {
 					en = "Show Rotated";
 				};
@@ -413,7 +413,7 @@
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Glyphsapp-Plugins/Screenshots/ShowRotated/Screenshots/ShowRotated03_Mark-Froemberg.gif";
 			},
 			{
-				name = "ShowSiblings.glyphsReporter";
+				path = "ShowSiblings.glyphsReporter";
 				titles = {
 					en = "Show Siblings (Light)";
 				};
@@ -424,7 +424,7 @@
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Glyphsapp-Plugins/Screenshots/ShowSiblings/Screenshots/screencapDemoFont.gif";
 			},
 			{
-				name = "SyncTabs.glyphsPlugin";
+				path = "SyncTabs.glyphsPlugin";
 				titles = {
 					en = "Sync Tabs";
 					de = "Tabs synchron halten";
@@ -438,7 +438,7 @@
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Synced-Tabs/master/Images/SyncedTabs_Gintronic_MarkFroemberg_still.png";
 			},
 			{
-				name = "BlindFold.glyphsReporter";
+				path = "BlindFold.glyphsReporter";
 				titles = {
 					en = "Show Blindfold";
 					de = "Blenden anzeigen";
@@ -452,7 +452,7 @@
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Glyphsapp-Plugins/11561cf20d110e314943e6294edf47defbdb73bc/Screenshots/UncoverXHeight/UcXh%2001.png?raw=true";
 			},
 			{
-				name = "BlindFold Neue.glyphsReporter";
+				path = "BlindFold Neue.glyphsReporter";
 				titles = {
 					en = "BlindFold Neue";
 					zh = "眼罩 Neue";
@@ -464,7 +464,7 @@
 				screenshot = "https://user-images.githubusercontent.com/18233088/74555875-a8de0500-4f97-11ea-9b36-7afae6b74cbe.png";
 			},
 			{
-				name = "ArrangeWindows.glyphsPlugin";
+				path = "ArrangeWindows.glyphsPlugin";
 				titles = {
 					en = "Arrange Windows";
 				};
@@ -475,7 +475,7 @@
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/ArrangeWindows/master/ArrangeWindows.gif";
 			},
 			{
-				name = "Presenter.glyphsReporter";
+				path = "Presenter.glyphsReporter";
 				titles = {
 					en = "Presenter (Free)";
 				};
@@ -486,7 +486,7 @@
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Presenter-Free/master/images/Presenter-000-markFromberg.png";
 			},
 			{
-				name = "LabelColor.glyphsReporter";
+				path = "LabelColor.glyphsReporter";
 				titles = {
 					en = "Show Label Color";
 					de = "Etikettenfarbe anzeigen";
@@ -500,7 +500,7 @@
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Show-Label-Color/d054d4d05d6f16b2be49f055f2b06b27725b81c8/Screenshots/Show%20Label%20Color%2001.png?raw=true";
 			},
 			{
-				name = "ReporterToggler.glyphsPalette";
+				path = "ReporterToggler.glyphsPalette";
 				titles = {
 					en = "Reporter Toggler";
 				};
@@ -511,7 +511,7 @@
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Reporter-Toggler/master/Images/ReporterToggler%2002.png";
 			},
 			{
-				name = "ShowKerningGroups.glyphsReporter";
+				path = "ShowKerningGroups.glyphsReporter";
 				titles = {
 					en = "Show Kerning Groups";
 				};
@@ -522,7 +522,7 @@
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Show-Kerning-Group-Reference/12fd9ffaa0447f742dabce60a407ece582e1d6b2/Screenshots/KGR%2001.png?raw=true";
 			},
 			{
-				name = "ShowNextFont.glyphsReporter";
+				path = "ShowNextFont.glyphsReporter";
 				titles = {
 					en = "Show Next Font";
 				};
@@ -533,7 +533,7 @@
 				screenshot = "https://raw.githubusercontent.com/guidoferreyra/ShowNextFont/master/screen-nextfont.png";
 			},
 			{
-				name = "ShowAnchorsCompatibility.glyphsReporter";
+				path = "ShowAnchorsCompatibility.glyphsReporter";
 				titles = {
 					en = "Show Anchors Compatibility";
 				};
@@ -544,7 +544,7 @@
 				screenshot = "https://raw.githubusercontent.com/guidoferreyra/ShowAnchorsCompatibility/master/screen-anchorscompat.png";
 			},
 			{
-				name = "ShowNextFontAnchors.glyphsReporter";
+				path = "ShowNextFontAnchors.glyphsReporter";
 				titles = {
 					en = "Show Next Font Anchors";
 				};
@@ -555,7 +555,7 @@
 				screenshot = "https://raw.githubusercontent.com/guidoferreyra/ShowNextFontAnchors/master/screen-nextfontanchors.png";
 			},
 			{
-				name = "showCoordinates.glyphsReporter";
+				path = "showCoordinates.glyphsReporter";
 				titles = {
 					en = "Show Coordinates";
 				};
@@ -566,7 +566,7 @@
 				screenshot = "https://raw.githubusercontent.com/guidoferreyra/showCoordinates/master/screen-coordinates.png";
 			},
 			{
-				name = "Kernkraft.glyphsPlugin";
+				path = "Kernkraft.glyphsPlugin";
 				url = "https://github.com/bBoxType/Kernkraft";
 				descriptions = {
 					en = "*Glyph > Kernkraft* and *Glyph > Kernschmelze* will help you to be easily confronted with all the necessary pairs your Font provides (no matter how extended the character set is).\nNavigate in UI with your keyboard: ←,  → and ⏎. Save notes for later.\nDepends on `vanilla` module to be installed. Please install via *Window > Plugin Manager > Modules.*";
@@ -574,7 +574,7 @@
 				screenshot = "https://raw.githubusercontent.com/bBoxType/Kernkraft/master/Kernkraft%2002.png";
 			},
 			{
-				name = "ShowStems.glyphsReporter";
+				path = "ShowStems.glyphsReporter";
 				titles = {
 					en = "Show Stems (Light)";
 					de = "Stämme anzeigen (Light)";
@@ -588,7 +588,7 @@
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Show-Stems/master/Images/Show%20Stems%2003.png";
 			},
 			{
-				name = "Erode.glyphsFilter";
+				path = "Erode.glyphsFilter";
 				url = "https://github.com/simoncozens/Erode";
 				descriptions = {
 					en = "*Filter > Erode* simulates wear and tear on your glyphs by rubbing away random bits of the outlines, especially around corners.";
@@ -596,7 +596,7 @@
 				screenshot = "https://raw.githubusercontent.com/simoncozens/Erode/master/Erode.png";
 			},
 			{
-				name = "Unitizer.glyphsReporter";
+				path = "Unitizer.glyphsReporter";
 				url = "https://github.com/impallari/Unitizer";
 				descriptions = {
 					en = "*View > Show Unitizer* displays unit guidelines in the background (correspondong to a value that you can configure at will) of the current glyph in Edit view. This is helpful for working in unitized fonts.";
@@ -604,7 +604,7 @@
 				screenshot = "https://raw.githubusercontent.com/impallari/Unitizer/master/unitizer01.png";
 			},
 			{
-				name = "ShowNodeIndexes.glyphsReporter";
+				path = "ShowNodeIndexes.glyphsReporter";
 				titles = {
 					en = "Show Node Indexes";
 					es = "Mostrar listado de nodos";
@@ -618,7 +618,7 @@
 				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowNodeIndexes/master/ShowNodeIndexes.png";
 			},
 			{
-				name = "DeleteSmallPaths.glyphsFilter";
+				path = "DeleteSmallPaths.glyphsFilter";
 				titles = {
 					en = "Delete Small Paths";
 					es = "Borrar trazados pequeños";
@@ -632,7 +632,7 @@
 				screenshot = "https://raw.githubusercontent.com/mekkablue/DeleteSmallPaths/master/DeleteSmallPaths.png";
 			},
 			{
-				name = "RekhaViewer.glyphsReporter";
+				path = "RekhaViewer.glyphsReporter";
 				titles = {
 					en = "Rekha Viewer";
 				};
@@ -643,7 +643,7 @@
 				screenshot = "https://raw.githubusercontent.com/mekkablue/Rekha/master/RekhaViewer.png";
 			},
 			{
-				name = "RekhaMaker.glyphsFilter";
+				path = "RekhaMaker.glyphsFilter";
 				titles = {
 					en = "Rekha Maker";
 				};
@@ -654,7 +654,7 @@
 				screenshot = "https://raw.githubusercontent.com/mekkablue/Rekha/master/RekhaMaker.png";
 			},
 			{
-				name = "RemoveKerningExceptions.glyphsFilter";
+				path = "RemoveKerningExceptions.glyphsFilter";
 				titles = {
 					en = "Remove Kerning Exceptions";
 					de = "Kerning-Ausnahmen entfernen";
@@ -667,7 +667,7 @@
 				};
 			},
 			{
-				name = "Heatmap.glyphsReporter";
+				path = "Heatmap.glyphsReporter";
 				url = "https://github.com/simoncozens/Heatmap";
 				branch = "binary";
 				descriptions = {
@@ -676,7 +676,7 @@
 				screenshot = "https://raw.githubusercontent.com/simoncozens/Heatmap/master/heatmap.png";
 			},
 			{
-				name = "StemThickness.glyphsReporter";
+				path = "StemThickness.glyphsReporter";
 				titles = {
 					en = "Show Stem Thickness";
 					de = "Stammstärke anzeigen";
@@ -691,7 +691,7 @@
 				screenshot = "https://raw.githubusercontent.com/RafalBuchner/StemThickness/master/images/ilu_StemThickness.png";
 			},
 			{
-				name = "GlyphNote.glyphsPalette";
+				path = "GlyphNote.glyphsPalette";
 				titles = {
 					en = "Glyph Note";
 					de = "Glyphennotiz";
@@ -705,7 +705,7 @@
 				screenshot = "https://raw.githubusercontent.com/mekkablue/NotePalettes/master/NotePlugins.png";
 			},
 			{
-				name = "MakeCorner.glyphsFilter";
+				path = "MakeCorner.glyphsFilter";
 				titles = {
 					en = "Make Corner";
 					de = "Ecke herstellen";
@@ -719,7 +719,7 @@
 				screenshot = "https://raw.githubusercontent.com/mekkablue/MakeCorner/master/MakeCorner.png";
 			},
 			{
-				name = "ShowUnderline.glyphsPlugin";
+				path = "ShowUnderline.glyphsPlugin";
 				titles = {
 					en = "Show Underline";
 				};
@@ -730,7 +730,7 @@
 				screenshot = "https://raw.githubusercontent.com/schriftgestalt/ShowUnderline/master/Screenshot.png";
 			},
 			{
-				name = "ExtrudeTool.glyphsTool";
+				path = "ExtrudeTool.glyphsTool";
 				titles = {
 					en = "Extrude Tool";
 				};
@@ -741,7 +741,7 @@
 				screenshot = "https://raw.githubusercontent.com/danielgamage/Extrude-Tool/master/images/screenshot.png";
 			},
 			{
-				name = "SelectionPalette.glyphsPalette";
+				path = "SelectionPalette.glyphsPalette";
 				titles = {
 					en = "SelectionPalette";
 				};
@@ -752,7 +752,7 @@
 				screenshot = "https://raw.githubusercontent.com/danielgamage/SelectionPalette/master/Images/screenshot.png";
 			},
 			{
-				name = "TraceImage.glyphsFilter";
+				path = "TraceImage.glyphsFilter";
 				titles = {
 					en = "Trace Image";
 				};
@@ -762,7 +762,7 @@
 				};
 			},
 			{
-				name = "SpeedPunk.glyphsReporter";
+				path = "SpeedPunk.glyphsReporter";
 				titles = {
 					en = "Speed Punk";
 				};
@@ -773,7 +773,7 @@
 				screenshot = "https://raw.githubusercontent.com/yanone/speedpunk/master/Resources/speedpunkglyphs.jpg";
 			},
 			{
-				name = "LigatureCaret.glyphsReporter";
+				path = "LigatureCaret.glyphsReporter";
 				titles = {
 					en = "Ligature Caret";
 					de = "Einfügemarken in Ligaturen anzeigen";
@@ -787,7 +787,7 @@
 				screenshot = "https://raw.githubusercontent.com/FAlthausen/LigatureCaret/master/LigatureCaretScreenshot.png";
 			},
 			{
-				name = "PixelTool.glyphsTool";
+				path = "PixelTool.glyphsTool";
 				titles = {
 					en = "Pixel Tool";
 				};
@@ -798,7 +798,7 @@
 				maxGlyphsVersion = "2.99";
 			},
 			{
-				name = "ShowNextFontComponents.glyphsReporter";
+				path = "ShowNextFontComponents.glyphsReporter";
 				titles = {
 					en = "Show Next Font Components";
 				};
@@ -809,7 +809,7 @@
 				screenshot = "https://raw.githubusercontent.com/guidoferreyra/ShowNextFontComponents/master/screen-nextfontcomponents.png";
 			},
 			{
-				name = "Obfuscator.glyphsFilter";
+				path = "Obfuscator.glyphsFilter";
 				titles = {
 					en = 'Obfuscator';
 					de = 'Verschleiern';
@@ -824,7 +824,7 @@
 				screenshot = "https://raw.githubusercontent.com/guidoferreyra/Obfuscator/master/screen-obfuscator.png";
 			},
 			{
-				name = "RotateView.glyphsPlugin";
+				path = "RotateView.glyphsPlugin";
 				titles = {
 					en = "Rotate View";
 				};
@@ -835,7 +835,7 @@
 				screenshot = "https://github.com/aaronbell/RotateView/raw/master/RotateView-1.png";
 			},
 			{
-				name = "ShowAllBackgrounds.glyphsReporter";
+				path = "ShowAllBackgrounds.glyphsReporter";
 				titles = {
 					en = "Show All Backgrounds";
 					de = "Alle Hintergründe anzeigen";
@@ -849,7 +849,7 @@
 				screenshot = "https://github.com/mekkablue/ShowAllBackgrounds/raw/master/ShowAllBackgrounds.png";
 			},
 			{
-				name = "ShowCrosshair.glyphsReporter";
+				path = "ShowCrosshair.glyphsReporter";
 				titles = {
 					en = "Show Crosshair";
 					de = "Fadenkreuz anzeigen";
@@ -865,7 +865,7 @@
 				screenshot = "https://github.com/mekkablue/ShowCrosshair/raw/master/ShowCrosshair.png";
 			},
 			{
-				name = "ShowVerticalMetrics.glyphsReporter";
+				path = "ShowVerticalMetrics.glyphsReporter";
 				titles = {
 					en = "Show Vertical Metrics";
 					de = "Vertikalmaße anzeigen";
@@ -879,7 +879,7 @@
 				screenshot = "https://github.com/mekkablue/ShowVerticalMetrics/raw/master/ShowVerticalMetrics.png";
 			},
 			{
-				name = "SpaceBar.glyphsReporter";
+				path = "SpaceBar.glyphsReporter";
 				titles = {
 					en = "Space Bar";
 				};
@@ -890,7 +890,7 @@
 				screenshot = "https://raw.githubusercontent.com/yanone/spacebar/master/spacebarglyphs.jpg";
 			},
 			{
-				name = "ShowGlyphsInLabelColor.glyphsReporter";
+				path = "ShowGlyphsInLabelColor.glyphsReporter";
 				titles = {
 					en = "Show Glyphs in Their Label Color";
 					de = "Glyphen in ihrer Etikettenfarbe anzeigen";
@@ -904,7 +904,7 @@
 				screenshot = "https://github.com/mekkablue/ShowGlyphsInLabelColor/raw/master/ShowGlyphsInLabelColor.png";
 			},
 			{
-				name = "Speedlines.glyphsFilter";
+				path = "Speedlines.glyphsFilter";
 				url = "https://github.com/mekkablue/Speedlines";
 				descriptions = {
 					en = "*Filter > Speedlines* adds speedlines to your glyphs.";
@@ -912,7 +912,7 @@
 				screenshot = "https://github.com/mekkablue/Speedlines/raw/master/Speedlines.png";
 			},
 			{
-				name = "PixelPenTool.glyphsTool";
+				path = "PixelPenTool.glyphsTool";
 				titles = {
 					en = "Pixel Pen Tool";
 				};
@@ -923,7 +923,7 @@
 				screenshot = "https://raw.githubusercontent.com/Tosche/PixelPenTool/master/Images/PixelPenTool.gif";
 			},
 			{
-				name = "ShowBlackFill.glyphsReporter";
+				path = "ShowBlackFill.glyphsReporter";
 				titles = {
 					en = "Show Black Fill";
 					de = "Schwarze Füllung anzeigen";
@@ -937,7 +937,7 @@
 				screenshot = "https://github.com/Tosche/ShowBlackFill/raw/master/ShowBlackFill.png";
 			},
 			{
-				name = "Waterfall.glyphsPlugin";
+				path = "Waterfall.glyphsPlugin";
 				url = "https://github.com/Tosche/Waterfall";
 				descriptions = {
 					en = "*Window > Waterfall* shows the font in different sizes. The text is independent of the Edit View Content. Massive thanks to Mark2Mark for the help!";
@@ -945,7 +945,7 @@
 				screenshot = "https://github.com/Tosche/Waterfall/raw/master/Waterfall.png";
 			},
 			{
-				name = "SyncSelection.glyphsPlugin";
+				path = "SyncSelection.glyphsPlugin";
 				titles = {
 					en = "Sync Layer Selections";
 				};
@@ -958,7 +958,7 @@
 				maxGlyphsVersion = "2.99";
 			},
 			{
-				name = "LabelKey.glyphsPalette";
+				path = "LabelKey.glyphsPalette";
 				titles = {
 					en = "Label Key";
 				};
@@ -969,7 +969,7 @@
 				screenshot = "https://github.com/RobertPratley/labelKey/raw/master/labelKeyExample.png";
 			},
 			{
-				name = "MetricsSolver.glyphsPlugin";
+				path = "MetricsSolver.glyphsPlugin";
 				titles = {
 					en = "Metrics Solver";
 				};
@@ -980,7 +980,7 @@
 				screenshot = "https://github.com/jayKayEss/MetricsSolver/raw/master/Extras/screenshot.png";
 			},
 			{
-				name = "DeleteShortSegments.glyphsFilter";
+				path = "DeleteShortSegments.glyphsFilter";
 				titles = {
 					en = "Delete Short Segments";
 					de = "Kurze Segmente löschen";
@@ -994,7 +994,7 @@
 				screenshot = "https://github.com/mekkablue/DeleteShortSegments/raw/master/DeleteShortSegments.png";
 			},
 			{
-				name = "ShowMarkPreview.glyphsReporter";
+				path = "ShowMarkPreview.glyphsReporter";
 				titles = {
 					en = "Show Mark Preview";
 					de = "Akzent-Vorschau anzeigen";
@@ -1008,7 +1008,7 @@
 				screenshot = "https://github.com/mekkablue/ShowMarkPreview/raw/master/ShowMarkPreview.png";
 			},
 			{
-				name = "SyncMetricsKeys.glyphsPlugin";
+				path = "SyncMetricsKeys.glyphsPlugin";
 				titles = {
 					en = "Sync Metrics Keys";
 				};
@@ -1019,7 +1019,7 @@
 				screenshot = "https://raw.githubusercontent.com/underscoretype/glyphs-plugin-sync-metrics-keys/master/SyncMetricsKeys.png";
  			},
 			{
-				name = "Skedge.glyphsPlugin";
+				path = "Skedge.glyphsPlugin";
 				url = "https://github.com/Mark2Mark/Skedge";
 				descriptions = {
 					en = "*Window > Skedge* is a live python sketcher for Glyphsapp.";
@@ -1027,7 +1027,7 @@
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Skedge/master/Images/Skedge%2003.gif";
 			},
 			{
-				name = "ShowStemRhythm.glyphsReporter";
+				path = "ShowStemRhythm.glyphsReporter";
 				url = "https://github.com/Mark2Mark/Show-Stem-Rhythm";
 				descriptions = {
 					en = "*View > Show Stem Rhythm* Displays a dynamic stem pattern. Useful for SEA scripts. Italic angle is not respected in this free version.\nMore info here:";
@@ -1035,14 +1035,14 @@
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/show-stem-rhythm/master/Stem%20Rhythm%20-%20Mark%20Fromberg%2001.png";
 			},
 			{
-				name = "Backuper.glyphsPlugin";
+				path = "Backuper.glyphsPlugin";
 				url = "https://github.com/schriftgestalt/Backuper";
 				descriptions = {
 					en = "A plugin that makes a copy of the file if opened in a new version of Glyphs";
 				};
 			},
 			{
-				name = "MasterGrid.glyphsReporter";
+				path = "MasterGrid.glyphsReporter";
 				titles = {
 					en = "Master Grid";
 				};
@@ -1053,7 +1053,7 @@
 				screenshot = "https://raw.githubusercontent.com/jenskutilek/MasterGrid/master/Images/screenshot.png";
 			},
 			{
-				name = "word-o-mat.glyphsPlugin";
+				path = "word-o-mat.glyphsPlugin";
 				titles = {
 					en = "Word-o-Mat";
 				};
@@ -1064,7 +1064,7 @@
 				screenshot = "https://raw.githubusercontent.com/schriftgestalt/word-o-mat/master/screenshotGlyphs.png";
 			},
 			{
-				name = "Rimmer.glyphsFilter";
+				path = "Rimmer.glyphsFilter";
 				titles = {
 					en = 'Rimmer';
 					de = 'Umranden';
@@ -1080,7 +1080,7 @@
 				screenshot = "https://raw.githubusercontent.com/mekkablue/Rimmer/master/Rimmer.png";
 			},
 			{
-				name = "Touche.glyphsPlugin";
+				path = "Touche.glyphsPlugin";
 				titles = {
 					en = "Touché";
 				};
@@ -1091,7 +1091,7 @@
 				screenshot = "https://github.com/schriftgestalt/Touche/raw/master/screenshotGlyphs.png";
 			},
 			{
-				name = "ImageFrame.glyphsPlugin";
+				path = "ImageFrame.glyphsPlugin";
 				titles = {
 					en = "Image Frame";
 					de = "Bilderrahmen";
@@ -1109,7 +1109,7 @@
 				screenshot = "https://raw.githubusercontent.com/dyyybek/ImageFrame/master/screenshot.png";
 			},
 			{
-				name = "SegmentLength.glyphsReporter";
+				path = "SegmentLength.glyphsReporter";
 				titles = {
 					en = "Show Segment Lengths";
 					de = "Segmentlängen anzeigen";
@@ -1123,7 +1123,7 @@
 				screenshot = "https://raw.githubusercontent.com/mekkablue/SegmentLength/master/SegmentLength.png";
 			},
 			{
-				name = "Beowulferize.glyphsFilter";
+				path = "Beowulferize.glyphsFilter";
 				titles = {
 					en = "Beowulferize";
 					de = "Beowulferisieren";
@@ -1137,7 +1137,7 @@
 				screenshot = "https://raw.githubusercontent.com/mekkablue/Beowulferize/master/Beowulferize.png";
 			},
 			{
-				name = "RandomRotate.glyphsFilter";
+				path = "RandomRotate.glyphsFilter";
 				titles = {
 					en = "Random Rotate";
 					de = "Zufallsrotation";
@@ -1151,7 +1151,7 @@
 				screenshot = "https://raw.githubusercontent.com/mekkablue/RandomRotate/master/RandomRotate.png";
 			},
 			{
-				name = "CollectHangul.glyphsPlugin";
+				path = "CollectHangul.glyphsPlugin";
 				titles = {
 					en = "Collect-Hangul";
 				};
@@ -1162,7 +1162,7 @@
 				screenshot = "https://raw.githubusercontent.com/nanife/CollectHangul_Glyphs/master/mainView.png";
 			},
 			{
-				name = "OffsetCurveWithAngle.glyphsFilter";
+				path = "OffsetCurveWithAngle.glyphsFilter";
 				titles = {
 					en = "Offset Curve with Angle";
 					de = "Verfetten mit Winkel";
@@ -1176,7 +1176,7 @@
 				screenshot = "https://raw.githubusercontent.com/mekkablue/OffsetCurveWithAngle/master/OffsetCurveWithAngle.png";
 			},
 			{
-				name = "Delete Duplicate Paths.glyphsFilter";
+				path = "Delete Duplicate Paths.glyphsFilter";
 				titles = {
 					en = "Delete Duplicate Paths";
 					de = 'Doppelte Pfade löschen';
@@ -1189,7 +1189,7 @@
 				};
 			},
 			{
-				name = "FramesPerSecond.glyphsReporter";
+				path = "FramesPerSecond.glyphsReporter";
 				titles = {
 					en = "Frames Per Second";
 				};
@@ -1199,7 +1199,7 @@
 				};
 			},
 			{
-				name = "Kern-A-Lytics.glyphsFilter";
+				path = "Kern-A-Lytics.glyphsFilter";
 				titles = {
 					en = "Kern-A-Lytics";
 				};
@@ -1210,7 +1210,7 @@
 				screenshot = "https://raw.githubusercontent.com/schriftgestalt/kernalytics-rf-ext/master/kern-a-lytics-Glyphs.png";
 			},
 			{
-				name = "FilterListManager.glyphsPlugin";
+				path = "FilterListManager.glyphsPlugin";
 				titles = {
 					en = "Filter List Manager (FLM)";
 				};
@@ -1221,7 +1221,7 @@
 				screenshot = "https://user-images.githubusercontent.com/4249591/43370298-dd03127c-934a-11e8-99cd-3b8138811b49.png";
 			},
 			{
-				name = "Pixelate.glyphsFilter";
+				path = "Pixelate.glyphsFilter";
 				titles = {
 					en = "Pixelate";
 					de = "Verpixeln";
@@ -1235,7 +1235,7 @@
 				screenshot = "https://raw.githubusercontent.com/mekkablue/Pixelate/master/Pixelate.png";
 			},
 			{
-				name = "TTControlInstructions.glyphsPalette";
+				path = "TTControlInstructions.glyphsPalette";
 				titles = {
 					en = "TT Control Instructions Palette";
 				};
@@ -1245,7 +1245,7 @@
 				};
 			},
 			{
-				name = "Wordfinder.glyphsPlugin";
+				path = "Wordfinder.glyphsPlugin";
 				url = "https://github.com/underscoretype/glyphs-plugin-wordfinder";
 				descriptions = {
 					en = "*Glyph > Wordfinder* finds words that contain the selected glyphs.";
@@ -1253,7 +1253,7 @@
 				screenshot = "https://raw.githubusercontent.com/underscoretype/glyphs-plugin-wordfinder/master/Wordfinder.png";
 			},
 			{
-				name = "ChangeIncrement.glyphsPalette";
+				path = "ChangeIncrement.glyphsPalette";
 				titles = {
 					en = "Change Keyboard Increment";
 				};
@@ -1264,7 +1264,7 @@
 				screenshot = "https://raw.githubusercontent.com/filipenegrao/Change-Keyboard-Increment/master/change_increment.png";
 			},
 			{
-				name = "MakeBoxes.glyphsFilter";
+				path = "MakeBoxes.glyphsFilter";
 				titles = {
 					en = "Make Boxes";
 					de = "Kasteln machen";
@@ -1278,7 +1278,7 @@
 				screenshot = "https://raw.githubusercontent.com/mekkablue/MakeBoxes/master/MakeBoxes.png";
 			},
 			{
-				name = "ShowGlyphFocus.glyphsReporter";
+				path = "ShowGlyphFocus.glyphsReporter";
 				titles = {
 					en = "Show Glyph Focus";
 					de = "Fokus auf aktuelle Glyphe anzeigen";
@@ -1292,7 +1292,7 @@
 				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowGlyphFocus/master/GlyphFocus.png";
 			},
 			{
-				name = "ShowComponentsCompatibility.glyphsReporter";
+				path = "ShowComponentsCompatibility.glyphsReporter";
 				url = "https://github.com/guidoferreyra/ShowComponentsCompatibility";
 				descriptions = {
 					en = "*View > Show Components Compatibility* displays in a list the names of the components used in the current layer if a component is missing in other master it uses red color on the component name label.";
@@ -1300,7 +1300,7 @@
 				screenshot = "https://raw.githubusercontent.com/guidoferreyra/ShowComponentsCompatibility/master/screen-componentesCompat.png";
 			},
 			{
-				name = "AnchorsPalette/Anchors.glyphsPalette";
+				path = "AnchorsPalette/Anchors.glyphsPalette";
 				titles = {
 					en = "Anchors Palette";
 				};
@@ -1311,7 +1311,7 @@
 				screenshot = "https://raw.githubusercontent.com/justanotherfoundry/freemix-glyphsapp/master/AnchorsPalette/AnchorsPalette.png";
 			},
 			{
-				name = "AlignmentPalette/Alignment.glyphsPalette";
+				path = "AlignmentPalette/Alignment.glyphsPalette";
 				titles = {
 					en = "Alignment Palette";
 				};
@@ -1322,7 +1322,7 @@
 				screenshot = "https://raw.githubusercontent.com/justanotherfoundry/freemix-glyphsapp/master/AlignmentPalette/AlignmentPalette.png";
 			},
 			{
-				name = "SuffixesPalette/Suffixes.glyphsPalette";
+				path = "SuffixesPalette/Suffixes.glyphsPalette";
 				titles = {
 					en = "Suffixes Palette";
 				};
@@ -1333,7 +1333,7 @@
 				screenshot = "https://raw.githubusercontent.com/justanotherfoundry/freemix-glyphsapp/master/SuffixesPalette/SuffixesPalette.png";
 			},
 			{
-				name = "GlyphSILE.glyphsPlugin";
+				path = "GlyphSILE.glyphsPlugin";
 				titles = {
 					en = "GlyphSILE";
 				};
@@ -1344,7 +1344,7 @@
 				screenshot = "https://raw.githubusercontent.com/simoncozens/GlyphSILE.glyphsplugin/master/GlyphSILE.png";
 			},
 			{
-				name = "ShowHintsAlsoInOtherMasters.glyphsReporter";
+				path = "ShowHintsAlsoInOtherMasters.glyphsReporter";
 				titles = {
 					en = "Show PS Hints Also in Other Masters";
 				};
@@ -1355,7 +1355,7 @@
 				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowHintsAlsoInOtherMasters/master/ShowHintsAlsoInOtherMasters-Preview.png";
 			},
 			{
-				name = "SetPalette.glyphsPalette";
+				path = "SetPalette.glyphsPalette";
 				titles = {
 					en = "Set Palette";
 				};
@@ -1366,7 +1366,7 @@
 				screenshot = "https://raw.githubusercontent.com/mekkablue/SetPalette/master/SetPalette.png";
 			},
 			{
-				name = "LayerWhale.glyphsPalette";
+				path = "LayerWhale.glyphsPalette";
 				titles = {
 					en = "Layer Whale";
 				};
@@ -1377,7 +1377,7 @@
 				screenshot = "https://raw.githubusercontent.com/aiaf/LayerWhale/master/LayerWhale.png";
 			},
 			{
-				name = "KernIndicator.glyphsReporter";
+				path = "KernIndicator.glyphsReporter";
 				titles = {
 					en = "Show Kerning Values";
 					de = "Kerning-Werte anzeigen";
@@ -1391,7 +1391,7 @@
 				screenshot = "https://raw.githubusercontent.com/mekkablue/KerningValues/master/KerningIndicators.png";
 			},
 			{
-				name = "SnapKiller.glyphsPlugin";
+				path = "SnapKiller.glyphsPlugin";
 				titles = {
 					en = "Snap Killer";
 					de = "Snap-Killer";
@@ -1405,7 +1405,7 @@
 				maxGlyphsVersion = "2.99";
 			},
 			{
-				name = "DeCasteljauBezier.glyphsPlugin";
+				path = "DeCasteljauBezier.glyphsPlugin";
 				titles = {
 					en = "De Casteljau";
 				};
@@ -1416,7 +1416,7 @@
 				screenshot = "https://raw.githubusercontent.com/luke-snider/de-casteljau-for-GlyphsApp/master/deCasteljau_screen2.png";
 			},
 			{
-				name = "ShowCharacter.glyphsReporter";
+				path = "ShowCharacter.glyphsReporter";
 				titles = {
 					en = "Show Character";
 					de = "Zeichen anzeigen";
@@ -1430,7 +1430,7 @@
 				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowCharacter/master/ShowCharacter.png";
 			},
 			{
-				name = "MasterSelector.glyphsPlugin";
+				path = "MasterSelector.glyphsPlugin";
 				titles = {
 					en = "Master Selector";
 				};
@@ -1441,7 +1441,7 @@
 				screenshot = "https://raw.githubusercontent.com/AlphabetType/MasterSelector/master/images/MasterSelector.gif";
 			},
 			{
-				name = "Show Nodes Outside Paths.glyphsReporter";
+				path = "Show Nodes Outside Paths.glyphsReporter";
 				titles = {
 					en = "Show Nodes Outside Paths";
 				};
@@ -1452,7 +1452,7 @@
 				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowNodesOutsidePaths/master/Show%20Nodes%20Outside%20Paths.png";
 			},
 			{
-				name = "Scrawl.glyphsTool";
+				path = "Scrawl.glyphsTool";
 				titles = {
 					en = "Scrawl Tool";
 				};
@@ -1463,7 +1463,7 @@
 				screenshot = "https://raw.githubusercontent.com/jenskutilek/Scrawl-Glyphs/master/data/ui.png";
 			},
 			{
-				name = "Scrawl.glyphsReporter";
+				path = "Scrawl.glyphsReporter";
 				titles = {
 					en = "Scrawl Viewer";
 				};
@@ -1473,7 +1473,7 @@
 				};
 			},
 			{
-				name = "Show Smooth Node Angle and Proportion.glyphsReporter";
+				path = "Show Smooth Node Angle and Proportion.glyphsReporter";
 				titles = {
 					en = "Show Smooth Node Angle and Proportion";
 				};
@@ -1484,7 +1484,7 @@
 				screenshot = "https://raw.githubusercontent.com/harbortype/ShowSmoothNodeAngleAndProportion/master/images/preview.png";
 			},
 			{
-				name = "ShowCenterLines.glyphsReporter";
+				path = "ShowCenterLines.glyphsReporter";
 				titles = {
 					en = "Show Center Lines";
 					de = "Mittellinien anzeigen";
@@ -1498,7 +1498,7 @@
 				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowCenterLines/master/ShowCenterLines.png";
 			},
 			{
-				name = "FillBackgroundPath.glyphsReporter";
+				path = "FillBackgroundPath.glyphsReporter";
 				titles = {
 					en = "Fill Background Path";
 				};
@@ -1509,7 +1509,7 @@
 				screenshot = "https://raw.githubusercontent.com/markmonroy/FillBackgroundPath/master/FillBackgroundPath.png";
 			},
 			{
-				name = "CaseChange/CaseChange.glyphsPalette";
+				path = "CaseChange/CaseChange.glyphsPalette";
 				titles = {
 					en = "Change Case";
 				};
@@ -1520,7 +1520,7 @@
 				screenshot = "https://raw.githubusercontent.com/Ricard-Garcia/Glyphs_plugins/master/CaseChange/Image/ChangeCase.png";
 			},
 			{
-				name = "AddCaps.glyphsFilter";
+				path = "AddCaps.glyphsFilter";
 				titles = {
 					en = "Add Caps";
 				};
@@ -1530,7 +1530,7 @@
 				};
 			},
 			{
-				name = "BaseReductor.glyphsFilter";
+				path = "BaseReductor.glyphsFilter";
 				titles = {
 					en = "Base Reductor";
 					de = "Basis-Reduktor";
@@ -1544,7 +1544,7 @@
 				screenshot = "https://raw.githubusercontent.com/mekkablue/BaseReductor/master/BaseReductorAnimation.gif";
 			},
 			{
-				name = "SuperTool.glyphsTool";
+				path = "SuperTool.glyphsTool";
 				titles = {
 					en = "SuperTool";
 				};
@@ -1555,7 +1555,7 @@
 				screenshot = "https://raw.githubusercontent.com/simoncozens/SuperTool/master/supertool-screenshot.png";
 			},
 			{
-				name = "ShowAnchorsWithDuplicateCoordinates.glyphsReporter";
+				path = "ShowAnchorsWithDuplicateCoordinates.glyphsReporter";
 				titles = {
 					en = "Show Anchors with Duplicate Coordinates";
 					de = "Anker mit selben Koordinaten anzeigen";
@@ -1570,7 +1570,7 @@
 				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowAnchorsWithDuplicateCoordinates/master/ShowAnchorsWithDuplicateCoordinates.png";
 			},
 			{
-				name = "OptimizeStartNodes.glyphsFilter";
+				path = "OptimizeStartNodes.glyphsFilter";
 				titles = {
 					en = "Optimize Start Node Placement";
 					de = "Startpunkte optimieren";
@@ -1584,7 +1584,7 @@
 				screenshot = "https://raw.githubusercontent.com/LucasFonts/Glyphs-OptimizeStartNodes/master/round.png";
 			},
 			{
-				name = "Stitcher.glyphsFilter";
+				path = "Stitcher.glyphsFilter";
 				titles = {
 					en = "Stitcher";
 				};
@@ -1595,7 +1595,7 @@
 				screenshot = "https://raw.githubusercontent.com/mekkablue/Stitcher/master/Stitcher.png";
 			},
 			{
-				name = "Inliner.glyphsFilter";
+				path = "Inliner.glyphsFilter";
 				titles = {
 					en = "Inliner";
 				};
@@ -1606,7 +1606,7 @@
 				screenshot = "https://raw.githubusercontent.com/mekkablue/Inliner/master/Inliner.png";
 			},
 			{
-				name = "ShowOnlySelectedHandles.glyphsReporter";
+				path = "ShowOnlySelectedHandles.glyphsReporter";
 				titles = {
 					en = "Show Only Selected Handles";
 				};
@@ -1617,7 +1617,7 @@
 				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowOnlySelectedHandles/master/ShowOnlySelectedHandles.png";
 			},
 			{
-				name = "MasterSwitcher.glyphsPalette";
+				path = "MasterSwitcher.glyphsPalette";
 				titles = {
 					en = "Master Switcher";
 				};
@@ -1628,7 +1628,7 @@
 				screenshot = "https://raw.githubusercontent.com/mekkablue/MasterSwitcher/master/MasterSwitcher.png";
 			},
 			{
-				name = "NodeNamer.glyphsPalette";
+				path = "NodeNamer.glyphsPalette";
 				titles = {
 					en = "Node Namer";
 					de = "NodeNamer";
@@ -1643,7 +1643,7 @@
 				screenshot = "https://raw.githubusercontent.com/mekkablue/NodeNamer/master/NodeNamer.png";
 			},
 			{
-				name = "System7Shadow.glyphsFilter";
+				path = "System7Shadow.glyphsFilter";
 				titles = {
 					en = "System 7 Shadow";
 					de = "System-7-Schatten";
@@ -1657,7 +1657,7 @@
 				screenshot = "https://raw.githubusercontent.com/mekkablue/System7Shadow/master/System7Shadow.png";
 			},
 			{
-				name = "GlyphGiffer.glyphsPlugin";
+				path = "GlyphGiffer.glyphsPlugin";
 				titles = {
 					en = "GlyphGiffer";
 				};
@@ -1670,7 +1670,7 @@
 		);
 		scripts = (
 			{
-				name = "mekkablue";
+				path = "mekkablue";
 				titles = {
 					en = "mekkablue Scripts";
 				};
@@ -1680,7 +1680,7 @@
 				};
 			},
 			{
-				name = "Tim Ahrens";
+				path = "Tim Ahrens";
 				titles = {
 					en = "JAF Freemix Scripts";
 				};
@@ -1690,7 +1690,7 @@
 				};
 			},
 			{
-				name = "Toshi Omagari";
+				path = "Toshi Omagari";
 				titles = {
 					en = "Tosche’s Scripts";
 				};
@@ -1700,7 +1700,7 @@
 				};
 			},
 			{
-				name = "Mark2Mark";
+				path = "Mark2Mark";
 				titles = {
 					en = "Mark2Mark Scripts";
 				};
@@ -1710,7 +1710,7 @@
 				};
 			},
 			{
-				name = "Huerta Tipografica Letterspacer";
+				path = "Huerta Tipografica Letterspacer";
 				titles = {
 					en = "HT Letterspacer";
 				};
@@ -1720,7 +1720,7 @@
 				};
 			},
 			{
-				name = "Marc Foley";
+				path = "Marc Foley";
 				titles = {
 					en = "Marc Foley’s Scripts";
 				};
@@ -1730,7 +1730,7 @@
 				};
 			},
 			{
-				name = "Wei Huang";
+				path = "Wei Huang";
 				titles = {
 					en = "Wei’s Scripts";
 				};
@@ -1740,7 +1740,7 @@
 				};
 			},
 			{
-				name = "Simon Cozens";
+				path = "Simon Cozens";
 				titles = {
 					en = "Simon Cozens’ Scripts";
 				};
@@ -1750,7 +1750,7 @@
 				};
 			},
 			{
-				name = "Henrique Beier";
+				path = "Henrique Beier";
 				titles = {
 					en = "Harbortype Scripts";
 				};
@@ -1760,7 +1760,7 @@
 				};
 			},
 			{
-				name = "Nico Hagenburger";
+				path = "Nico Hagenburger";
 				titles = {
 					en = "Export and Install";
 				};
@@ -1770,7 +1770,7 @@
 				};
 			},
 			{
-				name = "Daniel Gamage";
+				path = "Daniel Gamage";
 				titles = {
 					en = "Daniel Gamage’s Scripts";
 				};
@@ -1780,7 +1780,7 @@
 				};
 			},
 			{
-				name = "Johannes Neumeier";
+				path = "Johannes Neumeier";
 				titles = {
 					en = "Underscore Scripts";
 				};
@@ -1790,7 +1790,7 @@
 				};
 			},
 			{
-				name = "Ricard Garcia";
+				path = "Ricard Garcia";
 				titles = {
 					en = "Ricard Garcia’s Scripts";
 				};
@@ -1800,7 +1800,7 @@
 				};
 			},
 			{
-				name = "Typerepublic";
+				path = "Typerepublic";
 				titles = {
 					en = "Typerepublic Scripts";
 				};
@@ -1810,7 +1810,7 @@
 				};
 			},
 			{
-				name = "Jens Kutílek";
+				path = "Jens Kutílek";
 				titles = {
 					en = "Jens Kutílek’s Scripts";
 				};
@@ -1820,7 +1820,7 @@
 				};
 			},
 			{
-				name = "Marcin Dybaś";
+				path = "Marcin Dybaś";
 				titles = {
 					en = "dyyybek Scripts";
 				};
@@ -1830,7 +1830,7 @@
 				};
 			},
 			{
-				name = "Robert Pratley";
+				path = "Robert Pratley";
 				titles = {
 					en = "Robert Pratley’s Scripts";
 				};
@@ -1840,7 +1840,7 @@
 				};
 			},
 			// {
-			// 	name = "Rafał Buchner";
+			// 	path = "Rafał Buchner";
 			// 	titles = {
 			// 		en = "Rafał Buchner’s Scripts";
 			// 	};
@@ -1850,7 +1850,7 @@
 			// 	};
 			// },
 			{
-				name = "Yanone";
+				path = "Yanone";
 				titles = {
 					en = "Yanone Scripts";
 				};
@@ -1860,7 +1860,7 @@
 				};
 			},
 			{
-				name = "Filipe Negrão";
+				path = "Filipe Negrão";
 				titles = {
 					en = "Filipe Negrão’s Scripts";
 				};
@@ -1870,7 +1870,7 @@
 				};
 			},
 			{
-				name = "Guido Ferreyra";
+				path = "Guido Ferreyra";
 				titles = {
 					en = "Guido Ferreyra’s Scripts";
 				};
@@ -1885,7 +1885,7 @@
 				titles = {
 					en = "Vanilla";
 				};
-				name = "Lib/vanilla";
+				path = "Lib/vanilla";
 				url = "https://github.com/typesupply/vanilla";
 				descriptions = {
 					en = "A Pythonic wrapper around Cocoa. Useful for building Mac UI in Python. Many scripts require this library.";
@@ -1895,7 +1895,7 @@
 				titles = {
 					en = "RoboFab";
 				};
-				name = "Lib/robofab";
+				path = "Lib/robofab";
 				url = "https://github.com/robofab-developers/robofab";
 				descriptions = {
 					en = "A Python library with objects that deal with data usually associated with fonts and type design.";
@@ -1905,7 +1905,7 @@
 				titles = {
 					en = "FontTools";
 				};
-				name = "Lib/fontTools";
+				path = "Lib/fontTools";
 				url = "https://github.com/fonttools/fonttools";
 				descriptions = {
 					en = "A Python library with objects that deal with data usually associated with fonts and type design.";
