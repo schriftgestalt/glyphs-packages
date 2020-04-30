@@ -1670,7 +1670,7 @@
 		);
 		scripts = (
 			{
-				path = "mekkablue";
+				localPath = "mekkablue";
 				titles = {
 					en = "mekkablue Scripts";
 				};
@@ -1680,7 +1680,7 @@
 				};
 			},
 			{
-				path = "Tim Ahrens";
+				localPath = "Tim Ahrens";
 				titles = {
 					en = "JAF Freemix Scripts";
 				};
@@ -1690,7 +1690,7 @@
 				};
 			},
 			{
-				path = "Toshi Omagari";
+				localPath = "Toshi Omagari";
 				titles = {
 					en = "Tosche’s Scripts";
 				};
@@ -1700,7 +1700,7 @@
 				};
 			},
 			{
-				path = "Mark2Mark";
+				localPath = "Mark2Mark";
 				titles = {
 					en = "Mark2Mark Scripts";
 				};
@@ -1710,7 +1710,7 @@
 				};
 			},
 			{
-				path = "Huerta Tipografica Letterspacer";
+				localPath = "Huerta Tipografica Letterspacer";
 				titles = {
 					en = "HT Letterspacer";
 				};
@@ -1720,7 +1720,7 @@
 				};
 			},
 			{
-				path = "Marc Foley";
+				localPath = "Marc Foley";
 				titles = {
 					en = "Marc Foley’s Scripts";
 				};
@@ -1730,7 +1730,7 @@
 				};
 			},
 			{
-				path = "Wei Huang";
+				localPath = "Wei Huang";
 				titles = {
 					en = "Wei’s Scripts";
 				};
@@ -1740,7 +1740,7 @@
 				};
 			},
 			{
-				path = "Simon Cozens";
+				localPath = "Simon Cozens";
 				titles = {
 					en = "Simon Cozens’ Scripts";
 				};
@@ -1750,7 +1750,7 @@
 				};
 			},
 			{
-				path = "Henrique Beier";
+				localPath = "Henrique Beier";
 				titles = {
 					en = "Harbortype Scripts";
 				};
@@ -1760,7 +1760,7 @@
 				};
 			},
 			{
-				path = "Nico Hagenburger";
+				localPath = "Nico Hagenburger";
 				titles = {
 					en = "Export and Install";
 				};
@@ -1770,7 +1770,7 @@
 				};
 			},
 			{
-				path = "Daniel Gamage";
+				localPath = "Daniel Gamage";
 				titles = {
 					en = "Daniel Gamage’s Scripts";
 				};
@@ -1780,7 +1780,7 @@
 				};
 			},
 			{
-				path = "Johannes Neumeier";
+				localPath = "Johannes Neumeier";
 				titles = {
 					en = "Underscore Scripts";
 				};
@@ -1790,7 +1790,7 @@
 				};
 			},
 			{
-				path = "Ricard Garcia";
+				localPath = "Ricard Garcia";
 				titles = {
 					en = "Ricard Garcia’s Scripts";
 				};
@@ -1800,7 +1800,7 @@
 				};
 			},
 			{
-				path = "Typerepublic";
+				localPath = "Typerepublic";
 				titles = {
 					en = "Typerepublic Scripts";
 				};
@@ -1810,7 +1810,7 @@
 				};
 			},
 			{
-				path = "Jens Kutílek";
+				localPath = "Jens Kutílek";
 				titles = {
 					en = "Jens Kutílek’s Scripts";
 				};
@@ -1820,7 +1820,7 @@
 				};
 			},
 			{
-				path = "Marcin Dybaś";
+				localPath = "Marcin Dybaś";
 				titles = {
 					en = "dyyybek Scripts";
 				};
@@ -1830,7 +1830,7 @@
 				};
 			},
 			{
-				path = "Robert Pratley";
+				localPath = "Robert Pratley";
 				titles = {
 					en = "Robert Pratley’s Scripts";
 				};
@@ -1850,7 +1850,7 @@
 			// 	};
 			// },
 			{
-				path = "Yanone";
+				localPath = "Yanone";
 				titles = {
 					en = "Yanone Scripts";
 				};
@@ -1860,7 +1860,7 @@
 				};
 			},
 			{
-				path = "Filipe Negrão";
+				localPath = "Filipe Negrão";
 				titles = {
 					en = "Filipe Negrão’s Scripts";
 				};
@@ -1870,7 +1870,7 @@
 				};
 			},
 			{
-				path = "Guido Ferreyra";
+				localPath = "Guido Ferreyra";
 				titles = {
 					en = "Guido Ferreyra’s Scripts";
 				};
