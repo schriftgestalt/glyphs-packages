@@ -6,18 +6,18 @@
 				titles = {
 					en = "HOI Viewer";
 				};
-				url = "https://github.com/mjlagattuta/Glyphs-Scripts/";
+				url = "https://github.com/mjlagattuta/Glyphs-Scripts";
 				descriptions = {
 					en = "*View > HOI Viewer* is a kink-proofer useful for previewing designspaces. It is capable of previewing at a specific location in the designspace or along an entire axis (HOI or regular).";
 				};
 				screenshot = "https://raw.githubusercontent.com/mjlagattuta/Glyphs-Scripts/master/Plugins/images/HOIViewer.png";
 			},
 			{
-				path = "Plugins/VizBet.glyphsReporter";
+				path = "Plugins/VizBez.glyphsReporter";
 				titles = {
 					en = "VizBez";
 				};
-				url = "https://github.com/mjlagattuta/Glyphs-Scripts/";
+				url = "https://github.com/mjlagattuta/Glyphs-Scripts";
 				descriptions = {
 					en = "*View > VizBez* converts polylines to nth-order bezier curves depending on the number of points and draws lines between them in increments of t. Useful for matching speed between orders of curvature (in a HOI setup) to create kink free interpolation.";
 				};
