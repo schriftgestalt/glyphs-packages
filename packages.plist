@@ -1692,9 +1692,9 @@
 		);
 		scripts = (
 			{
-				localPath = "Scripts mekkablue";
+				localPath = "mekkablue";
 				titles = {
-					en = "mekkablue";
+					en = "mekkablue Scripts";
 				};
 				url = "https://github.com/mekkablue/Glyphs-Scripts";
 				descriptions = {
@@ -1702,9 +1702,9 @@
 				};
 			},
 			{
-				localPath = "Scripts Tim Ahrens";
+				localPath = "Freemix";
 				titles = {
-					en = "JAF Freemix";
+					en = "JAF Freemix Scripts by Tim Ahrens";
 				};
 				url = "https://github.com/justanotherfoundry/freemix-glyphsapp";
 				descriptions = {
@@ -1712,9 +1712,9 @@
 				};
 			},
 			{
-				localPath = "Scripts Toshi Omagari";
+				localPath = "Toshi Omagari";
 				titles = {
-					en = "Toshi Omagari";
+					en = "Toshi Omagari’s Scripts";
 				};
 				url = "https://github.com/Tosche/Glyphs-Scripts";
 				descriptions = {
@@ -1722,9 +1722,9 @@
 				};
 			},
 			{
-				localPath = "Scripts Mark2Mark";
+				localPath = "Mark2Mark";
 				titles = {
-					en = "Mark2Mark";
+					en = "Mark Frömberg’s Scripts";
 				};
 				url = "https://github.com/Mark2Mark/Glyphsapp-Scripts-Free";
 				descriptions = {
@@ -1732,9 +1732,9 @@
 				};
 			},
 			{
-				localPath = "Scripts Huerta Tipografica Letterspacer";
+				localPath = "HT Letterspacer";
 				titles = {
-					en = "HT Letterspacer";
+					en = "Huerta Tipografica Letterspacer";
 				};
 				url = "https://huertatipografica.github.io/HTLetterspacer/";
 				descriptions = {
@@ -1742,9 +1742,9 @@
 				};
 			},
 			{
-				localPath = "Scripts Marc Foley";
+				localPath = "Marc Foley";
 				titles = {
-					en = "Marc Foley";
+					en = "Marc Foley’s Scripts";
 				};
 				url = "https://github.com/m4rc1e/mf-glyphs-scripts";
 				descriptions = {
@@ -1752,9 +1752,9 @@
 				};
 			},
 			{
-				localPath = "Scripts Wei Huang";
+				localPath = "Wei Huang";
 				titles = {
-					en = "Wei Huang";
+					en = "Wei Huang’s Scripts";
 				};
 				url = "https://github.com/weiweihuanghuang/wei-glyphs-scripts";
 				descriptions = {
@@ -1762,9 +1762,9 @@
 				};
 			},
 			{
-				localPath = "Scripts Simon Cozens";
+				localPath = "Simon Cozens";
 				titles = {
-					en = "Simon Cozens";
+					en = "Simon Cozens’ Scripts";
 				};
 				url = "https://github.com/simoncozens/GlyphsScripts";
 				descriptions = {
@@ -1772,9 +1772,9 @@
 				};
 			},
 			{
-				localPath = "Scripts Henrique Beier";
+				localPath = "Harbortype";
 				titles = {
-					en = "Harbortype";
+					en = "Harbortype Scripts by Henrique Beier";
 				};
 				url = "https://github.com/harbortype/glyphs-scripts";
 				descriptions = {
@@ -1782,9 +1782,9 @@
 				};
 			},
 			{
-				localPath = "Scripts Hagenburger Export and Install";
+				localPath = "Export and Install";
 				titles = {
-					en = "Export and Install";
+					en = "Export and Install Script by Nico Hagenburger";
 				};
 				url = "https://github.com/hagenburger/glyphs-export-and-install";
 				descriptions = {
@@ -1792,9 +1792,9 @@
 				};
 			},
 			{
-				localPath = "Scripts Daniel Gamage";
+				localPath = "Daniel Gamage";
 				titles = {
-					en = "Daniel Gamage";
+					en = "Daniel Gamage’s Scripts";
 				};
 				url = "https://github.com/danielgamage/Glyphs-Scripts";
 				descriptions = {
@@ -1802,9 +1802,9 @@
 				};
 			},
 			{
-				localPath = "Scripts Underscore";
+				localPath = "Underscore Type";
 				titles = {
-					en = "Underscore";
+					en = "Underscore Type Scripts by Johannes Neumeier";
 				};
 				url = "https://github.com/underscoretype/underscore-glyphs-scripts";
 				descriptions = {
@@ -1812,9 +1812,9 @@
 				};
 			},
 			{
-				localPath = "Scripts Ricard Garcia";
+				localPath = "Ricard Garcia";
 				titles = {
-					en = "Ricard Garcia";
+					en = "Ricard Garcia’s Scripts";
 				};
 				url = "https://github.com/Ricard-Garcia/Glyphs-Scripts";
 				descriptions = {
@@ -1822,9 +1822,9 @@
 				};
 			},
 			{
-				localPath = "Scripts Typerepublic";
+				localPath = "Typerepublic";
 				titles = {
-					en = "Typerepublic";
+					en = "Typerepublic Scripts by Ricard Garcia";
 				};
 				url = "https://github.com/Ricard-Garcia/TR-Glyphs-Scripts";
 				descriptions = {
@@ -1832,9 +1832,9 @@
 				};
 			},
 			{
-				localPath = "Scripts Jens Kutílek";
+				localPath = "Jens Kutílek";
 				titles = {
-					en = "Jens Kutílek";
+					en = "Jens Kutílek’s Scripts";
 				};
 				url = "https://github.com/jenskutilek/Glyphs-Scripts";
 				descriptions = {
@@ -1842,9 +1842,9 @@
 				};
 			},
 			{
-				localPath = "Scripts Marcin Dybaś";
+				localPath = "dyyybek";
 				titles = {
-					en = "dyyybek";
+					en = "Marcin Dybaś’ Scripts";
 				};
 				url = "https://github.com/dyyybek/Glyphs-Scripts";
 				descriptions = {
@@ -1852,29 +1852,19 @@
 				};
 			},
 			{
-				localPath = "Scripts Robert Pratley";
+				localPath = "Rob Pratley";
 				titles = {
-					en = "Robert Pratley";
+					en = "Robert Pratley’s Scripts";
 				};
 				url = "https://github.com/RobertPratley/Glyphs-Scripts";
 				descriptions = {
 					en = "Scripts by Robert Pratley.";
 				};
 			},
-			// {
-			// 	path = "Rafał Buchner";
-			// 	titles = {
-			// 		en = "Rafał Buchner";
-			// 	};
-			// 	url = "https://github.com/RafalBuchner/GlyphsApp-scripts";
-			// 	descriptions = {
-			// 		en = "Scripts by Rafał Buchner.";
-			// 	};
-			// },
 			{
-				localPath = "Scripts Yanone";
+				localPath = "Yanone";
 				titles = {
-					en = "Yanone";
+					en = "Yanone’s Scripts";
 				};
 				url = "https://github.com/yanone/Yanone-GlyphsApp-Scripts";
 				descriptions = {
@@ -1882,9 +1872,9 @@
 				};
 			},
 			{
-				localPath = "Scripts Filipe Negrão";
+				localPath = "Filipe Negrão";
 				titles = {
-					en = "Filipe Negrão";
+					en = "Filipe Negrão’s Scripts";
 				};
 				url = "https://github.com/filipenegrao/glyphsapp-scripts";
 				descriptions = {
@@ -1892,19 +1882,19 @@
 				};
 			},
 			{
-				localPath = "Scripts Guido Ferreyra";
+				localPath = "Guido Ferreyra";
 				titles = {
-					en = "Guido Ferreyra";
+					en = "Guido Ferreyra’s Scripts";
 				};
 				url = "https://github.com/guidoferreyra/Glyphs-Scripts";
 				descriptions = {
-					en = "Scripts by Argentinian type designer Guido Ferreyra.";
+					en = "Scripts by Argentinian font engineer Guido Ferreyra.";
 				};
 			},
 			{
-				localPath = "Scripts Mike LaGattuta";
+				localPath = "Mike LaGattuta";
 				titles = {
-					en = "Mike LaGattuta";
+					en = "Mike LaGattuta’s Scripts";
 				};
 				url = "https://github.com/mjlagattuta/Glyphs-Scripts";
 				descriptions = {
@@ -1912,19 +1902,19 @@
 				};
 			},
 			{
-				localPath = "Scripts Jeremy Tribby";
+				localPath = "Jeremy Tribby";
 				titles = {
-					en = "Jeremy Tribby";
+					en = "Jeremy Tribby’s Scripts";
 				};
 				url = "https://github.com/jpt/font-scripts/Glyphs";
 				descriptions = {
-					en = "Scripts by type designer Jeremy Tribby for Glyphs and the UFO ecosystem.";
+					en = "Scripts by type designer Jeremy Tribby (Tribby Type) for Glyphs and the UFO ecosystem.";
 				};
 			},
 			{
-				localPath = "Scripts Kyle Wayne Benson";
+				localPath = "Kyle Wayne Benson";
 				titles = {
-					en = "Kyle Wayne Benson";
+					en = "Kyle Wayne Benson’s Scripts";
 				};
 				url = "https://github.com/kylewaynebenson/Glyphs-Scripts";
 				descriptions = {
