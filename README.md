@@ -12,7 +12,7 @@ Separate multiple entries with commas. Best place to put it is right behind the 
 
 #### Required Fields
 
-- **name:** the file name of the plug-in in the repository, including the dot suffix. The name until the dot will be used as title in the Plugin Manager window, unless *titles* are explicitly set (see below).
+- **path:** the file path including the file name of the plug-in in the repository, including the dot suffix. The name until the dot will be used as title in the Plugin Manager window, unless *titles* are explicitly set (see below).
 - **url:** the URL to the repository. On GitHub, this will be `https://github.com/username/repositoryname`.
 - **descriptions:** a language-specific short text explaining the plug-in. It supports basic Markdown (`*italic* **bold** [text](https://link.url)`). *Attention:* Do not use linebreaks here, but keep the text on a single line. If you want a linebreak in your description, use `\n` instead. Differentiate between languages with one of these abbreviations:
 
@@ -56,6 +56,7 @@ descriptions = {
 - **minSystemVersion:** minimum macOS version, use dumb quotes for the value, e.g. `"10.11"`. Useful if you use a (Py)ObjC method that has been introduced or deprecated in a certain macOS version.
 - **maxSystemVersion:** maximum macOS version, use dumb quotes for the value, e.g. `"10.12"`. Useful if you use a (Py)ObjC method that has been introduced or deprecated in a certain macOS version.
 - **branch:** name of the branch in which Plugin Manager is supposed to look for the plug-in file. Default is `master`.
+- **localPath:** the relative path with which the repository will be saved in the *Repositories*  subfolder. Useful for alphabetically grouping repos for better management. We recommend to prefix Script repositories with `Scripts` so they sort together.
 
 #### Conventions
 
@@ -69,7 +70,7 @@ descriptions = {
 		titles = {
 			en = "Insert Inflections";
 		};
-		name = "Noodler.glyphsFilter";
+		path = "Noodler.glyphsFilter";
 		url = "https://github.com/mekkablue/Noodler";
 		descriptions = {
 			en = "*Filter > Noodler* turns monolines of all selected glyphs into noodles.";
@@ -82,7 +83,7 @@ descriptions = {
 			en = "Noodler (outdated version)";
 			de = "Nudler (veraltete Version)";
 		}
-		name = "Noodler_OLD.glyphsFilter";
+		path = "Noodler_OLD.glyphsFilter";
 		url = "https://github.com/mekkablue/Noodler";
 		descriptions = {
 			en = "This is an old version of Noodler. Consider updating Glyphs to use the latest version of the plug-in.";
