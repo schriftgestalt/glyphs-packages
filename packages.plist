@@ -2,6 +2,28 @@
 	packages = {
 		plugins = (
 			{
+				path = "Plugins/HOI Viewer.glyphsReporter";
+				titles = {
+					en = "HOI Viewer";
+				};
+				url = "https://github.com/mjlagattuta/Glyphs-Scripts/";
+				descriptions = {
+					en = "*View > HOI Viewer* is a kink-proofer useful for previewing designspaces. It is capable of previewing at a specific location in the designspace or along an entire axis (HOI or regular).";
+				};
+				screenshot = "https://raw.githubusercontent.com/mjlagattuta/Glyphs-Scripts/master/Plugins/images/HOIViewer.png";
+			},
+			{
+				path = "Plugins/VizBet.glyphsReporter";
+				titles = {
+					en = "VizBez";
+				};
+				url = "https://github.com/mjlagattuta/Glyphs-Scripts/";
+				descriptions = {
+					en = "*View > VizBez* converts polylines to nth-order bezier curves depending on the number of points and draws lines between them in increments of t. Useful for matching speed between orders of curvature (in a HOI setup) to create kink free interpolation.";
+				};
+				screenshot = "https://raw.githubusercontent.com/mjlagattuta/Glyphs-Scripts/master/Plugins/images/VizBez.png";
+			},
+			{
 				path = "MagicRemove.glyphsPalette";
 				titles = {
 					en = "Magic Remover";
@@ -1670,9 +1692,9 @@
 		);
 		scripts = (
 			{
-				localPath = "mekkablue";
+				localPath = "Scripts mekkablue";
 				titles = {
-					en = "mekkablue Scripts";
+					en = "mekkablue";
 				};
 				url = "https://github.com/mekkablue/Glyphs-Scripts";
 				descriptions = {
@@ -1680,9 +1702,9 @@
 				};
 			},
 			{
-				localPath = "Tim Ahrens";
+				localPath = "Scripts Tim Ahrens";
 				titles = {
-					en = "JAF Freemix Scripts";
+					en = "JAF Freemix";
 				};
 				url = "https://github.com/justanotherfoundry/freemix-glyphsapp";
 				descriptions = {
@@ -1690,9 +1712,9 @@
 				};
 			},
 			{
-				localPath = "Toshi Omagari";
+				localPath = "Scripts Toshi Omagari";
 				titles = {
-					en = "Tosche’s Scripts";
+					en = "Toshi Omagari";
 				};
 				url = "https://github.com/Tosche/Glyphs-Scripts";
 				descriptions = {
@@ -1700,9 +1722,9 @@
 				};
 			},
 			{
-				localPath = "Mark2Mark";
+				localPath = "Scripts Mark2Mark";
 				titles = {
-					en = "Mark2Mark Scripts";
+					en = "Mark2Mark";
 				};
 				url = "https://github.com/Mark2Mark/Glyphsapp-Scripts-Free";
 				descriptions = {
@@ -1710,7 +1732,7 @@
 				};
 			},
 			{
-				localPath = "Huerta Tipografica Letterspacer";
+				localPath = "Scripts Huerta Tipografica Letterspacer";
 				titles = {
 					en = "HT Letterspacer";
 				};
@@ -1720,9 +1742,9 @@
 				};
 			},
 			{
-				localPath = "Marc Foley";
+				localPath = "Scripts Marc Foley";
 				titles = {
-					en = "Marc Foley’s Scripts";
+					en = "Marc Foley";
 				};
 				url = "https://github.com/m4rc1e/mf-glyphs-scripts";
 				descriptions = {
@@ -1730,9 +1752,9 @@
 				};
 			},
 			{
-				localPath = "Wei Huang";
+				localPath = "Scripts Wei Huang";
 				titles = {
-					en = "Wei’s Scripts";
+					en = "Wei Huang";
 				};
 				url = "https://github.com/weiweihuanghuang/wei-glyphs-scripts";
 				descriptions = {
@@ -1740,9 +1762,9 @@
 				};
 			},
 			{
-				localPath = "Simon Cozens";
+				localPath = "Scripts Simon Cozens";
 				titles = {
-					en = "Simon Cozens’ Scripts";
+					en = "Simon Cozens";
 				};
 				url = "https://github.com/simoncozens/GlyphsScripts";
 				descriptions = {
@@ -1750,9 +1772,9 @@
 				};
 			},
 			{
-				localPath = "Henrique Beier";
+				localPath = "Scripts Henrique Beier";
 				titles = {
-					en = "Harbortype Scripts";
+					en = "Harbortype";
 				};
 				url = "https://github.com/harbortype/glyphs-scripts";
 				descriptions = {
@@ -1760,7 +1782,7 @@
 				};
 			},
 			{
-				localPath = "Nico Hagenburger";
+				localPath = "Script Export and Install by Nico Hagenburger";
 				titles = {
 					en = "Export and Install";
 				};
@@ -1770,9 +1792,9 @@
 				};
 			},
 			{
-				localPath = "Daniel Gamage";
+				localPath = "Scripts Daniel Gamage";
 				titles = {
-					en = "Daniel Gamage’s Scripts";
+					en = "Daniel Gamage";
 				};
 				url = "https://github.com/danielgamage/Glyphs-Scripts";
 				descriptions = {
@@ -1780,9 +1802,9 @@
 				};
 			},
 			{
-				localPath = "Johannes Neumeier";
+				localPath = "Scripts Underscore";
 				titles = {
-					en = "Underscore Scripts";
+					en = "Underscore";
 				};
 				url = "https://github.com/underscoretype/underscore-glyphs-scripts";
 				descriptions = {
@@ -1790,9 +1812,9 @@
 				};
 			},
 			{
-				localPath = "Ricard Garcia";
+				localPath = "Scripts Ricard Garcia";
 				titles = {
-					en = "Ricard Garcia’s Scripts";
+					en = "Ricard Garcia";
 				};
 				url = "https://github.com/Ricard-Garcia/Glyphs-Scripts";
 				descriptions = {
@@ -1800,9 +1822,9 @@
 				};
 			},
 			{
-				localPath = "Typerepublic";
+				localPath = "Scripts Typerepublic";
 				titles = {
-					en = "Typerepublic Scripts";
+					en = "Typerepublic";
 				};
 				url = "https://github.com/Ricard-Garcia/TR-Glyphs-Scripts";
 				descriptions = {
@@ -1810,9 +1832,9 @@
 				};
 			},
 			{
-				localPath = "Jens Kutílek";
+				localPath = "Scripts Jens Kutílek";
 				titles = {
-					en = "Jens Kutílek’s Scripts";
+					en = "Jens Kutílek";
 				};
 				url = "https://github.com/jenskutilek/Glyphs-Scripts";
 				descriptions = {
@@ -1820,9 +1842,9 @@
 				};
 			},
 			{
-				localPath = "Marcin Dybaś";
+				localPath = "Scripts Marcin Dybaś";
 				titles = {
-					en = "dyyybek Scripts";
+					en = "dyyybek";
 				};
 				url = "https://github.com/dyyybek/Glyphs-Scripts";
 				descriptions = {
@@ -1830,9 +1852,9 @@
 				};
 			},
 			{
-				localPath = "Robert Pratley";
+				localPath = "Scripts Robert Pratley";
 				titles = {
-					en = "Robert Pratley’s Scripts";
+					en = "Robert Pratley";
 				};
 				url = "https://github.com/RobertPratley/Glyphs-Scripts";
 				descriptions = {
@@ -1842,7 +1864,7 @@
 			// {
 			// 	path = "Rafał Buchner";
 			// 	titles = {
-			// 		en = "Rafał Buchner’s Scripts";
+			// 		en = "Rafał Buchner";
 			// 	};
 			// 	url = "https://github.com/RafalBuchner/GlyphsApp-scripts";
 			// 	descriptions = {
@@ -1850,9 +1872,9 @@
 			// 	};
 			// },
 			{
-				localPath = "Yanone";
+				localPath = "Scripts Yanone";
 				titles = {
-					en = "Yanone Scripts";
+					en = "Yanone";
 				};
 				url = "https://github.com/yanone/Yanone-GlyphsApp-Scripts";
 				descriptions = {
@@ -1860,9 +1882,9 @@
 				};
 			},
 			{
-				localPath = "Filipe Negrão";
+				localPath = "Scripts Filipe Negrão";
 				titles = {
-					en = "Filipe Negrão’s Scripts";
+					en = "Filipe Negrão";
 				};
 				url = "https://github.com/filipenegrao/glyphsapp-scripts";
 				descriptions = {
@@ -1870,15 +1892,46 @@
 				};
 			},
 			{
-				localPath = "Guido Ferreyra";
+				localPath = "Scripts Guido Ferreyra";
 				titles = {
-					en = "Guido Ferreyra’s Scripts";
+					en = "Guido Ferreyra";
 				};
 				url = "https://github.com/guidoferreyra/Glyphs-Scripts";
 				descriptions = {
 					en = "Scripts by Argentinian type designer Guido Ferreyra.";
 				};
 			},
+			{
+				localPath = "Scripts Mike LaGattuta";
+				titles = {
+					en = "Mike LaGattuta";
+				};
+				url = "https://github.com/mjlagattuta/Glyphs-Scripts";
+				descriptions = {
+					en = "Scripts by type designer Mike LaGattuta, including scripts for variable font production.";
+				};
+			},
+			{
+				localPath = "Scripts Jeremy Tribby";
+				titles = {
+					en = "Jeremy Tribby";
+				};
+				url = "https://github.com/jpt/font-scripts/Glyphs";
+				descriptions = {
+					en = "Scripts by type designer Jeremy Tribby for Glyphs and the UFO ecosystem.";
+				};
+			},
+			{
+				localPath = "Scripts Kyle Wayne Benson";
+				titles = {
+					en = "Kyle Wayne Benson";
+				};
+				url = "https://github.com/kylewaynebenson/Glyphs-Scripts";
+				descriptions = {
+					en = "Scripts by type designer Kyle Wayne Benson: ‘Python scripts I've created for use in Glyphs.app. I can give no promise that any of these work nor that they won't completely destroy your project so please use them with a good backup on your project.’\n* **Change Width Centered:** This is kind of like a multiplexer, only more boring. You plug in a width, and it can adjust the RSB and LSB of all masters of a selected character to get it to that width. I created this script because Glyphs default behavior is to just add the space to the RSB. But with tabular figures, CJK full width latin characters, or a multiplexed font you'll want to keep the spacing pretty similar to how it previously was.\n* **Average Width:** Adds up and averages the width of all the masters/layers for a selected glyph. I made it to help me figure out a good starting point width for tabular figures.\n* **Create Drop Shadow:** There are tools like this available through the Glyphs Plugin Manager. The main difference here is that mine is probably more shitty, and mine has the option to keep the letter, or just leave the shadow—which is handy if you want to create a font file of just shadows.\n* **Create Cast Shadow:** This creates a shadow as if the letter is a 3d object. You should probably not run this on more than 50 characters, as the process takes a little time.\n* **Create Sign Painter Drop Shadow:** This functions like Create Drop Shadow does, only it tries to blob things out a little bit, like it was painted instead of digitally generated. Definitely finagle with the settings before you give up on it. It requires fine tuning in order to perform.\n* **Simplify Shape:** This script reduces nodes at a ratio of your choosing. Best when used on grungy, messy, thousand+ node vectors.\n* **Randomly Move Points:** Jumbles the points within a certain specified amount. Lets you choose to only have OCP get jumbled. This is really only useful for making ugly things on purpose.\n* **Delete Largest Path/Keep Largest Path/Delete Smallest Path:** I made these to delete some of the accidental shapes that were left after running Create Cast Shadow or other path manipulating scripts.\n* **Count on Curve Points:** This counts all on curve points for each master or layer of a selected glyph. Made to help figure out interpolation issues on complex drawings.";
+				};
+			},
+			
 		);
 		modules = (
 			{
