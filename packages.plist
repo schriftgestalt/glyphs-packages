@@ -69,7 +69,7 @@
 				titles = {
 					en = "Global Glyph";
 				};
-				url = "https://github.com/Nevu/Show-Global-Glyph";
+				url = "https://github.com/mekkablue/Show-Global-Glyph"; // WAIT FOR https://github.com/Nevu/Show-Global-Glyph/pull/11
 				descriptions = {
 					en = "*View > Show Global Glyph* displays the glyph named `_global` in the background of other glyphs. This can give an alternative to global guidelines. See GitHub for some craft tips";
 				};
