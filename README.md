@@ -13,7 +13,7 @@ Separate multiple entries with commas. Best place to put it is right behind the 
 #### Required Fields
 
 - **path:** the file path including the file name of the plug-in in the repository, including the dot suffix. The name until the dot will be used as title in the Plugin Manager window, unless *titles* are explicitly set (see below).
-- **url:** the URL to the repository. On GitHub, this will be `https://github.com/username/repositoryname`.
+- **url:** the URL of the repository. On GitHub, this will be `https://github.com/username/repositoryname`. *Attention:* no trailing slash.
 - **descriptions:** a language-specific short text explaining the plug-in. It supports basic Markdown (`*italic* **bold** [text](https://link.url)`). *Attention:* Do not use linebreaks here, but keep the text on a single line. If you want a linebreak in your description, use `\n` instead. Differentiate between languages with one of these abbreviations:
 
   * `cs`: Czech

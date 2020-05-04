@@ -1570,7 +1570,7 @@
 				titles = {
 					en = "SuperTool";
 				};
-				url = "https://github.com/simoncozens/SuperTool/";
+				url = "https://github.com/simoncozens/SuperTool";
 				descriptions = {
 					en = "Multitool providing curvature visualization, curve harmonization, Tunni line manipulation, path simplification, digital callipers and more";
 				};
@@ -1585,7 +1585,7 @@
 					fr = "Afficher ancres avec mêmes coordonnées";
 					pt = "Mostrar âncoras com as mesmas coordenadas";
 				};
-				url = "https://github.com/mekkablue/ShowAnchorsWithDuplicateCoordinates/";
+				url = "https://github.com/mekkablue/ShowAnchorsWithDuplicateCoordinates";
 				descriptions = {
 					en = "*View > Show Anchors with Duplicate Coordinates* (de: *Anker mit selben Koordinaten anzeigen*, es: *Mostrar anclas con mismas coordenadas*, fr: *Afficher ancres avec mêmes coordonnées*, pt: *Mostrar âncoras com as mesmas coordenadas*) highlights ‘overlapping’ anchors (2+ anchors with the same coordinates).";
 				};
@@ -1736,7 +1736,7 @@
 				titles = {
 					en = "Huerta Tipografica Letterspacer";
 				};
-				url = "https://huertatipografica.github.io/HTLetterspacer/";
+				url = "https://huertatipografica.github.io/HTLetterspacer";
 				descriptions = {
 					en = "HT Letterspacer is a revolutionary tool for spacing fonts from Huerta Tipografica, written and maintained by Andrés Torresi.";
 				};
