@@ -1692,7 +1692,7 @@
 		);
 		scripts = (
 			{
-				localPath = "mekkablue";
+				installName = "mekkablue";
 				titles = {
 					en = "mekkablue Scripts";
 				};
@@ -1702,7 +1702,7 @@
 				};
 			},
 			{
-				localPath = "Freemix";
+				installName = "Freemix";
 				titles = {
 					en = "JAF Freemix Scripts by Tim Ahrens";
 				};
@@ -1712,7 +1712,7 @@
 				};
 			},
 			{
-				localPath = "Toshi Omagari";
+				installName = "Toshi Omagari";
 				titles = {
 					en = "Toshi Omagari’s Scripts";
 				};
@@ -1722,7 +1722,7 @@
 				};
 			},
 			{
-				localPath = "Mark2Mark";
+				installName = "Mark2Mark";
 				titles = {
 					en = "Mark Frömberg’s Scripts";
 				};
@@ -1732,7 +1732,7 @@
 				};
 			},
 			{
-				localPath = "HT Letterspacer";
+				installName = "HT Letterspacer";
 				titles = {
 					en = "Huerta Tipografica Letterspacer";
 				};
@@ -1742,7 +1742,7 @@
 				};
 			},
 			{
-				localPath = "Marc Foley";
+				installName = "Marc Foley";
 				titles = {
 					en = "Marc Foley’s Scripts";
 				};
@@ -1752,7 +1752,7 @@
 				};
 			},
 			{
-				localPath = "Wei Huang";
+				installName = "Wei Huang";
 				titles = {
 					en = "Wei Huang’s Scripts";
 				};
@@ -1762,7 +1762,7 @@
 				};
 			},
 			{
-				localPath = "Simon Cozens";
+				installName = "Simon Cozens";
 				titles = {
 					en = "Simon Cozens’ Scripts";
 				};
@@ -1772,7 +1772,7 @@
 				};
 			},
 			{
-				localPath = "Harbortype";
+				installName = "Harbortype";
 				titles = {
 					en = "Harbortype Scripts by Henrique Beier";
 				};
@@ -1782,7 +1782,7 @@
 				};
 			},
 			{
-				localPath = "Export and Install";
+				installName = "Export and Install";
 				titles = {
 					en = "Export and Install Script by Nico Hagenburger";
 				};
@@ -1792,7 +1792,7 @@
 				};
 			},
 			{
-				localPath = "Daniel Gamage";
+				installName = "Daniel Gamage";
 				titles = {
 					en = "Daniel Gamage’s Scripts";
 				};
@@ -1802,7 +1802,7 @@
 				};
 			},
 			{
-				localPath = "Underscore Type";
+				installName = "Underscore Type";
 				titles = {
 					en = "Underscore Type Scripts by Johannes Neumeier";
 				};
@@ -1812,7 +1812,7 @@
 				};
 			},
 			{
-				localPath = "Ricard Garcia";
+				installName = "Ricard Garcia";
 				titles = {
 					en = "Ricard Garcia’s Scripts";
 				};
@@ -1822,7 +1822,7 @@
 				};
 			},
 			{
-				localPath = "Typerepublic";
+				installName = "Typerepublic";
 				titles = {
 					en = "Typerepublic Scripts by Ricard Garcia";
 				};
@@ -1832,7 +1832,7 @@
 				};
 			},
 			{
-				localPath = "Jens Kutílek";
+				installName = "Jens Kutílek";
 				titles = {
 					en = "Jens Kutílek’s Scripts";
 				};
@@ -1842,7 +1842,7 @@
 				};
 			},
 			{
-				localPath = "dyyybek";
+				installName = "dyyybek";
 				titles = {
 					en = "Marcin Dybaś’ Scripts";
 				};
@@ -1852,7 +1852,7 @@
 				};
 			},
 			{
-				localPath = "Rob Pratley";
+				installName = "Rob Pratley";
 				titles = {
 					en = "Robert Pratley’s Scripts";
 				};
@@ -1862,7 +1862,7 @@
 				};
 			},
 			{
-				localPath = "Yanone";
+				installName = "Yanone";
 				titles = {
 					en = "Yanone’s Scripts";
 				};
@@ -1872,7 +1872,7 @@
 				};
 			},
 			{
-				localPath = "Filipe Negrão";
+				installName = "Filipe Negrão";
 				titles = {
 					en = "Filipe Negrão’s Scripts";
 				};
@@ -1882,7 +1882,7 @@
 				};
 			},
 			{
-				localPath = "Guido Ferreyra";
+				installName = "Guido Ferreyra";
 				titles = {
 					en = "Guido Ferreyra’s Scripts";
 				};
@@ -1892,7 +1892,7 @@
 				};
 			},
 			{
-				localPath = "Mike LaGattuta";
+				installName = "Mike LaGattuta";
 				titles = {
 					en = "Mike LaGattuta’s Scripts";
 				};
@@ -1902,7 +1902,7 @@
 				};
 			},
 			{
-				localPath = "Jeremy Tribby";
+				installName = "Jeremy Tribby";
 				titles = {
 					en = "Jeremy Tribby’s Scripts";
 				};
@@ -1912,7 +1912,7 @@
 				};
 			},
 			{
-				localPath = "Kyle Wayne Benson";
+				installName = "Kyle Wayne Benson";
 				titles = {
 					en = "Kyle Wayne Benson’s Scripts";
 				};
