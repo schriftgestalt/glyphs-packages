@@ -909,6 +909,7 @@
 				descriptions = {
 					en = "Take control of spacing values across your masters and instances.";
 				};
+				branch = "glyphs3";
 				screenshot = "https://raw.githubusercontent.com/yanone/spacebar/master/spacebarglyphs.jpg";
 			},
 			{
@@ -1408,7 +1409,7 @@
 				};
 				url = "https://github.com/mekkablue/KerningValues";
 				descriptions = {
-					en = "*View > Show Kerning Values* (de: *Kerning-Werte anzeigen,* es: *Mostrar valores de Kerning,* fr: *Afficher valeurs de crénage*) shows the kerning values above the typed text in Edit view.\nCustomize the offset (default 150) by running this line in Macro Window: `Glyphs.defaults['com.mekkablue.KernIndicator.offset'] = 100` (instead of 100, type your intended value, of course).";
+					en = "*View > Show Kerning Values* (de: *Kerning-Werte anzeigen,* es: *Mostrar valores de Kerning,* fr: *Afficher valeurs de crénage*) shows the kerning values just below the ascender height in Edit view.\nCustomize the offset in relation to the ascender (default -50) by running this line in Macro Window: `Glyphs.defaults['com.mekkablue.KernIndicator.offset'] = 100` (instead of 100, type your intended value, of course).";
 				};
 				screenshot = "https://raw.githubusercontent.com/mekkablue/KerningValues/master/KerningIndicators.png";
 			},
