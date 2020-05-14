@@ -1928,6 +1928,15 @@
 		modules = (
 			{
 				titles = {
+					en = "Python";
+				};
+				url = "https://github.com/schriftgestalt/GlyphsPythonPlugin";
+				descriptions = {
+					en = "The Python 3 runtime packaged for Glyphs.";
+				};
+			},
+			{
+				titles = {
 					en = "Vanilla";
 				};
 				path = "Lib/vanilla";
