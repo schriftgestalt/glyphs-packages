@@ -1722,6 +1722,13 @@
 				url = "https://github.com/nanife/SimplePreview_Glyphs";
 				description = "*Simple Preview* lets you preview texts which is in editing window. You can control text size and text directions in this preview plugin.\n *간단미리보기*는 편집창에서 편집 중인 텍스트들을 미리보기하는 플러그인으로, 글립스의 자체 미리보기에서 가로모드만 지원되는 단점을 보완하기 위해, 세로쓰기 및 가로쓰기 모드를 지원합니다.\n **requirements** : `Vanilla` module - you can install via Glyphs Preferences > Addons > Modules \n **사용 환경** : Vanilla 모듈 - 글립스의 환경설정 > 애드온 > 모듈 에서 '모듈 설치'를 통해 설치 가능.\n ";
 				screenshot = "https://raw.githubusercontent.com/nanife/SimplePreview_Glyphs/master/simplePreview_demo.png";
+			},
+			{
+				name = "ItalicExtremes.glyphsPalette";
+				title = "Italic Extremes";
+				url = "https://github.com/joachimvu/ItalicExtremes";
+				description = "*Italic Extremes* lets you add nodes on specified angles, optionally remove horizontal/vertical extremes and other way around. Supports multiple angles, and can be applied on selected glyphs in Text mode, a full glyph in Edit mode or a manual selection of segments.";
+				screenshot = "https://github.com/joachimvu/ItalicExtremes/blob/master/ItalicExtremes.png";
 			}
 		);
 		scripts = (
