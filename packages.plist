@@ -942,9 +942,9 @@
 			{
 				name = "ItalicExtremes.glyphsFilter";
 				title = "Italic Extremes";
-				url = "https://raw.githubusercontent.com/joachimvu/ItalicExtremes/master/ItalicExtremes.png";
+				url = "https://github.com/joachimvu/ItalicExtremes";
 				description = "*Italic Extremes* lets you add nodes on specified angles, and optionally remove horizontal/vertical extremes and other way around. Supports multiple angles, can be used on selected nodes/segments only, and available as a Custom Parameter for use on export.";
-				screenshot = "https://github.com/joachimvu/ItalicExtremes/blob/master/ItalicExtremes.png";
+				screenshot = "https://raw.githubusercontent.com/joachimvu/ItalicExtremes/master/ItalicExtremes.png";
 			}
 		);
 	};
