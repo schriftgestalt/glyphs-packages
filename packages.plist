@@ -2,6 +2,17 @@
 	packages = {
 		plugins = (
 			{
+				path = "ItalicExtremes.glyphsFilter";
+				titles = {
+					en = "Italic Extremes";
+				};
+				url = "https://github.com/joachimvu/ItalicExtremes";
+				descriptions = {
+					en = "*Filter > Italic Extreme* adds points on a specified angle. The default angle is the italic angle from the selected master when launching the plugin. Multiple angles can be entered separated by commas, and will be processed successively. The checkboxes allow to optionally delete V/H extremes or slanted curve nodes that match the specified angles, effectively switching an outline between V/H and Italic extremes. Keep in mind that not all curves can be replicated exactly with a different point placement. Glyphs’ algorithm to keep a shape when removing nodes works well, but is not magic.";
+				};
+				screenshot = "https://raw.githubusercontent.com/joachimvu/ItalicExtremes/master/ItalicExtremes.png";
+			},
+			{
 				path = "Plugins/HOI Viewer.glyphsReporter";
 				titles = {
 					en = "HOI Viewer";
