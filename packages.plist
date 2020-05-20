@@ -1724,11 +1724,11 @@
 				screenshot = "https://raw.githubusercontent.com/nanife/SimplePreview_Glyphs/master/simplePreview_demo.png";
 			},
 			{
-				name = "ItalicExtremes.glyphsPalette";
+				name = "ItalicExtremes.glyphsFilter";
 				title = "Italic Extremes";
 				url = "https://github.com/joachimvu/ItalicExtremes";
-				description = "*Italic Extremes* lets you add nodes on specified angles, optionally remove horizontal/vertical extremes and other way around. Supports multiple angles, and can be applied on selected glyphs in Text mode, a full glyph in Edit mode or a manual selection of segments.";
-				screenshot = "https://github.com/joachimvu/ItalicExtremes/blob/master/ItalicExtremes.png";
+				description = "*Italic Extremes* lets you add nodes on specified angles, and optionally remove horizontal/vertical extremes and other way around. Supports multiple angles, can be used on selected nodes/segments only, and available as a Custom Parameter for use on export.";
+				screenshot = "https://raw.githubusercontent.com/joachimvu/ItalicExtremes/master/ItalicExtremes.png";
 			}
 		);
 		scripts = (
