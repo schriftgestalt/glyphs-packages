@@ -945,6 +945,27 @@
 				url = "https://github.com/joachimvu/ItalicExtremes";
 				description = "*Italic Extremes* lets you add nodes on specified angles, and optionally remove horizontal/vertical extremes and other way around. Supports multiple angles, can be used on selected nodes/segments only, and available as a Custom Parameter for use on export.";
 				screenshot = "https://raw.githubusercontent.com/joachimvu/ItalicExtremes/master/ItalicExtremes.png";
+			},
+			{
+				name = "LT-Toolkit-Manager.glyphsPlugin";
+				title = "Leedotype Toolkit Manager";
+				url = "https://github.com/hwoongkang/LT-Toolkit-Manager";
+				description = "*LT-Toolkit-Manager* lets you use your other Leedotype plugins. *LT > Login* to log in in the Glyphs app. Visit Github repository or send email to hyunwoong.kang@leedotype.com for more information.";
+				screenshot = "https://raw.githubusercontent.com/hwoongkang/LT-Toolkit-Manager/master/images/login.png";
+			},
+			{
+				name = "LT-Hangul-Combination.glyphsPalette";
+				title = "Leedotype Hangul Combination";
+				url = "https://github.com/hwoongkang/LT-Hangul-Combination";
+				description = "*LT-Hangul-Combination* lets you choose Hangul glyphs in a more systematic way.";
+				screenshot = "https://raw.githubusercontent.com/hwoongkang/LT-Hangul-Combination/master/images/usage.png";
+			},
+			{
+				name= "LT-Component-Manager.glyphsPlugin";
+				title = "Leedotype Component Manager";
+				url = "https://github.com/hwoongkang/LT-Component-Manager";
+				description = "*LT > LT Component Manager* lets you manage your smart components in a more efficient way.";
+				screenshot = "https://raw.githubusercontent.com/hwoongkang/LT-Component-Manager/master/images/modify-options.png";
 			}
 		);
 	};
