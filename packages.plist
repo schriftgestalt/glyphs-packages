@@ -945,6 +945,13 @@
 				url = "https://github.com/joachimvu/ItalicExtremes";
 				description = "*Italic Extremes* lets you add nodes on specified angles, and optionally remove horizontal/vertical extremes and other way around. Supports multiple angles, can be used on selected nodes/segments only, and available as a Custom Parameter for use on export.";
 				screenshot = "https://raw.githubusercontent.com/joachimvu/ItalicExtremes/master/ItalicExtremes.png";
+			},
+			{
+				name = "Backdrop.glyphsReporter";
+				title = "Backdrop";
+				url = "https://github.com/hejpaul/glyphs-backdrop";
+				description = "*View > Show Backdrop* displays similar glyphs in the background. This makes it easier to keep your glyphs consistent.";
+				screenshot = "https://raw.githubusercontent.com/hejpaul/glyphs-backdrop/master/images/screenshot.png";
 			}
 		);
 	};
