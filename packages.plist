@@ -1104,12 +1104,12 @@
 					de = 'Umranden';
 					fr = 'Déborder';
 					es = 'Contornear';
-					pt = 'Afiação';
+					pt = 'Contornar';
 					zh = '🌈轮廓描边';
 				};
 				url = "https://github.com/mekkablue/Rimmer";
 				descriptions = {
-					en = "*Filter > Rimmer* (de: *Umranden,* fr: *Déborder,* es: *Contornear,* pt: *Afiação,* zh: 🌈轮廓描边) adds rims around your glyphs.";
+					en = "*Filter > Rimmer* (de: *Umranden,* fr: *Déborder,* es: *Contornear,* pt: *Contornar,* zh: 🌈轮廓描边) adds rims around your glyphs.";
 				};
 				screenshot = "https://raw.githubusercontent.com/mekkablue/Rimmer/master/Rimmer.png";
 			},
