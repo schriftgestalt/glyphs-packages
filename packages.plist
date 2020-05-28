@@ -1749,7 +1749,7 @@
 				titles = {
 					en = "Huerta Tipografica Letterspacer";
 				};
-				url = "https://huertatipografica.github.io/HTLetterspacer";
+				url = "https://github.com/huertatipografica/HTLetterspacer";
 				descriptions = {
 					en = "HT Letterspacer is a revolutionary tool for spacing fonts from Huerta Tipografica, written and maintained by Andrés Torresi.";
 				};
