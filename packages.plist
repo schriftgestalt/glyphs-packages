@@ -140,6 +140,7 @@
 				descriptions = {
 					en = "*View > Show Smart Plumblines* (de: *Intelligente Lotschnur anzeigen,* fr: *Afficher lignes intelligentes de construction,* es: *Mostrar líneas inteligentes de construcción*) displays **live guidelines** at the center of each paths’ (red) and components’ (grey) bounding box.\nIf you select anything, it also displays the center of that selection (blue dashed).\nOne major feature is that the guidelines **automatically match your italic angle**.\nThis is useful for aligning objects by sight. As well as:\n\n- Align multiple paths and/or components\n- Setting up horizontal positions of anchors\n- Editing segments while easily keeping italic angle, etc.";
 				};
+				donationURL = "https://ko-fi.com/M4M580HG";
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Glyphsapp-Plugins/Screenshots/Screenshots/SmartPlumblines/SmPlL%2012.png?raw=true";
 			},
 			{
@@ -154,6 +155,7 @@
 				descriptions = {
 					en = "*View > Show Distance & Angle* (de: *Abstand & Winkel anzeigen,* fr: *Afficher distance & angle,* es: *Mostrar distancia & angulo*) shows the distance and angle of 2 selected elements. Those can be nodes, but also components or anchors and they don’t have to be of the same kind.";
 				};
+				donationURL = "https://ko-fi.com/M4M580HG";
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Show-Distance-And-Angle-Of-Nodes/master/Images/Distance_And_Angle_01.png?raw=true";
 			},
 			{
@@ -443,6 +445,7 @@
 				descriptions = {
 					en = "*View > Show Rotated* Superimposes the current glyph as a rotated copy of itself. Context Menu slider to adjust the rotation angle.";
 				};
+				donationURL = "https://ko-fi.com/M4M580HG";
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Glyphsapp-Plugins/Screenshots/ShowRotated/Screenshots/ShowRotated03_Mark-Froemberg.gif";
 			},
 			{
@@ -454,6 +457,7 @@
 				descriptions = {
 					en = "*View > Show Siblings* Superimposes a group of predefined glyphs in the background of your letters. This can be both pretty helpful in the beginning of a design as well as at intermediate progress where quick proof overview is needed. The degree of a desired match depends on each design, of course. Current Scripts: Latin, Greek, Cyrillic and »Twins« (glyph alternates like  *g.ss01* or  *g.alt.*";
 				};
+				donationURL = "https://ko-fi.com/M4M580HG";
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Glyphsapp-Plugins/Screenshots/ShowSiblings/Screenshots/screencapDemoFont.gif";
 			},
 			{
@@ -468,6 +472,7 @@
 				descriptions = {
 					en = "*View > Sync Tabs* (de: *Tabs synchron halten,* fr: *Synchroniser les onglets,* es: *Sincronizar pestañas*) keeps the current tabs of all open fonts in sync with the currently active tab. In **realtime!**";
 				};
+				donationURL = "https://ko-fi.com/M4M580HG";
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Synced-Tabs/master/Images/SyncedTabs_Gintronic_MarkFroemberg_still.png";
 			},
 			{
@@ -482,6 +487,7 @@
 				descriptions = {
 					en = "*View > Show Blindfold* (de: *Blenden anzeigen,* fr: *Afficher bandeaux,* es: *Mostrar vendas*) blackens out everything beyond the xHeight (or Cap-Height --> option in context menu). Useful for Spacing and Kerning because the visible leftover is what matters the most here.";
 				};
+				donationURL = "https://ko-fi.com/M4M580HG";
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Glyphsapp-Plugins/11561cf20d110e314943e6294edf47defbdb73bc/Screenshots/UncoverXHeight/UcXh%2001.png?raw=true";
 			},
 			{
@@ -505,6 +511,7 @@
 				descriptions = {
 					en = "*Window > Arrange Windows* does just what it says.\n**Options:**\n*Arrange Windows & Macro Panel* [Option Key].\n*Arrange Windows On Screens* [Shift Key] if 2 Fonts and 2 Screens are present.";
 				};
+				donationURL = "https://ko-fi.com/M4M580HG";
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/ArrangeWindows/master/ArrangeWindows.gif";
 			},
 			{
@@ -516,6 +523,7 @@
 				descriptions = {
 					en = "Let your fonts shine in all glory to present them and save as image in seconds.\nUnlock tons of more features in the [Pro Version](https://markfromberg.com/projects/presenter/) ";
 				};
+				donationURL = "https://ko-fi.com/M4M580HG";
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Presenter-Free/master/images/Presenter-000-markFromberg.png";
 			},
 			{
@@ -530,6 +538,7 @@
 				descriptions = {
 					en = "*View > Show Label Color* (de: *Etikettenfarbe anzeigen,* fr: *Afficher couleur d’etiquette,* es: *Mostrar color de etiqueta*) displays each glyphs’s Label Color in the edit tab. Full width or left: glyph color, right: layer color.";
 				};
+				donationURL = "https://ko-fi.com/M4M580HG";
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Show-Label-Color/d054d4d05d6f16b2be49f055f2b06b27725b81c8/Screenshots/Show%20Label%20Color%2001.png?raw=true";
 			},
 			{
@@ -541,6 +550,7 @@
 				descriptions = {
 					en = "Adds a menu to the Palette, which gives you instant access to all your reporter plugins. Quick’n’easy on/off switching with just a single click.";
 				};
+				donationURL = "https://ko-fi.com/M4M580HG";
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Reporter-Toggler/master/Images/ReporterToggler%2002.png";
 			},
 			{
@@ -552,6 +562,7 @@
 				descriptions = {
 					en = "*View > Show Kerning Groups* displays all members of the currently active glyph’s kerning group to either side in miniature and realtime. Useful when setting up kerning groups and getting visual feedback right away. If you see elements sticking out of the right group, you know there might be a group member set wrong. Same for the left side. It is somehow related to the built-in feature \"Show Group Members\" by Georg Seifert, but this one does not need the caret to sit between a certain pair.";
 				};
+				donationURL = "https://ko-fi.com/M4M580HG";
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Show-Kerning-Group-Reference/12fd9ffaa0447f742dabce60a407ece582e1d6b2/Screenshots/KGR%2001.png?raw=true";
 			},
 			{
@@ -563,6 +574,7 @@
 				descriptions = {
 					en = "*View > Show Next Font* shows in a light orange colour the same glyph of another opened font. It could be useful for visual comparison of italics with normal styles,or different versions of the same font.";
 				};
+				donationURL = "https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=NXQFEWCXXJABE&lc=US";
 				screenshot = "https://raw.githubusercontent.com/guidoferreyra/ShowNextFont/master/screen-nextfont.png";
 			},
 			{
@@ -574,6 +586,7 @@
 				descriptions = {
 					en = "*View > Show Anchors Compatibility* is a complementary tool for Show Masters compatibility for those cases where the masters are not compatible because the absence of wrong naming of an anchor. The plugin displays a red circle behind the anchor that is not present in all masters.";
 				};
+				donationURL = "https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=NXQFEWCXXJABE&lc=US";
 				screenshot = "https://raw.githubusercontent.com/guidoferreyra/ShowAnchorsCompatibility/master/screen-anchorscompat.png";
 			},
 			{
@@ -596,6 +609,7 @@
 				descriptions = {
 					en = "*View > Show Coordinates* is similar to the Measurement tool, but it constantly displays the node coordinates and the handles' delta values.";
 				};
+				donationURL = "https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=NXQFEWCXXJABE&lc=US";
 				screenshot = "https://raw.githubusercontent.com/guidoferreyra/showCoordinates/master/screen-coordinates.png";
 			},
 			{
@@ -618,6 +632,7 @@
 				descriptions = {
 					en = "*View > Show Stems* (de: *Stämme anzeigen,* fr: *Afficher les traits,* es: *Mostrar astas*) shows a measurement line (even in edit mode) with all distances between the outlines. If any distance matches the saved metrics in the Glyphs Palette, it will highlight in green and tell you which one it matches. The vertical position is attached to the Glyphsapp measurement line and can be moved around the same way.\nShortcut: Cmd-Opt-Ctrl-S (like **S**tems)";
 				};
+				donationURL = "https://ko-fi.com/M4M580HG";
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Show-Stems/master/Images/Show%20Stems%2003.png";
 			},
 			{
@@ -839,6 +854,7 @@
 				descriptions = {
 					en = "*View > Show Next Font Components* shows in a light orange colour the list of components used in the glyph of the next font and in gray colour the list of current font components. If anchors names and quantity matches between fonts it display the word \"OK\" in green.";
 				};
+				donationURL = "https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=NXQFEWCXXJABE&lc=US";
 				screenshot = "https://raw.githubusercontent.com/guidoferreyra/ShowNextFontComponents/master/screen-nextfontcomponents.png";
 			},
 			{
@@ -854,6 +870,7 @@
 				descriptions = {
 					en = "*Filter > Obfuscator* (de: *Verschleiern,* es: *Ofuscar,* fr: *Brouiller,* pt: *Ofuscar*) replaces glyphs for another one in the font. Useful for replacing glyphs in the demo versions of a font. See full readme on [the repository page](https://github.com/guidoferreyra/Obfuscator) for more info on how to use it.";
 				};
+				donationURL = "https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=NXQFEWCXXJABE&lc=US";
 				screenshot = "https://raw.githubusercontent.com/guidoferreyra/Obfuscator/master/screen-obfuscator.png";
 			},
 			{
@@ -1057,6 +1074,7 @@
 				descriptions = {
 					en = "*Window > Skedge* is a live python sketcher for Glyphsapp.";
 				};
+				donationURL = "https://ko-fi.com/M4M580HG";
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Skedge/master/Images/Skedge%2003.gif";
 			},
 			{
@@ -1065,6 +1083,7 @@
 				descriptions = {
 					en = "*View > Show Stem Rhythm* Displays a dynamic stem pattern. Useful for SEA scripts. Italic angle is not respected in this free version.\nMore info here:";
 				};
+				donationURL = "https://ko-fi.com/M4M580HG";
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/show-stem-rhythm/master/Stem%20Rhythm%20-%20Mark%20Fromberg%2001.png";
 			},
 			{
@@ -1330,6 +1349,7 @@
 				descriptions = {
 					en = "*View > Show Components Compatibility* displays in a list the names of the components used in the current layer if a component is missing in other master it uses red color on the component name label.";
 				};
+				donationURL = "https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=NXQFEWCXXJABE&lc=US";
 				screenshot = "https://raw.githubusercontent.com/guidoferreyra/ShowComponentsCompatibility/master/screen-componentesCompat.png";
 			},
 			{
@@ -1974,6 +1994,7 @@
 				descriptions = {
 					en = "Scripts by Argentinian font engineer Guido Ferreyra.";
 				};
+				donationURL = "https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=NXQFEWCXXJABE&lc=US";
 			},
 			{
 				installName = "Mike LaGattuta";
