@@ -1750,7 +1750,14 @@
 				url = "https://github.com/hwoongkang/LT-Component-Manager";
 				description = "*Edit > Leedotype Plugins > LT Component Manager* provides you a more efficient way to modify your smart component axes values. Note that *LT-Toolkit-Manager* is needed to use this plugin.";
 				screenshot = "https://raw.githubusercontent.com/hwoongkang/LT-Component-Manager/master/images/modify-options.png";
-			}
+			},
+			{
+				name = "Backdrop.glyphsReporter";
+				title = "Backdrop";
+				url = "https://github.com/hejpaul/glyphs-backdrop";
+				description = "*View > Show Backdrop* displays similar glyphs in the background. This makes it easier to keep your glyphs consistent.";
+				screenshot = "https://raw.githubusercontent.com/hejpaul/glyphs-backdrop/master/images/screenshot.png";
+			},
 		);
 		scripts = (
 			{
