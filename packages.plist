@@ -988,8 +988,7 @@
 					en = "*Edit > Sync Layer Selections* keeps point, component and anchor selections in sync between all compatible layers of the same glyph.";
 				};
 				screenshot = "https://github.com/mekkablue/SyncSelection/raw/master/SyncSelectionScreenshot.png";
-				minVersion = 920;
-				maxGlyphsVersion = "2.99";
+				minVersion = 3002;
 			},
 			{
 				path = "LabelKey.glyphsPalette";
