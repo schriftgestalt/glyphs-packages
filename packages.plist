@@ -1731,15 +1731,6 @@
 				screenshot = "https://raw.githubusercontent.com/luke-snider/GlyphGiffer-for-GlyphsApp/master/GlyphGiffer_screen1_GApp.png";
 			},
 			{
-				path = "MagicRemove.glyphsPalette";
-				titles = {
-					en = "Magic Remover";
-				};
-				url = "https://github.com/mekkablue/MagicRemove";
-				description = "Magic Remover (de: *Magic-Löscher,* es: *Borrador magico,* fr: *Gomme magique,* pt: *Apagador mágico*) is a button in the right-hand side palette that enables multiple-master deletion of selected nodes, anchors and components. Deleting (any number of) nodes will try to keep the shape, similar to what happens when you individually delete nodes.";
-				screenshot = "https://raw.githubusercontent.com/mekkablue/MagicRemove/master/MagicRemove.png";
-			},
-			{
 				path = "SimplePreview.glyphsPlugin";
 				titles = {
 					en = "SimplePreview";
@@ -1747,15 +1738,6 @@
 				url = "https://github.com/nanife/SimplePreview_Glyphs";
 				description = "*Simple Preview* lets you preview texts which is in editing window. You can control text size and text directions in this preview plugin.\n *간단미리보기*는 편집창에서 편집 중인 텍스트들을 미리보기하는 플러그인으로, 글립스의 자체 미리보기에서 가로모드만 지원되는 단점을 보완하기 위해, 세로쓰기 및 가로쓰기 모드를 지원합니다.\n **requirements** : `Vanilla` module - you can install via Glyphs Preferences > Addons > Modules \n **사용 환경** : Vanilla 모듈 - 글립스의 환경설정 > 애드온 > 모듈 에서 '모듈 설치'를 통해 설치 가능.\n ";
 				screenshot = "https://raw.githubusercontent.com/nanife/SimplePreview_Glyphs/master/simplePreview_demo.png";
-			},
-			{
-				path = "ItalicExtremes.glyphsFilter";
-				titles = {
-					en = "Italic Extremes";
-				};
-				url = "https://github.com/joachimvu/ItalicExtremes";
-				description = "*Italic Extremes* lets you add nodes on specified angles, and optionally remove horizontal/vertical extremes and other way around. Supports multiple angles, can be used on selected nodes/segments only, and available as a Custom Parameter for use on export.";
-				screenshot = "https://raw.githubusercontent.com/joachimvu/ItalicExtremes/master/ItalicExtremes.png";
 			},
 			{
 				path = "LT-Toolkit-Manager.glyphsPlugin";
