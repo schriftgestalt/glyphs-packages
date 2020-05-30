@@ -1716,7 +1716,7 @@
 					en = "Scrambler";
 				};
 				url = "https://github.com/FEDER-CO/Scrambler";
-				description = {
+				descriptions = {
 					en = "*Scrambler* is a palette extension that creates a new tab with a generated random sequence of selected glyphs. Useful at the initial design stages or to have a feel of the rhythm of the typeface. Works with numbers or non-latin characters.";
 				};
 				screenshot = "https://raw.githubusercontent.com/FEDER-CO/Scrambler/master/Scrambler.png";
@@ -1738,7 +1738,7 @@
 					en = "SimplePreview";
 				};
 				url = "https://github.com/nanife/SimplePreview_Glyphs";
-				description = {
+				descriptions = {
 					en = "*Simple Preview* lets you preview texts which is in editing window. You can control text size and text directions in this preview plugin.\n *간단미리보기*는 편집창에서 편집 중인 텍스트들을 미리보기하는 플러그인으로, 글립스의 자체 미리보기에서 가로모드만 지원되는 단점을 보완하기 위해, 세로쓰기 및 가로쓰기 모드를 지원합니다.\n **requirements** : `Vanilla` module - you can install via Glyphs Preferences > Addons > Modules \n **사용 환경** : Vanilla 모듈 - 글립스의 환경설정 > 애드온 > 모듈 에서 '모듈 설치'를 통해 설치 가능.\n ";
 				};
 				screenshot = "https://raw.githubusercontent.com/nanife/SimplePreview_Glyphs/master/simplePreview_demo.png";
@@ -1749,7 +1749,7 @@
 					en = "Leedotype Toolkit Manager";
 				};
 				url = "https://github.com/hwoongkang/LT-Toolkit-Manager";
-				description = {
+				descriptions = {
 					en = "*LT-Toolkit-Manager* lets you use your other Leedotype plugins. *Edit > Leedotype Plugins > Login* to log in in the Glyphs app. Visit Github repository or send email to hyunwoong.kang@leedotype.com for more information.";
 				};
 				screenshot = "https://raw.githubusercontent.com/hwoongkang/LT-Toolkit-Manager/master/images/login.png";
@@ -1760,7 +1760,7 @@
 					en = "Leedotype Hangul Combination";
 				};
 				url = "https://github.com/hwoongkang/LT-Hangul-Combination";
-				description = {
+				descriptions = {
 					en = "*LT-Hangul-Combination* lets you choose Hangul glyphs in a more systematic way.";
 				};
 				screenshot = "https://raw.githubusercontent.com/hwoongkang/LT-Hangul-Combination/master/images/usage.png";
@@ -1771,7 +1771,7 @@
 					en = "Leedotype Component Manager";
 				};
 				url = "https://github.com/hwoongkang/LT-Component-Manager";
-				description = {
+				descriptions = {
 					en = "*Edit > Leedotype Plugins > LT Component Manager* provides you a more efficient way to modify your smart component axes values. Note that *LT-Toolkit-Manager* is needed to use this plugin.";
 				};
 				screenshot = "https://raw.githubusercontent.com/hwoongkang/LT-Component-Manager/master/images/modify-options.png";
@@ -1782,7 +1782,7 @@
 					en = "Backdrop";
 				};
 				url = "https://github.com/hejpaul/glyphs-backdrop";
-				description = {
+				descriptions = {
 					en = "*View > Show Backdrop* displays similar glyphs in the background. This makes it easier to keep your glyphs consistent.";
 				};
 				screenshot = "https://raw.githubusercontent.com/hejpaul/glyphs-backdrop/master/images/screenshot.png";
