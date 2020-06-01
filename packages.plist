@@ -974,6 +974,12 @@
 				description = "*View > Show Backdrop* displays similar glyphs in the background. This makes it easier to keep your glyphs consistent.";
 				screenshot = "https://raw.githubusercontent.com/hejpaul/glyphs-backdrop/master/images/screenshot.png";
 			},
+			{
+				name = "Thicker Outlines.glyphsReporter";
+				title = "Thicker Outlines";
+				url = "https://github.com/schriftgestalt/ThickerOutlines";
+				description = "Draw a bit thinker outline to stand out more over a background image";
+			},
 		);
 	};
 }
