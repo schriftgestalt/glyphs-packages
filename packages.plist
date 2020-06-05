@@ -2036,7 +2036,7 @@
 					en = "RoboFab";
 				};
 				path = "Lib/robofab";
-				url = "https://github.com/robofab-developers/robofab";
+				url = "https://github.com/schriftgestalt/robofab";
 				descriptions = {
 					en = "A Python library with objects that deal with data usually associated with fonts and type design.";
 				};
