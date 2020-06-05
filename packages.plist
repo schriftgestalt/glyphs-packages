@@ -13,6 +13,7 @@
 				screenshot = "https://raw.githubusercontent.com/joachimvu/ItalicExtremes/master/ItalicExtremes.png";
 			},
 			{
+				repoFolder = "mjlagattuta";
 				path = "Plugins/HOI Viewer.glyphsReporter";
 				titles = {
 					en = "HOI Viewer";
@@ -24,6 +25,7 @@
 				screenshot = "https://raw.githubusercontent.com/mjlagattuta/Glyphs-Scripts/master/Plugins/images/HOIViewer.png";
 			},
 			{
+				repoFolder = "mjlagattuta";
 				path = "Plugins/VizBez.glyphsReporter";
 				titles = {
 					en = "VizBez";
