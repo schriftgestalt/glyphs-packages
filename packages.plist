@@ -324,7 +324,7 @@
 				};
 				url = "https://github.com/mekkablue/Retractor";
 				descriptions = {
-					en = "*Filter > Retractor* (de: *Retraktor,* fr: *Retracteur,* es: *Retractor,* zh: 📐直线化) deletes (‘retracts’) all Bézier control points (a. k. a. BCPs, handles), making sure only straight line segments remain. This can be useful if you want to be certain that accidentally added curve segments are removed in designs where this is necessary. Careful: it does *not* respect your node selection. If you want to only retract selected BCPs, simply press Delete.";
+					en = "*Filter > Retractor* (de: *Retraktor,* fr: *Retracteur,* es: *Retractor,* zh: 📐直线化) deletes (‘retracts’) all Bézier control points (a. k. a. BCPs, handles), making sure only straight line segments remain. This can be useful if you want to be certain that accidentally added curve segments are removed in designs where this is necessary, or when you want to simplify a vectorisation with many small curve segments.";
 				};
 				screenshot = "https://raw.githubusercontent.com/mekkablue/Retractor/master/Retractor.png";
 			},
