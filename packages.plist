@@ -1296,8 +1296,9 @@
 				};
 				url = "https://github.com/mekkablue/TTControlInstructionsPalette";
 				descriptions = {
-					en = "Palette for writing ttfAutohint control instructions while zoomed in, hence in tiny type.";
+					en = "Palette for writing [ttfAutohint control instructions](https://www.freetype.org/ttfautohint/doc/ttfautohint.html#control-instructions) while zoomed in, hence in tiny type.";
 				};
+				screenshot = "https://raw.githubusercontent.com/mekkablue/TTControlInstructionsPalette/master/TTControlInstructions.png";
 			},
 			{
 				path = "Wordfinder.glyphsPlugin";
