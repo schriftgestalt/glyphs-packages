@@ -220,7 +220,7 @@
 				descriptions = {
 					en = "*View > Show Styles* (de: *Stile anzeigen,* es: *Mostrar estilos,* fr: *Afficher styles,* pt: *Exibir estilos,* zh: 💗插值) calculates all active instances for the given glyph and draws them behind your paths. WIll highlight the currently selected instance (in the Preview area at the bottom). Right-click for extra options (centering shape, aligning on a node). Use `ShowStyles` parameter in *Font Info > Font* or *Styles* for defining colors: as value, use comma-separated numbers for RGBA, between 0.0 and 1.0, e.g., `0, 1, 0.2` for green with a small hint of blue in it.";
 				};
-				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowInterpolations/master/ShowInterpolations.png";
+				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowInterpolations/master/ShowStyles.png";
 				minGlyphsVersion = "3.0";
 			},
 			{
