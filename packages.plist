@@ -1990,7 +1990,7 @@
 				};
 				url = "https://github.com/mjlagattuta/Glyphs-Scripts";
 				descriptions = {
-					en = "Scripts by type designer Mike LaGattuta, including scripts for variable font production.";
+					en = "Scripts by type designer Mike LaGattuta, including scripts for variable font production. Categories: *Anchors, FontBakery Check Counters, HOI, Metrics and Kerning, Misc, Plugins, VF Scripts*";
 				};
 			},
 			{
@@ -2000,7 +2000,7 @@
 				};
 				url = "https://github.com/jpt/font-scripts/Glyphs";
 				descriptions = {
-					en = "Scripts by type designer Jeremy Tribby (Tribby Type) for Glyphs and the UFO ecosystem.";
+					en = "Scripts by type designer Jeremy Tribby (Tribby Type) for Glyphs and the UFO ecosystem.\n- *Brace Layer Decompose*\n- *Brace Layer Sidebearings Reinterpolate*\n- *Brace Layer VF Designspace Fix*\n- *Export Designspace*\n- *Family Weights Calculator*";
 				};
 			},
 			{
