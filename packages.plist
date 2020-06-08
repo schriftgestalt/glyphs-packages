@@ -1899,7 +1899,7 @@
 				};
 				url = "https://github.com/underscoretype/underscore-glyphs-scripts";
 				descriptions = {
-					en = "Assorted collection of (opinionated) helper scripts by Johannes Neumeier (Underscore Type).";
+					en = "Assorted collection of (opinionated) helper scripts by Johannes Neumeier (Underscore Type):\n- *Auto metrics all fonts*\n- *Check anchors*\n- *Copy glyphs to second font*\n- *Copy kerning from masters*\n- *Copy layers to second font*\n- *Copy selected layer to other layers*\n- *Copy selected paths to other masters*\n- *Decompose corners caps clean up*\n- *Get metrics string*\n- *Helpers*\n- *Highlight unequal widths*\n- *Hints delete glyph master hints*\n- *Insert case as component*\n- *Kerning from first component*\n- *New tab with glyphs with corners or caps*\n- *Sync masters*";
 				};
 			},
 			{
@@ -1939,7 +1939,7 @@
 				};
 				url = "https://github.com/dyyybek/Glyphs-Scripts";
 				descriptions = {
-					en = "Scripts by Marcin Dybaś (dyyybek).";
+					en = "Scripts by Marcin Dybaś (dyyybek):\n- *Generate Smart Glyph Variants* and *Generate Smart Glyph Variants 3-axis*\n- *Import Images by Unicode Code Point*\n- *Width Minus 20* and *Width Plus 20*";
 				};
 			},
 			{
@@ -1959,7 +1959,7 @@
 				};
 				url = "https://github.com/yanone/Yanone-GlyphsApp-Scripts";
 				descriptions = {
-					en = "Scripts by Jan Gerner (Yanone), particularly for interoperability with fontmake.";
+					en = "Scripts by Jan Gerner (Yanone), particularly for interoperability with fontmake:\n- *Create Missing Brace Layers in Components:* Goes through all component glyphs and adds missing intermediate masters to the component glyphs where their respective base glyphs have them. Otherwise, component glyphs’ metrics get interpolated linearly between the main masters, ignoring the intermediate masters, while the outlines get interpolated correctly.\n- *Expand Intermediate Masters:* Takes all the intermediate masters it can find and adds them as fully expanded masters to the font, then removes all brace layers. This is necessary as a workaround for environments that can’t properly deal with brace layers, such as googlefonts/fontmake. Once the brace layers are flattened into the font as fully expanded masters, everything interpolates correctly. The masters will simply be added to the font’s master list at the end, not their correct positions in the list, which does not affect the interpolation. Use this script only to generate static instances, not a Variable Font, as otherwise the font file size will increase. To create Variable Fonts, use the Create Missing Brace Layers in Components script.\n- *Create Axis Location Custom Parameters:* In order to properly create instances from a VF using fontmake, the font needs to carry appropriate Axis Location custom parameters on the masters. This script creates them.\n- *Create Instance weightClass Custom Parameters:* In order to properly create instances from a VF using fontmake, the font needs to carry appropriate weightClass parameters on the instances. This script creates them.";
 				};
 			},
 			{
