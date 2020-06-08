@@ -1829,7 +1829,7 @@
 				};
 				url = "https://github.com/huertatipografica/HTLetterspacer";
 				descriptions = {
-					en = "HT Letterspacer is a revolutionary tool for spacing fonts from Huerta Tipografica, written and maintained by Andrés Torresi.";
+					en = "HT Letterspacer is a revolutionary tool for spacing fonts from Huerta Tipografica, written and maintained by Andrés Torresi. [Read the docs](http://letterspacer.huertatipografica.com) or [watch Sol Matas’ presentation at TYPO Labs 2018](https://www.typotalks.com/videos/ht-letterspacer-everything-you-always-wanted-to-know-about-automatic-spacing-but-were-afraid-to-ask/).";
 				};
 			},
 			{
@@ -1839,7 +1839,7 @@
 				};
 				url = "https://github.com/m4rc1e/mf-glyphs-scripts";
 				descriptions = {
-					en = "Marc Foley’s set of production scripts, including many that are essential for QA and testing.";
+					en = "Marc Foley’s set of production scripts, including many that are essential for QA and testing. Categories: *Fixes, Git, Glyph Builders, QA, Reports.*";
 				};
 			},
 			{
