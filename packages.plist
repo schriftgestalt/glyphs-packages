@@ -2,6 +2,20 @@
 	packages = {
 		plugins = (
 			{
+				path = "Risorizer.glyphsFilter";
+				titles = {
+					en = "Risorizer";
+					de = "Risorisieren";
+					fr = "Risoriser";
+					es = "Risorizar";
+				};
+				url = "https://github.com/mekkablue/Risorizer";
+				descriptions = {
+					en = "Effect plug-in for adding a Risograph-like effect on your shapes.";
+				};
+				screenshot = "https://raw.githubusercontent.com/mekkablue/Risorizer/master/Risorizer.png";
+			},
+			{
 				path = "ItalicExtremes.glyphsFilter";
 				titles = {
 					en = "Italic Extremes";
