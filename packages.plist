@@ -2,6 +2,13 @@
 	packages = {
 		plugins = (
 			{
+				name = "Risorizer.glyphsFilter";
+				title = "Risorizer";
+				url = "https://github.com/mekkablue/Risorizer";
+				descriptions = "Effect plug-in for adding a Risograph-like effect on your shapes.";
+				screenshot = "https://raw.githubusercontent.com/mekkablue/Risorizer/master/Risorizer.png";
+			},
+			{
 				name = "MagicRemove.glyphsPalette";
 				title = "Magic Remover";
 				url = "https://github.com/mekkablue/MagicRemove";
