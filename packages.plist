@@ -985,8 +985,16 @@
 				name = "Thicker Outlines.glyphsReporter";
 				title = "Thicker Outlines";
 				url = "https://github.com/schriftgestalt/ThickerOutlines";
-				description = "Draw a bit thinker outline to stand out more over a background image";
+				description = "Draw a thicker outline to stand out more over a background image";
 			},
+			{
+ 				name = "Rhythm_Influencer/RhythmInfluencer.glyphsPlugin";
+ 				title = "Rhythm Influencer";
+ 				url = "https://github.com/Artengar/Glyphs_Plugins/";
+ 				description = "The Rhythm Influencer assists with fast creating variations on (most) letters. Activate it via *Edit > Rhythm Influencer*. Read the instructions for correct use and its current development status.";
+ 				screenshot = "https://raw.githubusercontent.com/Artengar/Glyphs_Plugins/master/Rhythm_Influencer/rhythm_influencer.jpg";
+ 			},
+			
 		);
 	};
 }
