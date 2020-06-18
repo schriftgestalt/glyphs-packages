@@ -991,7 +991,7 @@
  				name = "Rhythm_Influencer/RhythmInfluencer.glyphsPlugin";
  				title = "Rhythm Influencer";
  				url = "https://github.com/Artengar/Glyphs_Plugins/";
- 				description = "The Rhythm Influencer assists with fast creating variations on (most) letters. Activate it via *Edit > Rhythm Influencer*. Read the instructions for correct use and its current development status.";
+ 				description = "The Rhythm Influencer assists with fast creating variations on (most) letters. Activate it via *Edit > Rhythm Influencer*. [Read the instructions](http://artengar.com/pages/rhythm_influencer.html) for correct use and its current development status.";
  				screenshot = "https://raw.githubusercontent.com/Artengar/Glyphs_Plugins/master/Rhythm_Influencer/rhythm_influencer.jpg";
  			},
 			
