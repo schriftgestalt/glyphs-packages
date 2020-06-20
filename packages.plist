@@ -1013,18 +1013,6 @@
 				screenshot = "https://github.com/Tosche/Waterfall/raw/master/Waterfall.png";
 			},
 			{
-				path = "SyncSelection.glyphsPlugin";
-				titles = {
-					en = "Sync Layer Selections";
-				};
-				url = "https://github.com/mekkablue/SyncSelection";
-				descriptions = {
-					en = "*Edit > Sync Layer Selections* keeps point, component and anchor selections in sync between all compatible layers of the same glyph.";
-				};
-				screenshot = "https://github.com/mekkablue/SyncSelection/raw/master/SyncSelectionScreenshot.png";
-				minVersion = 3002;
-			},
-			{
 				path = "LabelKey.glyphsPalette";
 				titles = {
 					en = "Label Key";
