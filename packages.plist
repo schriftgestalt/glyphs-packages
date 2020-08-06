@@ -201,6 +201,7 @@
 				descriptions = {
 					en = "*View > Red Arrows:* Now Glyphs users can also have red arrows!\nThis plug-in points at possible outline errors, like FontAudit in FontLab Studio. This version works in Glyphs 2.3 and newer. When the plugin is active, red arrows will point to possible mistakes in your outlines.";
 				};
+				donationURL = "https://ko-fi.com/jenskutilek";
 				screenshot = "https://raw.githubusercontent.com/jenskutilek/RedArrow-Glyphs/master/screenshot.png";
 			},
 			{
@@ -1125,6 +1126,7 @@
 				descriptions = {
 					en = "Set and display a grid that keeps different dimensions in different masters. Activate via *View > Show Master Grid*, edit or delete the grid via *Edit > Master Grid...*";
 				};
+				donationURL = "https://ko-fi.com/jenskutilek";
 				screenshot = "https://raw.githubusercontent.com/jenskutilek/MasterGrid/master/Images/screenshot.png";
 			},
 			{
@@ -1537,6 +1539,7 @@
 				descriptions = {
 					en = "TypeCooker™-style drawing for Glyphs. A tool for pixel-based drawing and erasing in edit view, best used with a pen tablet.";
 				};
+				donationURL = "https://ko-fi.com/jenskutilek";
 				screenshot = "https://raw.githubusercontent.com/jenskutilek/Scrawl-Glyphs/master/data/ui.png";
 			},
 			{
@@ -1548,6 +1551,7 @@
 				descriptions = {
 					en = "Displays drawings from Scrawl Tool when other tools are active. Activate via *View > Show Scrawl*.";
 				};
+				donationURL = "https://ko-fi.com/jenskutilek";
 			},
 			{
 				path = "Show Smooth Node Angle and Proportion.glyphsReporter";
@@ -1951,6 +1955,7 @@
 				descriptions = {
 					en = "Scripts by German type designer and font engineer Jens Kutílek. Categories: *Anchors, Components, Effects, Export, Font, Glyphs, Guides, Hinting, Layers, Layout, Selection, TrueType.*";
 				};
+				donationURL = "https://ko-fi.com/jenskutilek";
 			},
 			{
 				installName = "dyyybek";
