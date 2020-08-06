@@ -2,6 +2,24 @@
 	packages = {
 		plugins = (
 			{
+				path = "Fade.glyphsFilter";
+				titles = {
+					en = 'Fade';
+					de = 'Verschwinden';
+					fr = 'Disparaître';
+					es = 'Desaparecer';
+					pt = 'Desaparecer';
+					jp = '消える';
+					ko = '사라지다';
+					zh = '消失';
+				};
+				url = "https://github.com/mekkablue/Fade";
+				descriptions = {
+					en = "*Filter > Fade* (de: *Verschwinden,* fr: *Disparaître,* es: *Desaparecer,* pt: *Desaparecer,* jp: *消える,* ko: *사라지다,* zh: *消失*) removes parts of glyphs beneath or beyond a certain coordinate. As value use `x<200`or `y>300`, or multiple conditions in a comma-separated list `x>500, y<200`.";
+				};
+				screenshot = "https://raw.githubusercontent.com/mekkablue/Fade/master/Fade.png";
+			},
+			{
 				path = "Risorizer.glyphsFilter";
 				titles = {
 					en = "Risorizer";
