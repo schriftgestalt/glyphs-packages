@@ -994,7 +994,13 @@
  				description = "The Rhythm Influencer assists with fast creating variations on (most) letters. Activate it via *Edit > Rhythm Influencer*. [Read the instructions](http://artengar.com/pages/rhythm_influencer.html) for correct use and its current development status.";
  				screenshot = "https://raw.githubusercontent.com/Artengar/Glyphs_Plugins/master/Rhythm_Influencer/rhythm_influencer.jpg";
  			},
-			
+			{
+				name = "ShowAnchorCloud.glyphsReporter";
+				title = "Show Anchor Cloud";
+				url = "https://github.com/simoncozens/ShowAnchorCloud";
+				description = "*Show Anchor Cloud* displays a mark cloud for all glyphs which use the selected anchor, regardless of name. It also allows the user to filter which mark glyphs are displayed in the cloud.";
+				screenshot = "https://raw.githubusercontent.com/simoncozens/ShowAnchorCloud/master/ShowAnchorCloud.png";
+			},
 		);
 	};
 }
