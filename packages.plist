@@ -2,6 +2,17 @@
 	packages = {
 		plugins = (
 			{
+				path = "ShowDistanceAndAngleOfNodesInCorner.glyphsReporter";
+				titles = {
+					en = "Show Distance And Angle in Corner";
+				};
+				url = "https://github.com/weiweihuanghuang/Show-Distance-And-Angle-Of-Nodes-In-Corner";
+				descriptions = {
+					en = "*View > Show Distance and Angle in Corner* shows the direct distance of two selected elements (Nodes, Anchors, Components) and their angle. The times of temporarily created guidelines are passé.";
+				};
+				screenshot = "https://raw.githubusercontent.com/weiweihuanghuang/Show-Distance-And-Angle-Of-Nodes-In-Corner/master/Images/preview.png";
+			},
+			{
 				path = "Fade.glyphsFilter";
 				titles = {
 					en = "Fade";
