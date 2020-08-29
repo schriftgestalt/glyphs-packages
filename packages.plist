@@ -248,6 +248,7 @@
 					en = "*View > Show Tops And Bottoms* (es: *superiores e inferiores*, de: *Höchste und tiefste Stellen*, nl: *hoogste en laagste plekken*, fr: *les hauts et les bas*, zh: 🚧底部到顶点的数值) displays the bounding box tops and bottoms for each glyph in the Edit view, and marks them red if they are not inside an alignment zone. Also highlights nodes *inside* zones if they are missing a metric line by 1 unit.";
 				};
 				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowTopsAndBottoms/master/ShowTopsAndBottoms.png";
+				donationURL = "https://ko-fi.com/mekkablue";
 			},
 			{
 				path = "OffsetPreview.glyphsReporter";
@@ -367,6 +368,7 @@
 					en = "*View > Show Angled Handles* (de: *Schräge Anfasser anzeigen*, es: *Mostrar manejadores inclinados*, fr: *Afficher les poignées inclinées*, zh: ⚖️路径检查工具) highlights BCPs (‘handles’) which are not horizontal or vertical, quite-but-not-completely-straight line segments, duplicate path segments, crossed handles, and zero handles. Options in the context menu.";
 				};
 				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowAngledHandles/master/ShowAngledHandles.png";
+				donationURL = "https://ko-fi.com/mekkablue";
 			},
 			{
 				path = "Retractor.glyphsFilter";
@@ -397,6 +399,7 @@
 					en = "*Filter > Fix Zero Handles* (de: *Null-Anfasser beheben,* fr: *Corriger les poignées rétractées,* es: *Corregir manejadores cero,* zh: 🍭修正单摇臂) analyses the path structure of selected layers and will rearrange path segments that contain completely retracted handles, a. k. a. ‘zero handles’. Zero handles typically appear in outlines imported from other vector apps, such as Adobe Illustrator. Zero handles are considered bad style, or even an error, and can cause a range of problems, especially when you are trying to convert your outlines to TrueType curves.";
 				};
 				screenshot = "https://raw.githubusercontent.com/mekkablue/FixZeroHandles/master/FixZeroHandles.png";
+				donationURL = "https://ko-fi.com/mekkablue";
 			},
 			{
 				path = "Disguiser.glyphsFilter";
@@ -493,6 +496,7 @@
 					en = "*Filter > Noodler* (de: *Nudler*, fr: *Nouilleur*, es: *Fileteador*, zh: 🍜等线圆体) turns monolines of all selected glyphs into noodles with rounded stroke endings.";
 				};
 				screenshot = "https://raw.githubusercontent.com/mekkablue/Noodler/master/Noodler.png";
+				donationURL = "https://ko-fi.com/mekkablue";
 			},
 			{
 				path = "ShowRotated.glyphsReporter";
@@ -1837,6 +1841,7 @@
 				descriptions = {
 					en = "Collection of Python scripts by Glyphs member Rainer Scheichelbauer (a. k. a. mekkablue). Also includes the former schriftgestalt scripts.";
 				};
+				donationURL = "https://ko-fi.com/mekkablue";
 			},
 			{
 				installName = "Freemix";
