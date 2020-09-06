@@ -2091,7 +2091,6 @@
 				titles = {
 					en = "Vanilla";
 				};
-				identifier = "vanilla";
 				path = "Lib/vanilla";
 				url = "https://github.com/typesupply/vanilla";
 				descriptions = {
@@ -2102,7 +2101,6 @@
 				titles = {
 					en = "RoboFab";
 				};
-				identifier = "robofab";
 				path = "Lib/robofab";
 				url = "https://github.com/schriftgestalt/robofab";
 				descriptions = {
@@ -2113,7 +2111,6 @@
 				titles = {
 					en = "FontTools";
 				};
-				identifier = "fonttools";
 				path = "Lib/fontTools";
 				url = "https://github.com/fonttools/fonttools";
 				descriptions = {
