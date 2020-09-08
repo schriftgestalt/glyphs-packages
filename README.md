@@ -27,7 +27,7 @@ Separate multiple entries with commas. Best place to put it is right behind the 
   * `pt`: Portuguese
   * `ru`: Russian
   * `tr`: Turkish
-  * `zh_CN`: Chinese (simplified, mainland China)
+  * `zh-Hans`: Chinese (simplified, mainland China)
   * `zh-Hant`: Chinese (traditional, Taiwan)
 
 ```plist
@@ -35,18 +35,13 @@ descriptions = {
 	en = "*Filter > Insert Inflections* inserts nodes on all inflections of all selected glyphs. This is useful for monoline workflows, where inflected paths need to be expanded to a closed stroke; and for conversion into TrueType outlines.";
 	de = "*Filter > Inflektionspunkte einfügen* fügt Punkte an den Wendestellen aller Kurven aller ausgewählter Glyphen ein. Nützlich für lineare Strich-Designs (»Monolines«) mit offenen Skelett-Pfaden, die erst zu Flächen erweitert werden müssen (exakteres Expansionsergebnis); und vor der Konvertierung in TrueType-Pfade.";
 };
+titles = {
+	en = "Broad Nibber";
+	de = "Breitfederzeichner";
+};
 ```
 
 #### Optional Fields
-
-- **titles:** the language-specific human-readable name, if different from the file name of the plug-in. Useful for storing a name containing spaces when the filename does not. For languages, see the list above.
-
-```plist
-	titles = {
-		en = "Broad Nibber";
-		de = "Breitfederzeichner";
-	};
-```
 
 - **screenshot:** the URL to an image or screenshot illustrating the plug-in.
 - **minVersion:** the minimum Glyphs version required for running the plug-in. Use the three- or four-digit build number as displayed between parentheses next to the version string in *Glyphs > About Glyphs,* e.g., `895`.
