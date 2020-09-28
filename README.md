@@ -100,6 +100,8 @@ Run the command `plutil -lint packages.plist` in a Terminal window to check for 
 packages.plist: OK
 ```
 
+Alternatively, run the `Parse Packages.command` in the same folder.
+
 ### Credits
 
 The plug-in is based on the Xcode plug-in manager [Alcatraz](http://alcatraz.io).
