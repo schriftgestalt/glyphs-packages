@@ -289,7 +289,7 @@
 				};
 				url = "https://github.com/mekkablue/ShowFilledPreview";
 				descriptions = {
-					en = "*View > Show Filled Preview* (de: *Gefüllte Vorschau beim Bearbeiten,* es: *contornos rellenos durante la edición,* fr: *aperçu des formes pendant la édition*) fills open paths with a dark gray color even while you are still drawing.";
+					en = "*View > Show Filled Preview* (de: *Gefüllte Vorschau beim Bearbeiten,* es: *contornos rellenos durante la edición,* fr: *aperçu des formes pendant la édition*) fills open paths with a dark gray color even while you are still drawing. For controlling the opacity, run `Glyphs.defaults["com.mekkablue.ShowFilledPreview.opacity"]=0.6` in *Window > Macro Panel.* Any value between 0.0 and 1.0 is possible.";
 				};
 				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowFilledPreview/master/ShowFilledPreview.png";
 			},
