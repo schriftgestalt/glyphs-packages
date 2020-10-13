@@ -2,6 +2,21 @@
 	packages = {
 		plugins = (
 			{
+				path = "StepAndRepeat.glyphsPalette";
+				titles = {
+					en = "Step and Repeat";
+					de = "Wiederholen";
+					fr = "Répéter";
+					es = "Repetir";
+					pt = "Repetir";
+				};
+				url = "https://github.com/mekkablue/StepAndRepeat";
+				descriptions = {
+					en = "The palette *Step and Repeat* (de: *Wiederholen*, fr: *Répéter*, es: *Repetir*, pt: *Repetir*) allows shift-repeating shapes. Repeated shapes will be added to the selection for further transformations. At least one of the *X* and *Y* shifts must be non-zero. The *Steps* count includes the original, so it must be at least 2.";
+				};
+				screenshot = "https://raw.githubusercontent.com/mekkablue/StepAndRepeat/main/StepAndRepeat.png";
+			},
+			{
 				path = "ShowAnchorCloud.glyphsReporter";
 				titles = {
 					en = "Show Anchor Cloud";
