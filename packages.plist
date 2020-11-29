@@ -244,6 +244,7 @@
 			{
 				path = "DrawBot.glyphsPlugin";
 				url = "https://github.com/schriftgestalt/DrawBotGlyphsPlugin";
+				branch = "glyphs3";
 				descriptions = {
 					en = "DrawBot inside Glyphs.\nMake a new drawBot from *File > New DrawBot,* or open a `.py` file with Cmd-O. *File > Save* as usual. Run the script by hitting the Run button (or pressing Cmd-⏎). Clean the output area by pressing Cmd-K.\n\nTo save a drawing as pdf, hit Cmd-E (*File > Export…*)";
 				};
