@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/schriftgestalt/glyphs-packages.svg?branch=master)](https://travis-ci.org/schriftgestalt/glyphs-packages)
+
 # Glyphs Packages
 
 Repository for collecting all available plug-ins for Glyphs. What is registered here will end up in *Window > Plugin Manager*. If you have written a plug-in and want to share it with the community, consider adding it to the `.plist` file.
@@ -21,6 +23,12 @@ Separate multiple entries with commas. Best place to put it is right behind the 
 - **minVersion:** the minimum Glyphs version required for running the plug-in. Use the three- or four-digit build number as displayed between parentheses next to the version string in *Glyphs > About Glyphs,* e.g., `895`.
 - **maxVersion:** build number of the last version of Glyphs capable of running the plug-in. This can be used for older versions of the plug-in.
 
+#### Conventions
+
+* Use emphasis (text surrounded by by single asterisks `*` or underscores `_`) for text that appears in the UI, like a menu command. E.g., *File > Save.*
+* Use code (text surrounded by single backticks `` ` ``) for text entered by the user, e.g. Python commands like `Glyphs.defaults["x"]=y`.
+* Do not stylize keyboard commands. Capitalise key names (Cmd, Ctrl, Shift, Opt), and use dashes between keys, e.g. Cmd-Shift-B.
+
 #### Example
 
 	{
@@ -43,6 +51,12 @@ Separate multiple entries with commas. Best place to put it is right behind the 
 ### How to add your own plug-ins
 
 To add your own plug-in, fork this repository, add your plug-in to the `packages.plist` and send a pull request.
+
+Run the command `plutil -lint packages.plist` in a Terminal window to check for syntax errors. It should print the following message (the `:; ` is just the Terminal shell prompt in this example):
+```
+:; plutil -lint packages.plist
+packages.plist: OK
+```
 
 ### Credits
 
