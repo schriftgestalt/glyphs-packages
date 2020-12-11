@@ -700,13 +700,6 @@
 				screenshot = "https://github.com/filipenegrao/Keyboard-Increment/blob/a2f95c60e47f6ab493bf1401433ecb57125882b5/keyboard-increment-plugin-darkmode.png";
 			},
 			{
-				name = "KeyboardIncrementMacOS1015.glyphsPalette";
-				title = "Keyboard Increment (Mac OS 10.15 and bellow)";
-				url = "https://github.com/filipenegrao/Keyboard-Increment/tree/master/Older_MacOS_Compatible/KeyboardIncrementMacOS1015.glyphsPalette";
-				description = "For older Mac OSs. It allows you to change the default value for whatever value you want to.";
-				screenshot = "https://github.com/filipenegrao/Keyboard-Increment/blob/master/Older_MacOS_Compatible/high-sierra-compatible.png";
-			},
-			{
 				name = "MakeBoxes.glyphsFilter";
 				title = "Make Boxes";
 				url = "https://github.com/mekkablue/MakeBoxes";
