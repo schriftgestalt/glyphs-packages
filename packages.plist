@@ -693,11 +693,11 @@
 				screenshot = "https://raw.githubusercontent.com/underscoretype/glyphs-plugin-wordfinder/master/Wordfinder.png";
 			},
 			{
-				name = "ChangeIncrement.glyphsPalette";
-				title = "Change Keyboard Increment";
+				name = "KeyboardIncrement.glyphsPalette";
+				title = "Keyboard Increment";
 				url = "https://github.com/filipenegrao/Change-Keyboard-Increment";
-				description = "It changes the default keyboard increment value to a settable new one.";
-				screenshot = "https://raw.githubusercontent.com/filipenegrao/Change-Keyboard-Increment/master/change_increment.png";
+				description = "It allows you to change the default value for whatever value you want to.";
+				screenshot = "https://github.com/filipenegrao/Keyboard-Increment/blob/a2f95c60e47f6ab493bf1401433ecb57125882b5/keyboard-increment-plugin-darkmode.png";
 			},
 			{
 				name = "MakeBoxes.glyphsFilter";
