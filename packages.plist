@@ -693,10 +693,10 @@
 				screenshot = "https://raw.githubusercontent.com/underscoretype/glyphs-plugin-wordfinder/master/Wordfinder.png";
 			},
 			{
-				name = "KeyboardIncrement.glyphsPalette";
+				name = "ChangeIncrement.glyphsPalette";
 				title = "Keyboard Increment";
 				url = "https://github.com/filipenegrao/Change-Keyboard-Increment";
-				description = "It allows you to change the default value for whatever value you want to.";
+				description = "This is the new version of the Keyboard Increment Plug-in that allows you to change the default value for whatever value you want.";
 				screenshot = "https://github.com/filipenegrao/Keyboard-Increment/blob/a2f95c60e47f6ab493bf1401433ecb57125882b5/keyboard-increment-plugin-darkmode.png";
 			},
 			{
