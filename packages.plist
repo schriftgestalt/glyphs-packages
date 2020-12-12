@@ -2,6 +2,17 @@
 	packages = {
 		plugins = (
 			{
+				path = "SaveToGit.glyphsPlugin";
+				titles = {
+					en = "Save to Git";
+				};
+				url = "https://github.com/jenskutilek/Glyphs-SaveToGit";
+				donationURL = "https://ko-fi.com/jenskutilek";
+				descriptions = {
+					en = "*File > Save to Git* saves your font and commits the changes to a git repository. Well suited if you just want to keep track of your changes.";
+				};
+			},
+			{
 				path = "StepAndRepeat.glyphsPalette";
 				titles = {
 					en = "Step and Repeat";
