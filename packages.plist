@@ -1906,6 +1906,7 @@
 					en = "Mark Frömberg’s Scripts";
 				};
 				url = "https://github.com/Mark2Mark/Glyphsapp-Scripts-Free";
+				donationURL = "https://ko-fi.com/M4M580HG";
 				descriptions = {
 					en = "Continually expanded scripts by German type designer Mark Frömberg, including one for setting all Alignment Zones at once, and many QA scripts.";
 				};
