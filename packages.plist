@@ -1001,6 +1001,12 @@
 				description = "*Show Anchor Cloud* displays a mark cloud for all glyphs which use the selected anchor, regardless of name. It also allows the user to filter which mark glyphs are displayed in the cloud.";
 				screenshot = "https://raw.githubusercontent.com/simoncozens/ShowAnchorCloud/master/ShowAnchorCloud.png";
 			},
+			{
+				name = "LT-Global-Background.glyphsReporter";
+				title = "Leedotype Global Background";
+				url = "https://github.com/Leedotype/global-background";
+				description = "*View* > *Show LT Global Background* displays the outline of a selected glyph in the background, similar to the *Global Mask* functionality in Fontlab V.";
+			}
 		);
 	};
 }
