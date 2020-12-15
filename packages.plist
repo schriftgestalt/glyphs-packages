@@ -697,7 +697,7 @@
 				title = "Keyboard Increment";
 				url = "https://github.com/filipenegrao/Change-Keyboard-Increment";
 				description = "This is the new version of the Keyboard Increment Plug-in that allows you to change the default value for whatever value you want.";
-				screenshot = "https://github.com/filipenegrao/Keyboard-Increment/blob/a2f95c60e47f6ab493bf1401433ecb57125882b5/keyboard-increment-plugin-darkmode.png";
+				screenshot = "https://raw.githubusercontent.com/filipenegrao/Change-Keyboard-Increment/a2f95c60e47f6ab493bf1401433ecb57125882b5/keyboard-increment-plugin-darkmode.png";
 			},
 			{
 				name = "MakeBoxes.glyphsFilter";
