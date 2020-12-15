@@ -1392,7 +1392,7 @@
 				url = "https://github.com/filipenegrao/Change-Keyboard-Increment";
 				descriptions = {
 					en = "This plug-in helps you to change the default keyboard increment value to a settable new one.";
-					pt = "Este plug-in auxilia na mudança do incremento de teclado. Com ele, é possível trocar o valor para o que você preferir."
+					pt = "Este plug-in auxilia na mudança do incremento de teclado. Com ele, é possível trocar o valor para o que você preferir.";
 				};
 				screenshot = "https://raw.githubusercontent.com/filipenegrao/Change-Keyboard-Increment/a2f95c60e47f6ab493bf1401433ecb57125882b5/keyboard-increment-plugin-darkmode.png";
 			},
