@@ -1387,12 +1387,14 @@
 				path = "ChangeIncrement.glyphsPalette";
 				titles = {
 					en = "Change Keyboard Increment";
+					pt = "Mudar Incremento do Teclado";
 				};
 				url = "https://github.com/filipenegrao/Change-Keyboard-Increment";
 				descriptions = {
-					en = "It changes the default keyboard increment value to a settable new one.";
+					en = "This plug-in helps you to change the default keyboard increment value to a settable new one.";
+					pt = "Este plug-in auxilia na mudança do incremento de teclado. Com ele, é possível trocar o valor para o que você preferir."
 				};
-				screenshot = "https://raw.githubusercontent.com/filipenegrao/Change-Keyboard-Increment/master/change_increment.png";
+				screenshot = "https://raw.githubusercontent.com/filipenegrao/Change-Keyboard-Increment/a2f95c60e47f6ab493bf1401433ecb57125882b5/keyboard-increment-plugin-darkmode.png";
 			},
 			{
 				path = "MakeBoxes.glyphsFilter";
