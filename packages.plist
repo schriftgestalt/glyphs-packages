@@ -1005,6 +1005,7 @@
 				name = "LT-Global-Background.glyphsReporter";
 				title = "Leedotype Global Background";
 				url = "https://github.com/Leedotype/global-background";
+				screenshot = "https://raw.githubusercontent.com/Leedotype/global-background/main/images/screenshot.png";
 				description = "특정 글립의 아웃라인을 배경에 가이드로 깔아놓고 볼 수 있는 플러그인입니다. *보기* > *LT Global Background 보기* 를 눌러 실행합니다.\n\n  *View* > *Show LT Global Background* displays the outline of a selected glyph in the background, similar to the *Global Mask* functionality in Fontlab V.";
 			}
 		);
