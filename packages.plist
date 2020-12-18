@@ -954,27 +954,6 @@
 				screenshot = "https://raw.githubusercontent.com/joachimvu/ItalicExtremes/master/ItalicExtremes.png";
 			},
 			{
-				name = "LT-Toolkit-Manager.glyphsPlugin";
-				title = "Leedotype Toolkit Manager";
-				url = "https://github.com/hwoongkang/LT-Toolkit-Manager";
-				description = "*LT-Toolkit-Manager* lets you use your other Leedotype plugins. *Edit > Leedotype Plugins > Login* to log in in the Glyphs app. Visit Github repository or send email to hyunwoong.kang@leedotype.com for more information.";
-				screenshot = "https://raw.githubusercontent.com/hwoongkang/LT-Toolkit-Manager/master/images/login.png";
-			},
-			{
-				name = "LT-Hangul-Combination.glyphsPalette";
-				title = "Leedotype Hangul Combination";
-				url = "https://github.com/hwoongkang/LT-Hangul-Combination";
-				description = "*LT-Hangul-Combination* lets you choose Hangul glyphs in a more systematic way.";
-				screenshot = "https://raw.githubusercontent.com/hwoongkang/LT-Hangul-Combination/master/images/usage.png";
-			},
-			{
-				name= "LT-Component-Manager.glyphsPlugin";
-				title = "Leedotype Component Manager";
-				url = "https://github.com/hwoongkang/LT-Component-Manager";
-				description = "*Edit > Leedotype Plugins > LT Component Manager* provides you a more efficient way to modify your smart component axes values. Note that *LT-Toolkit-Manager* is needed to use this plugin.";
-				screenshot = "https://raw.githubusercontent.com/hwoongkang/LT-Component-Manager/master/images/modify-options.png";
-			},
-			{
 				name = "Backdrop.glyphsReporter";
 				title = "Backdrop";
 				url = "https://github.com/hejpaul/glyphs-backdrop";
