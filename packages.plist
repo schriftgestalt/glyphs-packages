@@ -1869,6 +1869,7 @@
 				descriptions = {
 					en = "*File > Import > Symbol Template* and *File > Export > SF Symbol* help open and create SF Symbol Template files. [See the tutorial](https://glyphsapp.com/learn/creating-an-sf-symbol) for details.";
 				};
+				minVersion = 3045;
 			},
 		);
 		scripts = (
