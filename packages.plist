@@ -1859,6 +1859,17 @@
 				};
 				screenshot = "https://raw.githubusercontent.com/hejpaul/glyphs-backdrop/master/images/screenshot.png";
 			},
+			{
+				branch = Glyphs3;
+				path = "SF Symbol Template.glyphsFileFormat";
+				titles = {
+					en = "SF Symbol Template";
+				};
+				url = "https://github.com/schriftgestalt/SFSymbolTemplate";
+				descriptions = {
+					en = "*File > Import > Symbol Template* and *File > Export > SF Symbol* help open and create SF Symbol Template files. [See the tutorial](https://glyphsapp.com/learn/creating-an-sf-symbol) for details.";
+				};
+			},
 		);
 		scripts = (
 			{
