@@ -1339,17 +1339,17 @@
 				};
 				screenshot = "https://raw.githubusercontent.com/schriftgestalt/kernalytics-rf-ext/master/kern-a-lytics-Glyphs.png";
 			},
-			{
-				path = "FilterListManager.glyphsPlugin";
-				titles = {
-					en = "Filter List Manager (FLM)";
-				};
-				url = "https://github.com/source-foundry/FilterListManager";
-				descriptions = {
-					en = "Glyphs filter list management with newline-delimited local and remote text files.\n\n*Edit > Update Filter Lists* updates filter lists with local and/or remote definition files\n*Edit > Restore Default Filter Lists* restores a default set of filter lists\n*Edit > Open GlyphsFilters Directory* opens the ~/GlyphsFilters directory which is used to define local and remote filter list definition files + file paths.";
-				};
-				screenshot = "https://user-images.githubusercontent.com/4249591/43370298-dd03127c-934a-11e8-99cd-3b8138811b49.png";
-			},
+// 			{
+// 				path = "FilterListManager.glyphsPlugin";
+// 				titles = {
+// 					en = "Filter List Manager (FLM)";
+// 				};
+// 				url = "https://github.com/source-foundry/FilterListManager";
+// 				descriptions = {
+// 					en = "Glyphs filter list management with newline-delimited local and remote text files.\n\n*Edit > Update Filter Lists* updates filter lists with local and/or remote definition files\n*Edit > Restore Default Filter Lists* restores a default set of filter lists\n*Edit > Open GlyphsFilters Directory* opens the ~/GlyphsFilters directory which is used to define local and remote filter list definition files + file paths.";
+// 				};
+// 				screenshot = "https://user-images.githubusercontent.com/4249591/43370298-dd03127c-934a-11e8-99cd-3b8138811b49.png";
+// 			},
 			{
 				path = "Pixelate.glyphsFilter";
 				titles = {
