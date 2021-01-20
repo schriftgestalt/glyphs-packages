@@ -2133,6 +2133,9 @@
 		);
 		modules = (
 			{
+				archs = (
+					"intel"
+				);
 				titles = {
 					en = "Python";
 				};
