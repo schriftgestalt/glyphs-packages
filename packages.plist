@@ -1155,15 +1155,15 @@
 				donationURL = "https://ko-fi.com/M4M580HG";
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Skedge/master/Images/Skedge%2003.gif";
 			},
-			{
-				path = "ShowStemRhythm.glyphsReporter";
-				url = "https://github.com/Mark2Mark/Show-Stem-Rhythm";
-				descriptions = {
-					en = "*View > Show Stem Rhythm* Displays a dynamic stem pattern. Useful for SEA scripts. Italic angle is not respected in this free version.\nMore info here:";
-				};
-				donationURL = "https://ko-fi.com/M4M580HG";
-				screenshot = "https://raw.githubusercontent.com/Mark2Mark/show-stem-rhythm/master/Stem%20Rhythm%20-%20Mark%20Fromberg%2001.png";
-			},
+//			{
+//				path = "ShowStemRhythm.glyphsReporter";
+//				url = "https://github.com/Mark2Mark/Show-Stem-Rhythm";
+//				descriptions = {
+//					en = "*View > Show Stem Rhythm* Displays a dynamic stem pattern. Useful for SEA scripts. Italic angle is not respected in this free version.\nMore info here:";
+//				};
+//				donationURL = "https://ko-fi.com/M4M580HG";
+//				screenshot = "https://raw.githubusercontent.com/Mark2Mark/show-stem-rhythm/master/Stem%20Rhythm%20-%20Mark%20Fromberg%2001.png";
+//			},
 			{
 				path = "Backuper.glyphsPlugin";
 				url = "https://github.com/schriftgestalt/Backuper";
