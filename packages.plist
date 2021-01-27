@@ -648,7 +648,7 @@
 				titles = {
 					en = "Reporter Toggler";
 				};
-				url = "https://github.com/Mark2Mark/Reporter-Toggler";
+				url = "https://github.com/Mark2Mark/Reporter-Toggler/tree/Glyphs3";
 				descriptions = {
 					en = "Adds a menu to the Palette, which gives you instant access to all your reporter plugins. Quick’n’easy on/off switching with just a single click.";
 				};
