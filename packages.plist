@@ -819,7 +819,7 @@
 			{
 				path = "Heatmap.glyphsReporter";
 				url = "https://github.com/simoncozens/Heatmap";
-				branch = "binary";
+				branch = "build-glyphs3";
 				descriptions = {
 					en = "*View > Show Heatmap* visualizes the thickness of glyph stems, helping you to create even and consistent curves.";
 				};
