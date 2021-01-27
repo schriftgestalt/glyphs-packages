@@ -527,6 +527,18 @@
 				donationURL = "https://ko-fi.com/mekkablue";
 			},
 			{
+				path = "ShowNodeCount.glyphsReporter";
+				titles = {
+					en = "Show Node Count";
+				};
+				url = "https://github.com/Mark2Mark/Show-Node-Count";
+				descriptions = {
+					en = "*View > Show Node Count* Does what the name says 😅.";
+				};
+				donationURL = "https://ko-fi.com/M4M580HG";
+				screenshot = "https://github.com/Mark2Mark/Glyphsapp-Plugins/raw/Screenshots/ShowNodeCount/Screenshots/ShowNodeCount_Mark-Froemberg.gif";
+			},
+			{
 				path = "ShowRotated.glyphsReporter";
 				titles = {
 					en = "Show Rotated";
