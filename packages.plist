@@ -531,7 +531,7 @@
 				titles = {
 					en = "Show Node Count";
 				};
-				url = "https://github.com/Mark2Mark/Show-Node-Count";
+				url = "https://github.com/Mark2Mark/Show-Node-Count/tree/Glyphs3";
 				descriptions = {
 					en = "*View > Show Node Count* Does what the name says 😅.";
 				};
