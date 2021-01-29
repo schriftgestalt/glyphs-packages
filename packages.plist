@@ -531,7 +531,8 @@
 				titles = {
 					en = "Show Node Count";
 				};
-				url = "https://github.com/Mark2Mark/Show-Node-Count/tree/Glyphs3";
+				url = "https://github.com/Mark2Mark/Show-Node-Count";
+				branch = "Glyphs3";
 				descriptions = {
 					en = "*View > Show Node Count* Does what the name says 😅.";
 				};
@@ -648,7 +649,8 @@
 				titles = {
 					en = "Reporter Toggler";
 				};
-				url = "https://github.com/Mark2Mark/Reporter-Toggler/tree/Glyphs3";
+				url = "https://github.com/Mark2Mark/Reporter-Toggler";
+				branch = "Glyphs3";
 				descriptions = {
 					en = "Adds a menu to the Palette, which gives you instant access to all your reporter plugins. Quick’n’easy on/off switching with just a single click.";
 				};
