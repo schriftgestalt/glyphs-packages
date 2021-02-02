@@ -599,11 +599,23 @@
 					en = "BlindFold Neue";
 					zh = "眼罩 Neue";
 				};
-				url = "https://github.com/stone-zeng/Blindfold-Neue";
+				url = "https://github.com/3type/Blindfold-Neue";
 				descriptions = {
 					en = "*BlindFold Neue* (zh: 眼罩 Neue) is a forked version of Blindfold. It covers the boundary of the glyphs. Useful for CJK font design.";
 				};
 				screenshot = "https://user-images.githubusercontent.com/18233088/74555875-a8de0500-4f97-11ea-9b36-7afae6b74cbe.png";
+			},
+			{
+				path = "CJK Metrics.glyphsReporter";
+				titles = {
+					en = "CJK Metrics";
+					zh = "汉字度量";
+				};
+				url = "https://github.com/3type/CJK-Metrics";
+				descriptions = {
+					en = "*CJK Metrics* (zh: 汉字度量) shows mertics used in CJK font design, including medial axes (水平垂直轴线), central area (第二中心区域), CJK guide (汉字参考线), etc.";
+				};
+				screenshot = "https://raw.githubusercontent.com/3type/CJK-Metrics/master/demo.png";
 			},
 			{
 				path = "ArrangeWindows.glyphsPlugin";
