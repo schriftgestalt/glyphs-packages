@@ -629,18 +629,18 @@
 				donationURL = "https://ko-fi.com/M4M580HG";
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/ArrangeWindows/master/ArrangeWindows.gif";
 			},
-			{
-				path = "Presenter.glyphsReporter";
-				titles = {
-					en = "Presenter (Free)";
-				};
-				url = "https://github.com/Mark2Mark/Presenter-Free";
-				descriptions = {
-					en = "Let your fonts shine in all glory to present them and save as image in seconds.\nUnlock tons of more features in the [Pro Version](https://markfromberg.com/projects/presenter/) ";
-				};
-				donationURL = "https://ko-fi.com/M4M580HG";
-				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Presenter-Free/master/images/Presenter-000-markFromberg.png";
-			},
+//			{
+//				path = "Presenter.glyphsReporter";
+//				titles = {
+//					en = "Presenter (Free)";
+//				};
+//				url = "https://github.com/Mark2Mark/Presenter-Free";
+//				descriptions = {
+//					en = "Let your fonts shine in all glory to present them and save as image in seconds.\nUnlock tons of more features in the [Pro Version](https://markfromberg.com/projects/presenter/) ";
+//				};
+//				donationURL = "https://ko-fi.com/M4M580HG";
+//				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Presenter-Free/master/images/Presenter-000-markFromberg.png";
+//			},
 			{
 				path = "LabelColor.glyphsReporter";
 				titles = {
