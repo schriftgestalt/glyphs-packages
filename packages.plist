@@ -657,7 +657,7 @@
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Show-Label-Color/d054d4d05d6f16b2be49f055f2b06b27725b81c8/Screenshots/Show%20Label%20Color%2001.png?raw=true";
 			},
 			{
-				path = "ReporterToggler.glyphsPalette";
+				path = "ReporterTogglerG3.glyphsPalette";
 				titles = {
 					en = "Reporter Toggler";
 				};
