@@ -255,12 +255,16 @@
 			},
 			{
 				path = "DrawBot.glyphsPlugin";
+				titles = {
+					en = "DrawBot";
+				};
 				url = "https://github.com/schriftgestalt/DrawBotGlyphsPlugin";
 				branch = "glyphs3";
 				descriptions = {
 					en = "DrawBot inside Glyphs.\nMake a new drawBot from *File > New DrawBot,* or open a `.py` file with Cmd-O. *File > Save* as usual. Run the script by hitting the Run button (or pressing Cmd-⏎). Clean the output area by pressing Cmd-K.\n\nTo save a drawing as pdf, hit Cmd-E (*File > Export…*)";
 				};
 				screenshot = "https://raw.githubusercontent.com/schriftgestalt/DrawBotGlyphsPlugin/master/GlyphsLogoDrawBot.png";
+				dependencies = (fontTools);
 			},
 			{
 				path = "ShowTopsAndBottoms.glyphsReporter";
@@ -894,6 +898,9 @@
 				screenshot = "https://raw.githubusercontent.com/schriftgestalt/ShowUnderline/master/Screenshot.png";
 			},
 			{
+				archs = (
+					"intel"
+				);
 				path = "ExtrudeTool.glyphsTool";
 				titles = {
 					en = "Extrude Tool";
@@ -1707,6 +1714,9 @@
 				screenshot = "https://raw.githubusercontent.com/mekkablue/BaseReductor/master/BaseReductorAnimation.gif";
 			},
 			{
+				archs = (
+					"intel"
+				);
 				path = "SuperTool.glyphsTool";
 				titles = {
 					en = "SuperTool";
@@ -1830,6 +1840,7 @@
 					en = "GlyphGiffer lets you export glyphs from a folder of .ufo/.glyphs files as an animated GIF. Input either slash-escaped glyph names (e. g. `/Aacute/Ampersand/Eth`) or a string of A-Z and a-z chars (e. g. `ABCDEFG`). It currently doesn’t seem support composite glyphs. **Requires Drawbot.**";
 				};
 				screenshot = "https://raw.githubusercontent.com/luke-snider/GlyphGiffer-for-GlyphsApp/master/GlyphGiffer_screen1_GApp.png";
+				dependencies = (fontTools, vanilla, drawbot);
 			},
 			{
 				path = "SimplePreview.glyphsPlugin";
