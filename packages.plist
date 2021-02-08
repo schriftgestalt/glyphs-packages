@@ -2180,6 +2180,26 @@
 				descriptions = {
 					en = "The Python 3 runtime packaged for Glyphs.";
 				};
+				maxVersion = 3061;
+			},
+			{
+				titles = {
+					en = "Python";
+				};
+				url = "https://github.com/schriftgestalt/GlyphsPythonPlugin";
+				descriptions = {
+					en = "The Python 3 runtime packaged for Glyphs.";
+				};
+				minVersion = 3062;
+			},
+			{
+				titles = {
+					en = "Python";
+				};
+				url = "https://github.com/schriftgestalt/GlyphsPythonPlugin";
+				descriptions = {
+					en = "The Python 3 runtime packaged for Glyphs.";
+				};
 			},
 			{
 				titles = {
