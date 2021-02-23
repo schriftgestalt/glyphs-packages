@@ -1253,6 +1253,7 @@
 					en = "Nina Stössinger’s plug-in for finding touching/colliding glyph pairs.";
 				};
 				screenshot = "https://github.com/schriftgestalt/Touche/raw/master/screenshotGlyphs.png";
+				dependencies = (fontTools, vanilla);
 			},
 			{
 				path = "ImageFrame.glyphsPlugin";
@@ -2196,6 +2197,7 @@
 				titles = {
 					en = "Vanilla";
 				};
+				identifier = "vanilla";
 				path = "Lib/vanilla";
 				url = "https://github.com/typesupply/vanilla";
 				descriptions = {
@@ -2216,6 +2218,7 @@
 				titles = {
 					en = "FontTools";
 				};
+				identifier = "fontTools";
 				path = "Lib/fontTools";
 				url = "https://github.com/fonttools/fonttools";
 				descriptions = {
