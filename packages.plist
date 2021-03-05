@@ -2,6 +2,31 @@
 	packages = {
 		plugins = (
 			{
+				titles = {
+					ar = "إغلاق نافذ";
+					cs = "Zavřít okno";
+					de = "Fenster schließen";
+					en = "Close Window";
+					es = "Cerrar ventana";
+					fr = "Fermer la fenêtre";
+					it = "Chiudi la finestra";
+					ja = "ウインドウを閉じる";
+					ko = "창 닫기";
+					pt = "Fechar Janela";
+					ru = "Закрыть окно";
+					tr = "Pencereyi kapat";
+					zh-Hans = "关闭窗口";
+					zh-Hant = "關閉視窗";
+				};
+				url = "https://github.com/florianpircher/Close-Window";
+				path = "Close Window.glyphsPlugin";
+				descriptions = {
+					de = "Fügt die Funktion *Fenster schließen* zum Datei-Menü hinzu, welche das aktuelle Schrift-Fenster schließt.";
+					en = "Adds a *Close Window* command to the *File* menu which closes the current font window.\n<small>(ar: إغلاق نافذ, cs: Zavřít okno, de: Fenster schließen, en: Close Window, es: Cerrar ventana, fr: Fermer la fenêtre, it: Chiudi la finestra, ja: ウインドウを閉じる, ko: 창 닫기, pt: Fechar Janela, ru: Закрыть окно, tr: Pencereyi kapat, zh-Hans: 关闭窗口, zh-Hant: 關閉視窗)</small>";
+				};
+				screenshot = "https://florianpircher.com/glyphs/plugins/close-window/screenshot.png";
+			},
+			{
 				descriptions = {
 					en = "*File > Save to Git* saves your font and commits the changes to a git repository. Well suited if you just want to keep track of your changes.";
 				};
@@ -1915,43 +1940,6 @@
 					en = "SF Symbol Template";
 				};
 				url = "https://github.com/schriftgestalt/SFSymbolTemplate";
-			},
-			{
-				titles = {
-					ar = "إغلاق نافذ";
-					cs = "Zavřít okno";
-					de = "Fenster schließen";
-					en = "Close Window";
-					es = "Cerrar ventana";
-					fr = "Fermer la fenêtre";
-					it = "Chiudi la finestra";
-					ja = "ウインドウを閉じる";
-					ko = "창 닫기";
-					pt = "Fechar Janela";
-					ru = "Закрыть окно";
-					tr = "Pencereyi kapat";
-					zh-Hans = "关闭窗口";
-					zh-Hant = "關閉視窗";
-				};
-				url = "https://github.com/florianpircher/Close-Window";
-				path = "Close Window.glyphsPlugin";
-				descriptions = {
-					ar = "Adds a *Close Window* (إغلاق نافذ) command to the File menu which closes the current font window.";
-					cs = "Adds a *Close Window* (Zavřít okno) command to the File menu which closes the current font window.";
-					de = "Fügt eine *Fenster schließen* Funktion zum Datei-Menü hinzu, welche das aktuelle Schrift-Fenster schließt.";
-					en = "Adds a *Close Window* command to the File menu which closes the current font window.";
-					es = "Adds a *Close Window* (Cerrar ventana) command to the File menu which closes the current font window.";
-					fr = "Adds a *Close Window* (Fermer la fenêtre) command to the File menu which closes the current font window.";
-					it = "Adds a *Close Window* (Chiudi la finestra) command to the File menu which closes the current font window.";
-					ja = "Adds a *Close Window* (ウインドウを閉じる) command to the File menu which closes the current font window.";
-					ko = "Adds a *Close Window* (창 닫기) command to the File menu which closes the current font window.";
-					pt = "Adds a *Close Window* (Fechar Janela) command to the File menu which closes the current font window.";
-					ru = "Adds a *Close Window* (Закрыть окно) command to the File menu which closes the current font window.";
-					tr = "Adds a *Close Window* (Pencereyi kapat) command to the File menu which closes the current font window.";
-					zh-Hans = "Adds a *Close Window* (关闭窗口) command to the File menu which closes the current font window.";
-					zh-Hant = "Adds a *Close Window* (關閉視窗) command to the File menu which closes the current font window.";
-				};
-				screenshot = "https://florianpircher.com/glyphs/plugins/close-window/screenshot.png";
 			}
 		);
 		scripts = (
