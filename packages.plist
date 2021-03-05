@@ -22,7 +22,7 @@
 				path = "Close Window.glyphsPlugin";
 				descriptions = {
 					de = "Fügt die Funktion *Fenster schließen* zum Datei-Menü hinzu, welche das aktuelle Schrift-Fenster schließt.";
-					en = "Adds a *Close Window* command to the *File* menu which closes the current font window.\n*(ar: إغلاق نافذ, cs: Zavřít okno, de: Fenster schließen, en: Close Window, es: Cerrar ventana, fr: Fermer la fenêtre, it: Chiudi la finestra, ja: ウインドウを閉じる, ko: 창 닫기, pt: Fechar Janela, ru: Закрыть окно, tr: Pencereyi kapat, zh-Hans: 关闭窗口, zh-Hant: 關閉視窗)*";
+					en = "Adds a *Close Window* command to the *File* menu which closes the current font window.";
 				};
 				screenshot = "https://florianpircher.com/glyphs/plugins/close-window/screenshot.png";
 			},
