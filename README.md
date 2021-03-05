@@ -16,6 +16,7 @@ Separate multiple entries with commas. Best place to put it is right behind the 
 - **url:** the URL of the repository. On GitHub, this will be `https://github.com/username/repositoryname`. *Attention:* no trailing slash.
 - **descriptions:** a language-specific short text explaining the plug-in. It supports basic Markdown (`*italic* **bold** [text](https://link.url)`). *Attention:* Do not use linebreaks here, but keep the text on a single line. If you want a linebreak in your description, use `\n` instead. Differentiate between languages with one of these abbreviations:
 
+  * `ar`: Arabic
   * `cs`: Czech
   * `de`: German
   * `en`: English
