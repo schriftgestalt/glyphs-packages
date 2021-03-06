@@ -3,6 +3,31 @@
 		plugins = (
 			{
 				titles = {
+					en = "Guten Tag";
+				};
+				url = "https://github.com/florianpircher/GutenTag";
+				path = "Guten Tag.glyphsPalette";
+				descriptions = {
+					ar = "ضع علامة على الصور الرمزية الخاصة بك وتنقل بسرعة بين الصور الرمزية ذات الصلة.";
+					cs = "Označte své glyfy a rychle procházejte mezi souvisejícími glyfy.";
+					de = "Tagge deine Glyphen und navigiere schnell zwischen verwanten Glyphen.";
+					en = "Tag your glyphs and quickly navigate between related glyphs.";
+					es = "Etiqueta tus glifos y navega rápidamente entre los glifos relacionados.";
+					fr = "Marquez vos glyphes et naviguez rapidement entre les glyphes connexes.";
+					it = "Tagga i tuoi glifi e naviga rapidamente tra i glifi correlati.";
+					ja = "グリフにタグ付けして、関連するグリフ間をすばやく移動します。";
+					ko = "글리프에 태그를 지정하고 관련 글리프 사이를 빠르게 탐색하세요.";
+					pt = "Marque os seus glifos e navegue rapidamente entre glifos relacionados.";
+					ru = "Присваивайте глифам метки, чтобы быстро находить нужные глифы.";
+					tr = "Glif’lerinizi etiketleyin ve ilgili glif’ler arasında hızla gezinin.";
+					zh-Hans = "为您的字形添加标签，以快速浏览相关字形。";
+					zh-Hant = "標記您的字形，並在相關字形之間快速導覽。";
+				};
+				screenshot = "https://florianpircher.com/glyphs/plugins/guten-tag/screenshot.png";
+				minVersion = 3066;
+			},
+			{
+				titles = {
 					ar = "إغلاق نافذ";
 					cs = "Zavřít okno";
 					de = "Fenster schließen";
