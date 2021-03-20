@@ -1965,6 +1965,17 @@
 					en = "SF Symbol Template";
 				};
 				url = "https://github.com/schriftgestalt/SFSymbolTemplate";
+			},
+			{
+				branch = glyphs3;
+				descriptions = {
+					en = "This is a plugin to export AutoCAD shape fonts.";
+				};
+				path = "AutoCADShapeExporter.glyphsFileFormat";
+				titles = {
+					en = "AutoCAD Shape Exporter";
+				};
+				url = "https://github.com/schriftgestalt/AutoCADShapeExporter";
 			}
 		);
 		scripts = (
