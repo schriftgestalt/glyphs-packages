@@ -2289,7 +2289,23 @@
 					en = FontTools;
 				};
 				url = "https://github.com/fonttools/fonttools";
-			}
+			},
+			{
+				identifier = paddle;
+				hidden = 1;
+				archs = (
+					intel,
+					arm,
+				);
+				descriptions = {
+					en = "A module required by some plugins to offer a trial period.";
+				};
+				minVersion = 3062;
+				titles = {
+					en = Paddle;
+				};
+				url = "https://github.com/Mark2Mark/paddle-framework";
+			},
 		);
 	};
 }
