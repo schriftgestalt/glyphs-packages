@@ -3,6 +3,43 @@
 		plugins = (
 			{
 				titles = {
+					ar = "نقل التحديد بمفاتيح الأسهم";
+					cs = "Posuňte výběr pomocí kláves se šipkami";
+					de = "Auswahl mit Pfeiltasten bewegen";
+					en = "Keyboard Selection Travel";
+					es = "Mueve la selección con las teclas de flecha";
+					fr = "Déplacer la sélection avec les touches fléchées";
+					it = "Sposta la selezione con i tasti freccia";
+					ja = "矢印キーで選択範囲を移動";
+					ko = "화살표 키로 선택 항목 이동";
+					pt = "Mova a seleção com as setas";
+					ru = "Перемещение выделения, используя клавиши со стрелками";
+					tr = "Ok tuşlarıyla seçimi taşıyın";
+					zh-Hans = "用方向键移动选择";
+					zh-Hant = "使用箭頭鍵移動選擇";
+				};
+				url = "https://github.com/florianpircher/Keyboard-Selection-Travel";
+				path = "Keyboard Selection Travel.glyphsPlugin";
+				descriptions = {
+					ar = "اضغط مع الاستمرار على مفتاح التحكم لنقل التحديد باستخدام مفاتيح الأسهم.";
+					cs = "Přidržte stisknutou klávesu Control a pomocí kláves se šipkami přesuňte výběr.";
+					de = "Halte die Control-Taste gedrückt, um mit den Pfeiltasten die Auswahl zu bewegen.";
+					en = "Hold down the Control key to move the selection with the arrow keys.";
+					es = "Mantén presionada la tecla Control para mover la selección con las teclas de flecha.";
+					fr = "Maintenez la touche Contrôle enfoncée pour déplacer la sélection à l'aide des touches fléchées.";
+					it = "Tieni premuto il tasto Control per spostare la selezione con i tasti freccia.";
+					ja = "Controlキーを押したまま、矢印キーで選択範囲を移動します。";
+					ko = "Control 키를 누른 상태에서 화살표 키로 선택 항목을 이동하세요.";
+					pt = "Mantenha premida a tecla para mover a seleção com as setas.";
+					ru = "Удерживайте нажатой клавишу Control, чтобы переместить выделение, используя клавиши со стрелками.";
+					tr = "Seçimi ok tuşlarıyla taşımak için Kontrol tuşunu basılı tutun.";
+					zh-Hans = "按住 Control 键可使用方向键移动所选内容。";
+					zh-Hant = "按住 Control 鍵可以使用箭頭鍵移動選擇。";
+				};
+				screenshot = "https://florianpircher.com/glyphs/plugins/keyboard-selection-travel/screenshot.png";
+			},
+			{
+				titles = {
 					en = "Guten Tag";
 				};
 				url = "https://github.com/florianpircher/GutenTag";
