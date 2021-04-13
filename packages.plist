@@ -2033,6 +2033,16 @@
 		scripts = (
 			{
 				descriptions = {
+					en = "- *Angularizzle:* takes lovingly crafted glyphs and disfigures their curves by sharp line. Visually it has something akin to Illustrator’s *Simplify* but is more nuanced.\n- *MasterBlaster:* takes a comma-separated list from input or local txt file and displays each entry in all available masters.\n- *CommonGlyphs:* prints glyphs common to all open fonts to the macro window by unicode, Glyphs NiceNames and ProductionNames.";
+				};
+				installName = "NaN-xyz";
+				titles = {
+					en = "NaN-xyz Scripts by Luke Prowse";
+				};
+				url = "https://github.com/NaN-xyz/GlyphsApp-Scripts";
+			},
+			{
+				descriptions = {
 					en = "Collection of Python scripts by Glyphs member Rainer Scheichelbauer (a. k. a. mekkablue). Also includes the former schriftgestalt scripts.";
 				};
 				donationURL = "https://ko-fi.com/mekkablue";
