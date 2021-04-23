@@ -2312,8 +2312,7 @@
 			},
 			{
 				descriptions = {
-					en = "The Python 3 runtime packaged for Glyphs.
-					";
+					en = "The Python 3 runtime packaged for Glyphs.\n❗️Make sure to check the selected python in Preferences > Addons > Python version";
 				};
 				minVersion = "3062";
 				titles = {
@@ -2334,7 +2333,7 @@
 			},
 			{
 				descriptions = {
-					en = "A Python library with objects that deal with data usually associated with fonts and type design.\n❗️Make sure to check the selected python in Preferences > Addons > Python version";
+					en = "A Python library with objects that deal with data usually associated with fonts and type design.";
 				};
 				path = "Lib/robofab";
 				titles = {
