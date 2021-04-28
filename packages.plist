@@ -2311,6 +2311,10 @@
 				url = "https://github.com/schriftgestalt/GlyphsPythonPlugin";
 			},
 			{
+				archs = (
+					intel,
+					arm
+				);
 				descriptions = {
 					en = "The Python 3 runtime packaged for Glyphs.\n❗️Make sure to check the selected python in Preferences > Addons > Python version";
 				};
