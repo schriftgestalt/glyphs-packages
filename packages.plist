@@ -1024,6 +1024,7 @@
 				url = "https://github.com/danielgamage/SelectionPalette";
 			},
 			{
+				branch = glyphs3;
 				descriptions = {
 					en = "*Filter > Trace Image* is a plugin to trace bitmap images into editable paths. You can choose between the [porace](http://potrace.sourceforge.net) and the [autotrace](http://autotrace.sourceforge.net) algorithm.";
 				};
