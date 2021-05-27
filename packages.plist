@@ -1141,6 +1141,17 @@
 			},
 			{
 				descriptions = {
+					en = "*View > Show Crosshair On Select* displays a crosshair at the centre of your selection. Use the context menu to access extra options: selection coordinates in the lower left corner, and showing intersection thicknesses.";
+				};
+				path = ShowCrosshairOnSelect.glyphsReporter;
+				screenshot = "https://github.com/weiweihuanghuang/ShowCrosshairOnSelect/raw/master/ShowCrosshair.png";
+				titles = {
+					en = "Show Crosshair On Select";
+				};
+				url = "https://github.com/weiweihuanghuang/ShowCrosshairOnSelect";
+			},
+			{
+				descriptions = {
 					en = "*View > Show Vertical Metrics* (de: *Vertikalmaße,* es: *métricas verticales,* fr: *Afficher mesures verticales*) displays vertical metric parameters set in *File > Font Info > Masters.*";
 				};
 				path = ShowVerticalMetrics.glyphsReporter;
