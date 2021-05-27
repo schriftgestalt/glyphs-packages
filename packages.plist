@@ -1141,17 +1141,6 @@
 			},
 			{
 				descriptions = {
-					en = "*View > Show Crosshair On Select* displays a crosshair at the centre of your selection. Use the context menu to access extra options: selection coordinates in the lower left corner, and showing intersection thicknesses.";
-				};
-				path = ShowCrosshairOnSelect.glyphsReporter;
-				screenshot = "https://github.com/weiweihuanghuang/ShowCrosshairOnSelect/raw/master/ShowCrosshair.png";
-				titles = {
-					en = "Show Crosshair On Select";
-				};
-				url = "https://github.com/weiweihuanghuang/ShowCrosshairOnSelect";
-			},
-			{
-				descriptions = {
 					en = "*View > Show Vertical Metrics* (de: *Vertikalmaße,* es: *métricas verticales,* fr: *Afficher mesures verticales*) displays vertical metric parameters set in *File > Font Info > Masters.*";
 				};
 				path = ShowVerticalMetrics.glyphsReporter;
@@ -1772,19 +1761,6 @@
 			},
 			{
 				descriptions = {
-					en = "*View > Show TrueType Curves* draws the contents of the active layer as quadratic curves in the background. This will give you an idea of how the points will be when exporting as TTF. (It is not the same conversion Glyphs does when exporting the fonts, so the results may vary a bit.)";
-					pt = "Desenha o conteúdo da camada ativa como curvas quadráticas no segundo plano. Isso te dará uma ideia de como os pontos ficarão ao exportar em TTF. (Não é a mesma conversão que o Glyphs faz ao exportar as fontes, por isso os resultados podem variar um pouco.)";
-				};
-				path = "Show TrueType Curves.glyphsReporter";
-				screenshot = "https://raw.githubusercontent.com/harbortype/ShowTrueTypeCurves/main/images/showTrueTypeCurves.png";
-				titles = {
-					en = "Show TrueType Curves";
-					pt = "Mostra Curvas TrueType";
-				};
-				url = "https://github.com/harbortype/ShowTrueTypeCurves";
-			},
-			{
-				descriptions = {
 					en = "*View > Show Center Lines* (de: *Mittellinien anzeigen,* es: *Mostrar lineas centrales,* fr: *Afficher lignes centrales*) will display a subtle crosshair in the middle of the current selection. Respects italic angle and Dark Mode. Add the center lines as guides via the context menu.";
 				};
 				path = ShowCenterLines.glyphsReporter;
@@ -2053,7 +2029,31 @@
 					en = "AutoCAD Shape Exporter";
 				};
 				url = "https://github.com/schriftgestalt/AutoCADShapeExporter";
-			}
+			},
+			{
+				descriptions = {
+					en = "*View > Show TrueType Curves* draws the contents of the active layer as quadratic curves in the background. This will give you an idea of how the points will be when exporting as TTF. (It is not the same conversion Glyphs does when exporting the fonts, so the results may vary a bit.)";
+					pt = "Desenha o conteúdo da camada ativa como curvas quadráticas no segundo plano. Isso te dará uma ideia de como os pontos ficarão ao exportar em TTF. (Não é a mesma conversão que o Glyphs faz ao exportar as fontes, por isso os resultados podem variar um pouco.)";
+				};
+				path = "Show TrueType Curves.glyphsReporter";
+				screenshot = "https://raw.githubusercontent.com/harbortype/ShowTrueTypeCurves/main/images/showTrueTypeCurves.png";
+				titles = {
+					en = "Show TrueType Curves";
+					pt = "Mostra Curvas TrueType";
+				};
+				url = "https://github.com/harbortype/ShowTrueTypeCurves";
+			},
+			{
+				descriptions = {
+					en = "*View > Show Crosshair On Select* displays a crosshair at the centre of your selection. Use the context menu to access extra options: selection coordinates in the lower left corner, and showing intersection thicknesses.";
+				};
+				path = ShowCrosshairOnSelect.glyphsReporter;
+				screenshot = "https://github.com/weiweihuanghuang/ShowCrosshairOnSelect/raw/master/ShowCrosshair.png";
+				titles = {
+					en = "Show Crosshair On Select";
+				};
+				url = "https://github.com/weiweihuanghuang/ShowCrosshairOnSelect";
+			},
 		);
 		scripts = (
 			{
