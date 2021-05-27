@@ -1761,6 +1761,19 @@
 			},
 			{
 				descriptions = {
+					en = "*View > Show TrueType Curves* draws the contents of the active layer as quadratic curves in the background. This will give you an idea of how the points will be when exporting as TTF. (It is not the same conversion Glyphs does when exporting the fonts, so the results may vary a bit.)";
+					pt = "Desenha o conteúdo da camada ativa como curvas quadráticas no segundo plano. Isso te dará uma ideia de como os pontos ficarão ao exportar em TTF. (Não é a mesma conversão que o Glyphs faz ao exportar as fontes, por isso os resultados podem variar um pouco.)";
+				};
+				path = "Show TrueType Curves.glyphsReporter";
+				screenshot = "https://raw.githubusercontent.com/harbortype/ShowTrueTypeCurves/main/images/showTrueTypeCurves.png";
+				titles = {
+					en = "Show TrueType Curves";
+					pt = "Mostra Curvas TrueType";
+				};
+				url = "https://github.com/harbortype/ShowTrueTypeCurves";
+			},
+			{
+				descriptions = {
 					en = "*View > Show Center Lines* (de: *Mittellinien anzeigen,* es: *Mostrar lineas centrales,* fr: *Afficher lignes centrales*) will display a subtle crosshair in the middle of the current selection. Respects italic angle and Dark Mode. Add the center lines as guides via the context menu.";
 				};
 				path = ShowCenterLines.glyphsReporter;
@@ -2138,9 +2151,9 @@
 				descriptions = {
 					en = "- *Add Extremes to Selection:* Adds extreme points to selected paths.\n- *Add Point Along Segment:* Adds points along selected segments at a specific position (time).\n- *Copy Master into Sublayer:* Copies a master into a sublayer of another master for the selected glyphs. Useful for creating COLR/CPAL color fonts.\n- *Create Centerline:* Creates a centerline between two selected paths. The paths should have opposite directions. If it doesn’t work as expected, try reversing one of the paths.\n- *Delete all layers for the current master:* Deletes all non-master layers for the current master (including bracket and brace layers) in selected glyphs.\n- *Duplicate Selected Nodes:* Creates a copy of the selected nodes and adds them in place.\n- *Duplicate Selected Nodes with Offcurve Points:* Creates a copy of the selected nodes, adds them in place and create zero-length offcurve points in between.\n- *Export Fonts into Subfolder:* Exports OTF and TTF at the same time into a specified subfolder.\n- *Interpolate Path with Itself:* Interpolates the path with itself. The fixed half will be the one with the start point. This script will be improved in the near future.\n- *Make Block Shadow:* Insert points on the tangents at a specific angle and extrude the path in the same direction, creating a block shadow effect.\n- *Make Component Glyph across All Layers:* Assembles the selected glyphs from components (the same as running the Make Component Glyph command for all layers) and removes all anchors.\n- *Make Next Node First:* Moves the start point of the selected path(s) to the next oncurve node. Specially useful if assigned to a keyboard shortcut.\n- *Make Previous Node First:* Moves the start point of the selected path(s) to the previous oncurve node. Specially useful if assigned to a keyboard shortcut.\n- *Open All Nodes:* Opens all nodes for the selected paths (or all paths if none are selected).\n- *Open Selected Nodes:* Opens the selected nodes.\n- *Rename Glyphs and Update Features:* Renames glyphs and updates all classes and features. Will match either the entire glyph name or the dot suffix.\n- *Reorder Axes:* Reorder axes and their values in masters, instances and special layers.\n- *SVG Export and SVG Import:* Generates SVGs from inside Glyphs with DrawBot, and reimports them for creating SVG color fonts.";
 				};
-				installName = Harbortype;
+				installName = "Harbor Type";
 				titles = {
-					en = "Harbortype Scripts by Henrique Beier";
+					en = "Harbor Type Scripts by Henrique Beier";
 				};
 				url = "https://github.com/harbortype/glyphs-scripts";
 			},
