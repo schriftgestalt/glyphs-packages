@@ -3,12 +3,22 @@
 		plugins = (
 			{
 				titles = {
+					en = Angularizzle;
+				};
+				url = "https://github.com/NaN-xyz/GlyphsApp-Filters";
+				path = "Angularizzle.glyphsFilter";
+				descriptions = {
+					en = "*Filter > Angularizzle* disfigures curves by sharp line. Visually it has something akin to Illustrator’s *Simplify* but is more nuanced. The *Keep detail* option attempts to protect the form’s integrity. Unselected it’s allowed to devolve down to brutish polygon. Custom parameters can be set to filter on the instance export rather than editing the font directly. In this way you can also have different settings for different sets of glyphs. This can be useful when dealing with relatively small paths such as diacritics or punctuation. Sample: `Angularize; segsize:120; detail:True;`";
+				};
+			},
+			{
+				titles = {
 					ar = "نقل التحديد بمفاتيح الأسهم";
 					cs = "Posuňte výběr pomocí kláves se šipkami";
 					de = "Auswahl mit Pfeiltasten bewegen";
 					en = "Keyboard Selection Travel";
 					es = "Mueve la selección con las teclas de flecha";
-					fr = "Déplacer la sélection avec les touches fléchées";
+					fr = "Déplacer la sélection avec les touches flèches";
 					it = "Sposta la selezione con i tasti freccia";
 					ja = "矢印キーで選択範囲を移動";
 					ko = "화살표 키로 선택 항목 이동";
@@ -47,10 +57,10 @@
 				descriptions = {
 					ar = "ضع علامة على الصور الرمزية الخاصة بك وتنقل بسرعة بين الصور الرمزية ذات الصلة.";
 					cs = "Označte své glyfy a rychle procházejte mezi souvisejícími glyfy.";
-					de = "Tagge deine Glyphen und navigiere schnell zwischen verwanten Glyphen.";
+					de = "Tagge deine Glyphen und navigiere schnell zwischen verwandten Glyphen.";
 					en = "Tag your glyphs and quickly navigate between related glyphs.";
 					es = "Etiqueta tus glifos y navega rápidamente entre los glifos relacionados.";
-					fr = "Marquez vos glyphes et naviguez rapidement entre les glyphes connexes.";
+					fr = "Marquez vos glyphes et naviguez rapidement entre les glyphes connectés.";
 					it = "Tagga i tuoi glifi e naviga rapidamente tra i glifi correlati.";
 					ja = "グリフにタグ付けして、関連するグリフ間をすばやく移動します。";
 					ko = "글리프에 태그를 지정하고 관련 글리프 사이를 빠르게 탐색하세요.";
