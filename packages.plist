@@ -2080,6 +2080,9 @@
 				descriptions = {
 					en = "Collection of Python scripts by Glyphs member Rainer Scheichelbauer (a. k. a. mekkablue). Also includes the former schriftgestalt scripts.";
 				};
+				dependencies = (
+					vanilla
+				);
 				donationURL = "https://ko-fi.com/mekkablue";
 				installName = mekkablue;
 				titles = {
@@ -2407,6 +2410,36 @@
 				};
 				url = "https://github.com/Mark2Mark/paddle-framework";
 			},
+			{
+				identifier = numpy;
+				hidden = 1;
+				archs = (
+					intel,
+					arm,
+				);
+				descriptions = {
+					en = "NumPy is the fundamental package for scientific computing in Python.";
+				};
+				titles = {
+					en = "NumPy";
+				};
+				url = "https://github.com/numpy/numpy";
+			},
+			{
+				identifier = matplotlib;
+				hidden = 1;
+				archs = (
+					intel,
+					arm,
+				);
+				descriptions = {
+					en = "Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python";
+				};
+				titles = {
+					en = "Matplotlib";
+				};
+				url = "https://github.com/matplotlib/matplotlib";
+			}
 		);
 	};
 }
