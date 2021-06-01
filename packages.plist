@@ -2068,7 +2068,7 @@
 		scripts = (
 			{
 				descriptions = {
-					en = "[NaN Glyph Filters](http://www.generativefonts.xyz/) is a collection of procedural font designs and the codebase to generate them within Glyphs.";
+					en = "[NaN Glyph Filters](http://www.generativefonts.xyz/) is a collection of procedural font designs and the codebase to generate them within Glyphs. *Attention: installation requires a big (potentially long) download and an app restart.*";
 				};
 				installName = "NaN Glyph Filters";
 				path = "NaNGlyphFilters";
@@ -2439,6 +2439,7 @@
 					en = "NumPy";
 				};
 				url = "https://github.com/numpy/numpy";
+				path = "numpy/lib";
 			},
 			{
 				identifier = matplotlib;
@@ -2454,6 +2455,7 @@
 					en = "Matplotlib";
 				};
 				url = "https://github.com/matplotlib/matplotlib";
+				path = "lib/matplotlib";
 			}
 		);
 	};
