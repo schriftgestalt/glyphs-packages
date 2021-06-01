@@ -2083,7 +2083,7 @@
 			},
 			{
 				descriptions = {
-					en = "- *Angularizzle:* takes lovingly crafted glyphs and disfigures their curves by sharp line. Visually it has something akin to Illustrator’s *Simplify* but is more nuanced.\n- *MasterBlaster:* takes a comma-separated list from input or local txt file and displays each entry in all available masters.\n- *CommonGlyphs:* prints glyphs common to all open fonts to the macro window by unicode, Glyphs NiceNames and ProductionNames. *Attention: also available as a filter.*";
+					en = "- *Angularizzle:* takes lovingly crafted glyphs and disfigures their curves by sharp line. Visually it has something akin to Illustrator’s *Simplify* but is more nuanced. *Attention: also available as a filter.*\n- *MasterBlaster:* takes a comma-separated list from input or local txt file and displays each entry in all available masters.\n- *CommonGlyphs:* prints glyphs common to all open fonts to the macro window by unicode, Glyphs NiceNames and ProductionNames.";
 				};
 				installName = "NaN-xyz";
 				titles = {
