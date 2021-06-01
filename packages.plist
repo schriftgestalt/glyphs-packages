@@ -2068,7 +2068,22 @@
 		scripts = (
 			{
 				descriptions = {
-					en = "- *Angularizzle:* takes lovingly crafted glyphs and disfigures their curves by sharp line. Visually it has something akin to Illustrator’s *Simplify* but is more nuanced.\n- *MasterBlaster:* takes a comma-separated list from input or local txt file and displays each entry in all available masters.\n- *CommonGlyphs:* prints glyphs common to all open fonts to the macro window by unicode, Glyphs NiceNames and ProductionNames.";
+					en = "[NaN Glyph Filters](http://www.generativefonts.xyz/) is a collection of procedural font designs and the codebase to generate them within Glyphs.";
+				};
+				installName = "NaN Glyph Filters";
+				path = "NaNGlyphFilters";
+				titles = {
+					en = "NaN Glyph Filters by Luke Prowse";
+				};
+				url = "https://github.com/NaN-xyz/Glyph-Filters";
+				dependencies = (
+					matplotlib,
+					numpy,
+				);
+			},
+			{
+				descriptions = {
+					en = "- *Angularizzle:* takes lovingly crafted glyphs and disfigures their curves by sharp line. Visually it has something akin to Illustrator’s *Simplify* but is more nuanced.\n- *MasterBlaster:* takes a comma-separated list from input or local txt file and displays each entry in all available masters.\n- *CommonGlyphs:* prints glyphs common to all open fonts to the macro window by unicode, Glyphs NiceNames and ProductionNames. *Attention: also available as a filter.*";
 				};
 				installName = "NaN-xyz";
 				titles = {
