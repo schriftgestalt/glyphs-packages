@@ -2068,7 +2068,7 @@
 		scripts = (
 			{
 				descriptions = {
-					en = "[NaN Glyph Filters](http://www.generativefonts.xyz/) is a collection of procedural font designs and the codebase to generate them within Glyphs. *Attention: installation requires a big (potentially long) download and an app restart.*";
+					en = "The [NaN Glyph Filters](http://www.generativefonts.xyz/) are a collection of procedural font designs and the codebase to generate them within Glyphs. *Attention: installation requires a big (potentially long) download and an app restart.*";
 				};
 				installName = "NaN Glyph Filters";
 				path = "NaNGlyphFilters";
