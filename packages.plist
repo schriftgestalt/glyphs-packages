@@ -13,6 +13,7 @@
 					zh-Hans = "对CJK字符元素快速拆解及分析。 [获取详情](https://github.com/3type/EOD/tree/master/Plugins/Plugin-Palette)";
 				};
 				minVersion = 3065;
+				screenshot = "https://raw.githubusercontent.com/3type/EOD/master/Plugins/Plugin-Palette/img/EOD-Demo-Disassemble.gif";
 			},
 			{
 				titles = {
