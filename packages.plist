@@ -981,6 +981,13 @@
 				screenshot = "https://raw.githubusercontent.com/simoncozens/ShowAnchorCloud/master/ShowAnchorCloud.png";
 			},
 			{
+				name = "FastScripts.glyphsPalette";
+				title = "FastScripts";
+				url = "https://github.com/ViktorRubenko/FastScripts";
+				description = "Add up to 20 of your favorite scripts for quick access from the right-side palette";
+				screenshot = "https://raw.githubusercontent.com/ViktorRubenko/FastScripts/master/FastScriptsScreenshot.png";
+			},
+			{
 				name = "LT-Global-Background.glyphsReporter";
 				title = "Leedotype Global Background";
 				url = "https://github.com/Leedotype/global-background";
