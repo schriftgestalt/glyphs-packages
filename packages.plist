@@ -3,6 +3,19 @@
 		plugins = (
 			{
 				titles = {
+					en = "Explosive Ordnance Disposal";
+					zh-Hans = "拆字小组";
+				};
+				url = "https://github.com/3type/EOD";
+				path = "Plugins/Plugin-Palette/EOD.glyphsPalette";
+				descriptions = {
+					en = "EOD is a Glyphs 3 palette designed to improve the efficiency of Chinese font designers. Provides easy-to-use glyph disassembly and analysis functions. See [the repository readme](https://github.com/3type/EOD/tree/master/Plugins/Plugin-Palette) for details.";
+					zh-Hans = "对CJK字符元素快速拆解及分析。 [获取详情](https://github.com/3type/EOD/tree/master/Plugins/Plugin-Palette)";
+				};
+				minVersion = 3065;
+			},
+			{
+				titles = {
 					en = Angularizzle;
 				};
 				url = "https://github.com/NaN-xyz/GlyphsApp-Filters";
@@ -36,7 +49,7 @@
 					de = "Halte die Control-Taste gedrückt, um mit den Pfeiltasten die Auswahl zu bewegen.";
 					en = "Hold down the Control key to move the selection with the arrow keys.";
 					es = "Mantén presionada la tecla Control para mover la selección con las teclas de flecha.";
-					fr = "Maintenez la touche Contrôle enfoncée pour déplacer la sélection à l'aide des touches fléchées.";
+					fr = "Maintenez la touche Contrôle enfoncée pour déplacer la sélection à l’aide des touches fléchées.";
 					it = "Tieni premuto il tasto Control per spostare la selezione con i tasti freccia.";
 					ja = "Controlキーを押したまま、矢印キーで選択範囲を移動します。";
 					ko = "Control 키를 누른 상태에서 화살표 키로 선택 항목을 이동하세요.";
