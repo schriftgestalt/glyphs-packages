@@ -3,6 +3,17 @@
 		plugins = (
 			{
 				titles = {
+					en = "FastScripts";
+				};
+				url = "https://github.com/ViktorRubenko/FastScripts";
+				path = "FastScripts.glyphsPalette";
+				descriptions = {
+					en = "Quickly run your favorite scripts from the side panel. It has three buttons: *Settings:* Set the required number of scripts (from 1 to 20), then restart Glyphs to apply the changes. *Add:* add the required script (.py file). *Save:* save the current set of scripts.";
+				};
+				screenshot = "https://raw.githubusercontent.com/ViktorRubenko/FastScripts/master/FastScriptsScreenshot.png";
+			},
+			{
+				titles = {
 					en = "Explosive Ordnance Disposal";
 					zh-Hans = "拆字小组";
 				};
