@@ -2105,6 +2105,7 @@
 					matplotlib,
 					numpy,
 				);
+				hidden = 1;
 			},
 			{
 				descriptions = {
