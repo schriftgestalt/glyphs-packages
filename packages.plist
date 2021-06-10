@@ -2130,6 +2130,9 @@
 					en = "mekkablue Scripts";
 				};
 				url = "https://github.com/mekkablue/Glyphs-Scripts";
+				dependencies = (
+					vanilla
+				);
 			},
 			{
 				descriptions = {
@@ -2363,6 +2366,9 @@
 					en = "Pedro Arilla’s Scripts";
 				};
 				url = "https://github.com/pedroarilla/glyphs-scripts";
+				dependencies = (
+					vanilla
+				);
 			},
 			{
 				descriptions = {
@@ -2373,6 +2379,16 @@
 					en = "Kyle Wayne Benson’s Scripts";
 				};
 				url = "https://github.com/kylewaynebenson/Glyphs-Scripts";
+			},
+			{
+				descriptions = {
+					en = "Scripts by Erik Moberg.\n- *Add Missing Composites for Stylistic Sets:* Add composite glyphs for letters in stylistic sets where the standard glyph is used as component. Useful to maintain consistency in glyph set when adding a new stylistic set.\n- *Make Component Smart:* Turn the selected components into smart components based on the axes defined in the font, thus making the interpolatable. Useful for e.g. small caps and ordinals, depending on your setup.\n- *New Tab with Glyphs Using Glyph(s) as Component:* Opens a new tab with all glyphs using selected glyphs as components. Same as *Show all glyphs that use…* in Edit view, but works for multiple glyphs. Each glyphs reports on a separate line of text.\n- *Set Kerning Groups for Composite Glyphs:* Sets missing kerning groups for selected composite glyphs based on included components (ignoring marks). Also works for ligatures.\n- *Lock/Unlock Glyphs:* Locks or unlocks selected glyphs, resulting in the same lock state for the entire selection.\n- *Toggle Glyph Lock:* Toggles the lock state for selected glyphs. Unlike the above, the lock state if not harmonized across the selection.\n- *Swap Glyph Names:* Exchanges the names of two selected glyphs. All other glyph data remains unchanged.\n- *Remove Annotation:* Deletes all annotation (in all layers) for selected glyphs.\n- *Reverse Selected Text:* Reverses (i.e. LTR ⇄ RTL) selected text in Edit view. Preserves layers shown and line breaks. Useful in LTR+RTL fonts so you can type test words without have to do it backwards.";
+				};
+				installName = "TypeNurse";
+				titles = {
+					en = "TypeNurse Scripts";
+				};
+				url = "https://github.com/TypeNurse/Glyphs-Scripts";
 			}
 		);
 		modules = (
