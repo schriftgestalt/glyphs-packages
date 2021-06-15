@@ -1856,7 +1856,8 @@
 			},
 			{
 				archs = (
-					intel
+					intel,
+					arm
 				);
 				branch = glyphs3;
 				descriptions = {
