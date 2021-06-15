@@ -2105,11 +2105,11 @@
 			{
 				branch = "glyphs3-binary";
 				descriptions = { 
-					en = "CritParty is a collaborative font editing plugin for the Glyphs font editor. Share an editing session with friends and colleagues, and work on a font together."
+					en = "CritParty is a collaborative font editing plugin for the Glyphs font editor. Share an editing session with friends and colleagues, and work on a font together.";
 				};
 				titles = {
 					en = "CritParty";
-				}
+				};
 				screenshot = "http://www.corvelsoftware.co.uk/images/critparty.png";
 				url = "https://github.com/simoncozens/CritParty";
 			}
