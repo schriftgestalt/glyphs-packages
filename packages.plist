@@ -993,6 +993,13 @@
 				url = "https://github.com/Leedotype/global-background";
 				screenshot = "https://raw.githubusercontent.com/Leedotype/global-background/main/images/screenshot.png";
 				description = "특정 글립의 아웃라인을 배경에 가이드로 깔아놓고 볼 수 있는 플러그인입니다. *보기* > *LT Global Background 보기* 를 눌러 실행합니다.\n\n  *View* > *Show LT Global Background* displays the outline of a selected glyph in the background, similar to the *Global Mask* functionality in Fontlab V.";
+			},
+			{
+				name = "Show TrueType Curves.glyphsReporter";
+				title = "Show TrueType Curves";
+				url = "https://github.com/harbortype/ShowTrueTypeCurves";
+				description = "*View > Show TrueType Curves* draws the contents of the active layer as quadratic curves in the background. This will give you an idea of how the points will be when exporting as TTF. By default it uses the static font TT conversion, the same as running the _Paths > Other > Convert to Quadratic_ command, but you can select the variable font conversion (slower) in the context menu.";
+				screenshot = "https://raw.githubusercontent.com/harbortype/ShowTrueTypeCurves/main/images/showTrueTypeCurves.png";
 			}
 		);
 	};
