@@ -80,27 +80,27 @@
 				url = "https://github.com/florianpircher/GutenTag";
 				path = "Guten Tag.glyphsPalette";
 				descriptions = {
-					ar = "ضع علامة على الصور الرمزية الخاصة بك وتنقل بسرعة بين الصور الرمزية ذات الصلة.";
-					cs = "Označte své glyfy a rychle procházejte mezi souvisejícími glyfy.";
-					de = "Tagge deine Glyphen und navigiere schnell zwischen verwandten Glyphen.";
-					en = "Tag your glyphs and quickly navigate between related glyphs.";
-					es = "Etiqueta tus glifos y navega rápidamente entre los glifos relacionados.";
-					fr = "Marquez vos glyphes et naviguez rapidement entre les glyphes connectés.";
-					it = "Tagga i tuoi glifi e naviga rapidamente tra i glifi correlati.";
-					ja = "グリフにタグ付けして、関連するグリフ間をすばやく移動します。";
-					ko = "글리프에 태그를 지정하고 관련 글리프 사이를 빠르게 탐색하세요.";
-					pt = "Marque os seus glifos e navegue rapidamente entre glifos relacionados.";
-					ru = "Присваивайте глифам метки, чтобы быстро находить нужные глифы.";
-					tr = "Glif’lerinizi etiketleyin ve ilgili glif’ler arasında hızla gezinin.";
-					zh-Hans = "为您的字形添加标签，以快速浏览相关字形。";
-					zh-Hant = "標記您的字形，並在相關字形之間快速導覽。";
+					ar = "ضع علامة على الصور الرمزية الخاصة بك وتنقل بسرعة بين الصور الرمزية ذات الصلة.اقرأ [دليل Guten Tag](https://florianpircher.com/glyphs/plugins/guten-tag/Handbook.pdf) لمعرفة التفاصيل.";
+					cs = "Označte své glyfy a rychle procházejte mezi souvisejícími glyfy. Podrobnosti najdete v [příručce Guten Tag](https://florianpircher.com/glyphs/plugins/guten-tag/Handbook.pdf).";
+					de = "Tagge deine Glyphen und navigiere schnell zwischen verwandten Glyphen. Lies das [Guten Tag Handbuch](https://florianpircher.com/glyphs/plugins/guten-tag/Handbook.pdf) für Details.";
+					en = "Tag your glyphs and quickly navigate between related glyphs. Read the [Guten Tag handbook](https://florianpircher.com/glyphs/plugins/guten-tag/Handbook.pdf) for details.";
+					es = "Etiqueta tus glifos y navega rápidamente entre los glifos relacionados. Lea el [manual de Guten Tag](https://florianpircher.com/glyphs/plugins/guten-tag/Handbook.pdf) para obtener más detalles.";
+					fr = "Marquez vos glyphes et naviguez rapidement entre les glyphes connectés. Lisez le [Manuel Guten Tag](https://florianpircher.com/glyphs/plugins/guten-tag/Handbook.pdf) pour plus de détails.";
+					it = "Tagga i tuoi glifi e naviga rapidamente tra i glifi correlati. Leggi il [Manuale di Guten Tag](https://florianpircher.com/glyphs/plugins/guten-tag/Handbook.pdf) per i dettagli.";
+					ja = "グリフにタグ付けして、関連するグリフ間をすばやく移動します。くわしくは [Guten Tag ハンドブック](https://florianpircher.com/glyphs/plugins/guten-tag/Handbook.pdf) をお読みください。";
+					ko = "글리프에 태그를 지정하고 관련 글리프 사이를 빠르게 탐색하세요. 자세한 내용은 [Guten Tag 핸드북](https://florianpircher.com/glyphs/plugins/guten-tag/Handbook.pdf)을 참조하세요.";
+					pt = "Marque os seus glifos e navegue rapidamente entre glifos relacionados. Leia o [manual Guten Tag](https://florianpircher.com/glyphs/plugins/guten-tag/Handbook.pdf) para mais detalhes.";
+					ru = "Присваивайте глифам метки, чтобы быстро находить нужные глифы. Подробности читайте в [Руководстве по Guten Tag](https://florianpircher.com/glyphs/plugins/guten-tag/Handbook.pdf).";
+					tr = "Glif’lerinizi etiketleyin ve ilgili glif’ler arasında hızla gezinin. Ayrıntılar için [Guten Tag el kitabını](https://florianpircher.com/glyphs/plugins/guten-tag/Handbook.pdf) okuyun.";
+					zh-Hans = "为您的字形添加标签，以快速浏览相关字形。请阅读[Guten Tag 手册](https://florianpircher.com/glyphs/plugins/guten-tag/Handbook.pdf)以了解详细信息。";
+					zh-Hant = "標記您的字形，並在相關字形之間快速導覽。詳情請閱讀 [Guten Tag 手冊](https://florianpircher.com/glyphs/plugins/guten-tag/Handbook.pdf)。";
 				};
 				screenshot = "https://florianpircher.com/glyphs/plugins/guten-tag/screenshot.png";
 				minVersion = 3066;
 			},
 			{
 				titles = {
-					ar = "إغلاق نافذ";
+					ar = "إغلاق النافذة";
 					cs = "Zavřít okno";
 					de = "Fenster schließen";
 					en = "Close Window";
@@ -118,8 +118,20 @@
 				url = "https://github.com/florianpircher/Close-Window";
 				path = "Close Window.glyphsPlugin";
 				descriptions = {
-					de = "Fügt die Funktion *Fenster schließen* zum Datei-Menü hinzu, welche das aktuelle Schrift-Fenster schließt.";
-					en = "Adds a *Close Window* command to the *File* menu which closes the current font window.";
+					ar = "يضيف أمر «إغلاق النافذة» إلى قائمة «ملف» التي تغلق النافذة الأمامية الحالية.";
+					cs = "Přidá příkaz *Zavřít okno* do nabídky *Soubor*, který zavře aktuální okno písma.";
+					de = "Fügt die Funktion *Fenster schließen* zum *Datei*-Menü hinzu, welche das aktuelle Schrift-Fenster schließt.";
+					en = "Adds a *Close Window* command to the *File* menu which closes the current font window.";
+					es = "Añade un comando *Cerrar ventana* al menú *Archivo* que cierra la ventana de fuente actual.";
+					fr = "Ajoute une commande *Fermer la fenêtre* au menu *Fichier* qui ferme la fenêtre de police actuelle.";
+					it = "Aggiunge un comando *Chiudi la finestra* al menu *File* che chiude la finestra del carattere corrente.";
+					ja = "「ファイル」メニューに、現在のフォントウインドウを閉じる機能の「ウィンドウを閉じる」コマンドを追加します。";
+					ko = "현재 글꼴 창을 닫는 “창 닫기” 명령을 “파일” 메뉴에 추가합니다.";
+					pt = "Adiciona um comando *Fechar Janela* ao menu *Ficheiro* que fecha a janela da fonte atual.";
+					ru = "Добавляет в меню *Файл* команду *Закрыть окно*, которая закрывает окно текущего шрифта.";
+					tr = "Mevcut yazı tipi penceresini kapatan *Dosya* menüsüne bir *Pencereyi kapat* komutu ekler.";
+					zh-Hans = "在关闭当前字体窗口的“文件”菜单中添加“关闭窗口”命令。";
+					zh-Hant = "在關閉目前字型視窗的「檔案」選單中新增「關閉視窗」命令。";
 				};
 				screenshot = "https://florianpircher.com/glyphs/plugins/close-window/screenshot.png";
 			},
