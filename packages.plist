@@ -360,21 +360,21 @@
 				url = "https://github.com/Mark2Mark/variable-font-preview";
 				minVersion = 3062;
 			},
-			{
-				dependencies = (
-					paddle
-				);
-				descriptions = {
-					en = "Recyclers now available for Glyphs 3. This is a fully functional 30 days trial. What are you waiting for?";
-				};
-				path = "Show Recyclers.glyphsReporter";
-				screenshot = "https://github.com/Mark2Mark/recyclers/blob/main/.images/recyclers.jpg?raw=true";
-				titles = {
-					en = "Recyclers 3";
-				};
-				url = "https://github.com/Mark2Mark/recyclers";
-				minVersion = 3062;
-			},
+//			{
+//				dependencies = (
+//					paddle
+//				);
+//				descriptions = {
+//					en = "Recyclers now available for Glyphs 3. This is a fully functional 30 days trial. What are you waiting for?";
+//				};
+//				path = "Show Recyclers.glyphsReporter";
+//				screenshot = "https://github.com/Mark2Mark/recyclers/blob/main/.images/recyclers.jpg?raw=true";
+//				titles = {
+//					en = "Recyclers 3";
+//				};
+//				url = "https://github.com/Mark2Mark/recyclers";
+//				minVersion = 3062;
+//			},
 			{
 				descriptions = {
 					en = "*View > Show Smart Plumblines* (de: *Intelligente Lotschnur anzeigen,* fr: *Afficher lignes intelligentes de construction,* es: *Mostrar líneas inteligentes de construcción*) displays **live guidelines** at the center of each paths’ (red) and components’ (grey) bounding box.\nIf you select anything, it also displays the center of that selection (blue dashed).\nOne major feature is that the guidelines **automatically match your italic angle**.\nThis is useful for aligning objects by sight. As well as:\n\n- Align multiple paths and/or components\n- Setting up horizontal positions of anchors\n- Editing segments while easily keeping italic angle, etc.";
