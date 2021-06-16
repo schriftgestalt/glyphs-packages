@@ -10,6 +10,8 @@ Repository for collecting all available plug-ins for Glyphs. What is registered 
 
 Separate multiple entries with commas. Best place to put it is right behind the closing curly brace `}` at the end of the entry.
 
+Please add new entries to the end of the list. 
+
 #### Required Fields
 
 - **path:** the file path including the file name of the plug-in in the repository, including the dot suffix. The name until the dot will be used as title in the Plugin Manager window, unless *titles* are explicitly set (see below).
