@@ -2395,7 +2395,8 @@
 				titles = {
 					en = "Jeremy Tribby’s Scripts";
 				};
-				url = "https://github.com/jpt/font-scripts/Glyphs";
+				url = "https://github.com/jpt/font-scripts/";
+				path = "Glyphs";
 			},
 			{
 				descriptions = {
