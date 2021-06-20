@@ -2433,6 +2433,16 @@
 					en = "TypeNurse Scripts";
 				};
 				url = "https://github.com/TypeNurse/Glyphs-Scripts";
+			},
+			{
+				descriptions = {
+					en = "Scripts by Alex Slobzheninov.\n- *Align, Reflect and Rotate:* Align and reflect nodes and handles. Useful with keyboard shortcuts.\n- *Preferred Names:* Sets preferredFamily and preferredSubfamily instance custom parameters. Useful for office apps compatibility.\n- *Dark Mode:* Toggles dark mode on and off.\n- *Demo Instance Generator:* Generates instances with limited character set from active instances, adds “Demo” suffix, removes features and OT classes accordingly.\n- *Text Filter:* Removes all characters from a text except selected ones. Useful for testing WIP fonts with limited character set.\n- *Dangerous Offcurves:* Finds layers containing BCPs that are dangerously close to their curve segment. They can cause problems with TrueType conversion for variable fonts.";
+				};
+				installName = "Alex Slobzheninov";
+				titles = {
+					en = "Scripts by Alex Slobzheninov";
+				};
+				url = "https://github.com/slobzheninov/Glyphs-Scripts";
 			}
 		);
 		modules = (
