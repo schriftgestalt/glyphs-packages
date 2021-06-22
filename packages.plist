@@ -2134,7 +2134,7 @@
 					en = "Green Harmony moves selected green on-curve nodes to their G2 position, creating a harmonized transition from one curve segment to the next. Or *all* green nodes if none are selected.";
 				};
 				path = "GreenHarmony.glyphsFilter";
-				screenshot = "https://github.com/slobzheninov/GreenHarmony/raw/master/GreenHarmonyScreenshot.png";
+				screenshot = "https://raw.githubusercontent.com/slobzheninov/GreenHarmony/main/GreenHarmonyScreenshot.png";
 				titles = {
 					en = "Green Harmony";
 					de = "Grüne Harmonie";
