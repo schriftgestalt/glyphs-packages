@@ -8,7 +8,8 @@
 				url = "https://github.com/ViktorRubenko/FastScripts";
 				path = "FastScripts.glyphsPalette";
 				descriptions = {
-					en = "Quickly run your favorite scripts from the side panel. It has three buttons: *Settings:* Set the required number of scripts (from 1 to 20), then restart Glyphs to apply the changes. *Add:* add the required script (.py file). *Save:* save the current set of scripts.";
+					en = "Quickly run your favorite scripts from the side panel.";
+					ru = "Запускайте ваши любимые скрипты из боковой панели.";
 				};
 				screenshot = "https://raw.githubusercontent.com/ViktorRubenko/FastScripts/master/FastScriptsScreenshot.png";
 			},
