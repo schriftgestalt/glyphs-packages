@@ -918,7 +918,7 @@
 				};
 				path = Unitizer.glyphsReporter;
 				screenshot = "https://raw.githubusercontent.com/impallari/Unitizer/master/unitizer01.png";
-				url = "https://github.com/impallari/Unitizer";
+				url = "https://github.com/schriftgestalt/Unitizer";
 			},
 			{
 				descriptions = {
