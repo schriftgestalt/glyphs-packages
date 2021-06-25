@@ -914,7 +914,7 @@
 			},
 			{
 				descriptions = {
-					en = "*View > Show Unitizer* displays unit guidelines in the background (correspondong to a value that you can configure at will) of the current glyph in Edit view. This is helpful for working in unitized fonts.";
+					en = "*View > Show Unitizer* displays unit guidelines in the background (corresponding to a value that you can configure at will) of the current glyph in Edit view. This is helpful for working in unitized fonts.";
 				};
 				path = Unitizer.glyphsReporter;
 				screenshot = "https://raw.githubusercontent.com/impallari/Unitizer/master/unitizer01.png";
@@ -950,7 +950,7 @@
 			},
 			{
 				descriptions = {
-					en = "*View > Show Rekha* shows a Rekha line in Bengali, Devanagari and Gumurkhi letters. It takes its values from a custom parameter in *File > Font Info > Masters* called *Rekha*, with comma-separated values for height, thickness and overshoot. If a *rekha* anchor is present in the glyph, it will use it as the left edge of the Rekha line.";
+					en = "*View > Show Rekha* shows a Rekha line in Bengali, Devanagari and Gurmukhi letters. It takes its values from a custom parameter in *File > Font Info > Masters* called *Rekha*, with comma-separated values for height, thickness and overshoot. If a *rekha* anchor is present in the glyph, it will use it as the left edge of the Rekha line.";
 				};
 				path = RekhaViewer.glyphsReporter;
 				screenshot = "https://raw.githubusercontent.com/mekkablue/Rekha/master/RekhaViewer.png";
@@ -961,7 +961,7 @@
 			},
 			{
 				descriptions = {
-					en = "*Filter > RekhaMaker* inserts a Rekha line in Bengali, Devanagari and Gumurkhi letters. Supply values for height, thickness and overshoot, and press the *Insert* button. If a *rekha* anchor is present in the glyph, it will use it as the left edge of the Rekha line.";
+					en = "*Filter > RekhaMaker* inserts a Rekha line in Bengali, Devanagari and Gurmukhi letters. Supply values for height, thickness and overshoot, and press the *Insert* button. If a *rekha* anchor is present in the glyph, it will use it as the left edge of the Rekha line.";
 				};
 				path = RekhaMaker.glyphsFilter;
 				screenshot = "https://raw.githubusercontent.com/mekkablue/Rekha/master/RekhaMaker.png";
