@@ -1517,6 +1517,11 @@
 				url = "https://github.com/schriftgestalt/FramesPerSecond";
 			},
 			{
+				dependencies = (
+					fontTools,
+					vanilla,
+					robofab
+				);
 				descriptions = {
 					en = "Helps analyzing and fixing the consistency of kerning across all masters.";
 				};
