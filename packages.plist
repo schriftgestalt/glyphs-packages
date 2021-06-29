@@ -2469,6 +2469,16 @@
 					en = "Alex Slobzheninov’s Scripts";
 				};
 				url = "https://github.com/slobzheninov/Glyphs-Scripts";
+			},
+			{
+				descriptions = {
+					en = "Scripts by Hugo Jourdan\n- *Font Dashboard* allows you to follow your progress based on the layer colors in your font. Attention: *layer* color, not glyph color. To set the layer color, you have to right-click with the Option key.";
+				};
+				installName = "Hugo Jourdan";
+				titles = {
+					en = "Font Dashboard";
+				};
+				url = "https://github.com/HugoJourdan/Glyphs-Script";
 			}
 		);
 		modules = (
