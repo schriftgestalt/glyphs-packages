@@ -2154,6 +2154,18 @@
 				};
 				url = "https://github.com/slobzheninov/GreenHarmony";
 				minVersion = 3088;
+			},
+			{
+				descriptions = {
+					en = "The Text View Width palette allows to set the view width relative to the width of a given glyph. This means that the line breaks will appear about the same for all masters. The plug-in dynamically updates the width when you switch between masters. It uses the following input format: `20 H` or `15 space` etc., which means 20 times the width of the glyph `H` or 15 times the width of the `space` glyph. You can also set the width in units (the same way as in *Glyphs > Preferences > Appearance*). To turn the plug-in off, leave the input empty.";
+				};
+				path = "Text View Width.glyphsPalette";
+				screenshot = "https://user-images.githubusercontent.com/60325634/126040652-b8e1c324-b403-41e0-b6b3-3f8f49397dca.png";
+				titles = {
+					en = "Text View Width";
+				};
+				url = "https://github.com/slobzheninov/TextViewWidth";
+				minVersion = 3091;
 			}
 		);
 		scripts = (
