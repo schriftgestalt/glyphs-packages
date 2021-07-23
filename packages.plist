@@ -2491,7 +2491,18 @@
 					en = "Font Dashboard";
 				};
 				url = "https://github.com/HugoJourdan/Glyphs-Script";
-			}
+			},
+			{
+				descriptions = {
+					en = "Confusify by Luke Prowse generates fonts that, when typed, automatically swap confusables for the original. A confusable is a glyph that is so similar to another that it may be confused for it: ſ for f, Ꮟ for b or strung together as 5໐meтhiתg 1ıк℮ τհiՏ. All confusables generated are existing characters in the source font.";
+				};
+				installName = "Confusify";
+				titles = {
+					en = "Confusify";
+				};
+				url = "https://github.com/NaN-xyz/Confusify";
+				path = "GlyphApp Scripts/Confusables";
+			},
 		);
 		modules = (
 			{
