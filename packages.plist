@@ -2019,39 +2019,6 @@
 			},
 			{
 				descriptions = {
-					en = "*LT-Toolkit-Manager* lets you use your other Leedotype plugins. *Edit > Leedotype Plugins > Login* to log in in the Glyphs app. Visit Github repository or send email to hyunwoong.kang@leedotype.com for more information.";
-				};
-				path = "LT-Toolkit-Manager.glyphsPlugin";
-				screenshot = "https://raw.githubusercontent.com/hwoongkang/LT-Toolkit-Manager/master/images/login.png";
-				titles = {
-					en = "Leedotype Toolkit Manager";
-				};
-				url = "https://github.com/hwoongkang/LT-Toolkit-Manager";
-			},
-			{
-				descriptions = {
-					en = "*LT-Hangul-Combination* lets you choose Hangul glyphs in a more systematic way.";
-				};
-				path = "LT-Hangul-Combination.glyphsPalette";
-				screenshot = "https://raw.githubusercontent.com/hwoongkang/LT-Hangul-Combination/master/images/usage.png";
-				titles = {
-					en = "Leedotype Hangul Combination";
-				};
-				url = "https://github.com/hwoongkang/LT-Hangul-Combination";
-			},
-			{
-				descriptions = {
-					en = "*Edit > Leedotype Plugins > LT Component Manager* provides you a more efficient way to modify your smart component axes values. Note that *LT-Toolkit-Manager* is needed to use this plugin.";
-				};
-				path = "LT-Component-Manager.glyphsPlugin";
-				screenshot = "https://raw.githubusercontent.com/hwoongkang/LT-Component-Manager/master/images/modify-options.png";
-				titles = {
-					en = "Leedotype Component Manager";
-				};
-				url = "https://github.com/hwoongkang/LT-Component-Manager";
-			},
-			{
-				descriptions = {
 					en = "*View > Show Backdrop* displays similar glyphs in the background. This makes it easier to keep your glyphs consistent.";
 				};
 				path = Backdrop.glyphsReporter;
@@ -2166,6 +2133,17 @@
 				};
 				url = "https://github.com/slobzheninov/TextViewWidth";
 				minVersion = 3091;
+			},
+			{
+				descriptions = {
+					en = "*View* > *Show LT Global Background* displays the outline of a selected glyph in the background, similar to the *Global Mask* functionality in Fontlab V.";
+				};
+				path = "LT-Global-Background.glyphsReporter";
+				titles = {
+					en = "Leedotype Global Background";
+				};
+				url = "https://github.com/Leedotype/global-background";
+				screenshot = "https://raw.githubusercontent.com/Leedotype/global-background/main/images/screenshot.png";
 			}
 		);
 		scripts = (
