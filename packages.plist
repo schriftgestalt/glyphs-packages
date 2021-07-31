@@ -1873,10 +1873,6 @@
 				url = "https://github.com/mekkablue/BaseReductor";
 			},
 			{
-				archs = (
-					intel,
-					arm
-				);
 				branch = glyphs3;
 				descriptions = {
 					en = "Multitool providing curvature visualization, curve harmonization, Tunni line manipulation, path simplification, digital callipers and more";
