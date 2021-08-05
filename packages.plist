@@ -2132,7 +2132,7 @@
 			},
 			{
 				descriptions = {
-					en = "*View* > *Show LT Global Background* displays the outline of a selected glyph in the background, similar to the *Global Mask* functionality in Fontlab V.";
+					en = "*View > Show LT Global Background* displays the outline of a selected glyph in the background, similar to the *Global Mask* functionality in Fontlab V.";
 				};
 				path = "LT-Global-Background.glyphsReporter";
 				titles = {
@@ -2140,6 +2140,22 @@
 				};
 				url = "https://github.com/Leedotype/global-background";
 				screenshot = "https://raw.githubusercontent.com/Leedotype/global-background/main/images/screenshot.png";
+			},
+			{
+				descriptions = {
+					en = "*Distribute* (de: *Verteilen,* fr: *Répartir,* es: *Distribuir,* pt: *Distribuir,* cs: *Rozložit*) is a palette for distributing shapes.";
+				};
+				path = "Distribute.glyphsPalette";
+				titles = {
+					en = 'Distribute';
+					de = 'Verteilen';
+					fr = 'Répartir';
+					es = 'Distribuir';
+					pt = 'Distribuir';
+					cs = 'Rozložit';
+				};
+				url = "https://github.com/mekkablue/Distribute";
+				screenshot = "https://raw.githubusercontent.com/mekkablue/Distribute/main/Distribute.png";
 			}
 		);
 		scripts = (
