@@ -2143,7 +2143,7 @@
 			},
 			{
 				descriptions = {
-					en = "*Distribute* (de: *Verteilen,* fr: *Répartir,* es: *Distribuir,* pt: *Distribuir,* cs: *Rozložit*) is a palette for distributing shapes.";
+					en = "*Distribute* (de: *Verteilen,* fr: *Répartir,* es: *Distribuir,* pt: *Distribuir,* cs: *Rozložit,* zh: 重新排列) is a palette for distributing shapes.";
 				};
 				path = "Distribute.glyphsPalette";
 				titles = {
