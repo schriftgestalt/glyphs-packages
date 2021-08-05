@@ -2514,7 +2514,7 @@
 					arm
 				);
 				descriptions = {
-					en = "The Python 3 runtime packaged for Glyphs.\n❗️Make sure to check the selected python in Preferences > Addons > Python version";
+					en = "The Python 3 runtime packaged for Glyphs.\n⚠️ Verify the selected Python in *Glyphs > Preferences > Addons > Python version.* To use this one, make sure you pick the one that says ‘Glyphs’ after the version number.";
 				};
 				minVersion = "3062";
 				titles = {
