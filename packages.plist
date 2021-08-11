@@ -2253,6 +2253,7 @@
 					en = "Huerta Tipografica Letterspacer";
 				};
 				url = "https://github.com/huertatipografica/HTLetterspacer";
+				branch = glyphs3;
 			},
 			{
 				descriptions = {
