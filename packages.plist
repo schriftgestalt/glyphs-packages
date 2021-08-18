@@ -2495,6 +2495,16 @@
 				url = "https://github.com/NaN-xyz/Confusify";
 				path = "GlyphApp Scripts/Confusables";
 			},
+			{
+				descriptions = {
+					en = "Scripts by Federico Parra Barrios\n- *Scrambler:* Creates a new tab with a generated random sequence of selected glyphs.\n- *Masters Overview:* Creates a new tab with rows of selected glyphs in all available masters. Ignores special layers. Useful for comparing the different weights of a typeface.\n- *Dark Mode Switch:* Switches between normal and dark mode.\n- *Control Characters:* Creates a new tab with selected glyphs between control characters “n” and “o”.\n- *Nested Components:* Creates a new tab with glyphs that have nested components.\n- *Color Nested Components:* Colors glyph layers that have nested components.\n- *Color Glyphs:* Colors glyphs to differentiate if they are Base Glyphs, Composites or Mixed Composites.\n- *Color Layers:* Colors glyph layers to differentiate if they are Base Glyphs, Composites or Mixed Composites.";
+				};
+				installName = "Federico Parra Barrios";
+				titles = {
+					en = "Federico Parra Barrios’s Scripts";
+				};
+				url = "https://github.com/FEDER-CO/Glyphs-Scripts";
+			},			
 		);
 		modules = (
 			{
