@@ -2156,6 +2156,24 @@
 				};
 				url = "https://github.com/mekkablue/Distribute";
 				screenshot = "https://raw.githubusercontent.com/mekkablue/Distribute/main/Distribute.png";
+			},
+			{
+				descriptions = {
+					en = "*Filter > Clean Up Lines* (de: *Linien aufräumen,* fr: *Nettoyer les lignes,* es: *Limpiar líneas,* pt: *Limpar linhas,* jp: ラインをクリーンアップ, ko: 라인 정리, zh: 清理线路) will remove all (blue) on-curve points between two line segments if the two segments form an angle smaller than the given threshold.";
+				};
+				path = "CleanUpLines.glyphsFilter";
+				titles = {
+					en = 'Clean Up Lines';
+					de = 'Linien aufräumen';
+					fr = 'Nettoyer les lignes';
+					es = 'Limpiar líneas';
+					pt = 'Limpar linhas';
+					jp = 'ラインをクリーンアップ';
+					ko = '라인 정리';
+					zh = '清理线路';
+				};
+				url = "https://github.com/mekkablue/CleanUpLines";
+				screenshot = "https://raw.githubusercontent.com/mekkablue/CleanUpLines/main/cleanuplines.png";
 			}
 		);
 		scripts = (
