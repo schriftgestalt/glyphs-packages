@@ -228,30 +228,30 @@
 				};
 				url = "https://github.com/joachimvu/ItalicExtremes";
 			},
-			{
-				descriptions = {
-					en = "*View > HOI Viewer* is a kink-proofer useful for previewing designspaces. It is capable of previewing at a specific location in the designspace or along an entire axis (HOI or regular).";
-				};
-				path = "Plugins/HOI Viewer.glyphsReporter";
-				repoFolder = mjlagattuta;
-				screenshot = "https://raw.githubusercontent.com/mjlagattuta/Glyphs-Scripts/master/Plugins/images/HOIViewer.png";
-				titles = {
-					en = "HOI Viewer";
-				};
-				url = "https://github.com/mjlagattuta/Glyphs-Scripts";
-			},
-			{
-				descriptions = {
-					en = "*View > VizBez* converts polylines to nth-order bezier curves depending on the number of points and draws lines between them in increments of t. Useful for matching speed between orders of curvature (in a HOI setup) to create kink free interpolation.";
-				};
-				path = "Plugins/VizBez.glyphsReporter";
-				repoFolder = mjlagattuta;
-				screenshot = "https://raw.githubusercontent.com/mjlagattuta/Glyphs-Scripts/master/Plugins/images/VizBez.png";
-				titles = {
-					en = VizBez;
-				};
-				url = "https://github.com/mjlagattuta/Glyphs-Scripts";
-			},
+			// {
+			// 	descriptions = {
+			// 		en = "*View > HOI Viewer* is a kink-proofer useful for previewing designspaces. It is capable of previewing at a specific location in the designspace or along an entire axis (HOI or regular).";
+			// 	};
+			// 	path = "Plugins/HOI Viewer.glyphsReporter";
+			// 	repoFolder = mjlagattuta;
+			// 	screenshot = "https://raw.githubusercontent.com/mjlagattuta/Glyphs-Scripts/master/Plugins/images/HOIViewer.png";
+			// 	titles = {
+			// 		en = "HOI Viewer";
+			// 	};
+			// 	url = "https://github.com/mjlagattuta/Glyphs-Scripts";
+			// },
+			// {
+			// 	descriptions = {
+			// 		en = "*View > VizBez* converts polylines to nth-order bezier curves depending on the number of points and draws lines between them in increments of t. Useful for matching speed between orders of curvature (in a HOI setup) to create kink free interpolation.";
+			// 	};
+			// 	path = "Plugins/VizBez.glyphsReporter";
+			// 	repoFolder = mjlagattuta;
+			// 	screenshot = "https://raw.githubusercontent.com/mjlagattuta/Glyphs-Scripts/master/Plugins/images/VizBez.png";
+			// 	titles = {
+			// 		en = VizBez;
+			// 	};
+			// 	url = "https://github.com/mjlagattuta/Glyphs-Scripts";
+			// },
 			{
 				descriptions = {
 					en = "Magic Remover (de: *Magic-Löscher,* es: *Borrador magico,* fr: *Gomme magique,* pt: *Apagador mágico*) is a button in the right-hand side palette that enables multiple-master deletion of selected nodes, anchors and components. Deleting (any number of) nodes will try to keep the shape, similar to what happens when you individually delete nodes.";
