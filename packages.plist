@@ -1237,17 +1237,6 @@
 			},
 			{
 				descriptions = {
-					en = "Component drawing tool that makes designing pixel-based fonts easier. Schriftgestalt's Pixel Tool is a similar alternate, but this one guides you more closely by setting up the source file suited for pixelation. It also has auto-eraser function.";
-				};
-				path = PixelPenTool.glyphsTool;
-				screenshot = "https://raw.githubusercontent.com/Tosche/PixelPenTool/master/Images/PixelPenTool.gif";
-				titles = {
-					en = "Pixel Pen Tool";
-				};
-				url = "https://github.com/Tosche/PixelPenTool";
-			},
-			{
-				descriptions = {
 					en = "*View > Show Black Fill* (de = *Schwarze Füllung anzeigen,* fr = *Afficher remplissage noir,* es = *Mostrar relleno negro*) shows the outline in near-black colour. It is an alternative of Mekkablue’s *Show Filled Preview,* for those who want a darker and sharper version.";
 				};
 				path = ShowBlackFill.glyphsReporter;
