@@ -574,6 +574,13 @@
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/show-stem-rhythm/master/Stem%20Rhythm%20-%20Mark%20Fromberg%2001.png";
 			},
 			{
+				name = "ShowNodeCount.glyphsReporter";
+				title = "Show Node Count";
+				url = "https://github.com/Mark2Mark/Show-Node-Count";
+				descriptions = "*View > Show Node Count* Does what the name says 😅.";
+				screenshot = "https://github.com/Mark2Mark/Glyphsapp-Plugins/raw/Screenshots/ShowNodeCount/Screenshots/ShowNodeCount_Mark-Froemberg.gif";
+			},
+			{
 				name = "Backuper.glyphsPlugin";
 				url = "https://github.com/schriftgestalt/Backuper";
 				description = "A plugin that makes a copy of the file if opened in a new version of Glyphs";
