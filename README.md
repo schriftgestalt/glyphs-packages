@@ -33,7 +33,7 @@ Please add new entries to the end of the list.
   * `zh-Hans`: Chinese (simplified, mainland China)
   * `zh-Hant`: Chinese (traditional, Taiwan)
 
-```plist
+```text
 descriptions = {
 	en = "*Filter > Insert Inflections* inserts nodes on all inflections of all selected glyphs. This is useful for monoline workflows, where inflected paths need to be expanded to a closed stroke; and for conversion into TrueType outlines.";
 	de = "*Filter > Inflektionspunkte einfügen* fügt Punkte an den Wendestellen aller Kurven aller ausgewählter Glyphen ein. Nützlich für lineare Strich-Designs (»Monolines«) mit offenen Skelett-Pfaden, die erst zu Flächen erweitert werden müssen (exakteres Expansionsergebnis); und vor der Konvertierung in TrueType-Pfade.";
