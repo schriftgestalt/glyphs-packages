@@ -54,7 +54,9 @@ titles = {
 - **minSystemVersion:** minimum macOS version, use dumb quotes for the value, e.g. `"10.11"`. Useful if you use a (Py)ObjC method that has been introduced or deprecated in a certain macOS version.
 - **maxSystemVersion:** maximum macOS version, use dumb quotes for the value, e.g. `"10.12"`. Useful if you use a (Py)ObjC method that has been introduced or deprecated in a certain macOS version.
 - **branch:** name of the branch in which Plugin Manager is supposed to look for the plug-in file. Default is `master`.
+- **installName:** UI name of a script collection as it will appear in the *Script* menu. If not set, will default to `path`.
 - **localPath:** the relative path with which the repository will be saved in the *Repositories*  subfolder. Useful for alphabetically grouping repos for better management. We recommend to prefix Script repositories with `Scripts` so they sort together.
+- **donationURL:** URL to your micropayment site. Will show up as donation link in *Window > Plugin Manager.*
 
 #### Conventions
 
