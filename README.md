@@ -57,6 +57,8 @@ titles = {
 - **installName:** UI name of a script collection as it will appear in the *Script* menu. If not set, will default to `path`.
 - **localPath:** the relative path with which the repository will be saved in the *Repositories*  subfolder. Useful for alphabetically grouping repos for better management. We recommend to prefix Script repositories with `Scripts` so they sort together.
 - **donationURL:** URL to your micropayment site. Will show up as donation link in *Window > Plugin Manager.*
+- **archs:** list of supported CPU architectures for the plug-in. Currently, can take `intel` and `arm` as possible arguments.
+- **dependencies:** list of module names that are required for the plug-in or scripts in question, e.g., `vanilla` or `fontTools`.
 
 #### Conventions
 
