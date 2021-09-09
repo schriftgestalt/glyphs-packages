@@ -16,6 +16,13 @@
 				screenshot = "https://raw.githubusercontent.com/mekkablue/MagicRemove/master/MagicRemove.png";
 			},
 			{
+				name = "ShowGuideSheets.glyphsReporter";
+				title = "Guide Sheets";
+				url = "https://github.com/ButTaiwan/ShowGuideSheets";
+				description = "Show guide sheets for the glyph you are editing. 在字符編輯畫面中顯示背景稿紙。 編集ビューの背景に原稿用紙を表示します。 See [readme](https://github.com/ButTaiwan/ShowGuideSheets) for details.";
+				screenshot = "https://raw.githubusercontent.com/ButTaiwan/ShowGuideSheets/master/ShowGuideSheets.png";
+			},
+			{
 				name = "NodesCloseToZones.glyphsReporter";
 				title = "Nodes Close To Zones";
 				url = "https://github.com/moontypespace/NodesCloseToZones-Glyphs";
