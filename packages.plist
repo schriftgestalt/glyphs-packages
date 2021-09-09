@@ -15,6 +15,22 @@
 			},
 			{
 				titles = {
+					en = "Guide Sheets";
+					zh-Hant = "稿紙";
+					zh-Hans = "稿纸";
+					ja = "原稿用紙";
+				};
+				url = "https://github.com/ButTaiwan/ShowGuideSheets";
+				path = "ShowGuideSheets.glyphsReporter";
+				descriptions = {
+					en = "Show guide sheets for the glyph you are editing. This is useful especially for CJK glyphs editing. You can create guide sheets for each script and each master. See [readme](https://github.com/ButTaiwan/ShowGuideSheets) for details.";
+					zh-Hant = "在字符編輯畫面中顯示背景稿紙，可針對不同主板、不同語系分別設計稿紙。 [詳見說明頁](https://github.com/ButTaiwan/ShowGuideSheets)";
+					ja = "編集ビューの背景に原稿用紙を表示します。文字体系ごと・マスターごとに違うデザインを用意できます。 [詳しくはこちら](https://github.com/ButTaiwan/ShowGuideSheets)";
+				};
+				screenshot = "https://raw.githubusercontent.com/ButTaiwan/ShowGuideSheets/master/ShowGuideSheets.png";
+			},
+			{
+				titles = {
 					en = "Explosive Ordnance Disposal";
 					zh-Hans = "拆字小组";
 				};
