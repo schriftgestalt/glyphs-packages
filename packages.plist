@@ -2188,7 +2188,7 @@
 					en = "Mark Zones now available for Glyphs 3. This is a fully functional 14 days trial. More infos in the link below.";
 				};
 				path = "Mark Zones.glyphsReporter";
-				screenshot = "https://github.com/Mark2Mark/mark-zones-plugin/blob/main/.images/PluginManager-MarkZones.jpg";
+				screenshot = "https://github.com/Mark2Mark/mark-zones-plugin/blob/main/.images/PluginManager-MarkZones.jpg?raw=true";
 				titles = {
 					en = "Mark Zones";
 				};
