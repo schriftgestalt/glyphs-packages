@@ -2180,6 +2180,21 @@
 				};
 				screenshot = "https://raw.githubusercontent.com/ButTaiwan/ShowGuideSheets/master/ShowGuideSheets.png";
 			},
+			{
+				dependencies = (
+					paddle
+				);
+				descriptions = {
+					en = "Mark Zones now available for Glyphs 3. This is a fully functional 14 days trial. More infos in the link below.";
+				};
+				path = "Mark Zones.glyphsReporter";
+				screenshot = "/.images/PluginManager-MarkZones.jpg?raw=true";
+				titles = {
+					en = "Mark Zones";
+				};
+				url = "https://github.com/Mark2Mark/mark-zones-plugin";
+				minVersion = 3062;
+			},
 		);
 		scripts = (
 			{
