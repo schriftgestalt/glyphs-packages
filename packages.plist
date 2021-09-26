@@ -2543,6 +2543,19 @@
 				};
 				url = "https://github.com/FEDER-CO/Glyphs-Scripts";
 			},
+			{
+				descriptions = {
+					en = "Scripts by Juan Pablo del Peral and Andrés Torresi.";
+				};
+				installName = "Huerta Tipográfica";
+				titles = {
+					en = "Huerta Tipográfica Scripts";
+				};
+				url = "https://github.com/huertatipografica/huertatipografica-scripts";
+				dependencies = (
+					vanilla
+				);
+			},
 		);
 		modules = (
 			{
