@@ -2556,6 +2556,16 @@
 					vanilla
 				);
 			},
+			{
+				descriptions = {
+					en = "Glyphs 3 scripts by Wei Huang (a.k.a. ‘oneweioranother’). Mainly for managing the UI: closing tabs, deleting annotations, sorting, selecting.";
+				};
+				installName = "weiweihuanghuang";
+				titles = {
+					en = "Wei’s Scripts";
+				};
+				url = "https://github.com/weiweihuanghuang/wei-glyphs-scripts";
+			},
 		);
 		modules = (
 			{
