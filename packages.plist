@@ -1019,7 +1019,7 @@
 				name = "showMasterName.glyphsReporter";
 				title = "Show Master Name";
 				url = "https://github.com/guidoferreyra/ShowMasterName";
-				description = "The plugin will show in the top left corner of the Edit view a text with the master name and the axes locations. It can be useful to know "where you are" in projects with large number of masters.";
+				description = "The plugin will show in the top left corner of the Edit view a text with the master name and the axes locations. It can be useful to know 'where you are' in projects with large number of masters.";
 				screenshot = "https://raw.githubusercontent.com/guidoferreyra/ShowMasterName/main/preview.png";
 			}
 		);
