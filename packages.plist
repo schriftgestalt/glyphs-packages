@@ -2203,7 +2203,7 @@
 					en = "Show Stems Pro now available for Glyphs 3. This is a fully functional 20 days trial. More infos in the link below.";
 				};
 				path = "Show Stems Pro.glyphsReporter";
-				screenshot = "https://github.com/Mark2Mark/mark-zones-plugin/blob/main/.images/PluginManager-ShowStemsPro.jpg?raw=true";
+				screenshot = "https://raw.githubusercontent.com/Mark2Mark/show-stems-pro-plugin/main/.images/PluginManager-ShowStemsPro.jpg";
 				titles = {
 					en = "Show Stems Pro";
 				};
