@@ -2195,6 +2195,21 @@
 				url = "https://github.com/Mark2Mark/mark-zones-plugin";
 				minVersion = 3062;
 			},
+			{
+				dependencies = (
+					paddle
+				);
+				descriptions = {
+					en = "Show Stems Pro now available for Glyphs 3. This is a fully functional 20 days trial. More infos in the link below.";
+				};
+				path = "Show Stems Pro.glyphsReporter";
+				screenshot = "https://github.com/Mark2Mark/mark-zones-plugin/blob/main/.images/Plugin Manager-ShowStemsPro.jpg?raw=true";
+				titles = {
+					en = "Show Stems Pro";
+				};
+				url = "https://github.com/Mark2Mark/show-stems-pro-plugin";
+				minVersion = 3062;
+			},
  			{
  				name = "showMasterName.glyphsReporter";
  				title = "Show Master Name";
