@@ -2200,7 +2200,7 @@
 					paddle
 				);
 				descriptions = {
-					en = "shows a measurement line (even in edit mode) with all distances between the outlines. If any distance matches the saved metrics in the palette, it will highlight and tell you which one it (almost) matches.\nShortcut: `Cmd+Opt+Ctrl+*S*` (like Stems). \nThis is a fully functional 20 days trial. More infos in the link below.";
+					en = "shows a measurement line (even in edit mode) with all distances between the outlines. If any distance matches the saved metrics in the palette, it will highlight and tell you which one it (almost) matches.\n\nShortcut: `Cmd+Opt+Ctrl+S` (like *S*tems). \n\nThis is a fully functional 20 days trial. More infos in the link below.";
 				};
 				path = "Show Stems Pro.glyphsReporter";
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/show-stems-pro-plugin/main/.images/PluginManager-ShowStemsPro.jpg";
@@ -2215,7 +2215,7 @@
 					paddle
 				);
 				descriptions = {
-					en = "Let your fonts shine in all glory to present them and save as image in seconds. Now with a new feature: Sketch Mode: present as if your font was drawn with pencil on paper.\nPresenter Pro now available for Glyphs 3. This is a fully functional 20 days trial. More infos in the link below.";
+					en = "Let your fonts shine in all glory to present them and save as image in seconds. Now with a new feature: Sketch Mode: present as if your font was drawn with pencil on paper.\n\nPresenter Pro now available for Glyphs 3. This is a fully functional 20 days trial. More infos in the link below.";
 				};
 				path = "Presenter Pro.glyphsReporter";
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/presenter-pro-plugin/main/.images/PluginManager-Presenter.jpg";
