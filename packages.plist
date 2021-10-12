@@ -2210,6 +2210,21 @@
 				url = "https://github.com/Mark2Mark/show-stems-pro-plugin";
 				minVersion = 3062;
 			},
+			{
+				dependencies = (
+					paddle
+				);
+				descriptions = {
+					en = "Presenter Pro now available for Glyphs 3. This is a fully functional 20 days trial. More infos in the link below.";
+				};
+				path = "Presenter Pro.glyphsReporter";
+				screenshot = "https://raw.githubusercontent.com/Mark2Mark/presenter-pro-plugin/main/.images/PluginManager-Presenter.jpg";
+				titles = {
+					en = "Presenter Pro";
+				};
+				url = "https://github.com/Mark2Mark/presenter-pro-plugin";
+				minVersion = 3062;
+			},
  			{
  				name = "showMasterName.glyphsReporter";
  				title = "Show Master Name";
