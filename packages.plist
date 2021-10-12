@@ -2200,7 +2200,7 @@
 					paddle
 				);
 				descriptions = {
-					en = "shows a measurement line (even in edit mode) with all distances between the outlines. If any distance matches the saved metrics in the palette, it will highlight and tell you which one it (almost) matches.\n\nShortcut: `Cmd+Opt+Ctrl+S` (like *S*tems). \n\nThis is a fully functional 20 days trial. More infos in the link below.";
+					en = "shows a measurement line (even in edit mode) with all distances between the outlines. If any distance matches the saved metrics in the palette, it will highlight and tell you which one it (almost) matches.\n\nShortcut: `Cmd+Opt+Ctrl+S` (like *S*tems). \n\n This Pro version has way more features than the Light version.Try them out in this fully functional 20 days trial and find more infos and feature descriptions in the link below.";
 				};
 				path = "Show Stems Pro.glyphsReporter";
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/show-stems-pro-plugin/main/.images/PluginManager-ShowStemsPro.jpg";
