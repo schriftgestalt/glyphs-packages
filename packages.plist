@@ -2080,11 +2080,11 @@
 					en = "Recyclers now available for Glyphs 3. This is a fully functional 30 days trial. What are you waiting for?";
 				};
 				path = "Show Recyclers.glyphsReporter";
-				screenshot = "https://github.com/Mark2Mark/recyclers/blob/main/.images/recyclers.jpg?raw=true";
+				screenshot = "https://github.com/Mark2Mark/show-recyclers-plugin/blob/main/.images/recyclers.jpg?raw=true";
 				titles = {
 					en = "Recyclers 3";
 				};
-				url = "https://github.com/Mark2Mark/recyclers";
+				url = "https://github.com/Mark2Mark/show-recyclers-plugin";
 				minVersion = 3062;
 			},
 			{
