@@ -2077,7 +2077,7 @@
 					paddle
 				);
 				descriptions = {
-					en = "Recyclers now available for Glyphs 3. This is a fully functional 30 days trial. What are you waiting for?";
+					en = "Displays all glyphs of your font that use your currently selected one as a component. It’s a visual realtime feedback of inestimable value in a daily workflow. No matter which writing system, you will never want to work without anymore.\n\nThis is a fully functional 30 days trial. What are you waiting for?";
 				};
 				path = "Show Recyclers.glyphsReporter";
 				screenshot = "https://github.com/Mark2Mark/show-recyclers-plugin/blob/main/.images/recyclers.jpg?raw=true";
