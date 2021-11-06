@@ -2231,7 +2231,26 @@
  				url = "https://github.com/guidoferreyra/ShowMasterName";
  				description = "The plugin will show in the top left corner of the Edit view a text with the master name and the axes locations. It can be useful to know 'where you are' in projects with large number of masters.";
  				screenshot = "https://raw.githubusercontent.com/guidoferreyra/ShowMasterName/main/preview.png";
- 			}
+			},
+			{
+				titles = {
+					en = "OpenType MATH Plug-in";
+					ar = "ملحقة لخطوط أوبن تيب الرياضياتية";
+				};
+				descriptions = {
+					en = "A plug-in for editing and exporting OpenType MATH table. _Edit → Edit MATH Constants..._ for editing font-level MATH table constants, _Glyph → Edit MATH Variants..._ for editing glyph-level MATH variants,
+  assembly, and extended shape flag, and _View → Show MATH Italic Correction_, _View → Show MATH Top Accent Position_, _View → Show MATH Cut-ins_ for showing various MATH positioning info.";
+				};
+				screenshot = "https://raw.githubusercontent.com/Nagwa-Limited-Community/Glyphs-MATH-Plugin/main/math-constants.png";
+				url = "https://github.com/Nagwa-Limited-Community/Glyphs-MATH-Plugin.git";
+				branch = "main";
+				path = "MATHPlugin.glyphsPlugin";
+				dependencies = (
+					fontTools,
+					vanilla
+				);
+				minVersion = 3100;
+			}
 		);
 		scripts = (
 			{
