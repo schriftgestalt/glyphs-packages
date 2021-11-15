@@ -2089,7 +2089,7 @@
 			},
 			{
 				descriptions = {
-					en = "Green Harmony moves selected green on-curve nodes to their G2 position, creating a harmonized transition from one curve segment to the next. Or *all* green nodes if none are selected.";
+					en = "*Filter > Green Harmony* (de: *Grüne Harmonie,* fr: *Harmonie verte,* es: *Harmonía verde,* cs: *Zelená harmonie,* pt: *Harmonia verde,* jp: 緑の調和, ko: 녹색 조화, zh: 绿色和谐) moves selected green on-curve nodes to their G2 position, creating a harmonized transition from one curve segment to the next. Or *all* green nodes if none are selected.";
 				};
 				path = "GreenHarmony.glyphsFilter";
 				screenshot = "https://raw.githubusercontent.com/slobzheninov/GreenHarmony/main/GreenHarmonyScreenshot.png";
