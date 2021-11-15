@@ -1673,12 +1673,15 @@
 			},
 			{
 				descriptions = {
-					en = "*View > Show PS Hints Also in Other Masters* displays hints from the hint-origin master also in masters other than the hint-origin. The main idea is to find stem hint overlaps that could cause Hint Replacement.";
+					en = "*View > Show PS Hints Also in Other Masters* (de: *PS-Hints auch in anderen Mastern anzeigen,* fr: *Afficher hints PS aussi dans les autres masters,* es: *Mostrar hints PS también en los otros másteres*) displays hints from the hint-origin master also in masters other than the hint-origin. The main idea is to find stem hint overlaps that could cause Hint Replacement.";
 				};
 				path = ShowHintsAlsoInOtherMasters.glyphsReporter;
 				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowHintsAlsoInOtherMasters/master/ShowHintsAlsoInOtherMasters-Preview.png";
 				titles = {
 					en = "Show PS Hints Also in Other Masters";
+					de = "PS-Hints auch in anderen Mastern anzeigen";
+					fr = "Afficher hints PS aussi dans les autres masters";
+					es = "Mostrar hints PS también en los otros másteres";
 				};
 				url = "https://github.com/mekkablue/ShowHintsAlsoInOtherMasters";
 			},
@@ -1938,7 +1941,7 @@
 			},
 			{
 				descriptions = {
-					en = "*View > Show Only Selected Handles* (de: *Nur ausgewählte Anfasser anzeigen,* fr: *Montrer seulement les poignées sélectionnées,* es: *Mostrar los manejadores seleccionados*) will display handles only when they are selected.";
+					en = "*View > Show Only Selected Handles* (de: *Nur ausgewählte Anfasser anzeigen,* es: *Mostrar únicamente manejadores seleccionados,* fr: *Montrer seulement les poignées sélectionnées,* es: *Mostrar los manejadores seleccionados*) will display handles only when they are selected.";
 				};
 				path = ShowOnlySelectedHandles.glyphsReporter;
 				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowOnlySelectedHandles/master/ShowOnlySelectedHandles.png";
