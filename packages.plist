@@ -163,7 +163,7 @@
 				url = "https://github.com/mekkablue/StepAndRepeat";
 			},
 			{
-				branch = glyphs3;
+				branch = glyphs-3;
 				descriptions = {
 					en = "*View > Show Anchor Cloud* displays a mark cloud for all glyphs which use the selected anchor, regardless of name. It also allows the user to filter which mark glyphs are displayed in the cloud.";
 				};
