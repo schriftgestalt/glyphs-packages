@@ -153,6 +153,7 @@
 				};
 				donationURL = "https://ko-fi.com/jenskutilek";
 				path = CurveEQ.glyphsFilter;
+				screenshot = "https://github.com/jenskutilek/Curve-Equalizer/blob/master/images/curve-eq-glyphs.png";
 				titles = {
 					en = "Curve Equalizer";
 				};
