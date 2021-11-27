@@ -149,18 +149,6 @@
 			},
 			{
 				descriptions = {
-					en = "*Curve Equalizer* is a filter that lets you quickly balance the Bézier handles of a curve, or change its curvature interactively.";
-				};
-				donationURL = "https://ko-fi.com/jenskutilek";
-				path = CurveEQ.glyphsFilter;
-				screenshot = "https://raw.githubusercontent.com/jenskutilek/Curve-Equalizer/master/images/curve-eq-glyphs.png";
-				titles = {
-					en = "Curve Equalizer";
-				};
-				url = "https://github.com/jenskutilek/Curve-Equalizer";
-			},
-			{
-				descriptions = {
 					en = "The palette *Step and Repeat* (de: *Wiederholen*, fr: *Répéter*, es: *Repetir*, pt: *Repetir*) allows shift-repeating shapes. Repeated shapes will be added to the selection for further transformations. At least one of the *X* and *Y* shifts must be non-zero. The *Steps* count includes the original, so it must be at least 2.";
 				};
 				path = StepAndRepeat.glyphsPalette;
@@ -2265,6 +2253,18 @@
 					vanilla
 				);
 				minVersion = 3100;
+			},
+			{
+				descriptions = {
+					en = "*Curve Equalizer* is a filter that lets you quickly balance the Bézier handles of a curve, or change its curvature interactively.";
+				};
+				donationURL = "https://ko-fi.com/jenskutilek";
+				path = CurveEQ.glyphsFilter;
+				screenshot = "https://raw.githubusercontent.com/jenskutilek/Curve-Equalizer/master/images/curve-eq-glyphs.png";
+				titles = {
+					en = "Curve Equalizer";
+				};
+				url = "https://github.com/jenskutilek/Curve-Equalizer";
 			}
 		);
 		scripts = (
