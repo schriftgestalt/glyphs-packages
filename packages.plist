@@ -60,7 +60,7 @@
 				descriptions = {
 					ar = "*العرض* ← *إظهار الصور الرمزية بعرض صفري* • يرسم خطوطًا ملونة للإشارة إلى وجود صور رمزية بعرض صفري.";
 					cs = "*Zobrazení* → *Zobrazit glyfy s nulovou šířkou* kreslí barevné čáry k označení přítomnosti glyfů s nulovou šířkou.";
-					de = "*Ansicht* → *Breitenlose Glyphen anzeigen* zeichnet eine farbige Linie um die Gegenwart von breitenlosen Glyphen anzuzeigen";
+					de = "*Ansicht* → *Breitenlose Glyphen anzeigen* zeichnet eine farbige Linie, um die Gegenwart von breitenlosen Glyphen anzuzeigen";
 					en = "*View* → *Show Zero-Width Glyphs* draws colored lines to indicate the presence of zero-width glyphs.";
 					es = "*Vista* → *Mostrar glifos de ancho cero* dibuja líneas de colores para indicar la presencia de glifos de ancho cero.";
 					fr = "*Affichage* → *Afficher les glyphes sans chasse* trace des lignes de couleur pour indiquer la présence de glyphes sans chasse.";
