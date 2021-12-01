@@ -2265,6 +2265,28 @@
 					en = "Curve Equalizer";
 				};
 				url = "https://github.com/jenskutilek/Curve-Equalizer";
+			},
+			{
+				descriptions = {
+					en = "*Filter > Keep Counter Shapes* (de: *Punzen behalten*) deletes all outer curves and keeps only counters.";
+				};
+				path = KeepCounterShapes.glyphsFilter;
+				titles = {
+					en = "Keep Counter Shapes";
+					de = "Punzen behalten";
+				};
+				url = "https://github.com/mekkablue/KeepCounterShapes";
+			},
+			{
+				descriptions = {
+					en = "*Filter > Keep Outer Shapes* (de: *Umrisse behalten*) deletes all counter shapes and keeps only outer curves.";
+				};
+				path = KeepOuterShapes.glyphsFilter;
+				titles = {
+					en = "Keep Outer Shapes";
+					de = "Umrisse behalten";
+				};
+				url = "https://github.com/mekkablue/KeepOuterShapes";
 			}
 		);
 		scripts = (
