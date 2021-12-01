@@ -39,6 +39,44 @@
 			},
 			{
 				titles = {
+					ar = "إظهار الصور الرمزية بعرض صفري";
+					cs = "Zobrazit glyfy s nulovou šířkou";
+					de = "Breitenlose Glyphen anzeigen";
+					en = "Show Zero-Width Glyphs";
+					es = "Mostrar glifos de ancho cero";
+					fr = "Afficher les glyphes sans chasse";
+					it = "Mostra glifi a larghezza zero";
+					ja = "ゼロ幅グリフを表示";
+					ko = "너비가 0인 글리프 보기";
+					pt = "Mostrar glifos sem tamanho";
+					ru = "Показать глифы нулевой ширины";
+					tr = "Sıfır Genişlikli Glifler Göster";
+					zh-Hans = "显示零宽度字符形";
+					zh-Hant = "顯示零寬度字符";
+				};
+				url = "https://github.com/florianpircher/Show-Zero-Width-Glyphs";
+				branch = release;
+				path = "Show Zero-Width Glyphs.glyphsReporter";
+				descriptions = {
+					ar = "*العرض* ← *إظهار الصور الرمزية بعرض صفري* • يرسم خطوطًا ملونة للإشارة إلى وجود صور رمزية بعرض صفري.";
+					cs = "*Zobrazení* → *Zobrazit glyfy s nulovou šířkou* kreslí barevné čáry k označení přítomnosti glyfů s nulovou šířkou.";
+					de = "*Ansicht* → *Breitenlose Glyphen anzeigen* zeichnet eine farbige Linie um die Gegenwart von breitenlosen Glyphen anzuzeigen";
+					en = "*View* → *Show Zero-Width Glyphs* draws colored lines to indicate the presence of zero-width glyphs.";
+					es = "*Vista* → *Mostrar glifos de ancho cero* dibuja líneas de colores para indicar la presencia de glifos de ancho cero.";
+					fr = "*Affichage* → *Afficher les glyphes sans chasse* trace des lignes de couleur pour indiquer la présence de glyphes sans chasse.";
+					it = "*Vista* → *Mostra glifi a larghezza zero* disegna linee colorate per indicare la presenza di glifi di larghezza zero.";
+					ja = "*表示* → *ゼロ幅グリフを表示* • ゼロ幅グリフの存在をしめｓ宇";
+					ko = "*보기* → *너비가 0인 글리프 보기* • 너비가 0인 글리프 상태를 나타내기 위해 컬러 라인을 그립니다.";
+					pt = "*Visualizar* → *Mostrar glifos sem tamanho* desenha linhas coloridas para indicar a presenças de glifos sem tamanho.";
+					ru = "*Просмотр* → *Показать глифы нулевой ширины* рисует цветные линии, указывающие на наличие глифов нулевой ширины.";
+					tr = "*Görüntü* → *Sıfır Genişlikli Glifler Göster*, sıfır genişlikli gliflerin varlığını belirtmek için renkli çizgiler çizer.";
+					zh-Hans = "*视图* → *显示零宽度字符形* • 绘制彩色线条以指示零宽度字符形的存在。";
+					zh-Hant = "*顯示* → *顯示零寬度字符* • 繪製彩色線條以指示零寬度字符的存在。";
+				};
+				screenshot = "https://florianpircher.com/glyphs/plugins/show-zero-width-glyphs/screenshot.png";
+			},
+			{
+				titles = {
 					ar = "نقل التحديد بمفاتيح الأسهم";
 					cs = "Posuňte výběr pomocí kláves se šipkami";
 					de = "Auswahl mit Pfeiltasten bewegen";
