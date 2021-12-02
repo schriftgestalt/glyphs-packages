@@ -2302,6 +2302,9 @@
 				titles = {
 					en = "Curve Equalizer";
 				};
+				dependencies = (
+					vanilla
+				);
 				url = "https://github.com/jenskutilek/Curve-Equalizer";
 			},
 			{
