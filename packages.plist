@@ -2475,7 +2475,8 @@
 				titles = {
 					en = "Export and Install Script by Nico Hagenburger";
 				};
-				url = "https://github.com/hagenburger/glyphs-export-and-install";
+				branch = "patch-1";
+				url = "https://github.com/mekkablue/glyphs-export-and-install/";
 			},
 			{
 				descriptions = {
