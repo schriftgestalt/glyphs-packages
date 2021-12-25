@@ -2649,11 +2649,11 @@
 			},
 			{
 				descriptions = {
-					en = "Scripts by Hugo Jourdan\n- *Font Dashboard* allows you to follow your progress based on the layer colors in your font. Attention: *layer* color, not glyph color. To set the layer color, you have to right-click with the Option key.";
+					en = "Scripts by Hugo Jourdan\n- *Font Dashboard* allows you to follow your progress based on the layer colors in your font. Attention: *layer* color, not glyph color. To set the layer color, you have to right-click with the Option key.\n- *Change Layer Color to…* scripts for assigning shortcuts \n- *Add version in FamilyName*\n- *Delete Anchors in all Masters for Selected Glyphs*\n- *Delete Special Layers*\n- *Export Trial Version*\n- *Show Only Active Instances*";
 				};
 				installName = "Hugo Jourdan";
 				titles = {
-					en = "Font Dashboard";
+					en = "Hugo Jourdan’s Scripts";
 				};
 				url = "https://github.com/HugoJourdan/Glyphs-Script";
 			},
