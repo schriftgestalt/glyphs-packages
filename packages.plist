@@ -389,7 +389,7 @@
 					paddle
 				);
 				descriptions = {
-					en = "Variable Font Preview now available for Glyphs 3. This is a fully functional 30 days trial. What are you waiting for?";
+					en = "Variable Font Preview now available for Glyphs 3. This is a fully functional 30 days trial. What are you waiting for?\nContact me for Student Discounts.";
 				};
 				path = "Variable Font Preview X.glyphsReporter";
 				screenshot = "https://github.com/Mark2Mark/variable-font-preview/blob/main/.images/Plugin%20Manager%20-%20Variable%20Font%20Preview.jpg?raw=true";
@@ -2118,7 +2118,7 @@
 					paddle
 				);
 				descriptions = {
-					en = "Displays all glyphs of your font that use your currently selected one as a component. It’s a visual realtime feedback of inestimable value in a daily workflow. No matter which writing system, you will never want to work without anymore.\n\nThis is a fully functional 30 days trial. What are you waiting for?";
+					en = "Displays all glyphs of your font that use your currently selected one as a component. It’s a visual realtime feedback of inestimable value in a daily workflow. No matter which writing system, you will never want to work without anymore.\n\nThis is a fully functional 30 days trial. What are you waiting for?\nContact me for Student Discounts.";
 				};
 				path = "Show Recyclers.glyphsReporter";
 				screenshot = "https://github.com/Mark2Mark/show-recyclers-plugin/blob/main/.images/recyclers.jpg?raw=true";
@@ -2226,7 +2226,7 @@
 					paddle
 				);
 				descriptions = {
-					en = "Mark Zones now available for Glyphs 3. This is a fully functional 14 days trial. More infos in the link below.";
+					en = "Mark Zones now available for Glyphs 3. This is a fully functional 14 days trial. More infos in the link below.\nContact me for Student Discounts.";
 				};
 				path = "Mark Zones.glyphsReporter";
 				screenshot = "https://github.com/Mark2Mark/mark-zones-plugin/blob/main/.images/PluginManager-MarkZones.jpg?raw=true";
@@ -2241,7 +2241,7 @@
 					paddle
 				);
 				descriptions = {
-					en = "shows a measurement line (even in edit mode) with all distances between the outlines. If any distance matches the saved metrics in the palette, it will highlight and tell you which one it (almost) matches.\n\nShortcut: `Cmd+Opt+Ctrl+S` (like *S*tems). \n\n This Pro version has way more features than the Light version.Try them out in this fully functional 20 days trial and find more infos and feature descriptions in the link below.";
+					en = "shows a measurement line (even in edit mode) with all distances between the outlines. If any distance matches the saved metrics in the palette, it will highlight and tell you which one it (almost) matches.\n\nShortcut: `Cmd+Opt+Ctrl+S` (like *S*tems). \n\n This Pro version has way more features than the Light version.Try them out in this fully functional 20 days trial and find more infos and feature descriptions in the link below.\nContact me for Student Discounts.";
 				};
 				path = "Show Stems Pro.glyphsReporter";
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/show-stems-pro-plugin/main/.images/PluginManager-ShowStemsPro.jpg";
@@ -2256,7 +2256,7 @@
 					paddle
 				);
 				descriptions = {
-					en = "Let your fonts shine in all glory to present them and save as image in seconds. Now with a new feature: Sketch Mode: present as if your font was drawn with pencil on paper.\n\nPresenter Pro now available for Glyphs 3. This is a fully functional 20 days trial. More infos in the link below.";
+					en = "Let your fonts shine in all glory to present them and save as image in seconds. Now with a new feature: Sketch Mode: present as if your font was drawn with pencil on paper.\n\nPresenter Pro now available for Glyphs 3. This is a fully functional 20 days trial. More infos in the link below.\nContact me for Student Discounts.";
 				};
 				path = "Presenter Pro.glyphsReporter";
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/presenter-pro-plugin/main/.images/PluginManager-Presenter.jpg";
