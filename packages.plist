@@ -292,7 +292,7 @@
 			// },
 			{
 				descriptions = {
-					en = "Magic Remover (de: *Magic-Löscher,* es: *Borrador magico,* fr: *Gomme magique,* pt: *Apagador mágico*) is a button in the right-hand side palette that enables multiple-master deletion of selected nodes, anchors and components. Deleting (any number of) nodes will try to keep the shape, similar to what happens when you individually delete nodes.";
+					en = "Magic Remover (de: *Magic-Löscher,* es: *Borrador magico,* fr: *Gomme magique,* pt: *Apagador mágico*) is a button in the right-hand side palette that enables multiple-master deletion of selected nodes, anchors, components and corner components. Deleting (any number of) nodes will try to keep the shape, similar to what happens when you individually delete nodes.";
 				};
 				path = MagicRemove.glyphsPalette;
 				screenshot = "https://raw.githubusercontent.com/mekkablue/MagicRemove/master/MagicRemove.png";
