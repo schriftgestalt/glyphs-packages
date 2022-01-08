@@ -187,7 +187,7 @@
 			},
 			{
 				descriptions = {
-					en = "The palette *Step and Repeat* (de: *Wiederholen*, fr: *Répéter*, es: *Repetir*, pt: *Repetir*) allows shift-repeating shapes. Repeated shapes will be added to the selection for further transformations. At least one of the *X* and *Y* shifts must be non-zero. The *Steps* count includes the original, so it must be at least 2.";
+					en = "The palette *Step and Repeat* (de: *Wiederholen*, fr: *Répéter*, es: *Repetir*, pt: *Repetir*) allows shift-repeating shapes. Repeated shapes will be added to the selection for further transformations. At least one of the *X* and *Y* shifts must be non-zero. The *Steps* count includes the original, so it must be at least 2.";
 				};
 				path = StepAndRepeat.glyphsPalette;
 				screenshot = "https://raw.githubusercontent.com/mekkablue/StepAndRepeat/main/StepAndRepeat.png";
@@ -2206,37 +2206,6 @@
 				screenshot = "https://raw.githubusercontent.com/mekkablue/CleanUpLines/main/cleanuplines.png";
 			},
 			{
-				titles = {
-					en = "Guide Sheets";
-					zh-Hant = "稿紙";
-					zh-Hans = "稿纸";
-					ja = "原稿用紙";
-				};
-				url = "https://github.com/ButTaiwan/ShowGuideSheets";
-				path = "ShowGuideSheets.glyphsReporter";
-				descriptions = {
-					en = "Show guide sheets for the glyph you are editing. This is useful especially for CJK glyphs editing. You can create guide sheets for each script and each master. See [readme](https://github.com/ButTaiwan/ShowGuideSheets) for details.";
-					zh-Hant = "在字符編輯畫面中顯示背景稿紙，可針對不同主板、不同語系分別設計稿紙。 [詳見說明頁](https://github.com/ButTaiwan/ShowGuideSheets)";
-					ja = "編集ビューの背景に原稿用紙を表示します。文字体系ごと・マスターごとに違うデザインを用意できます。 [詳しくはこちら](https://github.com/ButTaiwan/ShowGuideSheets)";
-				};
-				screenshot = "https://raw.githubusercontent.com/ButTaiwan/ShowGuideSheets/master/ShowGuideSheets.png";
-			},
-			{
-				titles = {
-					en = "Smart Select Tool";
-					zh-Hant = "智慧選取工具";
-					ja = "スマートセレクトツール";
-				};
-				url = "https://github.com/ButTaiwan/SmartSelectTool";
-				path = "SmartSelectTool.glyphsTool";
-				descriptions = {
-					en = "Selecting CJK paths more easiler and faster. See [readme](https://github.com/ButTaiwan/SmartSelectTool) for details.";
-					zh-Hant = "加快選取漢字外框的速度，可點兩下直接選取整個封閉部件等，呵護您的食指。 [詳見說明頁](https://github.com/ButTaiwan/SmartSelectTool)";
-					ja = "CJK文字のアウトラインを楽々選択することができます。 [詳しくはこちら](https://github.com/ButTaiwan/SmartSelectTool)";
-				};
-				screenshot = "https://raw.githubusercontent.com/ButTaiwan/SmartSelectTool/master/smartselect.gif";
-			},
-			{
 				dependencies = (
 					paddle
 				);
@@ -2343,7 +2312,38 @@
 					de = "Umrisse behalten";
 				};
 				url = "https://github.com/mekkablue/KeepOuterShapes";
-			}
+			},
+			{
+				titles = {
+					en = "Guide Sheets";
+					zh-Hant = "稿紙";
+					zh-Hans = "稿纸";
+					ja = "原稿用紙";
+				};
+				url = "https://github.com/ButTaiwan/ShowGuideSheets";
+				path = "ShowGuideSheets.glyphsReporter";
+				descriptions = {
+					en = "Show guide sheets for the glyph you are editing. This is useful especially for CJK glyphs editing. You can create guide sheets for each script and each master. See [readme](https://github.com/ButTaiwan/ShowGuideSheets) for details.";
+					zh-Hant = "在字符編輯畫面中顯示背景稿紙，可針對不同主板、不同語系分別設計稿紙。 [詳見說明頁](https://github.com/ButTaiwan/ShowGuideSheets)";
+					ja = "編集ビューの背景に原稿用紙を表示します。文字体系ごと・マスターごとに違うデザインを用意できます。 [詳しくはこちら](https://github.com/ButTaiwan/ShowGuideSheets)";
+				};
+				screenshot = "https://raw.githubusercontent.com/ButTaiwan/ShowGuideSheets/master/ShowGuideSheets.png";
+			},
+			{
+				titles = {
+					en = "Smart Select Tool";
+					zh-Hant = "智慧選取工具";
+					ja = "スマートセレクトツール";
+				};
+				url = "https://github.com/ButTaiwan/SmartSelectTool";
+				path = "SmartSelectTool.glyphsTool";
+				descriptions = {
+					en = "Selecting CJK paths more easiler and faster. See [readme](https://github.com/ButTaiwan/SmartSelectTool) for details.";
+					zh-Hant = "加快選取漢字外框的速度，可點兩下直接選取整個封閉部件等，呵護您的食指。 [詳見說明頁](https://github.com/ButTaiwan/SmartSelectTool)";
+					ja = "CJK文字のアウトラインを楽々選択することができます。 [詳しくはこちら](https://github.com/ButTaiwan/SmartSelectTool)";
+				};
+				screenshot = "https://raw.githubusercontent.com/ButTaiwan/SmartSelectTool/master/smartselect.gif";
+			},
 		);
 		scripts = (
 			{
