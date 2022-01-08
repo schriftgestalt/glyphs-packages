@@ -1016,6 +1016,12 @@
 				screenshot = "https://raw.githubusercontent.com/ButTaiwan/ShowGuideSheets/master/ShowGuideSheets.png";
 			},
 			{
+				name = "SmartSelectTool.glyphsTool";
+				title = "Smart Select Tool";
+				url = "https://github.com/ButTaiwan/SmartSelectTool";
+				description = "Selecting CJK paths more easiler and faster. 加快選取漢字外框，呵護您的食指。 CJK文字のアウトラインを楽々選択することができます。 See [readme](https://github.com/ButTaiwan/SmartSelectTool) for details.";
+			},
+			{
 				name = "showMasterName.glyphsReporter";
 				title = "Show Master Name";
 				url = "https://github.com/guidoferreyra/ShowMasterName";
