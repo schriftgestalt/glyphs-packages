@@ -16,13 +16,6 @@
 				screenshot = "https://raw.githubusercontent.com/mekkablue/MagicRemove/master/MagicRemove.png";
 			},
 			{
-				name = "ShowGuideSheets.glyphsReporter";
-				title = "Guide Sheets";
-				url = "https://github.com/ButTaiwan/ShowGuideSheets";
-				description = "Show guide sheets for the glyph you are editing. 在字符編輯畫面中顯示背景稿紙。 編集ビューの背景に原稿用紙を表示します。 See [readme](https://github.com/ButTaiwan/ShowGuideSheets) for details.";
-				screenshot = "https://raw.githubusercontent.com/ButTaiwan/ShowGuideSheets/master/ShowGuideSheets.png";
-			},
-			{
 				name = "NodesCloseToZones.glyphsReporter";
 				title = "Nodes Close To Zones";
 				url = "https://github.com/moontypespace/NodesCloseToZones-Glyphs";
@@ -1021,6 +1014,12 @@
 				url = "https://github.com/ButTaiwan/ShowGuideSheets";
 				description = "Show guide sheets for the glyph you are editing. 在字符編輯畫面中顯示背景稿紙。 編集ビューの背景に原稿用紙を表示します。 See [readme](https://github.com/ButTaiwan/ShowGuideSheets) for details.";
 				screenshot = "https://raw.githubusercontent.com/ButTaiwan/ShowGuideSheets/master/ShowGuideSheets.png";
+			},
+			{
+				name = "SmartSelectTool.glyphsTool";
+				title = "Smart Select Tool";
+				url = "https://github.com/ButTaiwan/SmartSelectTool";
+				description = "Selecting CJK paths more easiler and faster. 加快選取漢字外框，呵護您的食指。 CJK文字のアウトラインを楽々選択することができます。 See [readme](https://github.com/ButTaiwan/SmartSelectTool) for details.";
 			},
 			{
 				name = "showMasterName.glyphsReporter";
