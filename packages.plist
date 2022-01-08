@@ -191,6 +191,21 @@
 				screenshot = "https://florianpircher.com/glyphs/plugins/close-window/screenshot.png";
 			},
 			{
+				titles = {
+					en = "Smart Select Tool";
+					zh-Hant = "智慧選取工具";
+					ja = "スマートセレクトツール";
+				};
+				url = "https://github.com/ButTaiwan/SmartSelectTool";
+				path = "SmartSelectTool.glyphsTool";
+				descriptions = {
+					en = "Selecting CJK paths more easiler and faster. See [readme](https://github.com/ButTaiwan/SmartSelectTool) for details.";
+					zh-Hant = "加快選取漢字外框的速度，可點兩下直接選取整個封閉部件等，呵護您的食指。 [詳見說明頁](https://github.com/ButTaiwan/SmartSelectTool)";
+					ja = "CJK文字のアウトラインを楽々選択することができます。 [詳しくはこちら](https://github.com/ButTaiwan/SmartSelectTool)";
+				};
+				screenshot = "https://raw.githubusercontent.com/ButTaiwan/SmartSelectTool/master/smartselect.gif";
+			},
+			{
 				descriptions = {
 					en = "*File > Save to Git* saves your font and commits the changes to a git repository. Well suited if you just want to keep track of your changes.";
 				};
