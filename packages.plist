@@ -55,6 +55,44 @@
 			},
 			{
 				titles = {
+					ar = "إظهار الصور الرمزية بعرض صفري";
+					cs = "Zobrazit glyfy s nulovou šířkou";
+					de = "Breitenlose Glyphen anzeigen";
+					en = "Show Zero-Width Glyphs";
+					es = "Mostrar glifos de ancho cero";
+					fr = "Afficher les glyphes sans chasse";
+					it = "Mostra glifi a larghezza zero";
+					ja = "ゼロ幅グリフを表示";
+					ko = "너비가 0인 글리프 보기";
+					pt = "Mostrar glifos sem tamanho";
+					ru = "Показать глифы нулевой ширины";
+					tr = "Sıfır Genişlikli Glifler Göster";
+					zh-Hans = "显示零宽度字符形";
+					zh-Hant = "顯示零寬度字符";
+				};
+				url = "https://github.com/florianpircher/Show-Zero-Width-Glyphs";
+				branch = release;
+				path = "Show Zero-Width Glyphs.glyphsReporter";
+				descriptions = {
+					ar = "*العرض* ← *إظهار الصور الرمزية بعرض صفري* • يرسم خطوطًا ملونة للإشارة إلى وجود صور رمزية بعرض صفري.";
+					cs = "*Zobrazení* → *Zobrazit glyfy s nulovou šířkou* kreslí barevné čáry k označení přítomnosti glyfů s nulovou šířkou.";
+					de = "*Ansicht* → *Breitenlose Glyphen anzeigen* zeichnet eine farbige Linie, um die Gegenwart von breitenlosen Glyphen anzuzeigen";
+					en = "*View* → *Show Zero-Width Glyphs* draws colored lines to indicate the presence of zero-width glyphs.";
+					es = "*Vista* → *Mostrar glifos de ancho cero* dibuja líneas de colores para indicar la presencia de glifos de ancho cero.";
+					fr = "*Affichage* → *Afficher les glyphes sans chasse* trace des lignes de couleur pour indiquer la présence de glyphes sans chasse.";
+					it = "*Vista* → *Mostra glifi a larghezza zero* disegna linee colorate per indicare la presenza di glifi di larghezza zero.";
+					ja = "*表示* → *ゼロ幅グリフを表示* • ゼロ幅グリフの存在をしめｓ宇";
+					ko = "*보기* → *너비가 0인 글리프 보기* • 너비가 0인 글리프 상태를 나타내기 위해 컬러 라인을 그립니다.";
+					pt = "*Visualizar* → *Mostrar glifos sem tamanho* desenha linhas coloridas para indicar a presenças de glifos sem tamanho.";
+					ru = "*Просмотр* → *Показать глифы нулевой ширины* рисует цветные линии, указывающие на наличие глифов нулевой ширины.";
+					tr = "*Görüntü* → *Sıfır Genişlikli Glifler Göster*, sıfır genişlikli gliflerin varlığını belirtmek için renkli çizgiler çizer.";
+					zh-Hans = "*视图* → *显示零宽度字符形* • 绘制彩色线条以指示零宽度字符形的存在。";
+					zh-Hant = "*顯示* → *顯示零寬度字符* • 繪製彩色線條以指示零寬度字符的存在。";
+				};
+				screenshot = "https://florianpircher.com/glyphs/plugins/show-zero-width-glyphs/screenshot.png";
+			},
+			{
+				titles = {
 					ar = "نقل التحديد بمفاتيح الأسهم";
 					cs = "Posuňte výběr pomocí kláves se šipkami";
 					de = "Auswahl mit Pfeiltasten bewegen";
@@ -179,7 +217,7 @@
 				url = "https://github.com/mekkablue/StepAndRepeat";
 			},
 			{
-				branch = glyphs3;
+				branch = glyphs-3;
 				descriptions = {
 					en = "*View > Show Anchor Cloud* displays a mark cloud for all glyphs which use the selected anchor, regardless of name. It also allows the user to filter which mark glyphs are displayed in the cloud.";
 				};
@@ -270,7 +308,7 @@
 			// },
 			{
 				descriptions = {
-					en = "Magic Remover (de: *Magic-Löscher,* es: *Borrador magico,* fr: *Gomme magique,* pt: *Apagador mágico*) is a button in the right-hand side palette that enables multiple-master deletion of selected nodes, anchors and components. Deleting (any number of) nodes will try to keep the shape, similar to what happens when you individually delete nodes.";
+					en = "Magic Remover (de: *Magic-Löscher,* es: *Borrador magico,* fr: *Gomme magique,* pt: *Apagador mágico*) is a button in the right-hand side palette that enables multiple-master deletion of selected nodes, anchors, components and corner components. Deleting (any number of) nodes will try to keep the shape, similar to what happens when you individually delete nodes.";
 				};
 				path = MagicRemove.glyphsPalette;
 				screenshot = "https://raw.githubusercontent.com/mekkablue/MagicRemove/master/MagicRemove.png";
@@ -367,7 +405,7 @@
 					paddle
 				);
 				descriptions = {
-					en = "Variable Font Preview now available for Glyphs 3. This is a fully functional 30 days trial. What are you waiting for?";
+					en = "Variable Font Preview now available for Glyphs 3. This is a fully functional 30 days trial. What are you waiting for?\nContact me for Student Discounts.";
 				};
 				path = "Variable Font Preview X.glyphsReporter";
 				screenshot = "https://github.com/Mark2Mark/variable-font-preview/blob/main/.images/Plugin%20Manager%20-%20Variable%20Font%20Preview.jpg?raw=true";
@@ -1677,12 +1715,15 @@
 			},
 			{
 				descriptions = {
-					en = "*View > Show PS Hints Also in Other Masters* displays hints from the hint-origin master also in masters other than the hint-origin. The main idea is to find stem hint overlaps that could cause Hint Replacement.";
+					en = "*View > Show PS Hints Also in Other Masters* (de: *PS-Hints auch in anderen Mastern anzeigen,* fr: *Afficher hints PS aussi dans les autres masters,* es: *Mostrar hints PS también en los otros másteres*) displays hints from the hint-origin master also in masters other than the hint-origin. The main idea is to find stem hint overlaps that could cause Hint Replacement.";
 				};
 				path = ShowHintsAlsoInOtherMasters.glyphsReporter;
 				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowHintsAlsoInOtherMasters/master/ShowHintsAlsoInOtherMasters-Preview.png";
 				titles = {
 					en = "Show PS Hints Also in Other Masters";
+					de = "PS-Hints auch in anderen Mastern anzeigen";
+					fr = "Afficher hints PS aussi dans les autres masters";
+					es = "Mostrar hints PS también en los otros másteres";
 				};
 				url = "https://github.com/mekkablue/ShowHintsAlsoInOtherMasters";
 			},
@@ -1942,7 +1983,7 @@
 			},
 			{
 				descriptions = {
-					en = "*View > Show Only Selected Handles* (de: *Nur ausgewählte Anfasser anzeigen,* fr: *Montrer seulement les poignées sélectionnées,* es: *Mostrar los manejadores seleccionados*) will display handles only when they are selected.";
+					en = "*View > Show Only Selected Handles* (de: *Nur ausgewählte Anfasser anzeigen,* es: *Mostrar únicamente manejadores seleccionados,* fr: *Montrer seulement les poignées sélectionnées,* es: *Mostrar los manejadores seleccionados*) will display handles only when they are selected.";
 				};
 				path = ShowOnlySelectedHandles.glyphsReporter;
 				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowOnlySelectedHandles/master/ShowOnlySelectedHandles.png";
@@ -2093,19 +2134,19 @@
 					paddle
 				);
 				descriptions = {
-					en = "Recyclers now available for Glyphs 3. This is a fully functional 30 days trial. What are you waiting for?";
+					en = "Displays all glyphs of your font that use your currently selected one as a component. It’s a visual realtime feedback of inestimable value in a daily workflow. No matter which writing system, you will never want to work without anymore.\n\nThis is a fully functional 30 days trial. What are you waiting for?\nContact me for Student Discounts.";
 				};
 				path = "Show Recyclers.glyphsReporter";
-				screenshot = "https://github.com/Mark2Mark/recyclers/blob/main/.images/recyclers.jpg?raw=true";
+				screenshot = "https://github.com/Mark2Mark/show-recyclers-plugin/blob/main/.images/recyclers.jpg?raw=true";
 				titles = {
 					en = "Recyclers 3";
 				};
-				url = "https://github.com/Mark2Mark/recyclers";
+				url = "https://github.com/Mark2Mark/show-recyclers-plugin";
 				minVersion = 3062;
 			},
 			{
 				descriptions = {
-					en = "Green Harmony moves selected green on-curve nodes to their G2 position, creating a harmonized transition from one curve segment to the next. Or *all* green nodes if none are selected.";
+					en = "*Filter > Green Harmony* (de: *Grüne Harmonie,* fr: *Harmonie verte,* es: *Armonía verde,* cs: *Zelená harmonie,* pt: *Harmonia verde,* jp: 緑の調和, ko: 녹색 조화, zh: 绿色和谐) moves selected green on-curve nodes to their G2 position, creating a harmonized transition from one curve segment to the next. Or *all* green nodes if none are selected.";
 				};
 				path = "GreenHarmony.glyphsFilter";
 				screenshot = "https://raw.githubusercontent.com/slobzheninov/GreenHarmony/main/GreenHarmonyScreenshot.png";
@@ -2113,7 +2154,7 @@
 					en = "Green Harmony";
 					de = "Grüne Harmonie";
 					fr = "Harmonie verte";
-					es = "Harmonía verde";
+					es = "Armonía verde";
 					cs = "Zelená harmonie";
 					pt = "Harmonia verde";
 					jp = "緑の調和";
@@ -2196,6 +2237,114 @@
 				};
 				screenshot = "https://raw.githubusercontent.com/ButTaiwan/ShowGuideSheets/master/ShowGuideSheets.png";
 			},
+			{
+				dependencies = (
+					paddle
+				);
+				descriptions = {
+					en = "Mark Zones now available for Glyphs 3. This is a fully functional 14 days trial. More infos in the link below.\nContact me for Student Discounts.";
+				};
+				path = "Mark Zones.glyphsReporter";
+				screenshot = "https://github.com/Mark2Mark/mark-zones-plugin/blob/main/.images/PluginManager-MarkZones.jpg?raw=true";
+				titles = {
+					en = "Mark Zones";
+				};
+				url = "https://github.com/Mark2Mark/mark-zones-plugin";
+				minVersion = 3062;
+			},
+			{
+				dependencies = (
+					paddle
+				);
+				descriptions = {
+					en = "shows a measurement line (even in edit mode) with all distances between the outlines. If any distance matches the saved metrics in the palette, it will highlight and tell you which one it (almost) matches.\n\nShortcut: `Cmd+Opt+Ctrl+S` (like *S*tems). \n\n This Pro version has way more features than the Light version.Try them out in this fully functional 20 days trial and find more infos and feature descriptions in the link below.\nContact me for Student Discounts.";
+				};
+				path = "Show Stems Pro.glyphsReporter";
+				screenshot = "https://raw.githubusercontent.com/Mark2Mark/show-stems-pro-plugin/main/.images/PluginManager-ShowStemsPro.jpg";
+				titles = {
+					en = "Show Stems Pro";
+				};
+				url = "https://github.com/Mark2Mark/show-stems-pro-plugin";
+				minVersion = 3062;
+			},
+			{
+				dependencies = (
+					paddle
+				);
+				descriptions = {
+					en = "Let your fonts shine in all glory to present them and save as image in seconds. Now with a new feature: Sketch Mode: present as if your font was drawn with pencil on paper.\n\nPresenter Pro now available for Glyphs 3. This is a fully functional 20 days trial. More infos in the link below.\nContact me for Student Discounts.";
+				};
+				path = "Presenter Pro.glyphsReporter";
+				screenshot = "https://raw.githubusercontent.com/Mark2Mark/presenter-pro-plugin/main/.images/PluginManager-Presenter.jpg";
+				titles = {
+					en = "Presenter Pro";
+				};
+				url = "https://github.com/Mark2Mark/presenter-pro-plugin";
+				minVersion = 3062;
+			},
+ 			{
+ 				name = "showMasterName.glyphsReporter";
+ 				title = "Show Master Name";
+ 				url = "https://github.com/guidoferreyra/ShowMasterName";
+ 				description = "The plugin will show in the top left corner of the Edit view a text with the master name and the axes locations. It can be useful to know 'where you are' in projects with large number of masters.";
+ 				screenshot = "https://raw.githubusercontent.com/guidoferreyra/ShowMasterName/main/preview.png";
+			},
+			{
+				titles = {
+					en = "OpenType MATH Plug-in";
+					ar = "ملحقة لخطوط أوبن تيب الرياضياتية";
+				};
+				descriptions = {
+					en = "A plug-in for editing and exporting OpenType MATH table. _Edit → Edit MATH Constants..._ for editing font-level MATH table constants, _Glyph → Edit MATH Variants..._ for editing glyph-level MATH variants,
+  assembly, and extended shape flag, and _View → Show MATH Italic Correction_, _View → Show MATH Top Accent Position_, _View → Show MATH Cut-ins_ for showing various MATH positioning info.";
+				};
+				screenshot = "https://raw.githubusercontent.com/Nagwa-Limited-Community/Glyphs-MATH-Plugin/main/math-constants.png";
+				url = "https://github.com/Nagwa-Limited-Community/Glyphs-MATH-Plugin.git";
+				branch = "main";
+				path = "MATHPlugin.glyphsPlugin";
+				dependencies = (
+					fontTools,
+					vanilla
+				);
+				minVersion = 3100;
+			},
+			{
+				descriptions = {
+					en = "*Curve Equalizer* is a filter that lets you quickly balance the Bézier handles of a curve, or change its curvature interactively.";
+				};
+				donationURL = "https://ko-fi.com/jenskutilek";
+				path = CurveEQ.glyphsFilter;
+				screenshot = "https://raw.githubusercontent.com/jenskutilek/Curve-Equalizer/master/images/curve-eq-glyphs.png";
+				titles = {
+					en = "Curve Equalizer";
+				};
+				dependencies = (
+					vanilla
+				);
+				url = "https://github.com/jenskutilek/Curve-Equalizer";
+			},
+			{
+				descriptions = {
+					en = "*Filter > Keep Counter Shapes* (de: *Punzen behalten*) deletes all outer curves and keeps only counters.";
+				};
+				path = KeepCounterShapes.glyphsFilter;
+				titles = {
+					en = "Keep Counter Shapes";
+					de = "Punzen behalten";
+				};
+				url = "https://github.com/mekkablue/KeepCounterShapes";
+			},
+			{
+				descriptions = {
+					en = "*Filter > Keep Outer Shapes* (de: *Umrisse behalten*) deletes all counter shapes and keeps only outer curves.";
+				};
+				path = KeepOuterShapes.glyphsFilter;
+				titles = {
+					en = "Keep Outer Shapes";
+					de = "Umrisse behalten";
+				};
+				url = "https://github.com/mekkablue/KeepOuterShapes";
+			}
 		);
 		scripts = (
 			{
@@ -2342,7 +2491,8 @@
 				titles = {
 					en = "Export and Install Script by Nico Hagenburger";
 				};
-				url = "https://github.com/hagenburger/glyphs-export-and-install";
+				branch = "patch-1";
+				url = "https://github.com/mekkablue/glyphs-export-and-install/";
 			},
 			{
 				descriptions = {
@@ -2515,11 +2665,11 @@
 			},
 			{
 				descriptions = {
-					en = "Scripts by Hugo Jourdan\n- *Font Dashboard* allows you to follow your progress based on the layer colors in your font. Attention: *layer* color, not glyph color. To set the layer color, you have to right-click with the Option key.";
+					en = "Scripts by Hugo Jourdan\n- *Delete Anchors in all Masters for Selected Glyphs:* Delete Anchors in all Master for selected glyphs.\n- *Change LayerColor to [XXX]:* Set of script LayerColor to all select layers. Usefully if you assign shortcuts to them.\n- *Remove ColorLayer for Selected Glyph in All Masters:* Remove ColorLayer for selected glyphs in all masters. Usefully to clean your FontView.\n- *Export Trial Version:* Export trial version for active instances. (except variable instance)\n- *Font Dashboard:* This script allows you to follow the development progress of a file based on the Layer Color of your glyphs. (PS : Layer Color and not Glyph Color, to set Layer Color, you have to press RightClick + Option).\n- *Add version in FamilyName:* Add the version number at the end of the Family Name string.\n- *Delete Special Layers for Selected Glyph:* Delete special layers for selected glyphs\n- *Set Axis Location for all masters and instances:* Set ‘Axis Location’ custom parameter for instances and masters, useful for variable font.\n- *Set STAT Tables for instances (BETA):* Set STAT tables for instances. Add ‘Style Name as STAT entry’ and ‘Elidable STAT Axis Value Name’.\n- *Set Style Linking for instances:* Set style linking for instance based on instances name.\n- *Set weightClass for instances:* Set weightClass for instances based on instances name.\n- *Show Only Active Instances:* Show only active instances in font preview.\n- *Delete Special Layers for Selected Glyph:* Delete spacial layers for selected glyphs.";
 				};
 				installName = "Hugo Jourdan";
 				titles = {
-					en = "Font Dashboard";
+					en = "Hugo Jourdan’s Scripts";
 				};
 				url = "https://github.com/HugoJourdan/Glyphs-Script";
 			},
@@ -2543,6 +2693,19 @@
 					en = "Federico Parra Barrios’s Scripts";
 				};
 				url = "https://github.com/FEDER-CO/Glyphs-Scripts";
+			},
+			{
+				descriptions = {
+					en = "Scripts by Juan Pablo del Peral and Andrés Torresi.";
+				};
+				installName = "Huerta Tipográfica";
+				titles = {
+					en = "Huerta Tipográfica Scripts";
+				};
+				url = "https://github.com/huertatipografica/huertatipografica-scripts";
+				dependencies = (
+					vanilla
+				);
 			},
 		);
 		modules = (
