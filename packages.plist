@@ -1989,7 +1989,7 @@
 			},
 			{
 				descriptions = {
-					en = "*Node Namer* (de: *NodeNamer*, es: *Nombrar los nodos*, fr: *Nommer les nœuds*, zh: 锚点名称) is a small item in the Palette sidebar (*Window > Palette,* Cmd-Opt-P) that allows you to set and delete node names.";
+					en = "*Node Namer* (de: *NodeNamer*, es: *Nombrar los nodos*, pt: *Nomear os nós*, fr: *Nommer les nœuds*, zh: 节点名称) is a small item in the Palette sidebar (*Window > Palette,* Cmd-Opt-P) that allows you to set and delete node names.";
 				};
 				path = NodeNamer.glyphsPalette;
 				screenshot = "https://raw.githubusercontent.com/mekkablue/NodeNamer/master/NodeNamer.png";
@@ -1997,8 +1997,9 @@
 					de = NodeNamer;
 					en = "Node Namer";
 					es = "Nombrar los nodos";
+					pt = "Nomear os nós";
 					fr = "Nommer les nœuds";
-					zh = "锚点名称";
+					zh = "节点名称";
 				};
 				url = "https://github.com/mekkablue/NodeNamer";
 			},
