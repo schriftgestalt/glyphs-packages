@@ -2151,6 +2151,27 @@
 			},
 			{
 				descriptions = {
+					en = "Grey Harmony (*de:* Graue Harmonie, *fr:* Harmonie grise, *es:* Armonía gris, *cs:* Šedá harmonie, *pt:* Harmonia cinzenta, *ru:* Серая гармония, *jp:* 灰色の調和, *ko:* 회색 조화, *zh:* 🦛灰色和谐) is a Glyphs.app filter that G2-harmonizes selected “smooth” connections by moving the surrounding BCPs rather than the green on-curve node itself (which is what [Green Harmony](glyphsapp3://showplugin/Green%20Harmony) does).";
+				};
+				path = "GreyHarmony.glyphsFilter";
+				screenshot = "https://raw.githubusercontent.com/mekkablue/GreyHarmony/main/GreyHarmonyScreenshot.png";
+				titles = {
+					en = "Grey Harmony";
+					de = "Graue Harmonie";
+					fr = "Harmonie grise";
+					es = "Armonía gris";
+					cs = "Šedá harmonie";
+					pt = "Harmonia cinzenta";
+					ru = "Серая гармония";
+					jp = "灰色の調和";
+					ko = "회색 조화";
+					zh = "🦛灰色和谐";
+				};
+				url = "https://github.com/mekkablue/GreyHarmony";
+				minVersion = 3088;
+			},
+			{
+				descriptions = {
 					en = "The Text View Width palette allows to set the view width relative to the width of a given glyph. This means that the line breaks will appear about the same for all masters. The plug-in dynamically updates the width when you switch between masters. It uses the following input format: `20 H` or `15 space` etc., which means 20 times the width of the glyph `H` or 15 times the width of the `space` glyph. You can also set the width in units (the same way as in *Glyphs > Preferences > Appearance*). To turn the plug-in off, leave the input empty.";
 				};
 				path = "Text View Width.glyphsPalette";
