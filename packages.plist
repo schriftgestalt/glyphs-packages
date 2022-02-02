@@ -2366,6 +2366,17 @@
 				};
 				screenshot = "https://raw.githubusercontent.com/ButTaiwan/SmartSelectTool/master/smartselect.gif";
 			},
+			{
+				titles = {
+					en = "Convert Case";
+				};
+				url = "https://github.com/slobzheninov/ConvertCase";
+				path = "ConvertCase.glyphsPalette";
+				descriptions = {
+					en = "Palette plugin that converts case (UPPER CASE, Title Case, lower case) in the current tab. Converts only the selected text (if any) or the whole text (if nothing is selected).";
+				};
+				screenshot = "https://user-images.githubusercontent.com/60325634/152044080-39e1115b-612b-4660-9020-3bc35b81be5d.png";
+			},
 		);
 		scripts = (
 			{
