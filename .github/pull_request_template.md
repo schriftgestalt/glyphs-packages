@@ -1,1 +1,1 @@
-Please add new entries to the end of the list.
+Note: Please add new plugins and scripts to the end of the `plugins = ( ... )` or `scripts = ( ... )` list.
