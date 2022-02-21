@@ -10,7 +10,7 @@
 				url = "https://github.com/3type/GuidesPalette";
 				descriptions = {
 					en = "Guides Palette can list all the *global* guides with names. Then you can assign them to certain glyphs independently. Guides will display or hide automatically. Helpful for complex design systems such as CJK characters. QUICK NOTE: Guides with same names will make the plugin unhappy (the behavior will be unpredictable), so please keep the names unique.";
-					zh-Hans = "「指定参考线」插件可以管理所有带名称的全局参考线。你可以将它们独立地分配给某些字符形，参考线将据此自动进行显示/隐藏。可对 CJK 字符等复杂设计系统提供一些便利。小帖士：具有相同名称的参考线会让插件不高兴（我们也无法预测她的行为），所以请保持参考线们名称的唯一性。"
+					zh-Hans = "「指定参考线」插件可以管理所有带名称的全局参考线。你可以将它们独立地分配给某些字符形，参考线将据此自动进行显示/隐藏。可对 CJK 字符等复杂设计系统提供一些便利。小帖士：具有相同名称的参考线会让插件不高兴（我们也无法预测她的行为），所以请保持参考线们名称的唯一性。";
 				};
 				screenshot = "https://user-images.githubusercontent.com/126215/154889224-34055948-d0cd-4ae9-b7f6-b16f45e387b7.png";
 				minVersion = 3065;
