@@ -2408,7 +2408,7 @@
 			},
 			{
 				branch = Glyphs3;
-				name = "Thicker Outlines.glyphsReporter";
+				path = "Thicker Outlines.glyphsReporter";
 				title = "Thicker Outlines";
 				url = "https://github.com/schriftgestalt/ThickerOutlines";
 				description = "Draw a thicker outline to stand out more over a background image";
