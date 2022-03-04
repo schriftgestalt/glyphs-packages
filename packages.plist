@@ -2406,6 +2406,13 @@
 				screenshot = "https://user-images.githubusercontent.com/126215/154889224-34055948-d0cd-4ae9-b7f6-b16f45e387b7.png";
 				minVersion = 3065;
 			},
+			{
+				branch = Glyphs3;
+				name = "Thicker Outlines.glyphsReporter";
+				title = "Thicker Outlines";
+				url = "https://github.com/schriftgestalt/ThickerOutlines";
+				description = "Draw a thicker outline to stand out more over a background image";
+			},
 		);
 		scripts = (
 			{
