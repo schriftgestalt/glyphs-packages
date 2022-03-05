@@ -2413,6 +2413,20 @@
 				url = "https://github.com/schriftgestalt/ThickerOutlines";
 				description = "Draw a thicker outline to stand out more over a background image";
 			},
+			{
+				titles = {
+					en = "RekhaBrekha";
+					de = "RäckhaBräckha";
+					fr = "RékhaBrékha";
+				};
+				path = "RekhaBrekha.glyphsFilter";
+				url = "https://github.com/mekkablue/RekhaBrekha";
+				descriptions = {
+					en = "RekhaBrekha (de: *RäckhaBräckha,* fr: *RékhaBrékha*) is for you if you use regular Bengali, Devanagari or Gurmukhi letters as components in conjuncts, and the conjuncts end up having a rekha line or two too many. RekhaBrekha will decompose any component that references an active (exporting) Bengali, Devanagari or Gurmukhi letter.\n\nRekhaBrekha is only useful as a PreFilter in your static font exports, especially in TrueType-flavored exports. To add the PreFilter, copy this line:\n`{customParameters = ({name = PreFilter;value = RekhaBrekha;});}`\nand paste it in your export’s custom parameters.";
+				};
+				minVersion = 3000;
+			},
+			
 		);
 		scripts = (
 			{
