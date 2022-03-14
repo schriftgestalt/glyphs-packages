@@ -2426,6 +2426,19 @@
 				};
 				minVersion = 3000;
 			},
+			{
+				titles = {
+					en = "Show HT Letterspacer Areas";
+					de = "Flächen für HT Letterspacer anzeigen";
+					fr = "Montrer les aires HT Letterspacer";
+				};
+				screenshot = "https://github.com/eweracs/ShowHTLetterspacerAreas/raw/main/ShowHTLSPolygons.png";
+				path = "ShowHTLSPolygons.glyphsreporter";
+				url = "https://github.com/eweracs/ShowHTLetterspacerAreas";
+				descriptions = {
+					en = "View > Show HTLS Polygons draws a visual representation of the areas HT Letterspacer uses to calculate white space into the glyphs in edit view.";
+				};
+			},
 			
 		);
 		scripts = (
