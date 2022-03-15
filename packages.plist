@@ -2433,7 +2433,7 @@
 					fr = "Montrer les aires HT Letterspacer";
 				};
 				screenshot = "https://github.com/eweracs/ShowHTLetterspacerAreas/raw/main/ShowHTLSPolygons.png";
-				path = "ShowHTLSPolygons.glyphsreporter";
+				path = "ShowHTLSPolygons.glyphsReporter";
 				url = "https://github.com/eweracs/ShowHTLetterspacerAreas";
 				descriptions = {
 					en = "View > Show HTLS Polygons draws a visual representation of the areas HT Letterspacer uses to calculate white space into the glyphs in edit view.";
