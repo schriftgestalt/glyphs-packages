@@ -2439,6 +2439,17 @@
 					en = "View > Show HTLS Polygons draws a visual representation of the areas HT Letterspacer uses to calculate white space into the glyphs in edit view.";
 				};
 			},
+			{
+				title = "Italify";
+				screenshot = "https://github.com/eweracs/Italify/raw/master/Italify.png";
+				path = "Italify.glyphsPalette";
+				url = "https://github.com/eweracs/Italify";
+				descriptions = {
+					en = "Italify lets you rotate and skew your selection by custom angles. Default for each is half the master’s italic angle.";
+					de = "Italify erlaubt die Rotation und Neigung der Auswahl nach bestimmten Winkeln. Die Standwardwerte sind jeweils die Häfte des aktuellen Italic-Winkels.";
+					fr = "Italify permet de faire pivoter et d'incliner la sélection selon des angles personnalisés. La valeur par défaut de chaque angle est la moitié de l'angle italique du master.";
+				};
+			},
 			
 		);
 		scripts = (
