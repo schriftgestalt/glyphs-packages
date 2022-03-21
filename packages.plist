@@ -2452,7 +2452,7 @@
 			},
 			{
 				title = "Ratio Reporter";
-				screenshot = "https://github.com/richardmcdonald48/RatioReporter/raw/master/RatioReporter.png";
+				screenshot = "https://raw.githubusercontent.com/richardmcdonald48/RatioReporter/main/RatioReporter.png";
 				path = "RatioReporter.glyphsReporter";
 				url = "https://github.com/richardmcdonald48/RatioReporter";
 				descriptions = {
