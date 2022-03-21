@@ -2450,6 +2450,15 @@
 					fr = "Italify permet de faire pivoter et d'incliner la sélection selon des angles personnalisés. La valeur par défaut de chaque angle est la moitié de l'angle italique du master.";
 				};
 			},
+			{
+				title = "Ratio Reporter";
+				screenshot = "https://github.com/richardmcdonald48/RatioReporter/raw/master/RatioReporter.png";
+				path = "RatioReporter.glyphsReporter";
+				url = "https://github.com/richardmcdonald48/RatioReporter";
+				descriptions = {
+					en = "*View > Show Ratios* displays the vertical-to-horizontal ratio between selected points.";
+				};
+			},
 			
 		);
 		scripts = (
