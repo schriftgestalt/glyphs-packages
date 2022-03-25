@@ -6,11 +6,13 @@ Repository for collecting all available plug-ins for Glyphs. What is registered 
 
 ![Window](https://github.com/schriftgestalt/glyphs-packages/blob/master/images/Screenshot.png?raw=true)
 
-### Format
+### Adding plug-in or script entries
 
-Separate multiple entries with commas. Best place to put it is right behind the closing curly brace `}` at the end of the entry.
+* Please add **new entries at the end of the list.** This keeps track of recent entries. Hint: you can search for a triple asterisk `***` to quickly find a comment that serves as a placeholder.
+* **Separate multiple entries with commas.** Best place to put it is right behind the closing curly brace `}` at the end of the entry. You can leave the odd comma behind the last closing curly brace: `{...},`
+* Best practice: fork this repository, add your plug-in and send a pull request.
+* **Verify your entry.** A broken plist file breaks the Plugin Manager for everyone. To verify your changes, run the `Parse Packages.command` and see the output in the Terminal window that opens. It must say `packages.plist: OK`. (If the .command does not work for you, run the command `plutil -lint packages.plist` in a Terminal window to check for syntax errors.)
 
-Please add new entries to the end of the list. 
 
 #### Required Fields
 
@@ -97,17 +99,6 @@ titles = {
 	}
 
 
-### How to add your own plug-ins
-
-To add your own plug-in, fork this repository, add your plug-in to the `packages.plist` and send a pull request.
-
-Run the command `plutil -lint packages.plist` in a Terminal window to check for syntax errors. It should print the following message (the `:; ` is just the Terminal shell prompt in this example):
-```
-:; plutil -lint packages.plist
-packages.plist: OK
-```
-
-Alternatively, run the `Parse Packages.command` in the same folder.
 
 ### Credits
 

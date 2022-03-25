@@ -2475,8 +2475,7 @@
 					en = "*Filter > Line Up Selection* (de: *Punkte auffädeln,* es: *Formar línea,* pt: *Formar linha,* jp: 直︀線︀化︀, ko: 직선화, zh: 📐选中点直线对齐 ) lines up nodes, handles and anchors in your point selection between the outermost points selected.";
 				};
 			},
-			
-			
+			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
 		);
 		scripts = (
 			{
@@ -2839,6 +2838,7 @@
 					vanilla
 				);
 			},
+			// *** INSERT NEW SCRIPTS ABOVE THIS LINE
 		);
 		modules = (
 			{
