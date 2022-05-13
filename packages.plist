@@ -2473,7 +2473,7 @@
 				};
 				donationURL = "https://ko-fi.com/jenskutilek";
 				path = UnicodeInfo.glyphsPlugin;
-				screenshot = "https://github.com/jenskutilek/UnicodeInfo-Glyphs/blob/master/images/screenshot.png";
+				screenshot = "https://raw.githubusercontent.com/jenskutilek/UnicodeInfo-Glyphs/master/images/screenshot.png";
 				titles = {
 					en = "Unicode Info";
 					de = "Unicode-Info";
