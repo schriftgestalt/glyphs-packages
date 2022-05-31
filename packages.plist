@@ -1297,14 +1297,14 @@
 			},
 			{
 				descriptions = {
-					en = "Adds a palette displaying a user defined key for Glyphs’ colour labelling. \nRefer to the full readme ([github.com/RobertPratley/labelKey](https://github.com/RobertPratley/labelKey)) for information on how to use it.";
+					en = "Adds a palette displaying a user defined key for Glyphs’ colour labelling. \nRefer to the full readme ([github.com/HugoJourdan/labelKey](https://github.com/HugoJourdan/labelKey)) for information on how to use it.";
 				};
 				path = LabelKey.glyphsPalette;
-				screenshot = "https://github.com/RobertPratley/labelKey/raw/master/labelKeyExample.png";
+				screenshot = "https://github.com/HugoJourdan/labelKey/raw/master/labelKeyExample.png";
 				titles = {
 					en = "Label Key";
 				};
-				url = "https://github.com/RobertPratley/labelKey";
+				url = "https://github.com/HugoJourdan/labelKey";
 			},
 			{
 				descriptions = {
