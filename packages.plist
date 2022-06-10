@@ -2480,6 +2480,20 @@
 				};
 				url = "https://github.com/jenskutilek/UnicodeInfo-Glyphs";
 			},
+			{
+				descriptions = {
+					en = "*View > Show RSB* (de: *Nachbreite anzeigen*, fr: *Afficher approche droite*, es: *Mostrar lado derecho*). displays an additional cursor at the right sidebearing (RSB) when the Text tool is active.";
+				};
+				path = RSBline.glyphsReporter;
+				screenshot = "https://raw.githubusercontent.com/akufadhl/RSBline/master/RSBline.png";
+				titles = {
+					en = "Show RSB";
+					de = "Nachbreite anzeigen";
+					fr = "Afficher approche droite";
+					es = "Mostrar lado derecho";
+				};
+				url = "https://github.com/akufadhl/RSBline";
+			},
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
 		);
 		scripts = (
