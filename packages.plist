@@ -2499,7 +2499,7 @@
 					en = "Color Flow is a Palette Plugin to help organize and gamify your workflow by tracking progress through visual feedback. It works by assigning meaning to Layer Color Labels which are sorted into a series of customizable catogories and made directly accessable through the sidebar. ";
 				};
 				path = "Color Flow.glyphsPalette";
-				screenshot = "https://github.com/HugoJourdan/Color-Flow/blob/main/img/ColorFlow_thumbnail.jpg";
+				screenshot = "https://raw.githubusercontent.com/HugoJourdan/Color-Flow/main/img/ColorFlow_thumbnail.jpg";
 				titles = {
 					en = "Color Flow";
 				};
@@ -2510,7 +2510,7 @@
 					en = "*Window > Font Dashboard*. Font Dashboard is a dashboard displaying progress bar based on Layer Colors for all Masters.";
 				};
 				path = "Font Dashboard.glyphsPlugin";
-				screenshot = "https://github.com/HugoJourdan/Font-Dashboard/blob/main/FontDashboard-preview.jpg";
+				screenshot = "https://raw.githubusercontent.com/HugoJourdan/Font-Dashboard/main/FontDashboard-preview.jpg";
 				titles = {
 					en = "Font Dashboard";
 				};
@@ -2521,7 +2521,7 @@
 					en = "*View > Show Master Dashboard*. Show Master Dashboard display a progress bar showing Layer Colors of selected Master in EditView.";
 				};
 				path = "Show Master Dashboard.glyphsReporter";
-				screenshot = "https://github.com/HugoJourdan/Show-Master-Dashboard/blob/main/FullWidth.png";
+				screenshot = "https://raw.githubusercontent.com/HugoJourdan/Show-Master-Dashboard/main/FullWidth.png";
 				titles = {
 					en = "Show Master Dashboard";
 				};
