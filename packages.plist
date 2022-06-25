@@ -2898,7 +2898,8 @@
 				titles = {
 					en = "Color Flow Script";
 				};
-				url = "https://github.com/HugoJourdan/Color-Flow/tree/main/Color%20Flow%20Shortcut";
+				url = "https://github.com/HugoJourdan/Color-Flow";
+				path = "Color Flow Shortcut";
 			},
 			// *** INSERT NEW SCRIPTS ABOVE THIS LINE
 		);
