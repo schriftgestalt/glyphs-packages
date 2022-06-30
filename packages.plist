@@ -1033,7 +1033,7 @@
 				title = "Mouse Kerning and Spacing";
 				url = "https://github.com/LucasFonts/Glyphs-MoveableSidebearings";
 				description = "Edit kerning and spacing by dragging glyphs with the mouse.";
-				screenshot = "https://raw.githubusercontent.com/LucasFonts/Glyphs-MoveableSidebearings/master/media/DragToKern.gif";
+				screenshot = "https://raw.githubusercontent.com/LucasFonts/Glyphs-MoveableSidebearings/master/media/screenshot.png";
 			}
 		);
 	};
