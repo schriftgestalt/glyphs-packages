@@ -2527,6 +2527,17 @@
 				};
 				url = "https://github.com/HugoJourdan/Show-Master-Dashboard";
 			},
+			{
+				descriptions = {
+					en = "Mouse Kerning and Spacing is a tool to edit kerning and spacing by dragging glyphs with your mouse.";
+				};
+				path = "DragToKern.glyphsTool";
+				screenshot = "https://raw.githubusercontent.com/LucasFonts/Glyphs-MoveableSidebearings/master/media/DragToKern.gif";
+				titles = {
+					en = "Mouse Kerning and Spacing";
+				};
+				url = "https://github.com/LucasFonts/Glyphs-MoveableSidebearings";
+			},
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
 		);
 		scripts = (
