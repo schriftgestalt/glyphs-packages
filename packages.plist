@@ -2532,7 +2532,7 @@
 					en = "Mouse Kerning and Spacing is a tool to edit kerning and spacing by dragging glyphs with your mouse.";
 				};
 				path = "DragToKern.glyphsTool";
-				screenshot = "https://raw.githubusercontent.com/LucasFonts/Glyphs-MoveableSidebearings/master/media/DragToKern.gif";
+				screenshot = "https://raw.githubusercontent.com/LucasFonts/Glyphs-MoveableSidebearings/master/media/screenshot.png";
 				titles = {
 					en = "Mouse Kerning and Spacing";
 				};
