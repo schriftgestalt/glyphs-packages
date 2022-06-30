@@ -1027,6 +1027,13 @@
 				url = "https://github.com/guidoferreyra/ShowMasterName";
 				description = "The plugin will show in the top left corner of the Edit view a text with the master name and the axes locations. It can be useful to know 'where you are' in projects with large number of masters.";
 				screenshot = "https://raw.githubusercontent.com/guidoferreyra/ShowMasterName/main/preview.png";
+			},
+			{
+				name = "DragToKern.glyphsTool";
+				title = "Mouse Kerning and Spacing";
+				url = "https://github.com/LucasFonts/Glyphs-MoveableSidebearings";
+				description = "Edit kerning and spacing by dragging glyphs with the mouse.";
+				screenshot = "https://raw.githubusercontent.com/LucasFonts/Glyphs-MoveableSidebearings/master/media/DragToKern.gif";
 			}
 		);
 	};
