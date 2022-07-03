@@ -2111,7 +2111,6 @@
 					en = "CritParty";
 				};
 				path = "CritParty.glyphsPlugin";
-				screenshot = "https://www.corvelsoftware.co.uk/images/critparty.png";
 				url = "https://github.com/simoncozens/CritParty";
 			},
 			{
