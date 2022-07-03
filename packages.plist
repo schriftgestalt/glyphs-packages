@@ -2751,16 +2751,6 @@
 			},
 			{
 				descriptions = {
-					en = "- *Delete node names*\n- *Get Hex Range:* Writes a specified range of hex values to a text file on the Desktop.\n- *Instances to UFO:* Exports instances as UFOs to a directory chosen at runtime.\n- *Swap corner/cap components*\n- *Update Manual Features:* Updates manual feature code for glyphs in 'Remove/Keep Glyphs' custom parameters.";
-				};
-				installName = "Rob Pratley";
-				titles = {
-					en = "Robert Pratley’s Scripts";
-				};
-				url = "https://github.com/RobertPratley/Glyphs-Scripts";
-			},
-			{
-				descriptions = {
 					en = "Scripts by Jan Gerner (Yanone), particularly for interoperability with fontmake:\n- *Create Missing Brace Layers in Components:* Goes through all component glyphs and adds missing intermediate masters to the component glyphs where their respective base glyphs have them. Otherwise, component glyphs’ metrics get interpolated linearly between the main masters, ignoring the intermediate masters, while the outlines get interpolated correctly.\n- *Expand Intermediate Masters:* Takes all the intermediate masters it can find and adds them as fully expanded masters to the font, then removes all brace layers. This is necessary as a workaround for environments that can’t properly deal with brace layers, such as googlefonts/fontmake. Once the brace layers are flattened into the font as fully expanded masters, everything interpolates correctly. The masters will simply be added to the font’s master list at the end, not their correct positions in the list, which does not affect the interpolation. Use this script only to generate static instances, not a Variable Font, as otherwise the font file size will increase. To create Variable Fonts, use the Create Missing Brace Layers in Components script.\n- *Create Axis Location Custom Parameters:* In order to properly create instances from a VF using fontmake, the font needs to carry appropriate Axis Location custom parameters on the masters. This script creates them.\n- *Create Instance weightClass Custom Parameters:* In order to properly create instances from a VF using fontmake, the font needs to carry appropriate weightClass parameters on the instances. This script creates them.";
 				};
 				installName = Yanone;
