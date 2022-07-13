@@ -2537,6 +2537,19 @@
 				};
 				url = "https://github.com/LucasFonts/Glyphs-MoveableSidebearings";
 			},
+			{
+				titles = {
+					en = "Anchor Arranger";
+				};
+				path = "AnchorArranger.glyphsFilter";
+				url = "https://github.com/wsimm/AchorArranger";
+				descriptions = {
+					en = "Anchor Arranger is a Glyphs font editor. plugin and it takes care of calculating the distance between the anchors and upper or the bottom node of the glyphs and it allows you to move them easily to guarantee the consistency of your font ";
+				};
+				branch = "Glyphs3";
+				screenshot = "https://github.com/wsimm/AchorArranger/raw/master/AnchorArrangerScreenshot.png";
+				maxVersion = 3051;
+			},
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
 		);
 		scripts = (
@@ -2900,19 +2913,6 @@
 				};
 				url = "https://github.com/HugoJourdan/Color-Flow";
 				path = "Color Flow Shortcut";
-			},
-			{
-				titles = {
-					en = "Anchor Arranger";
-				};
-				path = "AnchorArranger.glyphsFilter";
-				url = "https://github.com/wsimm/AchorArranger";
-				descriptions = {
-					en = "Anchor Arranger is a Glyphs font editor. plugin and it takes care of calculating the distance between the anchors and upper or the bottom node of the glyphs and it allows you to move them easily to guarantee the consistency of your font ";
-				};
-				branch = "Glyphs3";
-				screenshot = "https://github.com/wsimm/AchorArranger/raw/master/AnchorArrangerScreenshot.png";
-				maxVersion = 3051;
 			},
 			// *** INSERT NEW SCRIPTS ABOVE THIS LINE
 		);
