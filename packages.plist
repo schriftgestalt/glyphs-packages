@@ -2541,7 +2541,7 @@
 				titles = {
 					en = "Anchor Arranger";
 				};
-				path = "AnchorArranger.glyphsFilter";
+				path = "AnchorArranger.glyphsPalette";
 				url = "https://github.com/wsimm/AchorArranger";
 				descriptions = {
 					en = "Anchor Arranger is a Glyphs font editor. plugin and it takes care of calculating the distance between the anchors and upper or the bottom node of the glyphs and it allows you to move them easily to guarantee the consistency of your font ";
