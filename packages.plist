@@ -2546,9 +2546,7 @@
 				descriptions = {
 					en = "Anchor Arranger is a Glyphs font editor. plugin and it takes care of calculating the distance between the anchors and upper or the bottom node of the glyphs and it allows you to move them easily to guarantee the consistency of your font ";
 				};
-				branch = "Glyphs3";
 				screenshot = "https://github.com/wsimm/AchorArranger/raw/master/AnchorArrangerScreenshot.png";
-				maxVersion = 3051;
 			},
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
 		);
