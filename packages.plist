@@ -234,7 +234,7 @@
 					en = Fade;
 					es = Desaparecer;
 					fr = "Disparaître";
-					jp = "消える";
+					ja = "消える";
 					ko = "사라지다";
 					pt = Desaparecer;
 					zh = "消失";
@@ -1041,7 +1041,7 @@
 					en = "Show Stem Thickness";
 					es = "Mostrar espesor";
 					fr = "Afficher l’épaisseur de traits";
-					jp = "ステムの太さ";
+					ja = "ステムの太さ";
 				};
 				url = "https://github.com/RafalBuchner/StemThickness";
 			},
@@ -1220,7 +1220,7 @@
 					en = "Show Crosshair";
 					es = "Mostrar cruz";
 					fr = "Afficher réticule";
-					jp = "カーソル照準";
+					ja = "カーソル照準";
 					zh = "✨显示准星线";
 				};
 				url = "https://github.com/mekkablue/ShowCrosshair";
@@ -2141,7 +2141,7 @@
 					es = "Armonía verde";
 					cs = "Zelená harmonie";
 					pt = "Harmonia verde";
-					jp = "緑の調和";
+					ja = "緑の調和";
 					ko = "녹색 조화";
 					zh = "绿色和谐";
 				};
@@ -2162,7 +2162,7 @@
 					cs = "Šedá harmonie";
 					pt = "Harmonia cinzenta";
 					ru = "Серая гармония";
-					jp = "灰色の調和";
+					ja = "灰色の調和";
 					ko = "회색 조화";
 					zh = "🦛灰色和谐";
 				};
@@ -2219,7 +2219,7 @@
 					fr = 'Nettoyer les lignes';
 					es = 'Limpiar líneas';
 					pt = 'Limpar linhas retas';
-					jp = 'ラインをクリーンアップ';
+					ja = 'ラインをクリーンアップ';
 					ko = '라인 정리';
 					zh = '清理线路';
 				};
@@ -2453,7 +2453,7 @@
 					de = "Punkte auffädeln";
 					es = "Formar línea";
 					pt = "Formar linha";
-					jp = "直線化";
+					ja = "直線化";
 					zh = "📐选中点直线对齐";
 					};
 				screenshot = "https://raw.githubusercontent.com/mekkablue/LineUp/main/LineUp.png";
