@@ -2548,6 +2548,17 @@
 				};
 				screenshot = "https://github.com/wsimm/AchorArranger/raw/master/AnchorArrangerScreenshot.png";
 			},
+			{
+				titles = {
+					en = "Snapper";
+				};
+				path = "Snapper.glyphsPalette";
+				url = "https://github.com/mekkablue/Snapper";
+				descriptions = {
+					en = "Palette with a switch for toggling object snapping for the current font.";
+				};
+				screenshot = "https://raw.githubusercontent.com/mekkablue/Snapper/main/Snapper.png";
+			},
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
 		);
 		scripts = (
