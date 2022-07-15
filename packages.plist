@@ -2558,6 +2558,7 @@
 					en = "Palette with a switch for toggling object snapping for the current font.";
 				};
 				screenshot = "https://raw.githubusercontent.com/mekkablue/Snapper/main/Snapper.png";
+				minSystemVersion = "10.15";
 			},
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
 		);
