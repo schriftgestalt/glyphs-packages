@@ -2566,7 +2566,7 @@
 					de = "HT-Letterspacer-Manager";
 					fr = "Manager HT Letterspacer";
 				};
-				screenshot = "https://github.com/eweracs/HTLSManager/blob/master/HTLSManager.png";
+				screenshot = "https://raw.githubusercontent.com/eweracs/HTLSManager/master/HTLSManager.png";
 				path = "HTLSManager.glyphsPlugin";
 				url = "https://github.com/eweracs/HTLSManager";
 				descriptions = {
