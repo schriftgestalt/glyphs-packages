@@ -2439,6 +2439,19 @@
 				};
 			},
 			{
+				titles = {
+					en = "HT Letterspacer Manager";
+					de = "HT-Letterspacer-Manager";
+					fr = "Manager HT Letterspacer";
+				};
+				screenshot = "https://github.com/eweracs/HTLSManager/blob/master/HTLSManager.png";
+				path = "HTLSManager.glyphsPlugin";
+				url = "https://github.com/eweracs/HTLSManager";
+				descriptions = {
+					en = "The HTLS Manager is the central hub for working with Huerta Tipográfica’s Letterspacer. Use it to manage font rules, per-master exceptions and paramaters.";
+				};
+			},
+			{
 				title = "Ratio Reporter";
 				screenshot = "https://raw.githubusercontent.com/richardmcdonald48/RatioReporter/main/RatioReporter.png";
 				path = "RatioReporter.glyphsReporter";
