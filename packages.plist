@@ -2431,7 +2431,7 @@
 					de = "Flächen für HT Letterspacer anzeigen";
 					fr = "Montrer les aires HT Letterspacer";
 				};
-				screenshot = "https://github.com/eweracs/ShowHTLetterspacerAreas/raw/main/ShowHTLSPolygons.png";
+				screenshot = "https://raw.githubusercontent.com/eweracs/ShowHTLetterspacerAreas/main/ShowHTLSAreas.png";
 				path = "ShowHTLSPolygons.glyphsReporter";
 				url = "https://github.com/eweracs/ShowHTLetterspacerAreas";
 				descriptions = {
