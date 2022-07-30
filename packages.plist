@@ -2570,7 +2570,7 @@
 				path = "HTLSManager.glyphsPlugin";
 				url = "https://github.com/eweracs/HTLSManager";
 				descriptions = {
-					en = "The HTLS Manager is the central hub for working with Huerta Tipográfica’s Letterspacer. Use it to manage font rules, per-master exceptions and paramaters.";
+					en = "The HTLS Manager is the central hub for working with Huerta Tipográfica’s Letterspacer. Use it to manage font rules, per-master exceptions and parameters.";
 				};
 			},
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
