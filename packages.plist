@@ -2560,6 +2560,19 @@
 				screenshot = "https://raw.githubusercontent.com/mekkablue/Snapper/main/Snapper.png";
 				minSystemVersion = "10.15";
 			},
+			{
+				titles = {
+					en = "HT Letterspacer Manager";
+					de = "HT-Letterspacer-Manager";
+					fr = "Manager HT Letterspacer";
+				};
+				screenshot = "https://raw.githubusercontent.com/eweracs/HTLSManager/master/HTLSManager.png";
+				path = "HTLSManager.glyphsPlugin";
+				url = "https://github.com/eweracs/HTLSManager";
+				descriptions = {
+					en = "The HTLS Manager is the central hub for working with Huerta Tipográfica’s Letterspacer. Use it to manage font rules, per-master exceptions and paramaters.";
+				};
+			},
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
 		);
 		scripts = (
