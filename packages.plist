@@ -1655,12 +1655,23 @@
 			},
 			{
 				descriptions = {
-					en = "The palette shows the position of anchors in the selected glyphs. This helps you check for consistent positioning of anchors if multiple glyphs are selected. For example, select A–Z to see whether all top anchors are on the same height. Note that the fields are editable, so you can adjust the anchors’ x or y of multiple glyphs at once.";
+					en = "The palette shows the position of anchors in the selected glyphs. This helps you check for consistent positioning of anchors: just select multiple glyphs. For example, select A–Z to see whether all top anchors are on the same height. Note that the fields are editable, so you can adjust the anchors’ x or y of multiple glyphs at once.";
 				};
 				path = "AnchorsPalette/Anchors.glyphsPalette";
 				screenshot = "https://raw.githubusercontent.com/justanotherfoundry/freemix-glyphsapp/master/AnchorsPalette/AnchorsPalette.png";
 				titles = {
 					en = "Anchors Palette";
+				};
+				url = "https://github.com/justanotherfoundry/freemix-glyphsapp";
+			},
+			{
+				descriptions = {
+					en = "This window shows the cap and corner components in the selected glyphs. This helps you check for consistency: just select multiple glyphs. Note that the fields are editable, so you can adjust the scaling of caps and corners for multiple glyphs at once.";
+				};
+				path = "CapsAndCorners/CapsAndCorners.glyphsPlugin";
+				screenshot = "https://github.com/justanotherfoundry/freemix-glyphsapp/raw/master/CapsAndCorners/CapsAndCorners.png";
+				titles = {
+					en = "Caps and Corners";
 				};
 				url = "https://github.com/justanotherfoundry/freemix-glyphsapp";
 			},
