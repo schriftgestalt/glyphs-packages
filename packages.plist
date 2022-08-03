@@ -22,6 +22,7 @@
 				path = "Plugins/Plugin-Palette/EOD.glyphsPalette";
 				descriptions = {
 					en = "EOD is a Glyphs 3 palette designed to improve the efficiency of Chinese font designers. Provides easy-to-use glyph disassembly and analysis functions. See [the repository readme](https://github.com/3type/EOD/tree/master/Plugins/Plugin-Palette) for details.";
+					ru = "EOD—это палитра Glyphs 3, разработанная для удобства работы дизайнеров китайских шрифтов. Предоставляет простые в использовании функции разборки и анализа глифов. Подробности см. в [readme репозитория](https://github.com/3type/EOD/tree/master/Plugins/Plugin-Palette).";
 					zh-Hans = "对CJK字符元素快速拆解及分析。 [获取详情](https://github.com/3type/EOD/tree/master/Plugins/Plugin-Palette)";
 				};
 				minVersion = 3065;
@@ -29,12 +30,14 @@
 			},
 			{
 				titles = {
-					en = Angularizzle;
+					en = "Angularizzle";
+					ru = "Угловатый";
 				};
 				url = "https://github.com/NaN-xyz/GlyphsApp-Filters";
 				path = "Angularizzle.glyphsFilter";
 				descriptions = {
 					en = "*Filter > Angularizzle* disfigures curves by sharp line. Visually it has something akin to Illustrator’s *Simplify* but is more nuanced. The *Keep detail* option attempts to protect the form’s integrity. Unselected it’s allowed to devolve down to brutish polygon. Custom parameters can be set to filter on the instance export rather than editing the font directly. In this way you can also have different settings for different sets of glyphs. This can be useful when dealing with relatively small paths such as diacritics or punctuation. Sample: `Angularize; segsize:120; detail:True;`";
+					ru = "*Фильтр > Angularizzle* уродует кривые резкой линией. Визуально он чем-то похож на *Simplify* в AI, но c большим количеством нюансов. Параметр *Keep detail* пытается защитить целостность формы. Это может быть полезно при работе с относительно небольшими путями, такими как диакритические знаки или знаки препинания. Образец: `Angularize; segsize:120; detail:True;`";
 				};
 			},
 			{
@@ -887,6 +890,7 @@
 			{
 				descriptions = {
 					en = "*View > Show Anchors Compatibility* is a complementary tool for Show Masters compatibility for those cases where the masters are not compatible because the absence of wrong naming of an anchor. The plugin displays a red circle behind the anchor that is not present in all masters.";
+					ru = "*Просмотр > Показать Anchors Compatibility* это дополнительный инструмент для Show Masters compatibility (Показать совместимость мастеров) для тех случаев, когда мастера не совместимы из-за отсутствия неправильного именования якоря. Плагин отображает красный круг за якорем, который присутствует не во всех мастерах.";
 				};
 				donationURL = "https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=NXQFEWCXXJABE&lc=US";
 				path = ShowAnchorsCompatibility.glyphsReporter;
@@ -899,6 +903,7 @@
 			{
 				descriptions = {
 					en = "*View > Show Next Font Anchors* shows in a light orange colour the list of anchors used in the glyph of the next font and in gray colour the list of current font anchors.\nIf anchors names and quantity matches between fonts it display the word \"OK\" in green. Useful to compare versions of fonts or regular vs italics.";
+					ru = "*Просмотр > Показать Next Font Anchors* показывает в светло-оранжевом цвете список якорей, используемых в глифе следующего шрифта, а в сером цвете - список якорей текущего шрифта.\nЕсли имена и количество якорей в разных шрифтах совпадают, то на экране появляется слово \"OK\" зелёного цвета. Полезно для сравнения шрифтов обычного и курсивного начертания.";
 				};
 				path = ShowNextFontAnchors.glyphsReporter;
 				screenshot = "https://raw.githubusercontent.com/guidoferreyra/ShowNextFontAnchors/master/screen-nextfontanchors.png";
@@ -1123,6 +1128,7 @@
 			{
 				descriptions = {
 					en = "*View > Show Speed Punk.* Understand and improve your outlines with this curvature comb visualization.";
+					ru = "*Просмотр > Показать Speed Punk.* Изучайне и улучшайте свои кривые с помощью визуализации волнами.";
 				};
 				path = SpeedPunk.glyphsReporter;
 				screenshot = "https://raw.githubusercontent.com/yanone/speedpunk/master/Resources/speedpunkglyphs.jpg";
@@ -1159,6 +1165,7 @@
 			{
 				descriptions = {
 					en = "*View > Show Next Font Components* shows in a light orange colour the list of components used in the glyph of the next font and in gray colour the list of current font components. If anchors names and quantity matches between fonts it display the word \"OK\" in green.";
+					ru = "*Просмотр > Показать Next Font Components* показывает светло-оранжевым цветом список компонентов, используемых в глифе следующего шрифта, а серым цветом - список компонентов текущего шрифта. Если имена и количество якорей совпадают в разных шрифтах, он отображает слово \"OK\" зелёным цветом.";
 				};
 				donationURL = "https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=NXQFEWCXXJABE&lc=US";
 				path = ShowNextFontComponents.glyphsReporter;
