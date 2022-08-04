@@ -2964,6 +2964,7 @@
 				);
 				descriptions = {
 					en = "The Python 3 runtime packaged for Glyphs.";
+					ru = "Python 3 упакованный для Glyphs.";
 				};
 				maxVersion = "3061";
 				titles = {
@@ -2978,6 +2979,7 @@
 				);
 				descriptions = {
 					en = "The Python 3 runtime packaged for Glyphs.\n⚠️ Verify the selected Python in *Glyphs > Preferences > Addons > Python version.* To use this one, make sure you pick the one that says ‘Glyphs’ after the version number.";
+					ru = "Python 3, созданный для Glyphs.\n⚠️ Проверьте возможность использования Python 3, зайдя в меню *Glyphs > Настройки > Дополнения > Python version.* Вам доступна эта версия, если после номера версии написано ‘Glyphs’.";
 				};
 				minVersion = "3062";
 				titles = {
@@ -2988,6 +2990,7 @@
 			{
 				descriptions = {
 					en = "A Pythonic wrapper around Cocoa. Useful for building Mac UI in Python. Many scripts require this library.";
+					ru = "Оболочка Pythonic для Cocoa. Необходима для создания пользовательского интерфейса Mac в Python. Эта библиотека требуется для многих скриптов";
 				};
 				identifier = vanilla;
 				path = "Lib/vanilla";
@@ -2999,6 +3002,7 @@
 			{
 				descriptions = {
 					en = "A Python library with objects that deal with data usually associated with fonts and type design.";
+					ru = "Библиотека Python с объектами, связанными с шрифтами и тайп дизайном.";
 				};
 				path = "Lib/robofab";
 				titles = {
@@ -3009,6 +3013,7 @@
 			{
 				descriptions = {
 					en = "A Python library with objects that deal with data usually associated with fonts and type design.";
+					ru = "Библиотека Python с объектами, связанными с шрифтами и тайп дизайном.";
 				};
 				identifier = fontTools;
 				path = "Lib/fontTools";
@@ -3026,6 +3031,7 @@
 				);
 				descriptions = {
 					en = "A module required by some plugins to offer a trial period.";
+					ru = "Модуль, требуемый некоторыми плагинами для предоставления пробного периода.";
 				};
 				minVersion = 3062;
 				titles = {
@@ -3042,6 +3048,7 @@
 				);
 				descriptions = {
 					en = "NumPy is the fundamental package for scientific computing in Python.";
+					ru = "NumPy—это основной пакет для научных вычислений в Python.";
 				};
 				titles = {
 					en = "NumPy";
@@ -3058,6 +3065,7 @@
 				);
 				descriptions = {
 					en = "Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python";
+					ru = "Matplotlib—это широкая библиотека для создания статических, анимированных и интерактивных визуализаций на Python.";
 				};
 				titles = {
 					en = "Matplotlib";
