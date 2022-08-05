@@ -37,7 +37,7 @@
 				path = "Angularizzle.glyphsFilter";
 				descriptions = {
 					en = "*Filter > Angularizzle* disfigures curves by sharp line. Visually it has something akin to Illustrator’s *Simplify* but is more nuanced. The *Keep detail* option attempts to protect the form’s integrity. Unselected it’s allowed to devolve down to brutish polygon. Custom parameters can be set to filter on the instance export rather than editing the font directly. In this way you can also have different settings for different sets of glyphs. This can be useful when dealing with relatively small paths such as diacritics or punctuation. Sample: `Angularize; segsize:120; detail:True;`";
-					ru = "*Фильтр > Angularizzle* уродует кривые резкой линией. Визуально он чем-то похож на *Simplify* в AI, но c большим количеством нюансов. Параметр *Keep detail* пытается защитить целостность формы. Это может быть полезно при работе с относительно небольшими путями, такими как диакритические знаки или знаки препинания. Образец: `Angularize; segsize:120; detail:True;`";
+					ru = "*Фильтр > Angularizzle* рушит кривые резкой линией. Визуально он чем-то похож на *Simplify* в AI, но c большим количеством нюансов. Параметр *Keep detail* пытается сохранить целостность формы. Это может быть полезно при работе с относительно небольшими путями, такими как диакритические знаки или знаки препинания. Образец: `Angularize; segsize:120; detail:True;`";
 				};
 			},
 			{
@@ -191,6 +191,7 @@
 			{
 				descriptions = {
 					en = "The palette *Step and Repeat* (de: *Wiederholen*, fr: *Répéter*, es: *Repetir*, pt: *Repetir*) allows shift-repeating shapes. Repeated shapes will be added to the selection for further transformations. At least one of the *X* and *Y* shifts must be non-zero. The *Steps* count includes the original, so it must be at least 2.";
+					ru = "Палитра *Step and Repeat* позволяет сдвигать-повторять формы. Повторяющиеся формы будут добавлены в выборку для дальнейших преобразований. Хотя бы один из сдвигов *X* и *Y* должен быть НЕнулевым. Число *Шагов* включает оригинал, поэтому оно должно быть не менее 2.";
 				};
 				path = StepAndRepeat.glyphsPalette;
 				screenshot = "https://raw.githubusercontent.com/mekkablue/StepAndRepeat/main/StepAndRepeat.png";
@@ -207,17 +208,20 @@
 				branch = glyphs-3;
 				descriptions = {
 					en = "*View > Show Anchor Cloud* displays a mark cloud for all glyphs which use the selected anchor, regardless of name. It also allows the user to filter which mark glyphs are displayed in the cloud.";
+					ru = "*Показать > Показать якорное облако* отображает облако меток для всех глифов, использующих выбранный якорь, независимо от имени. Он также позволяет пользователю фильтровать, какие обозначенные глифы отображаются в облаке.";
 				};
 				path = ShowAnchorCloud.glyphsReporter;
 				screenshot = "https://raw.githubusercontent.com/simoncozens/ShowAnchorCloud/master/ShowAnchorCloud.png";
 				titles = {
 					en = "Show Anchor Cloud";
+					ru = "Показать якорное облако";
 				};
 				url = "https://github.com/simoncozens/ShowAnchorCloud";
 			},
 			{
 				descriptions = {
 					en = "*View > Show Distance and Angle in Corner* shows the direct distance of two selected elements (Nodes, Anchors, Components) and their angle. The times of temporarily created guidelines are passé.";
+					ru = "*Показать > Показать расстояние и значение угла в угле* показывает расстояние по прямой между двумя выбранными элементами (Узлы, Якоря, Компоненты) и их угол.";
 				};
 				path = ShowDistanceAndAngleOfNodesInCorner.glyphsReporter;
 				screenshot = "https://raw.githubusercontent.com/weiweihuanghuang/Show-Distance-And-Angle-Of-Nodes-In-Corner/master/Images/preview.png";
@@ -229,6 +233,7 @@
 			{
 				descriptions = {
 					en = "*Filter > Fade* (de: *Verschwinden,* fr: *Disparaître,* es: *Desaparecer,* pt: *Desaparecer,* jp: *消える,* ko: *사라지다,* zh: *消失*) removes parts of glyphs beneath or beyond a certain coordinate. As value use `x<200`or `y>300`, or multiple conditions in a comma-separated list `x>500, y<200`.";
+					ru = "*Фильтр > Fade* удаляет части глифов ниже или за пределами определенной координаты. Используйте значения `x<200`или `y>300`, или несколько условий в списке, разделенном запятыми `x>500, y<200`.";
 				};
 				path = Fade.glyphsFilter;
 				screenshot = "https://raw.githubusercontent.com/mekkablue/Fade/master/Fade.png";
@@ -241,12 +246,15 @@
 					ko = "사라지다";
 					pt = Desaparecer;
 					zh = "消失";
+					ru = "Пропадающий";
+					
 				};
 				url = "https://github.com/mekkablue/Fade";
 			},
 			{
 				descriptions = {
 					en = "Effect plug-in for adding a Risograph-like effect on your shapes.";
+					ru = "Плагин эффектов для добавления «эффекта ризографа» к формам.";
 				};
 				path = Risorizer.glyphsFilter;
 				screenshot = "https://raw.githubusercontent.com/mekkablue/Risorizer/master/Risorizer.png";
@@ -255,6 +263,7 @@
 					en = Risorizer;
 					es = Risorizar;
 					fr = Risoriser;
+					ru = "Ризограф";
 				};
 				url = "https://github.com/mekkablue/Risorizer";
 			},
