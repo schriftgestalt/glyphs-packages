@@ -221,7 +221,7 @@
 			{
 				descriptions = {
 					en = "*View > Show Distance and Angle in Corner* shows the direct distance of two selected elements (Nodes, Anchors, Components) and their angle. The times of temporarily created guidelines are passé.";
-					ru = "*Показать > Показать расстояние и значение угла в угле* показывает расстояние по прямой между двумя выбранными элементами (Узлы, Якоря, Компоненты) и их угол.";
+					ru = "*Показать > Показать расстояние и значение угла в угле* показывает расстояние по прямой между двумя выбранными элементами (узлы, якоря, компоненты) и их угол.";
 				};
 				path = ShowDistanceAndAngleOfNodesInCorner.glyphsReporter;
 				screenshot = "https://raw.githubusercontent.com/weiweihuanghuang/Show-Distance-And-Angle-Of-Nodes-In-Corner/master/Images/preview.png";
@@ -270,11 +270,13 @@
 			{
 				descriptions = {
 					en = "*Filter > Italic Extreme* adds points on a specified angle. The default angle is the italic angle from the selected master when launching the plugin. Multiple angles can be entered separated by commas, and will be processed successively. The checkboxes allow to optionally delete V/H extremes or slanted curve nodes that match the specified angles, effectively switching an outline between V/H and Italic extremes. Keep in mind that not all curves can be replicated exactly with a different point placement. Glyphs’ algorithm to keep a shape when removing nodes works well, but is not magic.";
+					ru = "*Фильтр > Точки экстремума в курсиве* добавляет точки под указанным углом. По умолчанию используется курсивный угол от выбранного мастера при запуске плагина. Можно ввести несколько углов через запятую, и они будут обрабатываться последовательно. Флажки позволяют по желанию удалить крайние узлы Высоты/Ширины или наклонных кривых, которые соответствуют указанным углам, эффективно переключая контур между узлами экстремума Ширины/Высоты и Курсива. Следует помнить, что не все кривые могут быть точно воспроизведены с другим расположением точек. Алгоритм Glyphs, позволяющий сохранить форму при удалении узлов, работает отлично, но это не волшебство.";
 				};
 				path = ItalicExtremes.glyphsFilter;
 				screenshot = "https://raw.githubusercontent.com/joachimvu/ItalicExtremes/master/ItalicExtremes.png";
 				titles = {
 					en = "Italic Extremes";
+					ru = "Точки экстремума в курсиве";
 				};
 				url = "https://github.com/joachimvu/ItalicExtremes";
 			},
@@ -305,6 +307,7 @@
 			{
 				descriptions = {
 					en = "Magic Remover (de: *Magic-Löscher,* es: *Borrador magico,* fr: *Gomme magique,* pt: *Apagador mágico*) is a button in the right-hand side palette that enables multiple-master deletion of selected nodes, anchors, components and corner components. Deleting (any number of) nodes will try to keep the shape, similar to what happens when you individually delete nodes.";
+					ru = "*Фильтр > Магическое удаление*—это кнопка в правой боковой палитре, которая позволяет удалять выбранные узлы, привязки, компоненты и угловые компоненты по нескольким шаблонам. Удаление (любого количества) узлов попытается сохранить форму, подобно тому, что происходит, когда вы удаляете узлы по отдельности.";
 				};
 				path = MagicRemove.glyphsPalette;
 				screenshot = "https://raw.githubusercontent.com/mekkablue/MagicRemove/master/MagicRemove.png";
@@ -314,12 +317,14 @@
 					es = "Borrador magico";
 					fr = "Gomme magique";
 					pt = "Apagador mágico";
+					pt = "Магическое удаление";
 				};
 				url = "https://github.com/mekkablue/MagicRemove";
 			},
 			{
 				descriptions = {
 					en = "*Scrambler* is a palette extension that creates a new tab with a generated random sequence of selected glyphs. Useful at the initial design stages or to have a feel of the rhythm of the typeface. Works with numbers and non-Latin characters.";
+					ru = "*Просмотр > Scrambler*—это расширение палитры, которое создает новую вкладку с генерируемой случайной последовательностью выбранных глифов. Полезно на начальных этапах проектирования шрифта или для того, чтобы почувствовать «ритм» шрифта. Работает с цифрами и нелатинскими символами.";
 				};
 				path = Scrambler.glyphsPalette;
 				screenshot = "https://raw.githubusercontent.com/FEDER-CO/Scrambler/master/Scrambler.png";
@@ -331,6 +336,7 @@
 			{
 				descriptions = {
 					en = "*View > Show Nodes Close To Zones* (de: *Punkte knapp neben Zonen anzeigen,* fr: *Afficher nœuds proches des zones,* es: *Mostrar nodos cerca de zonas,* pt: *Exibir nós perto de zonas*) highlights nodes which are close to an alignment zone but are neither in nor on the boundary of an alignment zone (sensitivity is ≤ 4 units distance).\n*Right Click > New Tab: Nodes Close to Zone* opens a new tab listing all glyphs with potentially misaligned nodes.\nWritten by Olli Meier";
+					ru = "*Просмотр > Показать узлы рядом с зонами* выделяет узлы, которые близки к зоне выравнивания, но не находятся ни в зоне выравнивания, ни на ее границе (чувствительность составляет ≤ 4 единиц расстояния).\n*Правый щелчок > Новая вкладка: Узлы близко к зоне* открывает новую вкладку со списком всех глифов с потенциально несовмещенными узлами.\nНаписано Olli Meier";
 				};
 				path = NodesCloseToZones.glyphsReporter;
 				screenshot = "https://raw.githubusercontent.com/moontypespace/NodesCloseToZones-Glyphs/master/screenshot_nodesHighlighted.png";
@@ -340,34 +346,40 @@
 					es = "Mostrar nodos cerca de zonas";
 					fr = "Afficher nœuds proches des zones";
 					pt = "Exibir nós perto de zonas";
+					ru = "Показать узлы рядом с зонами";
 				};
 				url = "https://github.com/moontypespace/NodesCloseToZones-Glyphs";
 			},
 			{
 				descriptions = {
 					en = "*View > Show Global Glyph* displays the glyph named `_global` in the background of other glyphs. This can give an alternative to global guidelines. See GitHub for some craft tips";
+					ru = "*Просмотр > Показать глобальные глифы.* Отображает глиф с именем `_global` на фоне других глифов. Как вариант альтернативы глобальным указаниям. Советы по использованию см. в GitHub";
 				};
 				path = GlobalGlyph.glyphsReporter;
 				screenshot = "https://raw.githubusercontent.com/Nevu/Show-Global-Glyph/master/ShowGlobalGlyph.png";
 				titles = {
 					en = "Global Glyph";
+					ru = "Глобальные глифы";
 				};
 				url = "https://github.com/mekkablue/Show-Global-Glyph";
 			},
 			{
 				descriptions = {
 					en = "The tool shows an oval for a mouse cursor which can be used to gauge the width of strokes.";
+					ru = "*Просмотр > Инструмент для измерения.* Инструмент показывает овал под курсором мыши, который можно использовать для определения ширины штрихов.";
 				};
 				path = GaugeTool.glyphsTool;
 				screenshot = "https://raw.githubusercontent.com/weiweihuanghuang/GaugeTool/master/images/gaugetool.gif";
 				titles = {
 					en = "Gauge Tool";
+					ru = "Инструмент для измерения";
 				};
 				url = "https://github.com/weiweihuanghuang/GaugeTool";
 			},
 			{
 				descriptions = {
 					en = "*Filter > Shadow* (de: *Schatten*, fr: *Ombreur*, nl: *Schaduw*, es: *Sombrear*, zh: 🌖阴影) turns your glyphs into shadowed versions of themselves.";
+					ru = "*Фильтр > Тень.* Превращает ваши глифы в теневые версии самих себя.";
 				};
 				path = Shadow.glyphsFilter;
 				screenshot = "https://raw.githubusercontent.com/mekkablue/Shadow/master/Shadow.png";
@@ -378,12 +390,14 @@
 					fr = Ombreur;
 					nl = Schaduw;
 					zh = "🌖阴影";
+					ru = "Тень";
 				};
 				url = "https://github.com/mekkablue/Shadow";
 			},
 			{
 				descriptions = {
 					en = "*View > Show Italic* (de: *Kursive*, es: *itálicas*, fr: *italique*, zh: 🥂意大利体) displays the italic counterpart of the current upright glyph in Edit view (and vice versa), given that both the Upright and Italic fonts are opened in Glyphs, and given that the other font contains a glyph with the same name. It is useful for stepping through the glyphs and checking if there is an undesired deviation, e. g., a different diacritic height or different descender depth.";
+					ru = "*Просмотр > Показать курсив.* Отображает курсивный аналог текущего вертикального глифа в режиме редактирования (и наоборот), если оба шрифта Прямой и Курсив открыты в Glyphs, и если другой шрифт содержит глиф с тем же именем. Это полезно для перебора глифов и проверки наличия нежелательных отклонений, например, другой высоты диакритических знаков или другой глубины нижних выносных элементов.";
 				};
 				path = ShowItalic.glyphsReporter;
 				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowItalic/master/ShowItalic.png";
@@ -393,6 +407,7 @@
 					es = "Mostrar itálicas";
 					fr = "Afficher italique";
 					zh = "🥂意大利体";
+					ru = "Показать курсив";
 				};
 				url = "https://github.com/mekkablue/ShowItalic";
 			},
@@ -402,11 +417,13 @@
 				);
 				descriptions = {
 					en = "Variable Font Preview now available for Glyphs 3. This is a fully functional 30 days trial. What are you waiting for?\nContact me for Student Discounts.";
+					ru = "Просмотр вариативных шрифтов теперь доступен для Glyphs 3. Это полнофункциональная 30-дневная пробная версия. Чего вы ждете?\nСвяжитесь со мной для студенческих скидок!";
 				};
 				path = "Variable Font Preview X.glyphsReporter";
 				screenshot = "https://github.com/Mark2Mark/variable-font-preview/blob/main/.images/Plugin%20Manager%20-%20Variable%20Font%20Preview.jpg?raw=true";
 				titles = {
 					en = "Variable Font Preview 3";
+					ru = "Предварительный просмотр вариативных шрифтов 3";
 				};
 				url = "https://github.com/Mark2Mark/variable-font-preview";
 				minVersion = 3062;
@@ -414,6 +431,7 @@
 			{
 				descriptions = {
 					en = "*View > Show Smart Plumblines* (de: *Intelligente Lotschnur anzeigen,* fr: *Afficher lignes intelligentes de construction,* es: *Mostrar líneas inteligentes de construcción*) displays **live guidelines** at the center of each paths’ (red) and components’ (grey) bounding box.\nIf you select anything, it also displays the center of that selection (blue dashed).\nOne major feature is that the guidelines **automatically match your italic angle**.\nThis is useful for aligning objects by sight. As well as:\n\n- Align multiple paths and/or components\n- Setting up horizontal positions of anchors\n- Editing segments while easily keeping italic angle, etc.";
+					ru = "*Просмотр > Показать умные свисания* displays **live guidelines** at the center of each paths’ (red) and components’ (grey) bounding box.\nIf you select anything, it also displays the center of that selection (blue dashed).\nOne major feature is that the guidelines **automatically match your italic angle**.\nThis is useful for aligning objects by sight. As well as:\n\n- Align multiple paths and/or components\n- Setting up horizontal positions of anchors\n- Editing segments while easily keeping italic angle, etc.";
 				};
 				donationURL = "https://ko-fi.com/M4M580HG";
 				path = SmartPlumblines.glyphsReporter;
