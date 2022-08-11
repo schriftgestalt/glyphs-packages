@@ -191,7 +191,7 @@
 			{
 				descriptions = {
 					en = "The palette *Step and Repeat* (de: *Wiederholen*, fr: *Répéter*, es: *Repetir*, pt: *Repetir*) allows shift-repeating shapes. Repeated shapes will be added to the selection for further transformations. At least one of the *X* and *Y* shifts must be non-zero. The *Steps* count includes the original, so it must be at least 2.";
-					ru = "Палитра *Step and Repeat* позволяет сдвигать-повторять формы. Повторяющиеся формы будут добавлены в выборку для дальнейших преобразований. Хотя бы один из сдвигов *X* и *Y* должен быть НЕнулевым. Число *Шагов* включает оригинал, поэтому оно должно быть не менее 2.";
+					ru = "Палитра *Шаг и повторение* позволяет сдвигать и повторять формы. Повторяющиеся формы будут добавлены в выборку для дальнейших преобразований. Хотя бы один из сдвигов *X* и *Y* должен быть НЕнулевым. Число *Шагов* включает оригинал, поэтому оно должно быть не менее 2.";
 				};
 				path = StepAndRepeat.glyphsPalette;
 				screenshot = "https://raw.githubusercontent.com/mekkablue/StepAndRepeat/main/StepAndRepeat.png";
@@ -209,7 +209,7 @@
 				branch = glyphs-3;
 				descriptions = {
 					en = "*View > Show Anchor Cloud* displays a mark cloud for all glyphs which use the selected anchor, regardless of name. It also allows the user to filter which mark glyphs are displayed in the cloud.";
-					ru = "*Показать > Показать якорное облако* отображает облако меток для всех глифов, использующих выбранный якорь, независимо от имени. Он также позволяет пользователю фильтровать, какие обозначенные глифы отображаются в облаке.";
+					ru = "*Показать > Показать якорное облако*—отображает облако меток для всех глифов, использующих выбранный якорь, независимо от имени. Он также позволяет пользователю фильтровать, какие обозначенные глифы отображаются в облаке.";
 				};
 				path = ShowAnchorCloud.glyphsReporter;
 				screenshot = "https://raw.githubusercontent.com/simoncozens/ShowAnchorCloud/master/ShowAnchorCloud.png";
@@ -222,7 +222,7 @@
 			{
 				descriptions = {
 					en = "*View > Show Distance and Angle in Corner* shows the direct distance of two selected elements (Nodes, Anchors, Components) and their angle. The times of temporarily created guidelines are passé.";
-					ru = "*Показать > Показать расстояние и значение угла в угле* показывает расстояние по прямой между двумя выбранными элементами (узлы, якоря, компоненты) и их угол.";
+					ru = "*Показать > Показать расстояние и значение угла в угле*—показывает расстояние по прямой между двумя выбранными элементами (узлы, якоря, компоненты) и их угол.";
 				};
 				path = ShowDistanceAndAngleOfNodesInCorner.glyphsReporter;
 				screenshot = "https://raw.githubusercontent.com/weiweihuanghuang/Show-Distance-And-Angle-Of-Nodes-In-Corner/master/Images/preview.png";
@@ -234,7 +234,7 @@
 			{
 				descriptions = {
 					en = "*Filter > Fade* (de: *Verschwinden,* fr: *Disparaître,* es: *Desaparecer,* pt: *Desaparecer,* jp: *消える,* ko: *사라지다,* zh: *消失*) removes parts of glyphs beneath or beyond a certain coordinate. As value use `x<200`or `y>300`, or multiple conditions in a comma-separated list `x>500, y<200`.";
-					ru = "*Фильтр > Fade* удаляет части глифов ниже или за пределами определенной координаты. Используйте значения `x<200`или `y>300`, или несколько условий в списке, разделенном запятыми `x>500, y<200`.";
+					ru = "*Фильтр > Исчезающий*—удаляет части глифов ниже или за пределами определенной координаты. Используйте значения `x<200`или `y>300`, или несколько условий в списке, разделенном запятыми `x>500, y<200`.";
 				};
 				path = Fade.glyphsFilter;
 				screenshot = "https://raw.githubusercontent.com/mekkablue/Fade/master/Fade.png";
@@ -247,7 +247,7 @@
 					ko = "사라지다";
 					pt = Desaparecer;
 					zh = "消失";
-					ru = "Пропадающий";
+					ru = "Исчезающий";
 					
 				};
 				url = "https://github.com/mekkablue/Fade";
@@ -271,7 +271,7 @@
 			{
 				descriptions = {
 					en = "*Filter > Italic Extreme* adds points on a specified angle. The default angle is the italic angle from the selected master when launching the plugin. Multiple angles can be entered separated by commas, and will be processed successively. The checkboxes allow to optionally delete V/H extremes or slanted curve nodes that match the specified angles, effectively switching an outline between V/H and Italic extremes. Keep in mind that not all curves can be replicated exactly with a different point placement. Glyphs’ algorithm to keep a shape when removing nodes works well, but is not magic.";
-					ru = "*Фильтр > Точки экстремума в курсиве* добавляет точки под указанным углом. По умолчанию используется курсивный угол от выбранного мастера при запуске плагина. Можно ввести несколько углов через запятую, и они будут обрабатываться последовательно. Флажки позволяют по желанию удалить крайние узлы Высоты/Ширины или наклонных кривых, которые соответствуют указанным углам, эффективно переключая контур между узлами экстремума Ширины/Высоты и Курсива. Следует помнить, что не все кривые могут быть точно воспроизведены с другим расположением точек. Алгоритм Glyphs, позволяющий сохранить форму при удалении узлов, работает отлично, но это не волшебство.";
+					ru = "*Фильтр > Точки экстремума в курсиве*—добавляет точки под указанным углом. По умолчанию используется курсивный угол от выбранного мастера при запуске плагина. Можно ввести несколько углов через запятую, и они будут обрабатываться последовательно. Флажки позволяют по желанию удалить крайние узлы Высоты/Ширины или наклонных кривых, которые соответствуют указанным углам, эффективно переключая контур между узлами экстремума Ширины/Высоты и Курсива. Следует помнить, что не все кривые могут быть точно воспроизведены с другим расположением точек. Алгоритм Glyphs, позволяющий сохранить форму при удалении узлов, работает отлично, но это не волшебство.";
 				};
 				path = ItalicExtremes.glyphsFilter;
 				screenshot = "https://raw.githubusercontent.com/joachimvu/ItalicExtremes/master/ItalicExtremes.png";
@@ -337,7 +337,7 @@
 			{
 				descriptions = {
 					en = "*View > Show Nodes Close To Zones* (de: *Punkte knapp neben Zonen anzeigen,* fr: *Afficher nœuds proches des zones,* es: *Mostrar nodos cerca de zonas,* pt: *Exibir nós perto de zonas*) highlights nodes which are close to an alignment zone but are neither in nor on the boundary of an alignment zone (sensitivity is ≤ 4 units distance).\n*Right Click > New Tab: Nodes Close to Zone* opens a new tab listing all glyphs with potentially misaligned nodes.\nWritten by Olli Meier";
-					ru = "*Просмотр > Показать узлы рядом с зонами* выделяет узлы, которые близки к зоне выравнивания, но не находятся ни в зоне выравнивания, ни на ее границе (чувствительность составляет ≤ 4 единиц расстояния).\n*Правый щелчок > Новая вкладка: Узлы близко к зоне* открывает новую вкладку со списком всех глифов с потенциально несовмещенными узлами.\nНаписано Olli Meier";
+					ru = "*Просмотр > Показать узлы рядом с зонами*—выделяет узлы, которые близки к зоне выравнивания, но не находятся ни в зоне выравнивания, ни на ее границе (чувствительность составляет ≤ 4 единиц расстояния).\n*Правый щелчок > Новая вкладка: Узлы близко к зоне* открывает новую вкладку со списком всех глифов с потенциально несовмещенными узлами.\nНаписано Olli Meier";
 				};
 				path = NodesCloseToZones.glyphsReporter;
 				screenshot = "https://raw.githubusercontent.com/moontypespace/NodesCloseToZones-Glyphs/master/screenshot_nodesHighlighted.png";
@@ -354,7 +354,7 @@
 			{
 				descriptions = {
 					en = "*View > Show Global Glyph* displays the glyph named `_global` in the background of other glyphs. This can give an alternative to global guidelines. See GitHub for some craft tips";
-					ru = "*Просмотр > Показать глобальные глифы.* Отображает глиф с именем `_global` на фоне других глифов. Как вариант альтернативы глобальным указаниям. Советы по использованию см. в GitHub";
+					ru = "*Просмотр > Показать глобальные глифы.*—отображает глиф с именем `_global` на фоне других глифов. Как вариант альтернативы глобальным указаниям. Советы по использованию см. в GitHub";
 				};
 				path = GlobalGlyph.glyphsReporter;
 				screenshot = "https://raw.githubusercontent.com/Nevu/Show-Global-Glyph/master/ShowGlobalGlyph.png";
@@ -367,7 +367,7 @@
 			{
 				descriptions = {
 					en = "The tool shows an oval for a mouse cursor which can be used to gauge the width of strokes.";
-					ru = "*Просмотр > Инструмент для измерения.* Инструмент показывает овал под курсором мыши, который можно использовать для определения ширины штрихов.";
+					ru = "*Просмотр > Инструмент для измерения.* Инструмент показывает овал под курсором, который можно использовать для определения ширины штрихов.";
 				};
 				path = GaugeTool.glyphsTool;
 				screenshot = "https://raw.githubusercontent.com/weiweihuanghuang/GaugeTool/master/images/gaugetool.gif";
@@ -398,7 +398,7 @@
 			{
 				descriptions = {
 					en = "*View > Show Italic* (de: *Kursive*, es: *itálicas*, fr: *italique*, zh: 🥂意大利体) displays the italic counterpart of the current upright glyph in Edit view (and vice versa), given that both the Upright and Italic fonts are opened in Glyphs, and given that the other font contains a glyph with the same name. It is useful for stepping through the glyphs and checking if there is an undesired deviation, e. g., a different diacritic height or different descender depth.";
-					ru = "*Просмотр > Показать курсив.* Отображает курсивный аналог текущего вертикального глифа в режиме редактирования (и наоборот), если оба шрифта Прямой и Курсив открыты в Glyphs, и если другой шрифт содержит глиф с тем же именем. Это полезно для перебора глифов и проверки наличия нежелательных отклонений, например, другой высоты диакритических знаков или другой глубины нижних выносных элементов.";
+					ru = "*Просмотр > Показать курсив*—отображает курсивный аналог текущего вертикального глифа в режиме редактирования (и наоборот), если оба шрифта Прямой и Курсив открыты в Glyphs, и если другой шрифт содержит глиф с тем же именем. Это полезно для перебора глифов и проверки наличия нежелательных отклонений, например, другой высоты диакритических знаков или другой глубины нижних выносных элементов.";
 				};
 				path = ShowItalic.glyphsReporter;
 				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowItalic/master/ShowItalic.png";
@@ -418,7 +418,7 @@
 				);
 				descriptions = {
 					en = "Variable Font Preview now available for Glyphs 3. This is a fully functional 30 days trial. What are you waiting for?\nContact me for Student Discounts.";
-					ru = "Просмотр вариативных шрифтов теперь доступен для Glyphs 3. Это полнофункциональная 30-дневная пробная версия. Чего вы ждете?\nСвяжитесь со мной для студенческих скидок!";
+					ru = "Просмотр вариативных шрифтов теперь доступен для Glyphs 3. Это полнофункциональная 30-дневная пробная версия. Чего вы ждете?\nСвяжитесь для получения студенческих скидок!";
 				};
 				path = "Variable Font Preview X.glyphsReporter";
 				screenshot = "https://github.com/Mark2Mark/variable-font-preview/blob/main/.images/Plugin%20Manager%20-%20Variable%20Font%20Preview.jpg?raw=true";
@@ -432,7 +432,7 @@
 			{
 				descriptions = {
 					en = "*View > Show Smart Plumblines* (de: *Intelligente Lotschnur anzeigen,* fr: *Afficher lignes intelligentes de construction,* es: *Mostrar líneas inteligentes de construcción*) displays **live guidelines** at the center of each paths’ (red) and components’ (grey) bounding box.\nIf you select anything, it also displays the center of that selection (blue dashed).\nOne major feature is that the guidelines **automatically match your italic angle**.\nThis is useful for aligning objects by sight. As well as:\n\n- Align multiple paths and/or components\n- Setting up horizontal positions of anchors\n- Editing segments while easily keeping italic angle, etc.";
-					ru = "*Просмотр > Показать умные линии* отображает **живые направляющие** в центре границ каждого контура (красным) и компонента (серым).\nЕсли вы выделите что-либо, он также отобразит центр этого выделения (синим пунктиром).\nОдной из главных особенностей является то, что направляющие **автоматически будут соответствовать углу курсива**.\nЭто полезно для выравнивания объектов «на глаз». А также:\n\n- Выравнивание нескольких путей и/или компонентов\n- Установка горизонтального положения якорей\n- Редактирование сегментов с сохранением угла курсива и т.д.";
+					ru = "*Просмотр > Показать умные линии*—отображает **живые направляющие** в центре границ каждого контура (красным) и компонента (серым).\nЕсли вы выделите что-либо, он также отобразит центр этого выделения (синим пунктиром).\nОдной из главных особенностей является то, что направляющие **автоматически будут соответствовать углу курсива**.\nЭто полезно для выравнивания объектов «на глаз». А также:\n\n- Выравнивание нескольких путей и/или компонентов\n- Установка горизонтального положения якорей\n- Редактирование сегментов с сохранением угла курсива и т.д.";
 				};
 				donationURL = "https://ko-fi.com/M4M580HG";
 				path = SmartPlumblines.glyphsReporter;
@@ -496,7 +496,7 @@
 			{
 				descriptions = {
 					en = "*View > Show Tops And Bottoms* (es: *superiores e inferiores*, de: *Höchste und tiefste Stellen*, nl: *hoogste en laagste plekken*, fr: *les hauts et les bas*, zh: 🚧底部到顶点的数值) displays the bounding box tops and bottoms for each glyph in the Edit view, and marks them red if they are not inside an alignment zone. Also highlights nodes *inside* zones if they are missing a metric line by 1 unit.";
-					ru = "*Просмотр > Показать верх и низ* показывает верх и низ ограничивающей рамки для каждого глифа в режиме редактирования и помечает их красным цветом, если они выходят за рамки выравнивания. Также подсвечивает узлы *внутри* зон, если в них отсутствует метрическая линия на 1 единицу.";
+					ru = "*Просмотр > Показать верх и низ*—показывает верх и низ ограничивающей рамки для каждого глифа в режиме редактирования и помечает их красным цветом, если они выходят за рамки выравнивания. Также подсвечивает узлы *внутри* зон, если в них отсутствует метрическая линия на 1 ед. измерения.";
 				};
 				donationURL = "https://ko-fi.com/mekkablue";
 				path = ShowTopsAndBottoms.glyphsReporter;
@@ -521,16 +521,13 @@
 				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowOffsetCurveParameterPreview/master/OffsetPreview.png";
 				titles = {
 					en = "Offset Preview";
-					ru = "Смещение превью";
 				};
 				url = "https://github.com/mekkablue/ShowOffsetCurveParameterPreview";
 			},
 			{
 				descriptions = {
 					en = "*View > Show Styles* (de: *Stile anzeigen,* es: *Mostrar estilos,* fr: *Afficher styles,* pt: *Exibir estilos,* zh: 💗插值) calculates all active styles for the given glyph and draws them behind your paths. Will highlight the currently selected style (i.e., selected in the Preview area at the bottom). Right-click for extra options (centering shape, aligning on a node). Use `ShowStyles` parameter in *Font Info > Font* or *Styles* for defining colors: as value, use comma-separated numbers for RGBA, between 0.0 and 1.0, e. g., `0, 1, 0.2` for green with a small hint of blue in it. Run `Glyphs.defaults['com.mekkablue.ShowStyles.anchors']=True` in Macro Window to also show interpolation of anchors.";
-					ru = "*Просмотр > Показать стили* вычисляет все активные стили для данного глифа и показывает их по вашим контурами. Выделит текущий выбранный стиль (т.е. выбранный в области предварительного просмотра внизу). Щелкните правой кнопкой мыши для получения дополнительных опций (центрирование фигуры, выравнивание по узлу). Используйте параметр `ShowStyles` в *Информация о шрифте > Шрифт* или *Стили* для определения цветов: в качестве значения используйте числа через запятую для RGBA, от 0.0 до 1.0, например, `0, 1, 0.2` для зеленого с небольшим оттенком синего. Выполните `Glyphs.defaults['com.mekkablue.ShowStyles.anchors']=True' в окне макросов, чтобы также показать интерполяцию якорей.
-
-Переведено с помощью www.DeepL.com/Translator (бесплатная версия)";
+					ru = "*Просмотр > Показать стили* вычисляет все активные стили для данного глифа и показывает их по вашим контурами. Выделит текущий выбранный стиль (т.е. выбранный в области предварительного просмотра внизу). Щелкните правой кнопкой мыши для получения дополнительных опций (центрирование фигуры, выравнивание по узлу). Используйте параметр `ShowStyles` в *Информация о шрифте > Шрифт* или *Стили* для определения цветов: в качестве значения используйте числа через запятую для RGBA, от 0.0 до 1.0, например, `0, 1, 0.2` для зеленого с небольшим оттенком синего. Выполните `Glyphs.defaults['com.mekkablue.ShowStyles.anchors']=True' в окне макросов, чтобы также показать интерполяцию якорей.";
 				};
 				minGlyphsVersion = "3.0";
 				path = ShowStyles.glyphsReporter;
@@ -549,6 +546,7 @@
 			{
 				descriptions = {
 					en = "*View > Show Filled Preview* (de: *Gefüllte Vorschau beim Bearbeiten,* es: *contornos rellenos durante la edición,* fr: *aperçu des formes pendant la édition*) fills open paths with a dark gray color even while you are still drawing. For controlling the opacity, run `Glyphs.defaults['com.mekkablue.ShowFilledPreview.opacity']=0.6` in *Window > Macro Panel.* Any value between 0.0 and 1.0 is possible.";
+					ru = "*Просмотр > Показать заполненный контур превью*—заполняет открытые контуры темно-серым цветом, даже когда вы продолжаете рисовать дальше. Для управления прозрачностью установите `Glyphs.defaults['com.mekkablue.ShowFilledPreview.opacity']=0.6` в *Окно > Панель Макросов.* Возможно любое значение между 0.0 и 1.0.";
 				};
 				path = ShowFilledPreview.glyphsReporter;
 				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowFilledPreview/master/ShowFilledPreview.png";
@@ -557,12 +555,14 @@
 					en = "Show Filled Preview while Editing";
 					es = "Mostrar contornos rellenos durante la edición";
 					fr = "Afficher aperçu des formes pendant la édition";
+					ru = "Показывать заполненный контур при редактировании";
 				};
 				url = "https://github.com/mekkablue/ShowFilledPreview";
 			},
 			{
 				descriptions = {
 					en = "*View Show Export Status* (de: *Export-Status anzeigen,* es: *Mostrar estado del exporto,* fr: *Afficher stade d’export*) displays a red cross over non-exporting glyphs in Edit View.";
+					ru = "*Просмотр > Показать состояние для экспорта*—над неэкспортируемыми глифами показывает крестик в режиме редактирования";
 				};
 				path = ShowExportStatus.glyphsReporter;
 				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowExportStatus/master/ShowExportStatus.png";
@@ -571,12 +571,14 @@
 					en = "Show Export Status";
 					es = "Mostrar estado del exporto";
 					fr = "Afficher stade d’export";
+					ru = "Показать состояние для экспорта";
 				};
 				url = "https://github.com/mekkablue/ShowExportStatus";
 			},
 			{
 				descriptions = {
 					en = "*View > Show Distance Between Two Points* (es: *Mostrar distancia entre dos puntos,* de: *Abstand zwischen zwei Punkten anzeigen,* fr: *Afficher distance entre deux points,* pt: *Exibir distância entre dois pontos*) displays the distance between two selected nodes when exactly two points are selected, ignoring intersections in between.";
+					ru = "*Просмотр > Показать расстояние между двумя точками*—показывает расстояние между двумя выбранными узлами, когда выбраны ровно две точки, игнорируя пересечения между ними.";
 				};
 				path = ShowDistanceBetweenTwoPoints.glyphsReporter;
 				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowDistanceBetweenTwoPoints/master/ShowDistanceBetweenTwoPoints.png";
@@ -586,12 +588,14 @@
 					es = "Mostrar distancia entre dos puntos";
 					fr = "Afficher distance entre deux points";
 					pt = "Exibir distância entre dois pontos";
+					ru = "Показать расстояние между двумя точками";
 				};
 				url = "https://github.com/mekkablue/ShowDistanceBetweenTwoPoints";
 			},
 			{
 				descriptions = {
 					en = "*View > Show Coordinates of Selected Nodes* (de: *Koordinaten ausgewählter Punkte anzeigen,* fr: *Afficher les coordonnées des nœuds sélectionnés,* es: *Mostrar las coordenadas de nodos seleccionados,* pt: *Exibir coordenadas dos nós selecionados*) displays coordinates for selected on-curve nodes, as well as length and angle of the surrounding handles and line segments. \nRun this line in the Macro Window to disable display of (on-curve) node info:\n`Glyphs.defaults['com.mekkablue.ShowCoordinatesOfSelectedNodes.showNodes'] = False`\nRun this line in the Macro Window to disable display of (off-curve) handle info:\n`Glyphs.defaults['com.mekkablue.ShowCoordinatesOfSelectedNodes.showHandles'] = False`\nTo reset the prefs, run any or both of these lines in Macro Window:\n`del Glyphs.defaults['com.mekkablue.ShowCoordinatesOfSelectedNodes.showNodes']`\n`del Glyphs.defaults['com.mekkablue.ShowCoordinatesOfSelectedNodes.showHandles']`";
+					ru = "*Показать > Показать координаты выбранных узлов*—показывает координаты выбранных узлов на кривой, а также длину и угол окружающих усиков и сегментов линий. \nЗапустите эту строку в окне макросов, чтобы отключить инфо об узлах на кривой:\n`Glyphs.defaults['com.mekkablue.ShowCoordinatesOfSelectedNodes.showNodes'] = False`\nЗапустите эту строку в окне макросов, чтобы отключить инфо об усиках на кривой:\n`Glyphs.defaults['com.mekkablue. ShowCoordinatesOfSelectedNodes.showHandles'] = False`\nЧтобы сбросить настройки, запустите одну из этих строк или обе строки в окне макросов:\n`del Glyphs.defaults['com.mekkablue.ShowCoordinatesOfSelectedNodes.showNodes']`\n`del Glyphs.defaults['com.mekkablue.ShowCoordinatesOfSelectedNodes.showHandles']`";
 				};
 				path = ShowCoordinatesOfSelectedNodes.glyphsReporter;
 				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowCoordinatesOfSelectedNodes/master/ShowCoordinatesOfSelectedNodes.png";
@@ -602,12 +606,14 @@
 					fr = "Afficher les coordonnées des nœuds sélectionnés";
 					nl = "Toon coördinaten van geselecteerde punten";
 					pt = "Exibir coordenadas dos nós selecionados";
+					ru = "Показать координаты выбранных узлов";
 				};
 				url = "https://github.com/mekkablue/ShowCoordinatesOfSelectedNodes";
 			},
 			{
 				descriptions = {
 					en = "*View > Show Component Order* (de: *Reihenfolge der Komponenten anzeigen,* fr: *Afficher ordre des composants,* es: *Mostrar orden de componentes*) displays components in different colors depending on the order of the component. This way, you can step through your component-based glyphs (fn-arrows or Home/End on large keyboards), or open them all in a tab, and quickly spot an order mistake.";
+					ru = "*Просмотр > Показать порядок компонентов*—показывает компоненты разными цветами в зависимости от их порядка. Вы можете перебирать глифы, основанные на компонентах (fn-arrows или Home/End на больших клавиатурах), или открыть их все на вкладке и быстро заметить ошибку.";
 				};
 				path = ShowComponentOrder.glyphsReporter;
 				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowComponentOrder/master/ShowComponentOrder.png";
@@ -616,12 +622,14 @@
 					en = "Show Component Order";
 					es = "Mostrar orden de componentes";
 					fr = "Afficher ordre des composants";
+					ru = "Показать порядок компонентов";
 				};
 				url = "https://github.com/mekkablue/ShowComponentOrder";
 			},
 			{
 				descriptions = {
 					en = "*View > Show Angled Handles* (de: *Schräge Anfasser anzeigen*, es: *Mostrar manejadores inclinados*, fr: *Afficher les poignées inclinées*, zh: ⚖️路径检查工具) highlights BCPs (‘handles’) which are not horizontal or vertical, quite-but-not-completely-straight line segments, duplicate path segments, crossed handles, and zero handles. Options in the context menu.";
+					ru = "*Просмотр > Показать угловые усики*—выделяет ППГ (усики), которые не являются горизонтальными или вертикальными (вполне, но как бы не полностью) прямые сегменты линий, дублирующие сегменты пути, перекрещенные учики и нулевые усики. Варианты в контекстном меню.";
 				};
 				donationURL = "https://ko-fi.com/mekkablue";
 				path = ShowAngledHandles.glyphsReporter;
@@ -632,6 +640,7 @@
 					es = "Mostrar manejadores inclinados";
 					fr = "Afficher les poignées inclinées";
 					zh = "⚖️路径检查工具";
+					ru = "Показать угловые усики";
 				};
 				url = "https://github.com/mekkablue/ShowAngledHandles";
 			},
