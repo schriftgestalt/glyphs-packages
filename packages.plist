@@ -1141,9 +1141,6 @@
 				url = "https://github.com/schriftgestalt/ShowUnderline";
 			},
 			{
-				archs = (
-					intel
-				);
 				descriptions = {
 					en = "Tool for extruding selected path segments inwards or outwards. Great for quick, destructive path editing.";
 				};
