@@ -512,6 +512,9 @@
 				url = "https://github.com/mekkablue/ShowTopsAndBottoms";
 			},
 			{
+				archs = (
+					intel
+				);
 				descriptions = {
 					en = "*View > Show Offset Curve Parameter Preview* calculates the *GlyphsFilterOffsetCurve* parameters in active instances for the given glyph and draws those instances behind your paths. It quietly adds extremum and inflection nodes to your preview outlines. But it does not give you a full preview of the final instance, because it does not show the effect of any other parameters. It is focused on helping you spot path offset problems.";
 					ru = "*Просмотр > Показать Offset Curve Parameter Preview* вычисляет параметры *GlyphsFilterOffsetCurve* в активных экземплярах для данного глифа и рисует эти экземпляры за вашими контурами. Он спокойно добавляет узлы экстремума и перегиба в контуры предварительного просмотра. Но это не дает полного предварительного просмотра конечного экземпляра, поскольку не показывает влияние других параметров. Программа нацелена на то, чтобы помочь вам обнаружить проблемы со смещением контура.";
@@ -1152,6 +1155,9 @@
 				url = "https://github.com/danielgamage/Extrude-Tool";
 			},
 			{
+				archs = (
+					intel
+				);
 				descriptions = {
 					en = "Palette that provides selection commands such as *undo*, *grow*, *shrink*, and a pattern-recognizing *continue*, as well as selection operations to *add*, *remove*, or *select only* elements of a certain type.";
 				};
@@ -1240,6 +1246,9 @@
 				url = "https://github.com/guidoferreyra/Obfuscator";
 			},
 			{
+				archs = (
+					intel
+				);
 				descriptions = {
 					en = "Allows one to rotate the currently-selected glyph to preview it from multiple angles";
 				};
@@ -1551,6 +1560,9 @@
 				url = "https://github.com/mekkablue/RandomRotate";
 			},
 			{
+				archs = (
+					intel
+				);
 				descriptions = {
 					en = "*Collect-Hangul* lets you select or input Korean hangul characters easily by selecting consonants and vowels.\n *한글 모으기*는 초성, 중성, 종성 자소 선택으로 한글 입력 및 선택을 쉽게할 수 있고, 선택된 결과를 저장할 수 있어 한글 폰트 제작에 매우 유용합니다.\n **requirements** : `vanilla` module - you can install via Glyphs Preferences > Addons > Modules \n **사용 환경** : Vanilla 모듈 - 글립스의 환경설정 > 애드온 > 모듈 에서 '모듈 설치'를 통해 설치 가능.\n http://www.linegap.com/portfolio-items/collect-hangul-in-glyphs/";
 				};
@@ -1753,6 +1765,9 @@
 				url = "https://github.com/justanotherfoundry/freemix-glyphsapp";
 			},
 			{
+				archs = (
+					intel
+				);
 				descriptions = {
 					en = "Embeds the SILE typesetter into Glyphs, allowing you to create and view complex font proofs while you edit.";
 				};
@@ -1789,6 +1804,9 @@
 				url = "https://github.com/mekkablue/SetPalette";
 			},
 			{
+				archs = (
+					intel
+				);
 				descriptions = {
 					en = "A design workflow tool.\n\n- Record layer history\n- Design using *checkpoints*\n- Help declutter your Layers palette!\n- Playback & export time-lapse animations of glyphs.";
 				};
@@ -1853,6 +1871,9 @@
 				url = "https://github.com/mekkablue/ShowCharacter";
 			},
 			{
+				archs = (
+					intel
+				);
 				descriptions = {
 					en = "*Window > Master Selector* helps to navigate complex multi master files.";
 				};
@@ -2100,6 +2121,9 @@
 				url = "https://github.com/luke-snider/GlyphGiffer-for-GlyphsApp";
 			},
 			{
+				archs = (
+					intel
+				);
 				descriptions = {
 					en = "*Simple Preview* lets you preview texts which is in editing window. You can control text size and text directions in this preview plugin.\n *간단미리보기*는 편집창에서 편집 중인 텍스트들을 미리보기하는 플러그인으로, 글립스의 자체 미리보기에서 가로모드만 지원되는 단점을 보완하기 위해, 세로쓰기 및 가로쓰기 모드를 지원합니다.\n **requirements** : `Vanilla` module - you can install via Glyphs Preferences > Addons > Modules \n **사용 환경** : Vanilla 모듈 - 글립스의 환경설정 > 애드온 > 모듈 에서 '모듈 설치'를 통해 설치 가능.\n ";
 				};
@@ -2248,6 +2272,9 @@
 				minVersion = 3091;
 			},
 			{
+				archs = (
+					intel
+				);
 				descriptions = {
 					en = "*View > Show LT Global Background* displays the outline of a selected glyph in the background, similar to the *Global Mask* functionality in Fontlab V.";
 				};
