@@ -182,6 +182,7 @@
 					en = "*File > Save to Git* saves your font and commits the changes to a git repository. Well suited if you just want to keep track of your changes.";
 				};
 				donationURL = "https://ko-fi.com/jenskutilek";
+				minGlyphsVersion = "3.0";
 				path = SaveToGit.glyphsPlugin;
 				titles = {
 					en = "Save to Git";
