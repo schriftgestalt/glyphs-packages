@@ -1270,9 +1270,6 @@
 				url = "https://github.com/guidoferreyra/Obfuscator";
 			},
 			{
-				archs = (
-					intel
-				);
 				descriptions = {
 					en = "Allows one to rotate the currently-selected glyph to preview it from multiple angles";
 				};
