@@ -960,6 +960,7 @@
 			{
 				descriptions = {
 					en = "*View > Show Kerning Groups* displays all members of the currently active glyph’s kerning group to either side in miniature and realtime. Useful when setting up kerning groups and getting visual feedback right away. If you see elements sticking out of the right group, you know there might be a group member set wrong. Same for the left side. It is somehow related to the built-in feature \"Show Group Members\" by Georg Seifert, but this one does not need the caret to sit between a certain pair.";
+					ru = "*Просмотр > Показать кернинг группы* отображает всех членов кернинговой группы активного глифа в миниатюре и в реальном времени. Может пригодится при настройке групп кернинга и получении визуального фидбека. Если вы видите элементы, торчащие из правой группы, вы знаете, что член группы может быть установлен неправильно. То же самое для левой стороны. Это как-то связано со встроенной функцией \"Показать членов группы\" от Georg Seifert и эта функция не требует, чтобы знак вставки находился между определенной парой.";
 				};
 				donationURL = "https://ko-fi.com/M4M580HG";
 				path = ShowKerningGroups.glyphsReporter;
@@ -980,6 +981,7 @@
 				screenshot = "https://raw.githubusercontent.com/guidoferreyra/ShowNextFont/master/screen-nextfont.png";
 				titles = {
 					en = "Show Next Font";
+					ru = "Показать следующий шрифт";
 				};
 				url = "https://github.com/guidoferreyra/ShowNextFont";
 			},
@@ -1095,6 +1097,7 @@
 					en = "Delete Small Paths";
 					es = "Borrar trazados pequeños";
 					fr = "Supprimer les petits tracés";
+					ru = "Удалить небольшие пути";
 				};
 				url = "https://github.com/mekkablue/DeleteSmallPaths";
 			},
@@ -1160,6 +1163,7 @@
 					es = "Mostrar espesor";
 					fr = "Afficher l’épaisseur de traits";
 					ja = "ステムの太さ";
+					ru = "Толщина стемов";
 				};
 				url = "https://github.com/RafalBuchner/StemThickness";
 			},
@@ -1182,6 +1186,7 @@
 			{
 				descriptions = {
 					en = "*Filter > Make Corner* (de: *Ecke herstellen,* es: *Generar esquina,* fr: *Générer coin*) reverses the functionality of the Round Corner filter, and turns curves into corners again.";
+					ru = "*Фильтр > Сделать угол* реверсирует фильтр «Скругленный угол» и снова превращает кривые в углы.";
 				};
 				path = MakeCorner.glyphsFilter;
 				screenshot = "https://raw.githubusercontent.com/mekkablue/MakeCorner/master/MakeCorner.png";
@@ -1190,6 +1195,7 @@
 					en = "Make Corner";
 					es = "Generar esquina";
 					fr = "Générer coin";
+					ru = "Сделать угол";
 				};
 				url = "https://github.com/mekkablue/MakeCorner";
 			},
