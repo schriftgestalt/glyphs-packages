@@ -838,6 +838,7 @@
 			{
 				descriptions = {
 					en = "*View > Sync Tabs* (de: *Tabs synchron halten,* fr: *Synchroniser les onglets,* es: *Sincronizar pestañas*) keeps the current tabs of all open fonts in sync with the currently active tab. In **realtime!**";
+					ru = "*Просмотр > Синхронизация вкладок* синхронизирует текущие вкладки всех открытых шрифтов с текущей активной вкладкой **в реальном времени**";
 				};
 				donationURL = "https://ko-fi.com/M4M580HG";
 				path = SyncTabs.glyphsPlugin;
@@ -847,12 +848,14 @@
 					en = "Sync Tabs";
 					es = "Sincronizar pestañas";
 					fr = "Synchroniser les onglets";
+					ru = "Синхронизация вкладок";
 				};
 				url = "https://github.com/Mark2Mark/Synced-Tabs";
 			},
 			{
 				descriptions = {
 					en = "*View > Show Blindfold* (de: *Blenden anzeigen,* fr: *Afficher bandeaux,* es: *Mostrar vendas*) blackens out everything beyond the xHeight (or Cap-Height --> option in context menu). Useful for Spacing and Kerning because the visible leftover is what matters the most here.";
+					ru = "*Просмотр > Показать границы по высоте знаков* затемняет все, что выходит за пределы высоты строчных (или Высоты прописных в контекстном меню). Полезно для интервалов и кернинга, так как видимый остаток—это то, что имеет наибольшее значение.";
 				};
 				donationURL = "https://ko-fi.com/M4M580HG";
 				path = BlindFold.glyphsReporter;
@@ -862,42 +865,49 @@
 					en = "Show Blindfold";
 					es = "Mostrar vendas";
 					fr = "Afficher bandeaux";
+					ru = "Показать границы по высоте знаков";
 				};
 				url = "https://github.com/Mark2Mark/Blindfold";
 			},
 			{
 				descriptions = {
 					en = "*BlindFold Neue* (zh: 眼罩 Neue) is a forked version of Blindfold. It covers the boundary of the glyphs. Useful for CJK font design.";
+					ru = "*Новый Blindfold* это ответвление версии Blindfold (границы по высоте знаков) — закрывает границы глифов. Полезен для проектирования шрифтов Китай-Япония-Корея.";
 				};
 				path = "BlindFold Neue.glyphsReporter";
 				screenshot = "https://user-images.githubusercontent.com/18233088/74555875-a8de0500-4f97-11ea-9b36-7afae6b74cbe.png";
 				titles = {
 					en = "BlindFold Neue";
 					zh = "眼罩 Neue";
+					ru = "Новый Blindfold";
 				};
 				url = "https://github.com/3type/Blindfold-Neue";
 			},
 			{
 				descriptions = {
 					en = "*CJK Metrics* (zh: 汉字度量) shows mertics used in CJK font design, including medial axes (水平垂直轴线), central area (第二中心区域), CJK guide (汉字参考线), etc.";
+					ru = "*Метрики для Китай-Япония-Корея* показывает метрики, используемые в дизайне шрифтов Китай-Япония-Корея, включая медиальные оси (水平垂直轴线), центральную область (第二中心区域), направляющие К-Я-К (汉字参考线) и т.д.
 				};
 				path = "CJK Metrics.glyphsReporter";
 				screenshot = "https://raw.githubusercontent.com/3type/CJK-Metrics/master/demo.png";
 				titles = {
 					en = "CJK Metrics";
 					zh = "汉字度量";
+					ru = "Метрики для Китай-Япония-Корея";
 				};
 				url = "https://github.com/3type/CJK-Metrics";
 			},
 			{
 				descriptions = {
 					en = "*Window > Arrange Windows* does just what it says.\n**Options:**\n*Arrange Windows & Macro Panel* [Option Key].\n*Arrange Windows On Screens* [Shift Key] if 2 Fonts and 2 Screens are present.";
+					ru = "*Просмотр > Упорядочить окна* — делает то, что написано :) \n**Варианты:**\n*Упорядочить окна и панель макросов* [Option Key].\n*Расположить окна на экране* [клавиша Shift], если присутствуют 2 шрифта и 2 экрана.";
 				};
 				donationURL = "https://ko-fi.com/M4M580HG";
 				path = ArrangeWindows.glyphsPlugin;
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/ArrangeWindows/master/ArrangeWindows.gif";
 				titles = {
 					en = "Arrange Windows";
+					ru = "Упорядочить окна";
 				};
 				url = "https://github.com/Mark2Mark/ArrangeWindows";
 			},
@@ -905,10 +915,12 @@
 //				path = "Presenter.glyphsReporter";
 //				titles = {
 //					en = "Presenter (Free)";
+//					ru = "Презентатор (бесплатно)";
 //				};
 //				url = "https://github.com/Mark2Mark/Presenter-Free";
 //				descriptions = {
 //					en = "Let your fonts shine in all glory to present them and save as image in seconds.\nUnlock tons of more features in the [Pro Version](https://markfromberg.com/projects/presenter/) ";
+//					ru = "Ваши шрифты будут сиять во всей красе, чтобы презентовать их и сохранить как изображение за считанные секунды.\nРазблокируйте множество дополнительных функций в [версии Pro](https://markfromberg.com/projects/presenter/)";
 //				};
 //				donationURL = "https://ko-fi.com/M4M580HG";
 //				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Presenter-Free/master/images/Presenter-000-markFromberg.png";
@@ -916,6 +928,7 @@
 			{
 				descriptions = {
 					en = "*View > Show Label Color* (de: *Etikettenfarbe anzeigen,* fr: *Afficher couleur d’etiquette,* es: *Mostrar color de etiqueta*) displays each glyphs’s Label Color in the edit tab. Full width or left: glyph color, right: layer color.";
+					ru = "*Просмотр > Показать цвет этикетки* отображает цвет метки каждого глифа на вкладке редактирования. По всей ширине или слева: цвет глифа, справа: цвет слоя.";
 				};
 				donationURL = "https://ko-fi.com/M4M580HG";
 				path = LabelColor.glyphsReporter;
@@ -925,6 +938,7 @@
 					en = "Show Label Color";
 					es = "Mostrar color de etiqueta";
 					fr = "Afficher couleur d’etiquette";
+					ru = "Показать цвет метки";
 				};
 				url = "https://github.com/Mark2Mark/Show-Label-Color";
 			},
@@ -932,12 +946,14 @@
 				branch = Glyphs3;
 				descriptions = {
 					en = "Adds a menu to the Palette, which gives you instant access to all your reporter plugins. Quick’n’easy on/off switching with just a single click.";
+					ru = "Добавляет меню в палитру, которая дает вам мгновенный доступ ко всем вашим плагинам-отчетам. Быстрое и простое включение/выключение одним щелчком мыши.";
 				};
 				donationURL = "https://ko-fi.com/M4M580HG";
 				path = ReporterToggler.glyphsPalette;
 				screenshot = "https://github.com/Mark2Mark/Reporter-Toggler/blob/Glyphs3/Images/Plugin%20Manager%20-%20Reporter%20Toggler.jpg?raw=true";
 				titles = {
 					en = "Reporter Toggler";
+					ru = "Переключатель";
 				};
 				url = "https://github.com/Mark2Mark/Reporter-Toggler";
 			},
@@ -950,12 +966,14 @@
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Show-Kerning-Group-Reference/12fd9ffaa0447f742dabce60a407ece582e1d6b2/Screenshots/KGR%2001.png?raw=true";
 				titles = {
 					en = "Show Kerning Groups";
+					ru = "Показать кернинговые группы";
 				};
 				url = "https://github.com/Mark2Mark/Show-Kerning-Group-Reference";
 			},
 			{
 				descriptions = {
 					en = "*View > Show Next Font* shows in a light orange colour the same glyph of another opened font. It could be useful for visual comparison of italics with normal styles,or different versions of the same font.";
+					ru = "*Просмотр > Показать следующий шрифт* показывает светло-оранжевым цветом тот же глиф и другого открытого шрифта. Можно применять для визуального сравнения курсива с обычным начертанием или разными версиями одного и того же шрифта.";
 				};
 				donationURL = "https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=NXQFEWCXXJABE&lc=US";
 				path = ShowNextFont.glyphsReporter;
@@ -968,37 +986,41 @@
 			{
 				descriptions = {
 					en = "*View > Show Anchors Compatibility* is a complementary tool for Show Masters compatibility for those cases where the masters are not compatible because the absence of wrong naming of an anchor. The plugin displays a red circle behind the anchor that is not present in all masters.";
-					ru = "*Просмотр > Показать Anchors Compatibility* это дополнительный инструмент для Show Masters compatibility (Показать совместимость мастеров) для тех случаев, когда мастера не совместимы из-за отсутствия неправильного именования якоря. Плагин отображает красный круг за якорем, который присутствует не во всех мастерах.";
+					ru = "*Просмотр > Показать совместимость якорей* — это дополнительный инструмент для «Показать совместимость мастеров» для тех случаев, когда мастера не совместимы из-за отсутствия неправильного якоря. Плагин отображает красный круг за якорем, который присутствует не во всех мастерах.";
 				};
 				donationURL = "https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=NXQFEWCXXJABE&lc=US";
 				path = ShowAnchorsCompatibility.glyphsReporter;
 				screenshot = "https://raw.githubusercontent.com/guidoferreyra/ShowAnchorsCompatibility/master/screen-anchorscompat.png";
 				titles = {
 					en = "Show Anchors Compatibility";
+					ru = "Показать совместимость якорей";
 				};
 				url = "https://github.com/guidoferreyra/ShowAnchorsCompatibility";
 			},
 			{
 				descriptions = {
 					en = "*View > Show Next Font Anchors* shows in a light orange colour the list of anchors used in the glyph of the next font and in gray colour the list of current font anchors.\nIf anchors names and quantity matches between fonts it display the word \"OK\" in green. Useful to compare versions of fonts or regular vs italics.";
-					ru = "*Просмотр > Показать Next Font Anchors* показывает в светло-оранжевом цвете список якорей, используемых в глифе следующего шрифта, а в сером цвете - список якорей текущего шрифта.\nЕсли имена и количество якорей в разных шрифтах совпадают, то на экране появляется слово \"OK\" зелёного цвета. Полезно для сравнения шрифтов обычного и курсивного начертания.";
+					ru = "*Просмотр > Показать якоря следующего шрифта* показывает в светло-оранжевом цвете список якорей, используемых в глифе следующего шрифта, а в сером цвете - список якорей текущего шрифта.\nЕсли имена и количество якорей в разных шрифтах совпадают, то на экране появляется слово \"OK\" зелёного цвета. Полезно для сравнения шрифтов обычного и курсивного начертания.";
 				};
 				path = ShowNextFontAnchors.glyphsReporter;
 				screenshot = "https://raw.githubusercontent.com/guidoferreyra/ShowNextFontAnchors/master/screen-nextfontanchors.png";
 				titles = {
 					en = "Show Next Font Anchors";
+					ru = "Показать якоря следующего шрифта";
 				};
 				url = "https://github.com/guidoferreyra/ShowNextFontAnchors";
 			},
 			{
 				descriptions = {
 					en = "*View > Show Coordinates* is similar to the Measurement tool, but it constantly displays the node coordinates and the handles' delta values.";
+					ru = "*Просмотр > Показать координаты* аналогичен инструменту Измерение, но он постоянно отображает координаты узлов и опорных точек (усов).";
 				};
 				donationURL = "https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=NXQFEWCXXJABE&lc=US";
 				path = showCoordinates.glyphsReporter;
 				screenshot = "https://raw.githubusercontent.com/guidoferreyra/showCoordinates/master/screen-coordinates.png";
 				titles = {
 					en = "Show Coordinates";
+					ru = "Показать координаты";
 				};
 				url = "https://github.com/guidoferreyra/showCoordinates";
 			},
@@ -1013,6 +1035,7 @@
 			{
 				descriptions = {
 					en = "*View > Show Stems* (de: *Stämme anzeigen,* fr: *Afficher les traits,* es: *Mostrar astas*) shows a measurement line (even in edit mode) with all distances between the outlines. If any distance matches the saved metrics in the Glyphs Palette, it will highlight in green and tell you which one it matches. The vertical position is attached to the Glyphsapp measurement line and can be moved around the same way.\nShortcut: Cmd-Opt-Ctrl-S (like **S**tems)";
+					ru = "*Просмотр > Показать стемы* показывает линию измерения (даже в режиме редактирования) со всеми расстояниями между контурами. Если какое-либо расстояние соответствует сохраненным показателям в палитре глифов, оно будет выделено зеленым цветом и сообщит вам, какое из них соответствует. Вертикальное положение привязано к линии измерения Glyphsapp и может перемещаться таким же образом.\nЯрлык: Cmd-Opt-Ctrl-S (как **S**tems).";
 				};
 				donationURL = "https://ko-fi.com/M4M580HG";
 				path = ShowStems.glyphsReporter;
@@ -1022,12 +1045,14 @@
 					en = "Show Stems (Light)";
 					es = "Mostrar astas (Light)";
 					fr = "Afficher les traits (Light)";
+					ru = "Показать стемы (Light)";
 				};
 				url = "https://github.com/Mark2Mark/Show-Stems";
 			},
 			{
 				descriptions = {
 					en = "*Filter > Erode* simulates wear and tear on your glyphs by rubbing away random bits of the outlines, especially around corners.";
+					ru = "*Фильтр > Эффект эрозии* имитирует потёртость глифов, стирая в случайном порядке фрагменты контуров, особенно вокруг углов.";
 				};
 				path = Erode.glyphsFilter;
 				screenshot = "https://raw.githubusercontent.com/simoncozens/Erode/master/Erode.png";
@@ -1036,6 +1061,7 @@
 			{
 				descriptions = {
 					en = "*View > Show Unitizer* displays unit guidelines in the background (corresponding to a value that you can configure at will) of the current glyph in Edit view. This is helpful for working in unitized fonts.";
+					ru = "*Просмотр > Показать Unitizer* отображает направляющие единицы в фоновом режиме (соответствующем значению, которое вы можете настроить по желанию) текущего глифа в режиме редактирования. Это полезно для работы с унифицированными шрифтами.";
 				};
 				path = Unitizer.glyphsReporter;
 				screenshot = "https://raw.githubusercontent.com/impallari/Unitizer/master/unitizer01.png";
@@ -1044,6 +1070,7 @@
 			{
 				descriptions = {
 					en = "*View > Show Node Indexes* (fr: *Afficher numéros des nœuds,* es: *listado de nodos,* de: *Indexnummern*) shows index numbers for the current glyph in Edit view. Toggle display of BCP indexes via context menu.";
+					ru = "*Просмотр > Показать индексы узлов* показывает номера индексов для текущего глифа в режиме редактирования. Переключение отображения индексов BCP через контекстное меню.";
 				};
 				path = ShowNodeIndexes.glyphsReporter;
 				screenshot = "https://raw.githubusercontent.com/mekkablue/ShowNodeIndexes/master/ShowNodeIndexes.png";
@@ -1052,12 +1079,14 @@
 					en = "Show Node Indexes";
 					es = "Mostrar listado de nodos";
 					fr = "Afficher numéros des nœuds";
+					ru = "Показать индексы узлов";
 				};
 				url = "https://github.com/mekkablue/ShowNodeIndexes";
 			},
 			{
 				descriptions = {
 					en = "*Filter > Delete Small Paths* (es: *Borrar trazados pequeños*, de: *Kleine Pfade löschen*, fr: *Supprimer les petits tracés*) deletes all paths smaller than a threshold value in square units. It can be useful for cleaning up glyphs from vector debris.";
+					ru = "*Фильтр > Удалить небольшие пути* — удаляет все пути меньше порогового значения в квадратных единицах. Это может быть полезно для очистки глифов от векторного мусора.";
 				};
 				path = DeleteSmallPaths.glyphsFilter;
 				screenshot = "https://raw.githubusercontent.com/mekkablue/DeleteSmallPaths/master/DeleteSmallPaths.png";
@@ -1072,6 +1101,7 @@
 			{
 				descriptions = {
 					en = "*View > Show Rekha* shows a Rekha line in Bengali, Devanagari and Gurmukhi letters. It takes its values from a custom parameter in *File > Font Info > Masters* called *Rekha*, with comma-separated values for height, thickness and overshoot. If a *rekha* anchor is present in the glyph, it will use it as the left edge of the Rekha line.";
+					ru = "*Просмотр > Показать Rekha* показывает линию Rekha (горизонтальный элемент) в буквах бенгальского языка, деванагари и гурмукхи. Она берет свои значения из кастомного параметра в *Файл > Информация о шрифте > Мастера* под названием *Rekha*, со значениями высоты, толщины и проскакивание, разделенными запятыми. Если в глифе присутствует якорь *rekha*, он будет использоваться в качестве левого края линии Rekha.";
 				};
 				path = RekhaViewer.glyphsReporter;
 				screenshot = "https://raw.githubusercontent.com/mekkablue/Rekha/master/RekhaViewer.png";
@@ -1083,6 +1113,7 @@
 			{
 				descriptions = {
 					en = "*Filter > RekhaMaker* inserts a Rekha line in Bengali, Devanagari and Gurmukhi letters. Supply values for height, thickness and overshoot, and press the *Insert* button. If a *rekha* anchor is present in the glyph, it will use it as the left edge of the Rekha line.";
+					ru = "*Фильтр > RekhaMaker* вставляет линию Rekha из букв бенгальского языка, деванагари и гурмукхи. Задайте значения высоты, толщины и проскакивания и нажмите кнопку *Вставить*. Если в глифе присутствует якорь *rekha*, он будет использоваться в качестве левого края линии Rekha.";
 				};
 				path = RekhaMaker.glyphsFilter;
 				screenshot = "https://raw.githubusercontent.com/mekkablue/Rekha/master/RekhaMaker.png";
@@ -1094,6 +1125,7 @@
 			{
 				descriptions = {
 					en = "*Filter > Remove Kerning Exceptions* (de: *Kerning-Ausnahmen entfernen,* fr: *Supprimer les exceptions de crénage,* es: *Borrar excepciones de kerning*) removes all kerning exception of selected glyphs in the current master, leaving group kerning intact. Its true power lies in its application as custom parameter. This can be useful in situations where you change the shape of a letter with a *Rename Glyphs* parameter, and its kerning exceptions do not apply anymore.";
+					ru = "*Фильтр > Устранение исключений кернинга* удаляет все исключения кернинга выбранных глифов в текущем мастере, оставляя групповой кернинг нетронутым. Его особенность - применение этого параметра в качестве пользовательского параметра. Это полезно в ситуациях, когда вы меняете форму буквы с помощью параметра *Rename Glyphs* - и к нему исключения кернинга больше не применяются.";
 				};
 				path = RemoveKerningExceptions.glyphsFilter;
 				titles = {
@@ -1101,6 +1133,7 @@
 					en = "Remove Kerning Exceptions";
 					es = "Borrar excepciones de kerning";
 					fr = "Supprimer les exceptions de crénage";
+					ru = "Устранение исключений кернинга";
 				};
 				url = "https://github.com/mekkablue/RemoveKerningExceptions";
 			},
@@ -1108,6 +1141,7 @@
 				branch = "build-glyphs3";
 				descriptions = {
 					en = "*View > Show Heatmap* visualizes the thickness of glyph stems, helping you to create even and consistent curves.";
+					ru = "*Просмотр > Показать тепловую карту* визуализирует толщину стемов глифов, помогая создавать ровные и гармоничные кривые.";
 				};
 				path = Heatmap.glyphsReporter;
 				screenshot = "https://raw.githubusercontent.com/simoncozens/Heatmap/master/heatmap.png";
@@ -1116,6 +1150,7 @@
 			{
 				descriptions = {
 					en = "*View > Stem Thickness* (de: *Stammstärke anzeigen,* fr: *Afficher l’épaisseur de traits,* es: *Mostrar espesor,* jp: *ステムの太さ*) shows how thick the stem is at the current mouse position.";
+					ru = "*Просмотр > Толщина стемов* показывает толщину стема в текущей позиции мыши.";
 				};
 				path = StemThickness.glyphsReporter;
 				screenshot = "https://raw.githubusercontent.com/RafalBuchner/StemThickness/master/images/ilu_StemThickness.png";
@@ -1131,6 +1166,7 @@
 			{
 				descriptions = {
 					en = "Adds Glyph Note (de: *Glyphennotiz,* es: *Nota de glifo,* fr: *Notes du glyphe*) to your Palette (Cmd-Opt-P), displaying the notes for the currently selected glyph(s).";
+					ru = "Добавляет примечание к глифу в палитру (Cmd-Opt-P), отображая примечания для выбранного в данный момент глифа(ов).";
 				};
 				path = GlyphNote.glyphsPalette;
 				screenshot = "https://raw.githubusercontent.com/mekkablue/NotePalettes/master/NotePlugins.png";
@@ -1139,6 +1175,7 @@
 					en = "Glyph Note";
 					es = "Nota de glifo";
 					fr = "Notes du glyphe";
+					ru = "Примечания к глифу";
 				};
 				url = "https://github.com/mekkablue/NotePalettes";
 			},
@@ -1159,22 +1196,26 @@
 			{
 				descriptions = {
 					en = "Installs an icon into the bottom toolbar and draws a preview of the underline according to the parameters *underlineThickness* and *underlinePosition* in *File > Font Info > Masters*.";
+					ru = "Устанавливает значок на нижнюю панель инструментов и рисует превью подчеркивания в соответствии с параметрами *underlineThickness* и *underlinePosition* в *Файл > Информация о шрифте > Мастера*.";
 				};
 				path = ShowUnderline.glyphsPlugin;
 				screenshot = "https://raw.githubusercontent.com/schriftgestalt/ShowUnderline/master/Screenshot.png";
 				titles = {
 					en = "Show Underline";
+					ru = "Показать подчеркивание";
 				};
 				url = "https://github.com/schriftgestalt/ShowUnderline";
 			},
 			{
 				descriptions = {
 					en = "Tool for extruding selected path segments inwards or outwards. Great for quick, destructive path editing.";
+					ru = "Инструмент для выдавливания выбранных сегментов пути внутрь или наружу. Отлично подходит для быстрого, разрушительного редактирования пути.";
 				};
 				path = ExtrudeTool.glyphsTool;
 				screenshot = "https://raw.githubusercontent.com/danielgamage/Extrude-Tool/master/images/screenshot.png";
 				titles = {
 					en = "Extrude Tool";
+					ru = "Инструмент выдавливания";
 				};
 				url = "https://github.com/danielgamage/Extrude-Tool";
 			},
@@ -1184,6 +1225,7 @@
 				);
 				descriptions = {
 					en = "Palette that provides selection commands such as *undo*, *grow*, *shrink*, and a pattern-recognizing *continue*, as well as selection operations to *add*, *remove*, or *select only* elements of a certain type.";
+					ru = "Палитра, которая предоставляет команды выбора, такие как *отмена*, *увеличение*, *сжатие* и распознавание шаблона *продолжение*, а также операции выбора для *добавления*, *удаления* или *выбора только* элементов определенного типа.";
 				};
 				path = SelectionPalette.glyphsPalette;
 				screenshot = "https://raw.githubusercontent.com/danielgamage/SelectionPalette/master/Images/screenshot.png";
@@ -1196,17 +1238,19 @@
 				branch = glyphs3;
 				descriptions = {
 					en = "*Filter > Trace Image* is a plugin to trace bitmap images into editable paths. You can choose between the [porace](http://potrace.sourceforge.net) and the [autotrace](http://autotrace.sourceforge.net) algorithm.";
+					ru = "*Фильтр > Трассировка изображения* это плагин для трассировки растровых изображений в редактируемые пути. Вы можете выбрать между алгоритмом [porace](http://potrace.sourceforge.net) и [autotrace](http://autotrace.sourceforge.net).";
 				};
 				path = TraceImage.glyphsFilter;
 				titles = {
 					en = "Trace Image";
+					ru = "Трассировка изображения";
 				};
 				url = "https://github.com/schriftgestalt/GlyphsTracePlugin";
 			},
 			{
 				descriptions = {
 					en = "*View > Show Speed Punk.* Understand and improve your outlines with this curvature comb visualization.";
-					ru = "*Просмотр > Показать Speed Punk.* Изучайне и улучшайте свои кривые с помощью визуализации волнами.";
+					ru = "*Просмотр > Показать Speed Punk.* Кривые с помощью визуализации волнами.";
 				};
 				path = SpeedPunk.glyphsReporter;
 				screenshot = "https://raw.githubusercontent.com/yanone/speedpunk/master/Resources/speedpunkglyphs.jpg";
@@ -1218,6 +1262,7 @@
 			{
 				descriptions = {
 					en = "*View > Ligature Caret* (de: *Einfügemarken in Ligaturen anzeigen,* fr: *Afficher les curseurs dans les ligatures,* es: *Mostrar cursores en ligaturas*): Select a `caret` anchor to show the cursor position in ligatures as a vertical line. Be aware that most software doesn’t take note of the font’s italic angle.";
+					ru = "*Просмотр > Положение курсора в лигатуре* — выберите якорь `caret`, чтобы показать положение курсора в лигатурах в виде вертикальной линии. Имейте в виду, что большинство программ не учитывают угол наклона курсива шрифта";
 				};
 				path = LigatureCaret.glyphsReporter;
 				screenshot = "https://raw.githubusercontent.com/FAlthausen/LigatureCaret/master/LigatureCaretScreenshot.png";
@@ -1226,12 +1271,14 @@
 					en = "Ligature Caret";
 					es = "Mostrar cursores en ligaturas";
 					fr = "Afficher les curseurs dans les ligatures";
+					ru = "Положение курсора в лигатуре";
 				};
 				url = "https://github.com/FAlthausen/LigatureCaret";
 			},
 			{
 				descriptions = {
 					en = "Adds a simple pixel drawing tool to the toolbar. It needs a `pixel` glyph in the font. And it is advised to have set the fonts grid to the size of the pixel.";
+					ru = "Добавляет простой инструмент рисования пикселей на панель инструментов. Он требует наличия в шрифте глифа `pixel`. Рекомендуется установить сетку шрифта в размере одного пикселя.";
 				};
 				maxGlyphsVersion = "2.99";
 				path = PixelTool.glyphsTool;
@@ -1243,13 +1290,14 @@
 			{
 				descriptions = {
 					en = "*View > Show Next Font Components* shows in a light orange colour the list of components used in the glyph of the next font and in gray colour the list of current font components. If anchors names and quantity matches between fonts it display the word \"OK\" in green.";
-					ru = "*Просмотр > Показать Next Font Components* показывает светло-оранжевым цветом список компонентов, используемых в глифе следующего шрифта, а серым цветом - список компонентов текущего шрифта. Если имена и количество якорей совпадают в разных шрифтах, он отображает слово \"OK\" зелёным цветом.";
+					ru = "*Просмотр > Показывать следующие компоненты шрифта* показывает светло-оранжевым цветом список компонентов, используемых в глифе следующего шрифта, а серым цветом - список компонентов текущего шрифта. Если имена и количество якорей совпадают в разных шрифтах, он отображает слово \"OK\" зелёным цветом.";
 				};
 				donationURL = "https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=NXQFEWCXXJABE&lc=US";
 				path = ShowNextFontComponents.glyphsReporter;
 				screenshot = "https://raw.githubusercontent.com/guidoferreyra/ShowNextFontComponents/master/screen-nextfontcomponents.png";
 				titles = {
 					en = "Show Next Font Components";
+					ru = "Показывать следующие компоненты шрифта";
 				};
 				url = "https://github.com/guidoferreyra/ShowNextFontComponents";
 			},
