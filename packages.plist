@@ -886,7 +886,7 @@
 			{
 				descriptions = {
 					en = "*CJK Metrics* (zh: 汉字度量) shows mertics used in CJK font design, including medial axes (水平垂直轴线), central area (第二中心区域), CJK guide (汉字参考线), etc.";
-					ru = "*Метрики для Китай-Япония-Корея* показывает метрики, используемые в дизайне шрифтов Китай-Япония-Корея, включая медиальные оси (水平垂直轴线), центральную область (第二中心区域), направляющие К-Я-К (汉字参考线) и т.д.
+					ru = "*Метрики для Китай-Япония-Корея* показывает метрики, используемые в дизайне шрифтов Китай-Япония-Корея, включая медиальные оси (水平垂直轴线), центральную область (第二中心区域), направляющие К-Я-К (汉字参考线) и т.д.";
 				};
 				path = "CJK Metrics.glyphsReporter";
 				screenshot = "https://raw.githubusercontent.com/3type/CJK-Metrics/master/demo.png";
