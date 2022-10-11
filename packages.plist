@@ -2741,6 +2741,18 @@
 					en = "The HTLS Manager is the central hub for working with Huerta Tipográfica’s Letterspacer. Use it to manage font rules, per-master exceptions and parameters.";
 				};
 			},
+			{
+				titles = {
+					en = "PS Export";
+					de = "PostScript-Export";
+				};
+				path = "PSExport.glyphsFileFormat";
+				url = "https://github.com/mekkablue/PSExport";
+				descriptions = {
+					en = "Adds PostScript as new option in *File > Export…*, will export all exporting glyphs of all exporting instances into multi-page .ps files.";
+				};
+			},
+			
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
 		);
 		scripts = (
