@@ -2746,10 +2746,23 @@
 					en = "PS Export";
 					de = "PostScript-Export";
 				};
+				screenshot = "https://raw.githubusercontent.com/mekkablue/PSExport/main/PSExport.png";
 				path = "PSExport.glyphsFileFormat";
 				url = "https://github.com/mekkablue/PSExport";
 				descriptions = {
 					en = "Adds PostScript as new option in *File > Export…*, will export all exporting glyphs of all exporting instances into multi-page .ps files.";
+				};
+			},
+			{
+				titles = {
+					en = "EPS Export";
+					de = "EPS-Export";
+				};
+				screenshot = "https://raw.githubusercontent.com/mekkablue/PSExport/main/EPSExport.png";
+				path = "EPSExport.glyphsFileFormat";
+				url = "https://github.com/mekkablue/PSExport";
+				descriptions = {
+					en = "Adds EPS as new option in *File > Export…*, will export all exporting glyphs of all exporting instances into separate .eps files.";
 				};
 			},
 			
