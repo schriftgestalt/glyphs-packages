@@ -2765,6 +2765,22 @@
 					en = "Adds EPS as new option in *File > Export…*, will export all exporting glyphs of all exporting instances into separate .eps files.";
 				};
 			},
+			{
+				dependencies = (
+					vanilla
+				);
+				descriptions = {
+					en = "*Window > WoLiBaFoNaGen:* will bring up a dialog in which you can enter your favourite letters and font name length preferences. Any new document you start will automatically get a font family name matching your criteria. Alternatively, you can get a name suggestion via *Edit > Suggest New Font Name.* A check for existing trademarks is not included.";
+				};
+				donationURL = "https://ko-fi.com/jenskutilek";
+				path = WoLiBaFoNaGen.glyphsPlugin;
+				screenshot = "https://raw.githubusercontent.com/jenskutilek/WoLiBaFoNaGen/master/images/screenshot-glyphs.png";
+				titles = {
+					en = "WoLiBaFoNaGen (WordListBasedFontNameGenerator)";
+					de = "WoLiBaFoNaGen (WortListenBasierterFontNamensGenerator)";
+				};
+				url = "https://github.com/jenskutilek/WoLiBaFoNaGen";
+			},
 			
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
 		);
