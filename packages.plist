@@ -2746,6 +2746,7 @@
 					en = "PS Export";
 					de = "PostScript-Export";
 				};
+				donationURL = "https://ko-fi.com/mekkablue";
 				screenshot = "https://raw.githubusercontent.com/mekkablue/PSExport/main/PSExport.png";
 				path = "PSExport.glyphsFileFormat";
 				url = "https://github.com/mekkablue/PSExport";
@@ -2758,6 +2759,7 @@
 					en = "EPS Export";
 					de = "EPS-Export";
 				};
+				donationURL = "https://ko-fi.com/mekkablue";
 				screenshot = "https://raw.githubusercontent.com/mekkablue/PSExport/main/EPSExport.png";
 				path = "EPSExport.glyphsFileFormat";
 				url = "https://github.com/mekkablue/PSExport";
@@ -2780,6 +2782,17 @@
 					de = "WoLiBaFoNaGen (WortListenBasierterFontNamensGenerator)";
 				};
 				url = "https://github.com/jenskutilek/WoLiBaFoNaGen";
+			},
+			{
+				descriptions = {
+					en = "*View > Show Darkened Colors* (de: *abgedunkelte Farben*) will render your components with an extra 15% black. Useful if you use a canvas color where the components are not visible well. To change the amount of darkening, run this code in Macro Window: `Glyphs.defaults[\"com.mekkablue.ColorToner.darken\"]=0.15` and replace the `0.15` with any number between 0.0 and 1.0.";
+				};
+				path = ColorToner.glyphsReporter;
+				titles = {
+					en = "Color Toner (Show Darkened Colors)";
+					de = "Color Toner (Abgedunkelte Farben anzeigen)";
+				};
+				url = "https://github.com/mekkablue/ColorToner";
 			},
 			
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
