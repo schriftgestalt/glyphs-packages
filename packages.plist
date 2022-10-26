@@ -2663,14 +2663,25 @@
 			},
 			{
 				descriptions = {
-					en = "Color Flow is a Palette Plugin to help organize and gamify your workflow by tracking progress through visual feedback. It works by assigning meaning to Layer Color Labels which are sorted into a series of customizable catogories and made directly accessable through the sidebar. ";
+					en = "Build your own contextual words/strings library of and access it dynamically. Context Manager is intended to help and speed up your workflow when you are looking for a word/string to proof a specific glyph. It allow user to manage contextual words/strings for each glyph and to create contextual group.";
 				};
-				path = "Color Flow.glyphsPalette";
+				path = "Context Manager.glyphsPlugin";
 				screenshot = "https://raw.githubusercontent.com/HugoJourdan/Color-Flow/main/img/ColorFlow_thumbnail.jpg";
 				titles = {
 					en = "Color Flow";
 				};
 				url = "https://github.com/HugoJourdan/Color-Flow";
+			},
+			{
+				descriptions = {
+					en = "Color Flow is a Palette Plugin to help organize and gamify your workflow by tracking progress through visual feedback. It works by assigning meaning to Layer Color Labels which are sorted into a series of customizable catogories and made directly accessable through the sidebar. ";
+				};
+				path = "Color Flow.glyphsPalette";
+				screenshot = "https://raw.githubusercontent.com/HugoJourdan/Context-Manager/blob/main/images/contextManager-screenshot.jpg";
+				titles = {
+					en = "Context Manager";
+				};
+				url = "https://github.com/HugoJourdan/Context-Manager";
 			},
 			{
 				descriptions = {
