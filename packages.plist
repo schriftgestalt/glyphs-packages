@@ -2675,7 +2675,6 @@
 			{
 				descriptions = {
 					en = "Color Flow is a Palette Plugin to help organize and gamify your workflow by tracking progress through visual feedback. It works by assigning meaning to Layer Color Labels which are sorted into a series of customizable catogories and made directly accessable through the sidebar. ";
-
 				};
 				path = "Color Flow.glyphsPalette";
 				screenshot = "https://raw.githubusercontent.com/HugoJourdan/Color-Flow/main/img/ColorFlow_thumbnail.jpg";
