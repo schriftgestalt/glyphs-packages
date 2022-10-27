@@ -2784,15 +2784,27 @@
 				url = "https://github.com/jenskutilek/WoLiBaFoNaGen";
 			},
 			{
-				descriptions = {
-					en = "*View > Show Darkened Colors* (de: *abgedunkelte Farben*) will render your components with an extra 15% black. Useful if you use a canvas color where the components are not visible well. To change the amount of darkening, run this code in Macro Window: `Glyphs.defaults[\"com.mekkablue.ColorToner.darken\"]=0.15` and replace the `0.15` with any number between 0.0 and 1.0.";
-				};
-				path = ColorToner.glyphsReporter;
 				titles = {
 					en = "Color Toner (Show Darkened Colors)";
 					de = "Color Toner (Abgedunkelte Farben anzeigen)";
 				};
+				descriptions = {
+					en = "*View > Show Darkened Colors* (de: *abgedunkelte Farben*) will render your components with an extra 15% black. Useful if you use a canvas color where the components are not visible well. To change the amount of darkening, run this code in Macro Window: `Glyphs.defaults[\"com.mekkablue.ColorToner.darken\"]=0.15` and replace the `0.15` with any number between 0.0 and 1.0.";
+				};
+				path = ColorToner.glyphsReporter;
 				url = "https://github.com/mekkablue/ColorToner";
+			},
+			{
+				titles = {
+					en = "FEA Export";
+					de = "Features-Export";
+				};
+				descriptions = {
+					en = "*File > Export > FEA Export* (de: *Features-Export*) will export the font’s OpenType features in FeaKit format, into a `.fea` file.";
+				};
+				screenshot = "https://raw.githubusercontent.com/mekkablue/FEAExport/main/FEAExport.png";
+				path = FEAExport.glyphsFileFormat;
+				url = "https://github.com/mekkablue/FEAExport";
 			},
 			{
 				titles = {
