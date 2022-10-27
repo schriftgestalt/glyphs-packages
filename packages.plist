@@ -2814,7 +2814,7 @@
 					en = "Build your own contextual words/strings library of and access it dynamically. Context Manager is intended to help and speed up your workflow when you are looking for a word/string to proof a specific glyph. It allow user to manage contextual words/strings for each glyph and to create contextual group.";
 				};
 				path = "Context Manager.glyphsPlugin";
-				screenshot = "https://raw.githubusercontent.com/HugoJourdan/Context-Manager/blob/main/images/contextManager-screenshot.jpg";
+				screenshot = "https://raw.githubusercontent.com/HugoJourdan/Context-Manager/dc170c08bad3c0116d14b33143d7f3b4a2d0b308/images/contextManager-screenshot.jpg";
 				url = "https://github.com/HugoJourdan/Context-Manager";
 			},
 			
