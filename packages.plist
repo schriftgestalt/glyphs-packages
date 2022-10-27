@@ -2802,6 +2802,7 @@
 				descriptions = {
 					en = "*File > Export > FEA Export* (de: *Features-Export*) will export the font’s OpenType features in FeaKit format, into a `.fea` file.";
 				};
+				screenshot = "https://raw.githubusercontent.com/mekkablue/FEAExport/main/FEAExport.png";
 				path = FEAExport.glyphsFileFormat;
 				url = "https://github.com/mekkablue/FEAExport";
 			},
