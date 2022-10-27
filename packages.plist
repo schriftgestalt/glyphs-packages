@@ -3,17 +3,6 @@
 		plugins = (
 			{
 				titles = {
-					en = "Context Manager";
-				};
-				descriptions = {
-					en = "Build your own contextual words/strings library of and access it dynamically. Context Manager is intended to help and speed up your workflow when you are looking for a word/string to proof a specific glyph. It allow user to manage contextual words/strings for each glyph and to create contextual group.";
-				};
-				path = "Context Manager.glyphsPlugin";
-				screenshot = "https://raw.githubusercontent.com/HugoJourdan/Context-Manager/blob/main/images/contextManager-screenshot.jpg";
-				url = "https://github.com/HugoJourdan/Context-Manager";
-			},
-			{
-				titles = {
 					en = "FastScripts";
 				};
 				url = "https://github.com/ViktorRubenko/FastScripts";
@@ -2804,6 +2793,17 @@
 					de = "Color Toner (Abgedunkelte Farben anzeigen)";
 				};
 				url = "https://github.com/mekkablue/ColorToner";
+			},
+			{
+				titles = {
+					en = "Context Manager";
+				};
+				descriptions = {
+					en = "Build your own contextual words/strings library of and access it dynamically. Context Manager is intended to help and speed up your workflow when you are looking for a word/string to proof a specific glyph. It allow user to manage contextual words/strings for each glyph and to create contextual group.";
+				};
+				path = "Context Manager.glyphsPlugin";
+				screenshot = "https://raw.githubusercontent.com/HugoJourdan/Context-Manager/blob/main/images/contextManager-screenshot.jpg";
+				url = "https://github.com/HugoJourdan/Context-Manager";
 			},
 			
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
