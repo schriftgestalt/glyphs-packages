@@ -2794,6 +2794,17 @@
 				path = ColorToner.glyphsReporter;
 				url = "https://github.com/mekkablue/ColorToner";
 			},
+			{
+				titles = {
+					en = "FEA Export";
+					de = "Features-Export";
+				};
+				descriptions = {
+					en = "*File > Export > FEA Export* (de: *Features-Export*) will export the font’s OpenType features in FeaKit format, into a `.fea` file.";
+				};
+				path = FEAExport.glyphsFileFormat;
+				url = "https://github.com/mekkablue/FEAExport";
+			},
 			
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
 		);
