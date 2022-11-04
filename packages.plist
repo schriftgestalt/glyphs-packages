@@ -686,6 +686,7 @@
 				url = "https://github.com/mekkablue/FixZeroHandles";
 			},
 			{
+				title = Disguiser;
 				descriptions = {
 					en = "*Filter > Disguiser* replaces the layer with a rectangle covering its bounds. This is useful for sharing files that contain sensitive designs. If invoked on a partial selection, the Disguiser will place a rectangle only over the selected parts.";
 					ru = "*Фильтр > Маскировка* заменяет слой с глифом прямоугольником, охватывающим его границы. Это может пригодиться при совместном использовании файлов, содержащих конфиденциальные рисунки. При частичном выделении «Маскировка» поместит прямоугольник только на выделенные части.";
@@ -1027,6 +1028,7 @@
 				url = "https://github.com/guidoferreyra/showCoordinates";
 			},
 			{
+				title = Kernkraft;
 				descriptions = {
 					en = "*Glyph > Kernkraft* and *Glyph > Kernschmelze* will help you to be easily confronted with all the necessary pairs your Font provides (no matter how extended the character set is).\nNavigate in UI with your keyboard: ←,  → and ⏎. Save notes for later.\nDepends on `vanilla` module to be installed. Please install via *Window > Plugin Manager > Modules.*";
 				};
@@ -1052,6 +1054,9 @@
 				url = "https://github.com/Mark2Mark/Show-Stems";
 			},
 			{
+				titles = {
+					en = Erode;
+				};
 				descriptions = {
 					en = "*Filter > Erode* simulates wear and tear on your glyphs by rubbing away random bits of the outlines, especially around corners.";
 					ru = "*Фильтр > Эффект эрозии* имитирует потёртость глифов, стирая в случайном порядке фрагменты контуров, особенно вокруг углов.";
@@ -1061,6 +1066,9 @@
 				url = "https://github.com/simoncozens/Erode";
 			},
 			{
+				titles = {
+					en = Unitizer;
+				};
 				descriptions = {
 					en = "*View > Show Unitizer* displays unit guidelines in the background (corresponding to a value that you can configure at will) of the current glyph in Edit view. This is helpful for working in unitized fonts.";
 					ru = "*Просмотр > Показать Unitizer* отображает направляющие единицы в фоновом режиме (соответствующем значению, которое вы можете настроить по желанию) текущего глифа в режиме редактирования. Это полезно для работы с унифицированными шрифтами.";
@@ -1141,6 +1149,9 @@
 				url = "https://github.com/mekkablue/RemoveKerningExceptions";
 			},
 			{
+				titles = {
+					en = Heatmap;
+				};
 				branch = "build-glyphs3";
 				descriptions = {
 					en = "*View > Show Heatmap* visualizes the thickness of glyph stems, helping you to create even and consistent curves.";
@@ -1405,6 +1416,9 @@
 				url = "https://github.com/mekkablue/ShowGlyphsInLabelColor";
 			},
 			{
+				titles = {
+					en = Speedlines;
+				};
 				descriptions = {
 					en = "*Filter > Speedlines* adds speedlines to your glyphs.";
 				};
@@ -1427,6 +1441,9 @@
 				url = "https://github.com/Tosche/ShowBlackFill";
 			},
 			{
+				titles = {
+					en = Waterfall;
+				};
 				descriptions = {
 					en = "*Window > Waterfall* shows the font in different sizes. The text is independent of the Edit View Content. Massive thanks to Mark2Mark for the help!";
 				};
@@ -1496,6 +1513,9 @@
 				url = "https://github.com/underscoretype/glyphs-plugin-sync-metrics-keys.git";
 			},
 			{
+				titles = {
+					en = Skedge;
+				};
 				descriptions = {
 					en = "*Window > Skedge* is a live python sketcher for Glyphsapp.";
 				};
@@ -1514,6 +1534,9 @@
 //				screenshot = "https://raw.githubusercontent.com/Mark2Mark/show-stem-rhythm/master/Stem%20Rhythm%20-%20Mark%20Fromberg%2001.png";
 //			},
 			{
+				titles = {
+					en = Backuper;
+				};
 				descriptions = {
 					en = "A plugin that makes a copy of the file if opened in a new version of Glyphs";
 				};
@@ -1738,6 +1761,9 @@
 				url = "https://github.com/mekkablue/TTControlInstructionsPalette";
 			},
 			{
+				titles = {
+					en = Wordfinder;
+				};
 				descriptions = {
 					en = "*Glyph > Wordfinder* finds words that contain the selected glyphs.";
 				};
@@ -1787,6 +1813,9 @@
 				url = "https://github.com/mekkablue/ShowGlyphFocus";
 			},
 			{
+				titles = {
+					en = "Components Compatibility";
+				};
 				descriptions = {
 					en = "*View > Show Components Compatibility* displays in a list the names of the components used in the current layer if a component is missing in other master it uses red color on the component name label.";
 				};
