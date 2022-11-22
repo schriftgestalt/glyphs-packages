@@ -2849,9 +2849,11 @@
 			{
 				titles = {
 					en = "Anchor Annotations";
+					de = "Ankeranmerkungen";
 				};
 				descriptions = {
 					en = "Show anchor names for unselected anchors and anchors in inactive layers, assign colors to certain anchors, shorten the displayed anchor names via text replacement, and more anchor display modes.";
+					de = "Zeige Ankernamen für nicht ausgewählte Anker und Anker in inaktiven Ebenen an, weise Farben gewissen Ankernamen zu, verkürze die Anzeigenamen von Ankern und weitere Anker-Anzeigemodi.";
 				};
 				url = "https://github.com/florianpircher/Anchor-Annotations";
 				branch = "release";
