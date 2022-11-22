@@ -2846,7 +2846,18 @@
 				screenshot = "https://raw.githubusercontent.com/HugoJourdan/Context-Manager/dc170c08bad3c0116d14b33143d7f3b4a2d0b308/images/contextManager-screenshot.jpg";
 				url = "https://github.com/HugoJourdan/Context-Manager";
 			},
-			
+			{
+				titles = {
+					en = "Anchor Annotations";
+				};
+				descriptions = {
+					en = "Show anchor names for unselected anchors and anchors in inactive layers, assign colors to certain anchors, shorten the displayed anchor names via text replacement, and more anchor display modes.";
+				};
+				url = "https://github.com/florianpircher/Anchor-Annotations";
+				branch = "release";
+				path = "Anchor Annotations.glyphsReporter";
+				screenshot = "https://florianpircher.com/glyphs/plugins/anchor-annotations/screenshot.png";
+			},
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
 		);
 		scripts = (
