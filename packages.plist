@@ -2850,10 +2850,14 @@
 				titles = {
 					en = "Anchor Annotations";
 					de = "Ankeranmerkungen";
+					it = "Annotazioni delle ancore";
+					ru = "Аннотации для якорей";
 				};
 				descriptions = {
-					en = "Show anchor names for unselected anchors and anchors in inactive layers, assign colors to certain anchors, shorten the displayed anchor names via text replacement, and more anchor display modes.";
-					de = "Zeige Ankernamen für nicht ausgewählte Anker und Anker in inaktiven Ebenen an, weise Farben gewissen Ankernamen zu, verkürze die Anzeigenamen von Ankern und weitere Anker-Anzeigemodi.";
+					en = "Show anchor names for unselected anchors and anchors in inactive layers, assign colors to certain anchors, shorten the displayed anchor names via text replacement, and more anchor display modes. Activate with *View* → *Show Anchor Annotations*.";
+					de = "Zeige Ankernamen für nicht ausgewählte Anker und Anker in inaktiven Ebenen an, weise Farben gewissen Ankernamen zu, verkürze die Anzeigenamen von Ankern und weitere Anker-Anzeigemodi. Mit *Ansicht* → *Ankeranmerkungen anzeigen* aktivieren.";
+					it = "Mostra i nomi delle ancore per le ancore non selezionate e per quelle inattive, assegna colori a determinati nomi di ancore, abbrevia i nomi delle ancore mostrati tramite la sostituzione del testo e altre modalità di visualizzazione delle ancore. Attivare con *Vista* → *Mostra annotazioni delle ancore*.";
+					ru = "Показывает имена якорей для невыбранных якорей и якорей в неактивных слоях. Даёт возможность покрасить в цвета определённые якоря, сократить имена якорей с помощью замены текста и других режимов отображения якорей. Включить *Просмотр* → *Показать аннотации для якорей*.";
 				};
 				url = "https://github.com/florianpircher/Anchor-Annotations";
 				branch = "release";
