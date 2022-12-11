@@ -3345,7 +3345,20 @@
 				};
 				url = "https://github.com/matplotlib/matplotlib";
 				path = "lib/matplotlib";
-			}
+			},
+			{
+				descriptions = {
+					en = "This is a continually expanded scripts by Taiwanese type designer Tzuyuan Yin, including one for setting all Bounding Box of Smart Component at once (SmartBBox), and many QA scripts (in the future).";
+					zh-Hant = "這是台灣字體設計師殷慈遠的腳本集，包含一鍵設定所有智慧組件編輯框條件的腳本 (SmartBBox)，以及更多其它功能的腳本（在未來）。";
+				};
+				donationURL = "https://ko-fi.com/yintzuyuan";
+				installName = YinTzuYuan;
+				titles = {
+					en = "Tzuyuan Yin’s Scripts";
+					zh-Hant = "殷慈遠的腳本集";
+				};
+				url = "https://github.com/yintzuyuan/Glyphs_Scripts";
+			},
 		);
 	};
 }
