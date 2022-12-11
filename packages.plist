@@ -249,7 +249,7 @@
 					pt = Desaparecer;
 					zh = "消失";
 					ru = "Исчезающий";
-					
+
 				};
 				url = "https://github.com/mekkablue/Fade";
 			},
@@ -2298,7 +2298,7 @@
 			},
 			{
 				branch = "glyphs3-binary";
-				descriptions = { 
+				descriptions = {
 					en = "CritParty is a collaborative font editing plugin for the Glyphs font editor. Share an editing session with friends and colleagues, and work on a font together.";
 				};
 				titles = {
@@ -3228,6 +3228,19 @@
 				url = "https://github.com/HugoJourdan/Color-Flow";
 				path = "Color Flow Shortcut";
 			},
+			{
+				descriptions = {
+					en = "This is a continually expanded scripts by Taiwanese type designer Tzuyuan Yin, including one for setting all Bounding Box of Smart Component at once (SmartBBox), and many QA scripts (in the future).";
+					zh-Hant = "這是台灣字體設計師殷慈遠的腳本集，包含一鍵設定所有智慧組件編輯框條件的腳本 (SmartBBox)，以及更多其它功能的腳本（在未來）。";
+				};
+				donationURL = "https://ko-fi.com/yintzuyuan";
+				installName = YinTzuYuan;
+				titles = {
+					en = "Tzuyuan Yin’s Scripts";
+					zh-Hant = "殷慈遠的腳本集";
+				};
+				url = "https://github.com/yintzuyuan/Glyphs_Scripts";
+			},
 			// *** INSERT NEW SCRIPTS ABOVE THIS LINE
 		);
 		modules = (
@@ -3345,19 +3358,6 @@
 				};
 				url = "https://github.com/matplotlib/matplotlib";
 				path = "lib/matplotlib";
-			},
-			{
-				descriptions = {
-					en = "This is a continually expanded scripts by Taiwanese type designer Tzuyuan Yin, including one for setting all Bounding Box of Smart Component at once (SmartBBox), and many QA scripts (in the future).";
-					zh-Hant = "這是台灣字體設計師殷慈遠的腳本集，包含一鍵設定所有智慧組件編輯框條件的腳本 (SmartBBox)，以及更多其它功能的腳本（在未來）。";
-				};
-				donationURL = "https://ko-fi.com/yintzuyuan";
-				installName = YinTzuYuan;
-				titles = {
-					en = "Tzuyuan Yin’s Scripts";
-					zh-Hant = "殷慈遠的腳本集";
-				};
-				url = "https://github.com/yintzuyuan/Glyphs_Scripts";
 			},
 		);
 	};
