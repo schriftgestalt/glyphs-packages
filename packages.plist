@@ -1475,7 +1475,7 @@
 			},
 			{
 				descriptions = {
-					en = "*Filter > Delete Short Segments* (de: *Kurze Segmente löschen,* es: *Borrar segmentos cortos,* fr: *Supprimer segments courts*) deletes line segments from your paths that are shorter than 1 unit. (Or, more precisely, if both x and y distances of the segment are shorter than 1 unit.) This can be very useful for cleaning up roughened paths when you have a grid step finer than 1 unit.";
+					en = "*Filter > Delete Short Segments* (de: *Kurze Segmente löschen,* es: *Borrar segmentos cortos,* fr: *Supprimer segments courts*) deletes segments from your paths that are shorter than a specified amount of units.";
 				};
 				path = DeleteShortSegments.glyphsFilter;
 				screenshot = "https://github.com/mekkablue/DeleteShortSegments/raw/master/DeleteShortSegments.png";
