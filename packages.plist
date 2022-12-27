@@ -2864,6 +2864,19 @@
 				path = "Anchor Annotations.glyphsReporter";
 				screenshot = "https://florianpircher.com/glyphs/plugins/anchor-annotations/screenshot.png";
 			},
+			{
+				titles = {
+					en = "Dashed Outline";
+					de = "Gestrichelte Kontur";
+				};
+				descriptions = {
+					en = "*Filter > Dashed Outline* (de: *Gestrichelte Kontur*) creates a dashed outline around your glyph.";
+				};
+				url = "https://github.com/mekkablue/DashedOutline";
+				path = "DashedOutline.glyphsFilter";
+				screenshot = "https://raw.githubusercontent.com/mekkablue/DashedOutline/main/DashedOutline.png";
+				minGlyphsVersion = "3.1";
+			},
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
 		);
 		scripts = (
