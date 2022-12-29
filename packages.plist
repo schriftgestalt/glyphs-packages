@@ -2877,6 +2877,18 @@
 				screenshot = "https://raw.githubusercontent.com/mekkablue/DashedOutline/main/DashedOutline.png";
 				minGlyphsVersion = "3.1";
 			},
+			{
+				titles = {
+					en = "Shift Start Point";
+					de = "Startpunkt weiterschieben";
+				};
+				descriptions = {
+					en = "*Filter > Shift Start Point* (de: *Startpunkt weiterschieben*) moves the start point to the following on-curve node. If used as custom parameter, you can define the number of steps with, e.g., `ShiftStartPoint; steps: 2`.";
+				};
+				url = "https://github.com/mekkablue/ShiftStartPoint";
+				path = "ShiftStartPoint.glyphsFilter";
+				minGlyphsVersion = "3.1";
+			},
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
 		);
 		scripts = (
