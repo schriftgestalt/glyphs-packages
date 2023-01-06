@@ -2255,6 +2255,19 @@
 					en = "*File > Import > Symbol Template* and *File > Export > SF Symbol* help open and create SF Symbol Template files. [See the tutorial](https://glyphsapp.com/learn/creating-an-sf-symbol) for details.";
 				};
 				minVersion = "3045";
+				maxVersion = "3160";
+				path = "SF Symbol Template.glyphsFileFormat";
+				titles = {
+					en = "SF Symbol Template";
+				};
+				url = "https://github.com/schriftgestalt/SFSymbolTemplate";
+			},
+			{
+				branch = "Glyphs3.2";
+				descriptions = {
+					en = "*File > Import > Symbol Template* and *File > Export > SF Symbol* help open and create SF Symbol Template files. \nNow with support for variable templates.\n[See the tutorial](https://glyphsapp.com/learn/creating-an-sf-symbol) for details.";
+				};
+				minVersion = "3166";
 				path = "SF Symbol Template.glyphsFileFormat";
 				titles = {
 					en = "SF Symbol Template";
