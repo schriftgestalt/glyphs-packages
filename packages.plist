@@ -2864,6 +2864,26 @@
 				path = "Anchor Annotations.glyphsReporter";
 				screenshot = "https://florianpircher.com/glyphs/plugins/anchor-annotations/screenshot.png";
 			},
+			{
+				titles = {
+					en = "Nine Box View";
+					zh-Hant = "九宮格預覽";
+					zh-Hans = "九宫格预览";
+					ja = "九宮格プレビュー";
+					ko = "구궁격 미리보기";
+				};
+				path = "Nine Box View.glyphsPlugin";
+				url = "https://github.com/yintzuyuan/NineBoxView";
+				descriptions = {
+					en = "This plugin displays characters in a nine-box grid while editing, allowing users to easily adjust font size to maintain consistency through comparison with reference characters. Customizable reference characters and light/dark mode display are also available. Suitable for use in creating East Asian fonts. See GitHub page for more information.";
+					zh-Hant = "這個外掛能在九宮格中顯示編輯中的字符，讓使用者透過對照參考字，更輕鬆的調整字體大小使之維持一致。可自定義參考字符並提供亮暗模式顯示。適合在製作東亞字型時使用。更多相關訊息見 GitHub 頁面。";
+				};
+				donationURL = "https://ko-fi.com/yintzuyuan";
+				screenshot = "https://github.com/yintzuyuan/NineBoxView/raw/main/NineBoxView_image1.png";
+				dependencies = (
+					vanilla
+				);
+			},
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
 		);
 		scripts = (
