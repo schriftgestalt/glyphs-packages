@@ -2719,7 +2719,7 @@
 					en = "*Window > Font Dashboard*. Font Dashboard is a dashboard displaying progress bar based on Layer Colors for all Masters.";
 				};
 				path = "Font Dashboard.glyphsPlugin";
-				screenshot = "https://raw.githubusercontent.com/HugoJourdan/Font-Dashboard/main/FontDashboard-preview.jpg";
+				screenshot = "https://user-images.githubusercontent.com/76793951/210555511-04db9b29-86c0-4d28-b63e-6afbdf07444d.png";
 				titles = {
 					en = "Font Dashboard";
 				};
