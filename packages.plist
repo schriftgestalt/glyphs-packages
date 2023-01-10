@@ -1475,7 +1475,7 @@
 			},
 			{
 				descriptions = {
-					en = "*Filter > Delete Short Segments* (de: *Kurze Segmente löschen,* es: *Borrar segmentos cortos,* fr: *Supprimer segments courts*) deletes line segments from your paths that are shorter than 1 unit. (Or, more precisely, if both x and y distances of the segment are shorter than 1 unit.) This can be very useful for cleaning up roughened paths when you have a grid step finer than 1 unit.";
+					en = "*Filter > Delete Short Segments* (de: *Kurze Segmente löschen,* es: *Borrar segmentos cortos,* fr: *Supprimer segments courts*) deletes segments from your paths that are shorter than a specified amount of units.";
 				};
 				path = DeleteShortSegments.glyphsFilter;
 				screenshot = "https://github.com/mekkablue/DeleteShortSegments/raw/master/DeleteShortSegments.png";
@@ -2255,6 +2255,19 @@
 					en = "*File > Import > Symbol Template* and *File > Export > SF Symbol* help open and create SF Symbol Template files. [See the tutorial](https://glyphsapp.com/learn/creating-an-sf-symbol) for details.";
 				};
 				minVersion = "3045";
+				maxVersion = "3160";
+				path = "SF Symbol Template.glyphsFileFormat";
+				titles = {
+					en = "SF Symbol Template";
+				};
+				url = "https://github.com/schriftgestalt/SFSymbolTemplate";
+			},
+			{
+				branch = "Glyphs3.2";
+				descriptions = {
+					en = "*File > Import > Symbol Template* and *File > Export > SF Symbol* help open and create SF Symbol Template files. \nNow with support for variable templates.\n[See the tutorial](https://glyphsapp.com/learn/creating-an-sf-symbol) for details.";
+				};
+				minVersion = "3166";
 				path = "SF Symbol Template.glyphsFileFormat";
 				titles = {
 					en = "SF Symbol Template";
@@ -2866,23 +2879,28 @@
 			},
 			{
 				titles = {
-					en = "Nine Box View";
-					zh-Hant = "九宮格預覽";
-					zh-Hans = "九宫格预览";
-					ja = "九宮格プレビュー";
-					ko = "구궁격 미리보기";
+					en = "Dashed Outline";
+					de = "Gestrichelte Kontur";
 				};
-				path = "Nine Box View.glyphsPlugin";
-				url = "https://github.com/yintzuyuan/NineBoxView";
 				descriptions = {
-					en = "This plugin displays characters in a nine-box grid while editing, allowing users to easily adjust font size to maintain consistency through comparison with reference characters. Customizable reference characters and light/dark mode display are also available. Suitable for use in creating East Asian fonts. See GitHub page for more information.";
-					zh-Hant = "這個外掛能在九宮格中顯示編輯中的字符，讓使用者透過對照參考字，更輕鬆的調整字體大小使之維持一致。可自定義參考字符並提供亮暗模式顯示。適合在製作東亞字型時使用。更多相關訊息見 GitHub 頁面。";
+					en = "*Filter > Dashed Outline* (de: *Gestrichelte Kontur*) creates a dashed outline around your glyph.";
 				};
-				donationURL = "https://ko-fi.com/yintzuyuan";
-				screenshot = "https://github.com/yintzuyuan/NineBoxView/raw/main/NineBoxView_image1.png";
-				dependencies = (
-					vanilla
-				);
+				url = "https://github.com/mekkablue/DashedOutline";
+				path = "DashedOutline.glyphsFilter";
+				screenshot = "https://raw.githubusercontent.com/mekkablue/DashedOutline/main/DashedOutline.png";
+				minGlyphsVersion = "3.1";
+			},
+			{
+				titles = {
+					en = "Shift Start Point";
+					de = "Startpunkt weiterschieben";
+				};
+				descriptions = {
+					en = "*Filter > Shift Start Point* (de: *Startpunkt weiterschieben*) moves the start point to the following on-curve node. If used as custom parameter, you can define the number of steps with, e.g., `ShiftStartPoint; steps: 2`.";
+				};
+				url = "https://github.com/mekkablue/ShiftStartPoint";
+				path = "ShiftStartPoint.glyphsFilter";
+				minGlyphsVersion = "3.1";
 			},
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
 		);
