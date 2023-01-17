@@ -1662,12 +1662,14 @@
 					intel
 				);
 				descriptions = {
-					en = "*Collect-Hangul* lets you select or input Korean hangul characters easily by selecting consonants and vowels.\n *한글 모으기*는 초성, 중성, 종성 자소 선택으로 한글 입력 및 선택을 쉽게할 수 있고, 선택된 결과를 저장할 수 있어 한글 폰트 제작에 매우 유용합니다.\n **requirements** : `vanilla` module - you can install via Glyphs Preferences > Addons > Modules \n **사용 환경** : Vanilla 모듈 - 글립스의 환경설정 > 애드온 > 모듈 에서 '모듈 설치'를 통해 설치 가능.\n http://www.linegap.com/portfolio-items/collect-hangul-in-glyphs/";
+					en = "*Collect-Hangul* lets you select or input Korean hangul characters easily by selecting consonants and vowels.\n\n**If it isn't installed on your device, you can install the paid script version at *LineGap's Script* on the *Scripts* tab. (The script version has more functionalities.)**";
+					ko = "*한글모으기*는 초성, 중성, 종성 자소 선택으로 한글을 쉽게  입력 및 선택할 수 있고, 선택된 결과를 저장할 수 있어 한글 폰트 제작에 매우 유용합니다.\n\n**플러그인이 설치가 안되면, *스크립트* 탭의 라인갭 스크립트(Linegap's Script)를 통해 스크립트(유료)을 이용하실 수 있습니다.(스크립트 버전은 보다 많은 기능들을 지원하고 있습니다.)**";
 				};
 				path = CollectHangul.glyphsPlugin;
 				screenshot = "https://raw.githubusercontent.com/nanife/CollectHangul_Glyphs/master/mainView.png";
 				titles = {
 					en = "Collect-Hangul";
+					ko = "한글모으기";
 				};
 				url = "https://github.com/nanife/CollectHangul_Glyphs";
 			},
@@ -2229,12 +2231,14 @@
 					intel
 				);
 				descriptions = {
-					en = "*Simple Preview* lets you preview texts which is in editing window. You can control text size and text directions in this preview plugin.\n *간단미리보기*는 편집창에서 편집 중인 텍스트들을 미리보기하는 플러그인으로, 글립스의 자체 미리보기에서 가로모드만 지원되는 단점을 보완하기 위해, 세로쓰기 및 가로쓰기 모드를 지원합니다.\n **requirements** : `Vanilla` module - you can install via Glyphs Preferences > Addons > Modules \n **사용 환경** : Vanilla 모듈 - 글립스의 환경설정 > 애드온 > 모듈 에서 '모듈 설치'를 통해 설치 가능.\n ";
+					en = "*SimplePreview* lets you preview texts which is in editing window. You can control the text size and directions in this preview plugin.\n\n**If it isn't installed on your device, you can install the paid script version at *LineGap's Script* on the *Scripts* tab. (The script version has more functionalities.)**";
+					ko = "*간단미리보기*는 편집창의 텍스트들을 미리보기하는 플러그인으로, 세로쓰기 및 가로쓰기 모드를 지원합니다.\n\n**플러그인이 설치가 안되면, *스크립트* 탭의 라인갭 스크립트(Linegap's Script)를 통해 스크립트(유료) 버전을 이용하실 수 있습니다.(스크립트 버전은 보다 많은 기능들을 지원하고 있습니다.)**";
 				};
 				path = SimplePreview.glyphsPlugin;
 				screenshot = "https://raw.githubusercontent.com/nanife/SimplePreview_Glyphs/master/simplePreview_demo.png";
 				titles = {
-					en = SimplePreview;
+					en = "SimplePreview";
+					ko = "간단미리보기";
 				};
 				url = "https://github.com/nanife/SimplePreview_Glyphs";
 			},
@@ -3298,6 +3302,21 @@
 					zh-Hant = "殷慈遠的腳本集";
 				};
 				url = "https://github.com/yintzuyuan/Glyphs_Scripts";
+			},
+			{
+				descriptions = {
+					en = "Linegap’s scripts for Glyphs app, some scripts need Vanilla module.\n- *CollectHangul:* Lets you select or input Korean hangul characters easily by selecting consonants and vowels.\n- *SimplePreviews:* Lets you preview texts which is in the font you are editing.";
+					ko = "라인갭(Linegap)의 글립스 스크립트는 바닐라(vanilla) 모듈이 필요합니다:\n- *한글모으기:*초성, 중성, 종성 자소 선택으로 한글을 쉽게 입력 및 선택할 수 있습니다.\n- *간단미리보기:* 편집 중인 폰트의 글자들을 미리보기하는 플러그인으로, 세로쓰기 및 가로쓰기 모드를 지원합니다.";
+				};
+				installName = "Linegap";
+				titles = {
+					en = "Linegap’s Scripts";
+					ko = "라인갭 스크립트(Linegap's Scripts)";
+				};
+				url = "https://github.com/nanife/Linegap";
+				dependencies = (
+					vanilla
+				);
 			},
 			// *** INSERT NEW SCRIPTS ABOVE THIS LINE
 		);
