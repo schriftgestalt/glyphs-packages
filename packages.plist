@@ -467,8 +467,11 @@
 				url = "https://github.com/Mark2Mark/Show-Distance-And-Angle-Of-Nodes";
 			},
 			{
+				dependencies = (
+					fontTools
+				);
 				descriptions = {
-					en = "*View > Red Arrows:* Now Glyphs users can also have red arrows!\nThis plug-in points at possible outline errors, like FontAudit in FontLab Studio. This version works in Glyphs 2.3 and newer. When the plugin is active, red arrows will point to possible mistakes in your outlines.";
+					en = "*View > Red Arrows:* Now Glyphs users can also have red arrows!\nThis reporter points out possible outline errors. This version works in Glyphs 2.3 and newer. When the plugin is active, red arrows will point to possible mistakes in your outlines.";
 					ru = "*Просмотр > Красные стрелки:* Теперь в Glyphs есть красные стрелки!\nЭтот плагин указывает на возможные ошибки, как это есть в FontAudit в FontLab Studio. Эта версия работает в Glyphs 2.3 и новее. Когда плагин активен, красные стрелки будут указывать на возможные ошибки в ваших контурах.";
 				};
 				donationURL = "https://ko-fi.com/jenskutilek";
