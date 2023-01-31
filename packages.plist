@@ -2868,16 +2868,36 @@
 			},
 			{
 				titles = {
-					en = "Anchor Annotations";
+					ar = "شروحات نقاط الارتساء";
+					cs = "Poznámky kotvy";
 					de = "Ankeranmerkungen";
+					en = "Anchor Annotations";
+					es = "Anotaciones de anclas";
+					fr = "Annotations des ancres";
 					it = "Annotazioni delle ancore";
+					ja = "アンカー注釈";
+					ko = "앵커 주석";
+					pt = "Anotações de âncora";
 					ru = "Аннотации для якорей";
+					tr = "Çıpa Açıklamaları";
+					zh-Hans = "锚点注释";
+					zh-Hant = "錨點標註";
 				};
 				descriptions = {
-					en = "Show anchor names for unselected anchors and anchors in inactive layers, assign colors to certain anchors, shorten the displayed anchor names via text replacement, and more anchor display modes. Activate with *View* → *Show Anchor Annotations*.";
+					ar = "تُظهر الأسماء لنقاط ارتساء غير محددة في الطبقات غير النشطة، وتعيين الألوان لنقاط ارتساء معينة، وتقصير أسماء نقاط الارتساء المعروضة من خلال استبدال النص، والمزيد من أوضاع عرض نقاط الارتساء. قم بالتنشيط باستخدام «عرض» ← «إظهار شروحات نقاط الارتساء».";
+					cs = "Zobrazení názvů kotev pro nevybrané kotvy a kotvy v neaktivních vrstvách, přiřazení barev konkrétním kotvám, zkrácení zobrazených názvů kotev nahrazením textu a další režimy zobrazení kotev. Aktivace pomocí *Zobrazit* → *Zobrazit poznámky kotvy*.";
 					de = "Zeige Ankernamen für nicht ausgewählte Anker und Anker in inaktiven Ebenen an, weise Farben gewissen Ankernamen zu, verkürze die Anzeigenamen von Ankern und weitere Anker-Anzeigemodi. Mit *Ansicht* → *Ankeranmerkungen anzeigen* aktivieren.";
+					en = "Show anchor names for unselected anchors and anchors in inactive layers, assign colors to certain anchors, shorten the displayed anchor names via text replacement, and more anchor display modes. Activate with *View* → *Show Anchor Annotations*.";
+					es = "Muestra nombres de anclas para anclas sin seleccionar y anclas en capas inactivas, asigna colores a ciertas anclas, acorta los nombres de las anclas que se muestran a través del reemplazo de texto y más modos de visualización de anclas. Actívalos con *Vista* → *Mostrar anotaciones de anclas*.";
+					fr = "Affichez les noms d’ancre pour les ancres non sélectionnées et les ancres des couches inactives, attribuez des couleurs à certaines ancres, raccourcissez les noms d’ancre affichés via le remplacement de texte, et bénéficiez de davantage de modes d’affichage d’ancre. Activez avec *Affichage* → *Afficher les annotations des ancres*.";
 					it = "Mostra i nomi delle ancore per le ancore non selezionate e per quelle inattive, assegna colori a determinati nomi di ancore, abbrevia i nomi delle ancore mostrati tramite la sostituzione del testo e altre modalità di visualizzazione delle ancore. Attivare con *Vista* → *Mostra annotazioni delle ancore*.";
+					ja = "非選択のアンカーや非アクティブレイヤのアンカーの名前を表示したり、特定のアンカーに色を割り当てたり、テキスト置換で表示されるアンカー名を短くしたり、その他のアンカー表示モードを追加したりします。「表示」→「アンカー注釈を表示」で有効にします。";
+					ko = "비활성 레이어의 앵커 및 선택되지 않은 앵커에 대한 앵커 이름을 표시하고, 특정 앵커에 색상을 할당하고, 텍스트 대체를 통해 표시된 앵커 이름을 줄이고, 추가 앵커 표시 모드를 제공합니다. “보기” → “앵커 주석 표시”로 활성화합니다.";
+					pt = "Mostrar nomes de âncoras para âncoras não selecionadas e âncoras em camadas inativas, atribuir cores a certas âncoras, encurtar os nomes das âncoras exibidas através de substituição de texto, e mais modos de visualização de âncoras. Ativar com *Visualizar* → *Mostrar anotações de âncoras*.";
 					ru = "Показывает имена якорей для невыбранных якорей и якорей в неактивных слоях. Даёт возможность покрасить в цвета определённые якоря, сократить имена якорей с помощью замены текста и других режимов отображения якорей. Включить *Просмотр* → *Показать аннотации для якорей*.";
+					tr = "Seçilmemiş çıpalar ve etkin olmayan katmanlarda bulunan çıpalar için çıpa isimlerini göster, belirli çıpalara renkler ata, görüntülenen çıpa adlarını metin değiştirme yoluyla kısalt ve daha fazla çıpa görüntüleme modu. *Görünüm* → *Çıpa Açıklamalarını Göster* yoluyla etkinleştir.";
+					zh-Hans = "显示未选中锚点和非活动层中锚点的锚点名称，为某些锚点指定颜色，通过文本替换缩短显示的锚点名称，以及更多锚点显示模式。使用“查看”→“显示锚点注释”激活。";
+					zh-Hant = "顯示未選取的錨點和未啟用層中錨點的名稱，為某些錨點分配顏色，透過文字替換來縮短顯示的錨點名稱，以及更多錨點顯示模式。以「瀏覽」→「顯示錨點標註」來啟用。";
 				};
 				url = "https://github.com/florianpircher/Anchor-Annotations";
 				branch = "release";
