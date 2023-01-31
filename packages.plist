@@ -2929,6 +2929,19 @@
 					vanilla
 				);
 			},
+			{
+				titles = {
+					en = "Master Stepper";
+				};
+				descriptions = {
+					en = "Palette for stepping through your glyphs, while displaying all masters at once.";
+				};
+				screenshot = "https://raw.githubusercontent.com/mekkablue/MasterStepper/main/MasterStepper.png";
+				url = "https://github.com/mekkablue/MasterStepper";
+				path = "MasterStepper.glyphsPalette";
+				minGlyphsVersion = "3.1";
+				donationURL = "https://ko-fi.com/mekkablue";
+			},
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
 		);
 		scripts = (
