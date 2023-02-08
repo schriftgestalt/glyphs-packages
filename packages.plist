@@ -3354,6 +3354,18 @@
 					vanilla
 				);
 			},
+			{
+				descriptions = {
+					de = "Florian Pirchers Sammlung von Glyphs Skripten.";
+					en = "Florian Pircher’s collection of Glyphs scripts.";
+				};
+				installName = "Florian Pircher";
+				titles = {
+					de = "Florian Pirchers Skripte";
+					en = "Florian Pircher’s Scripts";
+				};
+				url = "https://github.com/florianpircher/Glyphs-Scripts";
+			},
 			// *** INSERT NEW SCRIPTS ABOVE THIS LINE
 		);
 		modules = (
