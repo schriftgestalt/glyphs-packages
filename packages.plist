@@ -2723,28 +2723,6 @@
 			},
 			{
 				descriptions = {
-					en = "*Window > Font Dashboard*. Font Dashboard is a dashboard displaying progress bar based on Layer Colors for all Masters.";
-				};
-				path = "Font Dashboard.glyphsPlugin";
-				screenshot = "https://user-images.githubusercontent.com/76793951/210555511-04db9b29-86c0-4d28-b63e-6afbdf07444d.png";
-				titles = {
-					en = "Font Dashboard";
-				};
-				url = "https://github.com/HugoJourdan/Font-Dashboard";
-			},
-			{
-				descriptions = {
-					en = "*View > Show Master Dashboard*. Show Master Dashboard display a progress bar showing Layer Colors of selected Master in EditView.";
-				};
-				path = "Show Master Dashboard.glyphsReporter";
-				screenshot = "https://raw.githubusercontent.com/HugoJourdan/Show-Master-Dashboard/main/FullWidth.png";
-				titles = {
-					en = "Show Master Dashboard";
-				};
-				url = "https://github.com/HugoJourdan/Show-Master-Dashboard";
-			},
-			{
-				descriptions = {
 					en = "Mouse Kerning and Spacing is a tool to edit kerning and spacing by dragging glyphs with your mouse.";
 				};
 				path = "DragToKern.glyphsTool";
@@ -3273,7 +3251,7 @@
 			},
 			{
 				descriptions = {
-					en = "Scripts by Hugo Jourdan\n- *Set LayerColor to [XXX]:* Change LayerColor to all Selected Glyph.\n *Set LayerColor to full component Glyphs*\n *Remove ColorLayer for Selected Glyph in All Masters*\n *Swicth LayerColor to GlyphColor:* If all layers of a Glyph has same LayerColor, set GlyphColor same and remove LayerColor Labels.\n *Copy GlyphColor to None LayerColor:* Copy GlyphColor to LayerColor is layer doesn't have Color Label.\n *Set Axis Location for all masters and instances:* Set 'Axis Mapping' Custom Parameter in Font. For axes [wght] and [wdth], values are based on usWeightClass/usWidthClass from Exports. For custom axe, values are based on axes value from Exports. If the font has masters corresponding exports, it will set 'Axis Location' Custom Parameter to masters with value based on them.\n WeightClass and WidthClass values follow OpenType OS/2 specification'\n *Set Axis Location for all masters and instances:* Set Axis Location for all masters and instances based on Weight Class and Width Class. (Only set Axis Location to master if they share same axe values as Insstance).\n *Show Only Active Instances:* Show only active Instances in Preview.\n *Clear Selected Glyph in all Masters*\n *Delete Special Layers for Selected Glyph*\n *Selects points above selection*\n *Selects points below selection*\n *Selects points right selection*\n *Selects points left selection*" ;
+					en = "Scripts by Hugo Jourdan\n- *Delete Anchors in all Masters for Selected Glyphs*\n- *Toggle Preview Blur*: Useful if used with shortcut.\n- *Toggle Reporters*: Show/Hide all activated reporters.\n- *CleanMyGlyphs*: All-in-one script to make your Glyphs file sparkle. It cleans up megatons of rubbish and makes your file look brand new. Just like the first day.\n- *Set LayerColor to [XXX]*: Change LayerColor to all Selected Glyph\n- *Update LayerColor of full Component Glyph*: If a Glyph is made only with components, and if these components share same layer color label, sync it to the glyph.\n- *Remove ColorLayer for Selected Glyph in All Masters\n- *Swicth LayerColor to GlyphColor*: If all layers of a Glyph has same LayerColor, set GlyphColor same and remove LayerColor Labels.\n- *Copy GlyphColor to None LayerColor*: Copy GlyphColor to LayerColor is layer doesn't have Color Label.\n- *Propagande Component to other Masters*: Copy components of selected layer to other masters if missing.\n- *Remove all Corner Component for Selected Master\n- *Export Trial Version*: Export Trial version \n- *Group and Rename Exports*: Generate FileName and Export Folder CP for each instances.\n- *Set Axis Location for all masters and instances*: Set Axis Mapping Custom Parameter in Font. For axes [wght] and [wdth], values are based on usWeightClass/usWidthClass from Exports. For custom axe, values are based on axes value from Exports. If the font has masters corresponding exports, it will set Axis Location Custom Parameter to masters with value based on them. WeightClass and WidthClass values follow OpenType OS/2 specification\n- *Set Axis Location for all masters and instances*: Set Axis Location for all masters and instances based on Weight Class and Width Class. (Only set Axis Location to master if they share same axe values as Insstance)\n- *Create Guides for Marks*: Create global guides based on circumflex position in Â and â. Guides are visible only in Uppercase and Lowercase.\n- *Show Only Active Instances*: Show only active Instances in Preview.\n- *Clear Selected Glyph in all Masters\n- *Delete Special Layers for Selected Glyph\n- *Selects points above selection\n- *Selects points below selection\n- *Selects points right selection\n- *Selects points left selection\n- *Vertically Center Manager*: User interface to vertically align layers to your vertical metrics.\n- *Report missing revelant Kerning Pairs*: Report a list of possible revelant kerning pair missing for selected Master in Sample Strings array. It use data from Reveland Kerning Raw.json by André Fuchs (@andre-fuchs)\n- *Selected point handles\n- *Spacing String Maker\n- *Fit tab in EditView*" ;
 				};
 				installName = "Hugo Jourdan";
 				titles = {
