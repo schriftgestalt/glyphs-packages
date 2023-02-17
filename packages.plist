@@ -2940,6 +2940,18 @@
 				minGlyphsVersion = "3.1";
 				donationURL = "https://ko-fi.com/mekkablue";
 			},
+			{
+				titles = {
+					en = "Rainbow FontView";
+				};
+				descriptions = {
+					en = "Plugin to dsorting dynamically FontView based of Layer/Glyph Color Labels";
+				};
+				screenshot = "https://raw.githubusercontent.com/HugoJourdan/Rainbow-FontView/main/Preview.png";
+				url = "https://github.com/HugoJourdan/Rainbow-FontView";
+				path = "Rainbow FontView.glyphsPlugin";
+				minGlyphsVersion = "3.1";
+			},
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
 		);
 		scripts = (
