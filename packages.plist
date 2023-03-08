@@ -2940,6 +2940,40 @@
 				minGlyphsVersion = "3.1";
 				donationURL = "https://ko-fi.com/mekkablue";
 			},
+			{
+				titles = {
+					en = "Show CJK Pronunciation: Bopomofo/Zhuyin";
+					zh-Hant = "顯示漢字的讀法（注音符號）";
+					zh-Hans = "显示汉字的读法（注音符号）";
+					ja = "漢字の読み方（注音符号 / ブォプォムォフォ）を表示";
+				};
+				path = "CJKwithBopomofo.glyphsReporter";
+				url = "https://github.com/rutopio/CJK-with-Bopomofo";
+				descriptions = {
+					en = "To display the Mandarin phonetic symbols in Bopomofo (a.k.a. Zhuyin, 注音符號). It might help you to learn the pronunciation of some rare Chinese characters / Kanjis.";
+					zh-Hant = "讓你可以一邊做字，一邊學習你正在造的字怎麼念的小工具，尤其是那些罕用字。";
+					zh-Hans = "让你可以一边做字，一边学习你正在造的字怎么念的小工具，尤其是那些罕用字。";
+				};
+				donationURL = "https://ko-fi.com/chingru";
+				screenshot = "https://raw.githubusercontent.com/rutopio/CJK-with-Bopomofo/main/cover.png";
+			},
+						{
+				titles = {
+					en = "Show CJK Pronunciation: Pinyin";
+					zh-Hant = "顯示漢字的讀法（漢語拼音）";
+					zh-Hans = "显示汉字的读法（汉语拼音）";
+					ja = "漢字の読み方（拼音 / ピンイン）を表示";
+				};
+				path = "CJKwithBopomofo.glyphsReporter";
+				url = "https://github.com/rutopio/CJK-with-Pinyin";
+				descriptions = {
+					en = "To display the Mandarin phonetic symbols in Pinyin (a.k.a. pīnyīn, 汉语拼音). It might help you to learn the pronunciation of some rare Chinese characters / Kanjis.";
+					zh-Hant = "讓你可以一邊做字，一邊學習你正在造的字怎麼念的小工具，尤其是那些罕用字。";
+					zh-Hans = "让你可以一边做字，一边学习你正在造的字怎么念的小工具，尤其是那些罕用字。";
+				};
+				donationURL = "https://ko-fi.com/chingru";
+				screenshot = "https://raw.githubusercontent.com/rutopio/CJK-with-Pinyin/main/cover.png";
+			},
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
 		);
 		scripts = (
