@@ -2942,7 +2942,7 @@
 			},
 			{
 				titles = {
-					en = "Show CJK Pronunciation: Bopomofo/Zhuyin";
+					en = "CJK Pronunciation: Bopomofo/Zhuyin";
 					zh-Hant = "顯示漢字的讀法（注音符號）";
 					zh-Hans = "显示汉字的读法（注音符号）";
 					ja = "漢字の読み方（注音符号 / ブォプォムォフォ）を表示";
@@ -2950,29 +2950,45 @@
 				path = "CJKwithBopomofo.glyphsReporter";
 				url = "https://github.com/rutopio/CJK-with-Bopomofo";
 				descriptions = {
-					en = "To display the Mandarin phonetic symbols in Bopomofo (a.k.a. Zhuyin, 注音符號). It might help you to learn the pronunciation of some rare Chinese characters / Kanjis.";
-					zh-Hant = "讓你可以一邊做字，一邊學習你正在造的字怎麼念的小工具，尤其是那些罕用字。";
-					zh-Hans = "让你可以一边做字，一边学习你正在造的字怎么念的小工具，尤其是那些罕用字。";
+					en = "To show the Mandarin phonetic symbols in Bopomofo (a.k.a. Zhuyin, 注音符號). It might help you to learn the pronunciation of some rare Chinese characters / Kanjis.";
+					zh-Hant = "讓你可以一邊做字，一邊學習你正在造的字怎麼念（注音）的小工具，尤其是那些罕用字。";
+					zh-Hans = "让你可以一边做字，一边学习你正在造的字怎么念（注音）的小工具，尤其是那些罕用字。";
 				};
 				donationURL = "https://ko-fi.com/chingru";
 				screenshot = "https://raw.githubusercontent.com/rutopio/CJK-with-Bopomofo/main/cover.png";
 			},
-						{
+			{
 				titles = {
-					en = "Show CJK Pronunciation: Pinyin";
+					en = "CJK Pronunciation: Pinyin";
 					zh-Hant = "顯示漢字的讀法（漢語拼音）";
 					zh-Hans = "显示汉字的读法（汉语拼音）";
 					ja = "漢字の読み方（拼音 / ピンイン）を表示";
 				};
-				path = "CJKwithBopomofo.glyphsReporter";
+				path = "CJKwithPinyin.glyphsReporter";
 				url = "https://github.com/rutopio/CJK-with-Pinyin";
 				descriptions = {
-					en = "To display the Mandarin phonetic symbols in Pinyin (a.k.a. pīnyīn, 汉语拼音). It might help you to learn the pronunciation of some rare Chinese characters / Kanjis.";
-					zh-Hant = "讓你可以一邊做字，一邊學習你正在造的字怎麼念的小工具，尤其是那些罕用字。";
-					zh-Hans = "让你可以一边做字，一边学习你正在造的字怎么念的小工具，尤其是那些罕用字。";
+					en = "To show the Mandarin phonetic symbols in Pinyin (a.k.a. pīnyīn, 汉语拼音). It might help you to learn the pronunciation of some rare Chinese characters / Kanjis.";
+					zh-Hant = "讓你可以一邊做字，一邊學習你正在造的字怎麼念（拼音）的小工具，尤其是那些罕用字。";
+					zh-Hans = "让你可以一边做字，一边学习你正在造的字怎么念（拼音）的小工具，尤其是那些罕用字。";
 				};
 				donationURL = "https://ko-fi.com/chingru";
 				screenshot = "https://raw.githubusercontent.com/rutopio/CJK-with-Pinyin/main/cover.png";
+			},
+			{
+				titles = {
+					en = "Node Counter Between Masters";
+					zh-Hant = "顯示各主板間的路經總節點數";
+					zh-Hans = "显示各主板间的路径总节点数";
+				};
+				path = "NodeCounterBetweenMasters.glyphsReporter";
+				url = "https://github.com/rutopio/Node-Counter-Between-Masters";
+				descriptions = {
+					en = "To display the number of nodes between multiple masters for checking compatibility easily.";
+					zh-Hant = "用來顯示多個主板之間的路徑總節點數，可以更好的檢查主板之間的相容性。";
+					zh-Hans = "用来显示多个主板之间的路径总节点数，可以更好的检查主板之间的相容性。";
+				};
+				donationURL = "https://ko-fi.com/chingru";
+				screenshot = "https://raw.githubusercontent.com/rutopio/Node-Counter-Between-Masters/main/banner.png";
 			},
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
 		);
