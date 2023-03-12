@@ -2990,6 +2990,18 @@
 				donationURL = "https://ko-fi.com/chingru";
 				screenshot = "https://raw.githubusercontent.com/rutopio/Node-Counter-Between-Masters/main/banner.png";
 			},
+			{
+ 				titles = {
+ 					en = "Rainbow FontView";
+ 				};
+ 				descriptions = {
+ 					en = "Plugin to sorting dynamically FontView based of Layer/Glyph Color Labels";
+ 				};
+ 				screenshot = "https://raw.githubusercontent.com/HugoJourdan/Rainbow-FontView/main/Preview.png";
+ 				url = "https://github.com/HugoJourdan/Rainbow-FontView";
+ 				path = "Rainbow FontView.glyphsPlugin";
+ 				minGlyphsVersion = "3.1";
+ 			},
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
 		);
 		scripts = (
