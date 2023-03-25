@@ -2941,57 +2941,6 @@
 				donationURL = "https://ko-fi.com/mekkablue";
 			},
 			{
-				titles = {
-					en = "CJK Pronunciation: Bopomofo/Zhuyin";
-					zh-Hant = "顯示漢字的讀法（注音符號）";
-					zh-Hans = "显示汉字的读法（注音符号）";
-					ja = "漢字の読み方（注音符号 / ブォプォムォフォ）を表示";
-				};
-				path = "CJKwithBopomofo.glyphsReporter";
-				url = "https://github.com/rutopio/CJK-with-Bopomofo";
-				descriptions = {
-					en = "Toggle *View > Show CJK Pronunciation: Bopomofo/Zhuyin* to show it. To show the Mandarin phonetic symbols in Bopomofo (a.k.a. Zhuyin, 注音符號). It might help you to learn the pronunciation of some rare Chinese characters / Kanjis. View [Readme](https://github.com/rutopio/CJK-with-Bopomofo) for more details.";
-					zh-Hant = "選取 *顯示 > 顯示漢字的讀法（注音符號）* 開啟。讓你可以一邊做字，一邊學習你正在造的字怎麼念（注音）的小工具，尤其是那些罕用字。如需更多資訊請參考 [Readme](https://github.com/rutopio/CJK-with-Bopomofo)。";
-					zh-Hans = "点击 *视图 > 显示汉字的读法（注音符号）* 运行。让你可以一边做字，一边学习你正在造的字怎么念（注音）的小工具，尤其是那些罕用字。如需更多信息，请参考 [Readme](https://github.com/rutopio/CJK-with-Bopomofo)。";
-					ja = "*表示 > 漢字の読み方（注音符号 / ブォプォムォフォ）を表示* をクリックして起動します。詳細な情報については、[Readme](https://github.com/rutopio/CJK-with-Bopomofo) を参照してください。";
-				};
-				screenshot = "https://raw.githubusercontent.com/rutopio/CJK-with-Bopomofo/main/cover.png";
-			},
-			{
-				titles = {
-					en = "CJK Pronunciation: Pinyin";
-					zh-Hant = "顯示漢字的讀法（漢語拼音）";
-					zh-Hans = "显示汉字的读法（汉语拼音）";
-					ja = "漢字の読み方（拼音 / ピンイン）を表示";
-				};
-				path = "CJKwithPinyin.glyphsReporter";
-				url = "https://github.com/rutopio/CJK-with-Pinyin";
-				descriptions = {
-					en = "Toggle *View > Show CJK Pronunciation: Pinyin* to show it. To show the Mandarin phonetic symbols in Pinyin (a.k.a. pīnyīn, 汉语拼音). It might help you to learn the pronunciation of some rare Chinese characters / Kanjis. View [Readme](https://github.com/rutopio/CJK-with-Pinyin) for more details.";
-					zh-Hant = "選取 *顯示 > 顯示漢字的讀法（漢語拼音）* 開啟。讓你可以一邊做字，一邊學習你正在造的字怎麼念（拼音）的小工具，尤其是那些罕用字。如需更多資訊請參考 [Readme](https://github.com/rutopio/CJK-with-Pinyin)。";
-					zh-Hans = "点击 *视图 > 显示汉字的读法（汉语拼音）* 运行。让你可以一边做字，一边学习你正在造的字怎么念（拼音）的小工具，尤其是那些罕用字。如需更多信息，请参考 [Readme](https://github.com/rutopio/CJK-with-Pinyin)。";
-					ja = "*表示 > 漢字の読み方（拼音 / ピンイン）を表示* をクリックして起動します。詳細な情報については、[Readme](https://github.com/rutopio/CJK-with-Pinyin) を参照してください。";
-				};
-				screenshot = "https://raw.githubusercontent.com/rutopio/CJK-with-Pinyin/main/cover.png";
-			},
-			{
-				titles = {
-					en = "Node Counter Between Masters";
-					zh-Hant = "顯示各主板間的路經總節點數";
-					zh-Hans = "显示各主板间的路径总节点数";
-					ja = "各マスター間のパスの総ポイント数を表示";
-				};
-				path = "NodeCounterBetweenMasters.glyphsReporter";
-				url = "https://github.com/rutopio/Node-Counter-Between-Masters";
-				descriptions = {
-					en = "Toggle *View > Show Node Counter Between Masters* to show it. To display the number of nodes between multiple masters for checking compatibility easily. View [Readme](https://github.com/rutopio/Node-Counter-Between-Masters) for more details.";
-					zh-Hant = "選取 *顯示 > 顯示各主板間的路經總節點數* 開啟。用來顯示多個主板之間的路徑總節點數，可以更好的檢查主板之間的相容性。如需更多資訊請參考 [Readme](https://github.com/rutopio/Node-Counter-Between-Masters)。";
-					zh-Hans = "点击 *视图 > 显示各主板间的路径总节点数* 运行。用来显示多个主板之间的路径总节点数，可以更好的检查主板之间的相容性。如需更多信息，请参考 [Readme](https://github.com/rutopio/Node-Counter-Between-Masters)。";
-					ja = "*表示 > 各マスター間のパスの総ポイント数を表示* をクリックして起動します。複数のマスター間のパスの総ポイント数を表示し、マスター間の互換性をより確認するために使用されます。詳細な情報については、[Readme](https://github.com/rutopio/Node-Counter-Between-Masters) を参照してください。";
-				};
-				screenshot = "https://raw.githubusercontent.com/rutopio/Node-Counter-Between-Masters/main/banner.png";
-			},
-			{
  				titles = {
  					en = "Rainbow FontView";
  				};
@@ -3003,26 +2952,6 @@
  				path = "Rainbow FontView.glyphsPlugin";
  				minGlyphsVersion = "3.1";
  			},
-			{
-				titles = {
-					en = "Tab Manager";
-					zh-Hant = "分頁管理員";
-					zh-Hans = "标签页管理员";
-					ja = "タブマネージャー";
-				};
-				dependencies = (
-					vanilla
-				);
-				path = "TabManager.glyphsPlugin";
-				url = "https://github.com/rutopio/GlyphsApp-Tab-Manager";
-				descriptions = {
-					en = "Click *Window > Tab Manager* to open it. For better editview tab management with a few features: (1) Switch different tab (2) Close selected tabs (3) Focus on selected tabs (4) Open new tab with selected glyphs (5) Reopen latest closed tab - **Experimental** (6) Close all tabs. Need vanilla module. View [Readme](https://github.com/rutopio/GlyphsApp-Tab-Manager) for more details.";
-					zh-Hant = "透過 *視窗 > 分頁管理員* 啟動。更方便地管理編輯視窗的分頁（關閉選取的分頁、僅保留選取的分頁、在新分頁開啟選取的字符、重新打開已關閉的分頁、關閉所有分頁）。需要 Vanilla 套件。如需更多資訊，請參考 [Readme](https://github.com/rutopio/GlyphsApp-Tab-Manager)。";
-					zh-Hans = "点击 *窗口 > 标签页管理员* 运行。更方便地管理编辑视窗的标签页（关闭选取的标签页、仅保留选取的标签页、在新标签页开启选取的字符、重新打开已关闭的标签页、关闭所有标签页）。需要 Vanilla 套件。如需更多信息，请参考 [Readme](https://github.com/rutopio/GlyphsApp-Tab-Manager)。";
-					ja = "*ウィンドウ > タブマネージャ* をクリックして起動します。便利なタブを管理する（タブを閉じる、選択したタブのみを開く、選択された文字を新しいタブで開、タブを再度表示する、すべてのタブを閉じる）。Vanilla モジュールが必要です。詳細な情報については、[Readme](https://github.com/rutopio/GlyphsApp-Tab-Manager) を参照してください。";
-				};
-				screenshot = "https://raw.githubusercontent.com/rutopio/GlyphsApp-Tab-Manager/main/demo.png";
-			},
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
 		);
 		scripts = (
