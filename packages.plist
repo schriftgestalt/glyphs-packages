@@ -1033,9 +1033,12 @@
 			{
 				title = Kernkraft;
 				descriptions = {
-					en = "*Glyph > Kernkraft* and *Glyph > Kernschmelze* will help you to be easily confronted with all the necessary pairs your Font provides (no matter how extended the character set is).\nNavigate in UI with your keyboard: ←,  → and ⏎. Save notes for later.\nDepends on `vanilla` module to be installed. Please install via *Window > Plugin Manager > Modules.*";
+					en = "*Glyph > Kernkraft* and *Glyph > Kernschmelze* by Mark Frömberg (Mark2Mark). Kenrkraft simplifies the process of accessing all the glyph pairs provided by your font, regardless of the size of the character set. Easily navigate through the glyphs with the keyboard arrows (←, →) and Enter key (⏎), while the tool automatically marks the completed glyphs in a convenient TODO list.\n\nKernschmelze interpolates the kerning of two masters.";
 				};
 				path = Kernkraft.glyphsPlugin;
+				dependencies = (
+					vanilla
+				);
 				screenshot = "https://raw.githubusercontent.com/bBoxType/Kernkraft/master/Kernkraft%2002.png";
 				url = "https://github.com/bBoxType/Kernkraft";
 			},
