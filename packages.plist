@@ -1750,6 +1750,7 @@
 					en = "*Filter > Pixelate* (de: *Verpixeln,* fr: *Pixelliser,* es: *Pixelar*) rasterises shapes with a user-defined pixel glyph.";
 				};
 				path = Pixelate.glyphsFilter;
+				branch = Glyphs3;
 				screenshot = "https://raw.githubusercontent.com/mekkablue/Pixelate/master/Pixelate.png";
 				titles = {
 					de = Verpixeln;
