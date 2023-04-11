@@ -2959,6 +2959,18 @@
  				path = "Rainbow FontView.glyphsPlugin";
  				minGlyphsVersion = "3.1";
  			},
+			{
+ 				titles = {
+ 					en = "Show Angle";
+ 				};
+ 				descriptions = {
+ 					en = "Plugin that shows the angle between bottom left and top right of the selection bounds";
+ 				};
+ 				screenshot = "https://user-images.githubusercontent.com/60325634/228880705-9c91bcc9-c995-4bfc-947e-5b35b1d29b7b.png";
+ 				url = "https://github.com/slobzheninov/ShowAngle";
+ 				path = "ShowAngle.glyphsReporter";
+ 				minGlyphsVersion = "2.5";
+ 			},
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
 		);
 		scripts = (
