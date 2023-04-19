@@ -3379,7 +3379,20 @@
 		);
 		modules = (
 			{
+				branch = "py310";
+				maxVersion = "3160";
+				descriptions = {
+					en = "The Python 3 runtime packaged for Glyphs.\n⚠️ Verify the selected Python in *Glyphs > Preferences > Addons > Python version.* To use this one, make sure you pick the one that says ‘Glyphs’ after the version number.";
+					ru = "Python 3, созданный для Glyphs.\n⚠️ Проверьте возможность использования Python 3, зайдя в меню *Glyphs > Настройки > Дополнения > Python version.* Вам доступна эта версия, если после номера версии написано ‘Glyphs’.";
+				};
+				titles = {
+					en = Python;
+				};
+				url = "https://github.com/schriftgestalt/GlyphsPythonPlugin";
+			},
+			{
 				branch = "py311";
+				minVersion = "3161";
 				descriptions = {
 					en = "The Python 3 runtime packaged for Glyphs.\n⚠️ Verify the selected Python in *Glyphs > Preferences > Addons > Python version.* To use this one, make sure you pick the one that says ‘Glyphs’ after the version number.";
 					ru = "Python 3, созданный для Glyphs.\n⚠️ Проверьте возможность использования Python 3, зайдя в меню *Glyphs > Настройки > Дополнения > Python version.* Вам доступна эта версия, если после номера версии написано ‘Glyphs’.";
