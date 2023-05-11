@@ -2971,6 +2971,18 @@
  				path = "ShowAngle.glyphsReporter";
  				minGlyphsVersion = "2.5";
  			},
+			{
+ 				titles = {
+ 					en = "Selection Shelf";
+ 				};
+ 				descriptions = {
+ 					en = "Save a selection to a 'shelf', give it a name, and retrieve the selection later. If you have certain nodes that you are often selecting and referring to, you can save them as a named selection by typing a name in the text field and clicking 'Save'. To retrieve the selection later, double click on its name in the list. If you have no longer any need for the selection, click on it in the list and press Delete to remove it.";
+ 				};
+ 				screenshot = "https://github.com/simoncozens/SelectionShelf/blob/main/screenshot.png?raw=true";
+ 				url = "https://github.com/simoncozens/SelectionShelf";
+ 				path = "SelectionShelf.glyphsPalette";
+ 				minGlyphsVersion = "3.0";
+ 			},
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
 		);
 		scripts = (
