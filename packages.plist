@@ -2983,6 +2983,18 @@
  				path = "SelectionShelf.glyphsPalette";
  				minGlyphsVersion = "3.0";
  			},
+			{
+				titles = {
+					en = "Unnest Components";
+					de = "Komponenten entpacken";
+				};
+				descriptions = {
+					en = "*Filter > Unnest Components* (de: *Komponenten entpacken*) ‘unpacks’, ‘unnests’ or ‘flattens’ components, i.e. it decomposes composites step by step until there is only one level of composition. Nested components are not bad per se, use it only if you know what you are doing. Unnesting only makes sense for TrueType exports (.ttf or TT-flavored .woff and .woff2). It has no effect on CFF exports (.otf or CFF-flavored .woff and .woff2) because PostScript-based fonts have no components. You can have the filter run at export time with a *Filter* custom parameter, with `UnnestComponents` in the filter value.";
+				};
+ 				url = "https://github.com/mekkablue/UnnestComponents";
+ 				path = "UnnestComponents.glyphsFilter";
+ 				minGlyphsVersion = "3.2";
+			},
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
 		);
 		scripts = (
