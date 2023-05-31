@@ -3175,16 +3175,6 @@
 				};
 				url = "https://github.com/Ricard-Garcia/Glyphs-Scripts";
 			},
-			// {
-			// 	descriptions = {
-			// 		en = "Python scripts made for Typerepublic by Ricard Garcia, categories: *Components, Drawbot, Features, Font, Guidelines, Kern, Metrics, Paths, Select, Testing.*\n‘This is the result of all the particular necessities we’ve encountered at [Typerepublic](http://typerepublic.com) while developing different kind of projects. Please note that this started as a unique set of tools for very particular tasks we had to do during the development of our projects. Some scripts might do very similar tasks that others are already doing but still we found it worth enough to share them with whoever might find them interesting and handy.’";
-			// 	};
-			// 	installName = Typerepublic;
-			// 	titles = {
-			// 		en = "Typerepublic Scripts by Ricard Garcia";
-			// 	};
-			// 	url = "https://github.com/Ricard-Garcia/TR-Glyphs-Scripts";
-			// },
 			{
 				descriptions = {
 					en = "Scripts by German type designer and font engineer Jens Kutílek. Categories: *Anchors, Components, Effects, Export, Font, Glyphs, Guides, Hinting, Layers, Layout, Selection, TrueType.*";
@@ -3398,6 +3388,23 @@
 					en = "Florian Pircher’s Scripts";
 				};
 				url = "https://github.com/florianpircher/Glyphs-Scripts";
+			},
+			{
+				descriptions = {
+					en = "Scripts by Ricard Garcia.\n categories: *Components, Drawbot, Features, Font, Guidelines, Kern, Metrics, Paths, Select, Testing.*\nThis is the result of all the particular necessities we’ve encountered at [Typerepublic](http://typerepublic.com) while developing different kind of projects. Please note that this started as a unique set of tools for very particular tasks Typerepublic had to do during the development of different projects";
+				};
+				installName = "Typerepublic";
+				titles = {
+					en = "Typerepublic's Scripts";
+				};
+				url = "https://github.com/Ricard-Garcia/TR-Glyphs-Scripts";
+				dependencies = (
+					fontTools,
+					vanilla,
+					math,
+					textwrap,
+					drawbot
+				);
 			},
 			// *** INSERT NEW SCRIPTS ABOVE THIS LINE
 		);
