@@ -3401,8 +3401,6 @@
 				dependencies = (
 					fontTools,
 					vanilla,
-					math,
-					textwrap,
 					drawbot
 				);
 			},
