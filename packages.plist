@@ -2995,6 +2995,18 @@
  				path = "UnnestComponents.glyphsFilter";
  				minGlyphsVersion = "3.2";
 			},
+			{
+				titles = {
+					en = "Harmonic Move";
+				};
+				descriptions = {
+					en = "The plugin will scale the opposite handle to maintain the same curvature level when the selected handle changes. For example, the plugin can be used to change the weight of terminals. [Watch demo video](https://github.com/pkolchanov/HarmonicMove)";
+				};
+				screenshot = "https://github.com/pkolchanov/HarmonicMove/blob/master/img/PluginManager.png?raw=true";
+ 				url = "https://github.com/pkolchanov/HarmonicMove";
+ 				path = "HarmonicMove.glyphsTool";
+ 				minGlyphsVersion = "3.2";
+			},
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
 		);
 		scripts = (
