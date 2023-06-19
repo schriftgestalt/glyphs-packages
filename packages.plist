@@ -3007,6 +3007,19 @@
  				path = "HarmonicMove.glyphsTool";
  				minGlyphsVersion = "3.2";
 			},
+			{
+				titles = {
+					en = 'COLR/CPAL Juggler';
+					de = 'COLR/CPAL-Jongleur';
+					fr = 'Jongleur COLR/CPAL';
+				};
+				descriptions = {
+					en = "CPAL/COLR Juggler (de: *COLR/CPAL-Jongleur,* fr: *Jongleur COLR/CPAL*) randomly rotates color layers between palette colors. For export it makes most sense to copy and paste this prefilter into an instance in *Font Info > Exports* (Cmd-I, Cmd-3): `{customParameters = ({name = PreFilter; value = COLRCPALJuggler;});}`";
+				};
+ 				url = "https://github.com/mekkablue/CPAL-COLR-Juggler";
+ 				path = "COLRCPALJuggler.glyphsFilter";
+ 				minGlyphsVersion = "3.2";
+			},
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
 		);
 		scripts = (
