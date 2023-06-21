@@ -3032,6 +3032,18 @@
 				screenshot = "https://raw.githubusercontent.com/justanotherfoundry/freemix-glyphsapp/master/HandleRelations/HandleRelations.png";
  				minGlyphsVersion = "3.1";
 			},
+			{
+				descriptions = {
+					en = "Display inspirational quotes by Werner Herzog in Glyphs. Make sure to allow Glyphs to display notifications via System Settings.";
+				};
+				donationURL = "https://ko-fi.com/jenskutilek";
+				path = WernerHerzog.glyphsPlugin;
+				screenshot = "https://raw.githubusercontent.com/jenskutilek/Glyphs-WernerHerzog/main/images/herzog-4.jpg";
+				titles = {
+					en = "Werner Herzog Quotes";
+				};
+				url = "https://github.com/jenskutilek/Glyphs-WernerHerzog";
+			},
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
 		);
 		scripts = (
