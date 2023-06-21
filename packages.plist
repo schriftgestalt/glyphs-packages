@@ -3020,6 +3020,18 @@
  				path = "COLRCPALJuggler.glyphsFilter";
  				minGlyphsVersion = "3.2";
 			},
+			{
+				titles = {
+					en = "Show Handle Relations";
+				};
+				descriptions = {
+					en = "*View > Show Handle Relations* displays the relative handle lengths for smooth connections between curves, and for nodes that connect a straight line and a curve (“tangent points”).\n\nThis helps you avoid kinks in interpolations by keeping the relative handle lengths consistent across all masters.";
+				};
+ 				url = "https://github.com/justanotherfoundry/freemix-glyphsapp/tree/master/HandleRelations";
+ 				path = "HandleRelations.glyphsReporter";
+				screenshot = "https://raw.githubusercontent.com/justanotherfoundry/freemix-glyphsapp/master/HandleRelations/HandleRelations.png";
+ 				minGlyphsVersion = "3.1";
+			},
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
 		);
 		scripts = (
