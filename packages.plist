@@ -3226,7 +3226,7 @@
 			},
 			{
 				descriptions = {
-					en = "Scripts by German type designer and font engineer Jens Kutílek. Categories: *Anchors, Components, Effects, Export, Font, Glyphs, Guides, Hinting, Layers, Layout, Selection, TrueType.*";
+					en = "Scripts by German type designer and font engineer Jens Kutílek. Categories: *Anchors, Components, Effects, Export, Font, Glyphs, Hinting, Layers, Layout, Selection, TrueType.*";
 				};
 				donationURL = "https://ko-fi.com/jenskutilek";
 				installName = "Jens Kutílek";
@@ -3234,6 +3234,9 @@
 					en = "Jens Kutílek’s Scripts";
 				};
 				url = "https://github.com/jenskutilek/Glyphs-Scripts";
+				dependencies = (
+					jkglyphshelpers
+				);
 			},
 			{
 				descriptions = {
@@ -3565,6 +3568,22 @@
 				};
 				url = "https://github.com/matplotlib/matplotlib";
 				path = "lib/matplotlib";
+			},
+			{
+				identifier = jkglyphshelpers;
+				hidden = 1;
+				archs = (
+					intel,
+					arm,
+				);
+				descriptions = {
+					en = "jkGlyphsHelpers contains helper functions and other modules used by Jens Kutílek’s Glyphs scripts.";
+				};
+				titles = {
+					en = "jkGlyphsHelpers";
+				};
+				url = "https://github.com/jenskutilek/jkGlyphsHelpers";
+				path = "lib/jkGlyphsHelpers";
 			},
 		);
 	};
