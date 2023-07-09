@@ -400,6 +400,7 @@
 			{
 				name = "SelectionPalette.glyphsPalette";
 				title = "SelectionPalette";
+				branch = "glyphs-2";
 				url = "https://github.com/danielgamage/SelectionPalette";
 				description = "Palette that provides selection commands such as *undo*, *grow*, *shrink*, and a pattern-recognizing *continue*, as well as selection operations to *add*, *remove*, or *select only* elements of a certain type.";
 				screenshot = "https://raw.githubusercontent.com/danielgamage/SelectionPalette/master/Images/screenshot.png";
