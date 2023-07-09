@@ -1245,36 +1245,6 @@
 				url = "https://github.com/danielgamage/Extrude-Tool";
 			},
 			{
-				descriptions = {
-					en = "Palette that provides selection commands such as *undo*, *grow*, *shrink*, and a pattern-recognizing *continue*, as well as selection operations to *add*, *remove*, or *select only* elements of a certain type.";
-					ru = "Палитра, которая предоставляет команды выбора, такие как *отмена*, *увеличение*, *сжатие* и распознавание шаблона *продолжение*, а также операции выбора для *добавления*, *удаления* или *выбора только* элементов определенного типа.";
-				};
-				branch = glyphs-3;
-				minVersion = 3151;
-				path = SelectionPalette.glyphsPalette;
-				screenshot = "https://raw.githubusercontent.com/danielgamage/SelectionPalette/glyphs-3/Images/screenshot.png";
-				titles = {
-					en = SelectionPalette;
-				};
-				url = "https://github.com/danielgamage/SelectionPalette";
-			},
-			{
-				archs = (
-					intel
-				);
-				descriptions = {
-					en = "Palette that provides selection commands such as *undo*, *grow*, *shrink*, and a pattern-recognizing *continue*, as well as selection operations to *add*, *remove*, or *select only* elements of a certain type.";
-					ru = "Палитра, которая предоставляет команды выбора, такие как *отмена*, *увеличение*, *сжатие* и распознавание шаблона *продолжение*, а также операции выбора для *добавления*, *удаления* или *выбора только* элементов определенного типа.";
-				};
-				branch = glyphs-2;
-				path = SelectionPalette.glyphsPalette;
-				screenshot = "https://raw.githubusercontent.com/danielgamage/SelectionPalette/glyphs-2/Images/screenshot.png";
-				titles = {
-					en = SelectionPalette;
-				};
-				url = "https://github.com/danielgamage/SelectionPalette/tree/glyphs-2";
-			},
-			{
 				branch = glyphs3;
 				descriptions = {
 					en = "*Filter > Trace Image* is a plugin to trace bitmap images into editable paths. You can choose between the [porace](http://potrace.sourceforge.net) and the [autotrace](http://autotrace.sourceforge.net) algorithm.";
@@ -3070,6 +3040,20 @@
 				};
 				url = "https://github.com/mekkablue/StraightenShortCurves";
  				minGlyphsVersion = "3.1";
+			},
+			{
+				descriptions = {
+					en = "Palette that provides selection commands such as *undo*, *grow*, *shrink*, and a pattern-recognizing *continue*, as well as selection operations to *add*, *remove*, or *select only* elements of a certain type.";
+					ru = "Палитра, которая предоставляет команды выбора, такие как *отмена*, *увеличение*, *сжатие* и распознавание шаблона *продолжение*, а также операции выбора для *добавления*, *удаления* или *выбора только* элементов определенного типа.";
+				};
+				branch = glyphs-3;
+				minVersion = 3151;
+				path = SelectionPalette.glyphsPalette;
+				screenshot = "https://raw.githubusercontent.com/danielgamage/SelectionPalette/glyphs-3/Images/screenshot.png";
+				titles = {
+					en = SelectionPalette;
+				};
+				url = "https://github.com/danielgamage/SelectionPalette";
 			},
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
 		);
