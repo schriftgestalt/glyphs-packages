@@ -3031,7 +3031,7 @@
 			},
 			{
 				descriptions = {
-					en = "Filter > Straighten Short Curves will straighten curve segments shorter than a certain threshold length. The handles are deleted and the curve segment is turned into a line segment. Useful for cleaning up a vectorized scan or avoiding *Remove Overlap* errors at export.";
+					en = "*Filter > Straighten Short Curves* will straighten curve segments shorter than a certain threshold length. The handles are deleted and the curve segment is turned into a line segment. Useful for cleaning up a vectorized scan or avoiding *Remove Overlap* errors at export.";
 				};
 				path = StraightenShortCurves.glyphsFilter;
 				screenshot = "https://raw.githubusercontent.com/mekkablue/StraightenShortCurves/main/StraightenShortCurves.png";
