@@ -3055,6 +3055,18 @@
 				};
 				url = "https://github.com/danielgamage/SelectionPalette";
 			},
+			{
+				descriptions = {
+					en = "Turn instances into grades, sharing the same advance widths and kerning.";
+				};
+				branch = Glyphs3;
+				minVersion = 3205;
+				path = Grader.glyphsFilter;
+				titles = {
+					en = Grader;
+				};
+				url = "https://github.com/mekkablue/Grader/tree/Glyphs3";
+			},
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
 		);
 		scripts = (
