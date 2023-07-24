@@ -3065,7 +3065,7 @@
 				titles = {
 					en = Grader;
 				};
-				url = "https://github.com/mekkablue/Grader/tree/Glyphs3";
+				url = "https://github.com/mekkablue/Grader";
 			},
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
 		);
