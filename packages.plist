@@ -3078,7 +3078,19 @@
 					en = "ExportUFO-Plus";
 				};
 				url = "https://github.com/mekkablue/ExportUFO-Plus";
-				},
+			},
+			{	
+				descriptions = {
+					en = "Path Juggler plug-in for Glyphs.app.";
+				};
+				branch = main;
+				minGlyphsVersion = "3.1";
+				path = PathJuggler.glyphsPlugin;
+				titles = {
+					en = "Path Juggler";
+				};
+				url = "https://github.com/mekkablue/PathJuggler";
+			},
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
 		);
 		scripts = (
