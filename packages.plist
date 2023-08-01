@@ -3067,6 +3067,18 @@
 				};
 				url = "https://github.com/mekkablue/Grader";
 			},
+			{	
+				descriptions = {
+					en = "UFO export plug-in for Glyphs.app.";
+				};
+				branch = main;
+				minGlyphsVersion = "3.1";
+				path = ExportUfoPlus.glyphsFileFormat;
+				titles = {
+					en = "ExportUFO-Plus";
+				};
+				url = "https://github.com/mekkablue/ExportUFO-Plus";
+				},
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
 		);
 		scripts = (
