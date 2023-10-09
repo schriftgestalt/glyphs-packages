@@ -3091,6 +3091,17 @@
 				};
 				url = "https://github.com/mekkablue/PathJuggler";
 			},
+			{
+				titles = {
+					en = "Show Coordinates Distance Angle";
+				};
+				descriptions = {
+					en = "Display coordinates above or below the selected nodes and handles, and display distances and angles (respected to italic) along the path lines. Shortcut assigned: ⌘L";
+				};
+				path = ShowCoordinatesDistanceAngle.glyphsReporter;
+				url = "https://github.com/michaelrafailyk/ShowCoordinatesDistanceAngle";
+				screenshot = "https://raw.githubusercontent.com/michaelrafailyk/ShowCoordinatesDistanceAngle/main/ShowCoordinatesDistanceAngle.png";
+			},
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
 		);
 		scripts = (
