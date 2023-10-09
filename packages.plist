@@ -3100,7 +3100,7 @@
 				};
 				path = ShowCoordinatesDistanceAngle.glyphsReporter;
 				url = "https://github.com/michaelrafailyk/ShowCoordinatesDistanceAngle";
-				screenshot = "https://github.com/michaelrafailyk/ShowCoordinatesDistanceAngle/blob/main/ShowCoordinatesDistanceAngle.png";
+				screenshot = "https://raw.githubusercontent.com/michaelrafailyk/ShowCoordinatesDistanceAngle/main/ShowCoordinatesDistanceAngle.png";
 			},
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
 		);
