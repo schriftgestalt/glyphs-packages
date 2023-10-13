@@ -3530,7 +3530,7 @@
 				url = "https://github.com/schriftgestalt/GlyphsPythonPlugin";
 			},
 			{
-				branch = "py311";
+				branch = "current";
 				minVersion = "3161";
 				descriptions = {
 					en = "The Python 3 runtime packaged for Glyphs.\n⚠️ Verify the selected Python in *Glyphs > Settings > Addons > Python version.* To use this one, make sure you pick the one that says ‘Glyphs’ after the version number. [More info in the tutorial.](https://glyphsapp.com/learn/extending-glyphs)";
