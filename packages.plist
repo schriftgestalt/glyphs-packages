@@ -275,12 +275,12 @@
 					ru = "*Фильтр > Точки экстремума в курсиве*—добавляет точки под указанным углом. По умолчанию используется курсивный угол от выбранного мастера при запуске плагина. Можно ввести несколько углов через запятую, и они будут обрабатываться последовательно. Флажки позволяют по желанию удалить крайние узлы Высоты/Ширины или наклонных кривых, которые соответствуют указанным углам, эффективно переключая контур между узлами экстремума Ширины/Высоты и Курсива. Следует помнить, что не все кривые могут быть точно воспроизведены с другим расположением точек. Алгоритм Glyphs, позволяющий сохранить форму при удалении узлов, работает отлично, но это не волшебство.";
 				};
 				path = ItalicExtremes.glyphsFilter;
-				screenshot = "https://raw.githubusercontent.com/joachimvu/ItalicExtremes/master/ItalicExtremes.png";
+				screenshot = "https://raw.githubusercontent.com/schriftgestalt/ItalicExtremes/master/ItalicExtremes.png";
 				titles = {
 					en = "Italic Extremes";
 					ru = "Точки экстремума в курсиве";
 				};
-				url = "https://github.com/joachimvu/ItalicExtremes";
+				url = "https://github.com/schriftgestalt/ItalicExtremes";
 			},
 			// {
 			// 	descriptions = {
