@@ -3102,6 +3102,21 @@
 				url = "https://github.com/michaelrafailyk/ShowCoordinatesDistanceAngle";
 				screenshot = "https://raw.githubusercontent.com/michaelrafailyk/ShowCoordinatesDistanceAngle/main/ShowCoordinatesDistanceAngle.png";
 			},
+			{
+				dependencies = (
+					paddle
+				);
+				descriptions = {
+					en = "Virtual pad controller to launch your favourite scripts with a button click. No more script menu digging. No more shortcut memorizing. [Script Deck Manual](https://markfromberg.com/user/images/glyphs/plugins/Script%20Deck%20Manual.pdf)\nTry it out and see that you cannot live without it.";
+				};
+				path = "Script Deck.glyphsPlugin";
+				screenshot = "https://markfromberg.com/user/images/glyphs/plugins/Script%20Deck%20PM%20Cover@1x.png";
+				titles = {
+					en = "Script Deck";
+				};
+				url = "https://github.com/Mark2Mark/script-deck-plugin";
+				minVersion = 3062;
+			},
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
 		);
 		scripts = (
