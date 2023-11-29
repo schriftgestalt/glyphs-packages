@@ -3658,6 +3658,18 @@
 				url = "https://github.com/jenskutilek/jkGlyphsHelpers";
 				path = "lib/jkGlyphsHelpers";
 			},
+			{
+				titles = {
+					en = "Find Escaped Glyphs";
+					ko = "벗어난 글립 찾기";
+				};
+				url = "https://github.com/sindpfla98/FindEscapedGlyphs";
+				descriptions = {
+					en = "Glyph > Find Escaped Glyphs finds a glyph that component or path is outside the box.";
+					ko = "글리프 > 벗어난 글립 찾기 는 컴포넌트나 path가 지정한 범위를 벗어난 글립을 찾아줍니다."
+				};
+				screenshot = "https://raw.githubusercontent.com/sindpfla98/FindEscapedGlyphs/master/FindEscapedGlyphs_Window.png";
+			},
 		);
 	};
 }
