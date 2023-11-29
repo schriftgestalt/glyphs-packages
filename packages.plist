@@ -2953,7 +2953,7 @@
  				};
  				screenshot = "https://user-images.githubusercontent.com/60325634/228880705-9c91bcc9-c995-4bfc-947e-5b35b1d29b7b.png";
  				url = "https://github.com/slobzheninov/ShowAngle";
- 				path = "ShowAngle.glyphsReporter";
+ 				path = "Show Angle and Distance.glyphsPlugin";
  				minGlyphsVersion = "2.5";
  			},
 			{
