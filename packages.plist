@@ -3122,6 +3122,7 @@
 					en = "Find Escaped Glyphs";
 					ko = "벗어난 글립 찾기";
 				};
+				path = "FindEscapedGlyphs.glyphsPlugin";
 				url = "https://github.com/sindpfla98/FindEscapedGlyphs";
 				descriptions = {
 					en = "Glyph > Find Escaped Glyphs finds a glyph that component or path is outside the box.";
