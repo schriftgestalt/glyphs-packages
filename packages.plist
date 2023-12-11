@@ -3542,6 +3542,16 @@
 					drawbot
 				);
 			},
+			{
+				descriptions = {
+					en = "Andreas Rasmussen’s collection of Glyphs scripts.";
+				};
+				installName = "andreasrasmussen";
+				titles = {
+					en = "Andreas Rasmussen’s Scripts";
+				};
+				url = "https://github.com/usted/Glyphs-Scripts";
+			},
 			// *** INSERT NEW SCRIPTS ABOVE THIS LINE
 		);
 		modules = (
