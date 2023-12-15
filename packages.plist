@@ -3107,7 +3107,7 @@
 					paddle
 				);
 				descriptions = {
-					en = "Virtual pad controller to launch your favourite scripts with a button click. No more script menu digging. No more shortcut memorizing. [Script Deck Manual](https://markfromberg.com/user/images/glyphs/plugins/Script%20Deck%20Manual.pdf)\nTry it out and see that you cannot live without it.";
+					en = "Script Deck is a virtual pad controller to hold and launch your favourite scripts with simple button clicks. No more script menu digging. No more shortcut memorizing. Highly customizable: set colors and icons, name your decks, etc.  \n\n[Plugin Page](https://markfromberg.com/projects/script-deck-3)  \n[Manual PDF](https://markfromberg.com/user/images/glyphs/plugins/Script%20Deck%20Manual.pdf)  \n\nTry it out and see that you cannot live without it.";
 				};
 				path = "Script Deck.glyphsPlugin";
 				screenshot = "https://markfromberg.com/user/images/glyphs/plugins/Script%20Deck%20PM%20Cover@1x.png";
