@@ -3553,6 +3553,16 @@
 				};
 				url = "https://github.com/usted/Glyphs-Scripts";
 			},
+			{
+				descriptions = {
+					en = "Naipe Foundry Scripts";
+				};
+				installName = "Naipe";
+				titles = {
+					en = "Barcelona-based foundry, scripts by Álvaro Franca and Felipe Casaprima.";
+				};
+				url = "https://github.com/naipefoundry/Naipe-Foundry-Glyphs-Scripts/";
+			},
 			// *** INSERT NEW SCRIPTS ABOVE THIS LINE
 		);
 		modules = (
