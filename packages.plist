@@ -2496,7 +2496,7 @@
 					en = "A plug-in for editing and exporting OpenType MATH table. _Edit → Edit MATH Constants..._ for editing font-level MATH table constants, _Glyph → Edit MATH Variants..._ for editing glyph-level MATH variants,
   assembly, and extended shape flag, and _View → Show MATH Italic Correction_, _View → Show MATH Top Accent Position_, _View → Show MATH Cut-ins_ for showing various MATH positioning info.";
 				};
-				screenshot = "https://raw.githubusercontent.com/Nagwa-Limited-Community/Glyphs-MATH-Plugin/main/math-constants.png";
+				screenshot = "https://raw.githubusercontent.com/Nagwa-Limited-Community/Glyphs-MATH-Plugin/main/dialog-math-constants.png";
 				url = "https://github.com/Nagwa-Limited-Community/Glyphs-MATH-Plugin.git";
 				branch = "main";
 				path = "MATHPlugin.glyphsPlugin";
