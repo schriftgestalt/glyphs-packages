@@ -2951,7 +2951,7 @@
  				descriptions = {
  					en = "Plugin that shows the Angle, Distance and Italic Width of the selection. Click the panel to switch between Distance and Italic WIdth in italic layers.";
  				};
- 				screenshot = "https://github.com/slobzheninov/ShowAngle/assets/60325634/e8ef927b-efe2-4774-a1b9-4bd707b16070"
+ 				screenshot = "https://github.com/slobzheninov/ShowAngle/assets/60325634/e8ef927b-efe2-4774-a1b9-4bd707b16070";
  				url = "https://github.com/slobzheninov/ShowAngle";
  				path = "Show Angle and Distance.glyphsPlugin";
  				minGlyphsVersion = "2.5";
