@@ -3130,6 +3130,41 @@
 				};
 				screenshot = "https://raw.githubusercontent.com/sindpfla98/FindEscapedGlyphs/master/FindEscapedGlyphs_Window.png";
 			},
+			{
+				titles = {
+					en = "Change Sentence To Mieum";
+					ko = "문장 ㅁ꼴로 바꾸기";
+				};
+				path = "ChangeSentenceToMieum.glyphsPlugin";
+				url = "https://github.com/sindpfla98/ChangeSentenceToMieum";
+				descriptions = {
+					en = "Window > 'Change Sentence To Mieum' changes the initial consonant and final consonant of the entered sentence to ㅁ.Available in **python version 3.11.6**.";
+					ko = "창 > '문장 ㅁ꼴로 바꾸기'는 입력된 문장의 초성과 종성을 ㅁ으로 변경합니다.**python 버전 3.11.6**에서 사용할 수 있습니다.";
+				};
+				minVersion = 3234;
+				screenshot = "https://raw.githubusercontent.com/sindpfla98/ChangeSentenceToMieum/master/ChangeSentenceToMieum_window.png";
+				archs = (
+					arm,
+				);
+			},
+			{
+				titles = {
+					en = "Change Sentence To Mieum";
+					ko = "문장 ㅁ꼴로 바꾸기";
+				};
+				path = "ChangeSentenceToMieum.glyphsPlugin";
+				url = "https://github.com/sindpfla98/ChangeSentenceToMieum";
+				descriptions = {
+					en = "Window > 'Change Sentence To Mieum' changes the initial consonant and final consonant of the entered sentence to ㅁ.Available in **python version 3.11.6**.";
+					ko = "창 > '문장 ㅁ꼴로 바꾸기'는 입력된 문장의 초성과 종성을 ㅁ으로 변경합니다.**python 버전 3.11.6**에서 사용할 수 있습니다.";
+				};
+				minVersion = 3234;
+				screenshot = "https://raw.githubusercontent.com/sindpfla98/ChangeSentenceToMieum/Intel/ChangeSentenceToMieum_window.png";
+				archs = (
+					intel,
+				);
+				branch = Intel;
+			},
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
 		);
 		scripts = (
