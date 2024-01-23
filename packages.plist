@@ -2496,7 +2496,7 @@
 					en = "A plug-in for editing and exporting OpenType MATH table. _Edit → Edit MATH Constants..._ for editing font-level MATH table constants, _Glyph → Edit MATH Variants..._ for editing glyph-level MATH variants,
   assembly, and extended shape flag, and _View → Show MATH Italic Correction_, _View → Show MATH Top Accent Position_, _View → Show MATH Cut-ins_ for showing various MATH positioning info.";
 				};
-				screenshot = "https://raw.githubusercontent.com/Nagwa-Limited-Community/Glyphs-MATH-Plugin/main/math-constants.png";
+				screenshot = "https://raw.githubusercontent.com/Nagwa-Limited-Community/Glyphs-MATH-Plugin/main/dialog-math-constants.png";
 				url = "https://github.com/Nagwa-Limited-Community/Glyphs-MATH-Plugin.git";
 				branch = "main";
 				path = "MATHPlugin.glyphsPlugin";
@@ -2946,12 +2946,12 @@
  			},
 			{
  				titles = {
- 					en = "Show Angle";
+ 					en = "Show Angle, Distance and Italic Width";
  				};
  				descriptions = {
- 					en = "Plugin that shows the angle between bottom left and top right of the selection bounds";
+ 					en = "Plugin that shows the Angle, Distance and Italic Width of the selection. Click the panel to switch between Distance and Italic WIdth in italic layers.";
  				};
- 				screenshot = "https://user-images.githubusercontent.com/60325634/228880705-9c91bcc9-c995-4bfc-947e-5b35b1d29b7b.png";
+ 				screenshot = "https://github.com/slobzheninov/ShowAngle/assets/60325634/e8ef927b-efe2-4774-a1b9-4bd707b16070";
  				url = "https://github.com/slobzheninov/ShowAngle";
  				path = "Show Angle and Distance.glyphsPlugin";
  				minGlyphsVersion = "2.5";
@@ -3107,7 +3107,7 @@
 					paddle
 				);
 				descriptions = {
-					en = "Virtual pad controller to launch your favourite scripts with a button click. No more script menu digging. No more shortcut memorizing. [Script Deck Manual](https://markfromberg.com/user/images/glyphs/plugins/Script%20Deck%20Manual.pdf)\nTry it out and see that you cannot live without it.";
+					en = "Script Deck is a virtual pad controller to hold and launch your favourite scripts with simple button clicks. No more script menu digging. No more shortcut memorizing. Highly customizable: set colors and icons, name your decks, etc.  \n\n[Plugin Page](https://markfromberg.com/projects/script-deck-3)  \n[Manual PDF](https://markfromberg.com/user/images/glyphs/plugins/Script%20Deck%20Manual.pdf)  \n\nTry it out and see that you cannot live without it.";
 				};
 				path = "Script Deck.glyphsPlugin";
 				screenshot = "https://markfromberg.com/user/images/glyphs/plugins/Script%20Deck%20PM%20Cover@1x.png";
@@ -3173,6 +3173,7 @@
 					en = "mekkablue Scripts";
 				};
 				url = "https://github.com/mekkablue/Glyphs-Scripts";
+				branch = glyphs3;
 				dependencies = (
 					vanilla
 				);
@@ -3541,6 +3542,26 @@
 					vanilla,
 					drawbot
 				);
+			},
+			{
+				descriptions = {
+					en = "Andreas Rasmussen’s collection of Glyphs scripts.";
+				};
+				installName = "Andreas Rasmussen";
+				titles = {
+					en = "Andreas Rasmussen’s Scripts";
+				};
+				url = "https://github.com/usted/Glyphs-Scripts";
+			},
+			{
+				descriptions = {
+					en = "Naipe Foundry Scripts";
+				};
+				installName = "Naipe";
+				titles = {
+					en = "Barcelona-based foundry, scripts by Álvaro Franca and Felipe Casaprima.";
+				};
+				url = "https://github.com/naipefoundry/Naipe-Foundry-Glyphs-Scripts/";
 			},
 			// *** INSERT NEW SCRIPTS ABOVE THIS LINE
 		);
