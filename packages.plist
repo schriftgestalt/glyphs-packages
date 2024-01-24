@@ -3144,6 +3144,17 @@
 				minVersion = 3161;
 				screenshot = "https://raw.githubusercontent.com/sindpfla98/ChangeSentenceToMieum/master/ChangeSentenceToMieum_window.png";
 			},
+			{
+				descriptions = {
+					en = "Window for displaying a rotated view of the first line of the current tab. Based on Aaron Bell’s Rotate View for single glyphs.";
+				};
+				path = RotateView2.glyphsPlugin;
+				screenshot = "https://github.com/mekkablue/RotateView/raw/master/RotateView2.png";
+				titles = {
+					en = "Rotate View 2";
+				};
+				url = "https://github.com/mekkablue/RotateView";
+			},
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
 		);
 		scripts = (
