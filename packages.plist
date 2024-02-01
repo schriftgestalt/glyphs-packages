@@ -3198,7 +3198,6 @@
 					en = "mekkablue Scripts";
 				};
 				url = "https://github.com/mekkablue/Glyphs-Scripts";
-				branch = glyphs3;
 				dependencies = (
 					vanilla
 				);
