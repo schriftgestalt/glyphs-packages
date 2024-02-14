@@ -3198,6 +3198,7 @@
 					en = "mekkablue Scripts";
 				};
 				url = "https://github.com/mekkablue/Glyphs-Scripts";
+				branch = master;
 				dependencies = (
 					vanilla
 				);
