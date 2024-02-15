@@ -3155,6 +3155,18 @@
 				};
 				url = "https://github.com/mekkablue/RotateView";
 			},
+			{
+				titles = {
+					en = "Gradient Hatch";
+				};
+				path = "GradientHatch.glyphsFilter";
+				url = "https://github.com/tcarisland/GradientHatch";
+				descriptions = {
+					en = "*Filter > Gradient Hatch* create gradient hatched outlines, built on top of the Hatch Outline filter";
+				};
+				screenshot = "https://raw.githubusercontent.com/tcarisland/GradientHatch/main/GradientHatchPreview.png";
+				minVersion = 3151;
+			},
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
 		);
 		scripts = (
