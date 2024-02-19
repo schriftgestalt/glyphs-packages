@@ -3167,6 +3167,17 @@
 				screenshot = "https://raw.githubusercontent.com/tcarisland/GradientHatch/main/GradientHatchPreview.png";
 				minVersion = 3151;
 			},
+			{
+				titles = {
+					en = "Export CSV";
+				};
+				path = "ExportCSV.glyphsFileFormat";
+				url = "https://github.com/mekkalue/ExportCSV";
+				descriptions = {
+					en = "*File > Export > CSV* will export glyph info into CSV files, one file per font master.";
+				};
+				minGlyphsVersion = "3.1";
+			},
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
 		);
 		scripts = (
