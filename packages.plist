@@ -3172,7 +3172,7 @@
 					en = "Export CSV";
 				};
 				path = "ExportCSV.glyphsFileFormat";
-				url = "https://github.com/mekkalue/ExportCSV";
+				url = "https://github.com/mekkablue/ExportCSV";
 				descriptions = {
 					en = "*File > Export > CSV* will export glyph info into CSV files, one file per font master.";
 				};
