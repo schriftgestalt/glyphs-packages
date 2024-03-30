@@ -3178,6 +3178,17 @@
 				};
 				minGlyphsVersion = "3.1";
 			},
+			{
+				titles = {
+					en = "True Glyph";
+				};
+				path = "trueglyph.glyphsFileFormat";
+				url = "https://github.com/wsimm/True-Glyph";
+				descriptions = {
+					en = "*Export to PDF Command + E * True Glyph is a GlyphsApp plugin that enables designers to export detailed designs, showcasing the meticulous work behind glyphs, logos, and icons. It enhances presentations, provides insights into the design process for clients, and simplifies recoloring in Illustrator for brand integration. The plugin heightens the perception of design work, connecting designer creativity with client recognition..";
+				};
+				minGlyphsVersion = "3.1";
+			},
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
 		);
 		scripts = (
