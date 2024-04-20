@@ -637,7 +637,7 @@
 			},
 			{
 				descriptions = {
-					en = "*View > Show Angled Handles* (de: *Schräge Anfasser anzeigen*, es: *Mostrar manejadores inclinados*, fr: *Afficher les poignées inclinées*, zh: ⚖️路径检查工具) highlights BCPs (‘handles’) which are not horizontal or vertical, quite-but-not-completely-straight line segments, duplicate path segments, crossed handles, and zero handles. Options in the context menu.";
+					en = "*View > Show Angled Handles* (de: *Schräge Anfasser anzeigen*, es: *Mostrar manejadores inclinados*, fr: *Afficher les poignées inclinées*, it: *Mostra maniglie inclinate*, zh: ⚖️路径检查工具) highlights BCPs (‘handles’) which are not horizontal or vertical, quite-but-not-completely-straight line segments, duplicate path segments, crossed handles, nodes missing metrics, and zero handles. Options in the context menu.";
 					ru = "*Просмотр > Показать угловые усики*—выделяет BCP (рукоятку рычага), которые не являются горизонтальными или вертикальными (вполне, но как бы не полностью) прямые сегменты линий, дублирующие сегменты пути, перекрещенные рычаги (усики) и нулевые рычаги. Варианты—в контекстном меню.";
 				};
 				donationURL = "https://ko-fi.com/mekkablue";
