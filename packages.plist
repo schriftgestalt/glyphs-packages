@@ -1037,10 +1037,10 @@
 				screenshot = "https://raw.githubusercontent.com/LucasFonts/Glyphs-MoveableSidebearings/master/media/screenshot.png";
 			},
 			{
-				titles = "Advanced Stroke Contrast Tool — LTTR/INK";
+				title = "Advanced Stroke Contrast Tool — LTTR/INK";
 				url = "https://github.com/lttrcorp/lttrink-for-glyphs-plugin-manager";
 				name = "Letterink.glyphsTool";
-				descriptions = "**LTTR/INK** is the stroke contrast tool **inspired by Gerrit Noordzij’s The stroke: theory of writing**. Prototype rich stroke shapes of your letters with **skeletons** and use the stroke styles for **parametric** type design.\n\nThe LTTR/INK becomes an immediately familiar tool and fun to play with.\n\nSimulate calligraphic tools: **Broad Nib**, **Pointed Pen**, **Pointed Brush**, **Flat Brush**, **Marker**\n\n[Tutorials](https://www.lttrink.com/documentations/lttr-ink-for-glyphs-documentation?utm_source=glppmn&utm_medium=inkap&utm_campaign=gl2&utm_content=glppmnlk&utm_term=tutorials) • [Academy](https://www.lttrink.com/academy?utm_source=glppmn&utm_medium=inkap&utm_campaign=gl2&utm_content=glppmnlk&utm_term=academy) • [Purchase](https://www.lttrink.com/pricing-stroke-plugin-glyphs?utm_source=glppmn&utm_medium=inkap&utm_campaign=gl2&utm_content=glppmnlk&utm_term=purchase)\n\nWe've wrapped up updates for this version. To keep receiving the latest updates, please switch over to Glyphs 3.";
+				description = "**LTTR/INK** is the stroke contrast tool **inspired by Gerrit Noordzij’s The stroke: theory of writing**. Prototype rich stroke shapes of your letters with **skeletons** and use the stroke styles for **parametric** type design.\n\nThe LTTR/INK becomes an immediately familiar tool and fun to play with.\n\nSimulate calligraphic tools: **Broad Nib**, **Pointed Pen**, **Pointed Brush**, **Flat Brush**, **Marker**\n\n[Tutorials](https://www.lttrink.com/documentations/lttr-ink-for-glyphs-documentation?utm_source=glppmn&utm_medium=inkap&utm_campaign=gl2&utm_content=glppmnlk&utm_term=tutorials) • [Academy](https://www.lttrink.com/academy?utm_source=glppmn&utm_medium=inkap&utm_campaign=gl2&utm_content=glppmnlk&utm_term=academy) • [Purchase](https://www.lttrink.com/pricing-stroke-plugin-glyphs?utm_source=glppmn&utm_medium=inkap&utm_campaign=gl2&utm_content=glppmnlk&utm_term=purchase)\n\nWe've wrapped up updates for this version. To keep receiving the latest updates, please switch over to Glyphs 3.";
 				screenshot = "https://raw.githubusercontent.com/lttrcorp/lttrink-for-glyphs-plugin-manager/main/lttrink-screenshot.png";
 			}
 		);
