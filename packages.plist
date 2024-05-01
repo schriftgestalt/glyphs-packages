@@ -3189,6 +3189,20 @@
 				};
 				minGlyphsVersion = "3.1";
 			},
+			{
+				titles = {
+					en = "Advanced Stroke Contrast Tool — LTTR/INK";
+					"zh-Hans" = "Advanced Stroke Contrast Tool (先进的笔画对比度控制工具) — LTTR/INK";
+				};
+				url = "https://github.com/lttrcorp/lttrink-for-glyphs-plugin-manager";
+				branch = glyphs3;
+				path = "Letterink.glyphsTool";
+				descriptions = {
+					en = "**LTTR/INK** is the stroke contrast tool **inspired by Gerrit Noordzij’s The stroke: theory of writing**. Prototype rich stroke shapes of your letters with **skeletons** and use the stroke styles for **parametric** type design.\n\nThe LTTR/INK becomes an immediately familiar tool and fun to play with.\n\nSimulate calligraphic tools: **Broad Nib**, **Pointed Pen**, **Pointed Brush**, **Flat Brush**, **Marker**\n\n[Tutorials](https://www.lttrink.com/documentations/lttr-ink-for-glyphs-documentation?utm_source=glppmn&utm_medium=inkap&utm_campaign=gl3&utm_content=glppmnlk&utm_term=tutorials) • [Academy](https://www.lttrink.com/academy?utm_source=glppmn&utm_medium=inkap&utm_campaign=gl3&utm_content=glppmnlk&utm_term=academy) • [Purchase](https://www.lttrink.com/pricing-stroke-plugin-glyphs?utm_source=glppmn&utm_medium=inkap&utm_campaign=gl3&utm_content=glppmnlk&utm_term=purchase)";
+					"zh-Hans" = "**LTTR/INK**是一个受到了**赫里特·诺尔泽的《笔画：书写理论》**一书影响而诞生的笔画对比度控制工具。使用**骨架**和丰富的笔画样式快速制作你的**参数化**字体设计。\n\nLTTR/INK是一款可以快速上手并且充满乐趣的工具。\n\n模拟的书写工具：**平头笔**、**点尖笔**、**圆头笔刷**、**平头笔刷**、**马克笔**\n\n[教程](https://www.lttrink.com/zh/documentations/lttr-ink-for-glyphs-documentation?utm_source=glppmn&utm_medium=inkap&utm_campaign=gl3&utm_content=glppmnlk&utm_term=tutorials) • [学院](https://www.lttrink.com/zh/academy?utm_source=glppmn&utm_medium=inkap&utm_campaign=gl3&utm_content=glppmnlk&utm_term=academy) • [购买](https://www.lttrink.com/zh/pricing-stroke-plugin-glyphs?utm_source=glppmn&utm_medium=inkap&utm_campaign=gl3&utm_content=glppmnlk&utm_term=purchase)";
+				};
+				screenshot = "https://raw.githubusercontent.com/lttrcorp/lttrink-for-glyphs-plugin-manager/glyphs3/lttrink-screenshot.png";
+			},
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
 		);
 		scripts = (
