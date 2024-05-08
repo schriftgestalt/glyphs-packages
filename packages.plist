@@ -3204,6 +3204,16 @@
 				};
 				screenshot = "https://raw.githubusercontent.com/lttrcorp/lttrink-for-glyphs-plugin-manager/glyphs3/lttrink-screenshot.png";
 			},
+			{
+				titles = {
+					en = "Export Variable Font with Automated Kern Axis";
+				};
+				url = "https://github.com/mekkablue/ExportVarWithKern";
+				path = "VariableWithKERN.glyphsFileFormat";
+				descriptions = {
+					en = "Exports variable fonts (set up in *Font Info > Exports*) with an automated KERN axis. Gives you a slider for fading out the kerning.";
+				};
+			},
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
 		);
 		scripts = (
