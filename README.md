@@ -4,7 +4,7 @@ Welcome to the Glyphs packages repository!
 This repository contains the index of plug-ins and scrips for the Plugin Manager.
 In Glyphs, open the Plugin Manager with *Window > Plugin Manager*.
 
-<img width="912" alt="Screenshot of the Plugin Manager window" src="images/Screenshot.png">
+<img width="896" alt="Screenshot of the Plugin Manager window" src="images/Screenshot.png">
 
 See the Glyphs Handbook for details on the [Plugin Manager](https://handbook.glyphsapp.com/plugin-manager/) and learn more about extensions in the [“Extending Glyphs” tutorial](https://glyphsapp.com/learn/extending-glyphs) ([Español](https://glyphsapp.com/es/learn/extending-glyphs), [Français](https://glyphsapp.com/fr/learn/extending-glyphs), [中文](https://glyphsapp.com/zh/learn/extending-glyphs)).
 
