@@ -11,10 +11,10 @@ See the Glyphs Handbook for details on the [Plugin Manager](https://handbook.gly
 If you have a plug-in or collection of scripts you want to share with the community, consider adding it to the `packages.plist` file in this repository and submitting a pull request.
 Feel free to ask on the [Glyphs Forum](https://forum.glyphsapp.com) if you have any questions.
 
-## Adding Plug-ins and Scripts Collections
+## Adding Plug-ins and Script Collections
 
 The index of plug-ins and scripts is stored in the `packages.plist` file.
-Add new plug-ins at the end of the `plugins = ( ... )` list and new scripts collections at the end of the `scripts = ( ... )` list.
+Add new plug-ins at the end of the `plugins = ( ... )` list and new script collections at the end of the `scripts = ( ... )` list.
 The entry is a “dictionary”, a list of key-value pairs.
 The required and optional keys are described below in detail.
 Place a comma (`,`) after your entry.
@@ -107,11 +107,11 @@ path = "Plugin/SomePlugin.glyphsPlugin";
 
 ### `installName` (string, only required for scripts)
 
-The name of the scripts collection in the *Script* menu in Glyphs.
-This is also the name of the folder in which the scripts collection will be installed in Glyphs “Scripts” folder, which you can view by choosing *Script > Open Scripts Folder*.
+The name of the script collection in the *Script* menu in Glyphs.
+This is also the name of the folder in which the script collection will be installed in Glyphs “Scripts” folder, which you can view by choosing *Script > Open Scripts Folder*.
 
-Make sure no other scripts collection is using the same `installName`.
-Typically, this is done by using your name or the name of our company:
+Make sure no other script collection is using the same `installName`.
+Typically, this is done by using your name or the name of your company:
 
 ```
 installName = "Some Name";
@@ -156,7 +156,7 @@ See the end of the `packages.plist` for a list of available modules.
 
 If you have a dependency for which there is currently no module, open a new issue on this repository or contact us on the [Glyphs Forum](https://forum.glyphsapp.com).
 
-You can also create your own module and depend on it from a plug-in or scripts collection.
+You can also create your own module and depend on it from a plug-in or script collection.
 This is useful if you share code across plug-ins or if you want to offer a Python module as part of your extension.
 
 ### `identifier` (string, optional)
