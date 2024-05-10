@@ -1,8 +1,8 @@
 # Glyphs Packages
 
-Welcome to the Glyphs package repository!
+Welcome to the Glyphs packages repository!
 This repository contains the index of plug-ins and scrips for the Plugin Manager.
-In Glyphs, open the Plugin Manager with *View > Plugin Manager*.
+In Glyphs, open the Plugin Manager with *Window > Plugin Manager*.
 
 <img width="912" alt="Screenshot of the Plugin Manager window" src="images/Screenshot.png">
 
