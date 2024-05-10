@@ -6,7 +6,7 @@ In Glyphs, open the Plugin Manager with *View > Plugin Manager*.
 
 <img width="912" alt="Screenshot of the Plugin Manager window" src="images/Screenshot.png">
 
-See the Glyphs Handbook for details on the [Plugin Manager](https://handbook.glyphsapp.com/plugin-manager/) and learn more extensions in the [“Extending Glyphs” tutorial](https://glyphsapp.com/learn/extending-glyphs) ([Español](https://glyphsapp.com/es/learn/extending-glyphs), [Français](https://glyphsapp.com/fr/learn/extending-glyphs), [中文](https://glyphsapp.com/zh/learn/extending-glyphs)).
+See the Glyphs Handbook for details on the [Plugin Manager](https://handbook.glyphsapp.com/plugin-manager/) and learn more about extensions in the [“Extending Glyphs” tutorial](https://glyphsapp.com/learn/extending-glyphs) ([Español](https://glyphsapp.com/es/learn/extending-glyphs), [Français](https://glyphsapp.com/fr/learn/extending-glyphs), [中文](https://glyphsapp.com/zh/learn/extending-glyphs)).
 
 If you have a plug-in or collection of scripts you want to share with the community, consider adding it to the `packages.plist` file in this repository and submitting a pull request.
 Feel free to ask on the [Glyphs Forum](https://forum.glyphsapp.com) if you have any questions.
