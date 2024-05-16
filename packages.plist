@@ -3225,6 +3225,9 @@
 				};
 			},
 			{
+				dependencies = (
+					vanilla
+				);
 				descriptions = {
 					en = "A window for quick access to your favourite Glyphs files. The bar graph in the _Relevance_ column shows how much time you spent on each file.";
 				};
