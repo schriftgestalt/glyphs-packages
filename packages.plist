@@ -3224,6 +3224,18 @@
 					en = "Export Variable TTFs using [fontc](https://github.com/googlefonts/fontc), Google Fonts' font compiler written in Rust.";
 				};
 			},
+			{
+				descriptions = {
+					en = "A window for quick access to your favourite Glyphs files. The bar graph in the _Relevance_ column shows how much time you spent on each file.";
+				};
+				donationURL = "https://ko-fi.com/jenskutilek";
+				path = Favourites.glyphsPlugin;
+				screenshot = "https://raw.githubusercontent.com/jenskutilek/Glyphs-Favourites/main/images/favourites.png";
+				titles = {
+					en = "Favourites";
+				};
+				url = "https://github.com/jenskutilek/Glyphs-Favourites";
+			},
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
 		);
 		scripts = (
