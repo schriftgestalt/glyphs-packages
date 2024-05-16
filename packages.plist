@@ -3229,7 +3229,7 @@
 					vanilla
 				);
 				descriptions = {
-					en = "A window for quick access to your favourite Glyphs files. The bar graph in the _Relevance_ column shows how much time you spent on each file.";
+					en = "A window for quick access to your favourite Glyphs files. The bar graph in the _Relevance_ column shows how much time you spent on each file. Drag files from Finder into the Favourites window to add them to the list, then double-click in the list to open the file.";
 				};
 				donationURL = "https://ko-fi.com/jenskutilek";
 				path = Favourites.glyphsPlugin;
