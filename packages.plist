@@ -3214,6 +3214,16 @@
 					en = "Exports variable fonts (set up in *Font Info > Exports*) with an automated KERN axis. Gives you a slider for fading out the kerning.";
 				};
 			},
+			{
+				titles = {
+					en = "Export with fontc";
+				};
+				url = "https://github.com/googlefonts/fontc-export-plugin";
+				path = "fontcExport.glyphsFileFormat";
+				descriptions = {
+					en = "Export Variable TTFs using [fontc](https://github.com/googlefonts/fontc), Google Fonts' font compiler written in Rust.";
+				};
+			},
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
 		);
 		scripts = (
