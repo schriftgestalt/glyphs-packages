@@ -3221,7 +3221,7 @@
 				url = "https://github.com/googlefonts/fontc-export-plugin";
 				path = "fontcExport.glyphsFileFormat";
 				descriptions = {
-					en = "Export Variable TTFs using [fontc](https://github.com/googlefonts/fontc), Google Fonts' font compiler written in Rust.";
+					en = "Export Variable TTFs using [fontc](https://github.com/googlefonts/fontc), Google Fonts' font compiler written in Rust. The compiler is not production-ready yet. Please follow development progress on the Github repository at <https://github.com/googlefonts/fontc>.";
 				};
 			},
 			{
