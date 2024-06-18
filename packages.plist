@@ -3242,6 +3242,18 @@
 				};
 				url = "https://github.com/jenskutilek/Glyphs-Favourites";
 			},
+			{
+				descriptions = {
+					en = "*Filter > Emboss* creates an embossed/beveled effect.";
+				};
+				donationURL = "https://ko-fi.com/mekkablue";
+				path = Emboss.glyphsFilter;
+				screenshot = "https://raw.githubusercontent.com/mekkablue/Emboss/main/Emboss.png";
+				titles = {
+					en = "Emboss";
+				};
+				url = "https://github.com/mekkablue/Emboss";
+			},
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
 		);
 		scripts = (
