@@ -2677,6 +2677,7 @@
 			},
 			{
 				dependencies = (
+					jkunicode,
 					vanilla
 				);
 				descriptions = {
@@ -3815,6 +3816,22 @@
 				};
 				url = "https://github.com/jenskutilek/jkGlyphsHelpers";
 				path = "lib/jkGlyphsHelpers";
+			},
+			{
+				identifier = jkunicode;
+				hidden = 1;
+				archs = (
+					intel,
+					arm,
+				);
+				descriptions = {
+					en = "jkUnicode contains Unicode and orthography data which is used by plugins dealing with codepoints and language support.";
+				};
+				titles = {
+					en = "jkUnicode";
+				};
+				url = "https://github.com/jenskutilek/jkUnicode";
+				path = "lib/jkUnicode";
 			},
 		);
 	};
