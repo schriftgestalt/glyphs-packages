@@ -3255,6 +3255,17 @@
 				};
 				url = "https://github.com/mekkablue/Emboss";
 			},
+			{
+				titles = {
+					en = "Typollipse";
+				};
+				url = "https://github.com/flachware/typollipse";
+				path = "Typollipse.glyphsPalette";
+				descriptions = {
+					en = "Palette for creating base curves with minimal curvature variation.";
+				};
+				screenshot = "https://raw.githubusercontent.com/flachware/typollipse/main/res/screenshot.png";
+			},
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
 		);
 		scripts = (
