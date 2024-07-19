@@ -3266,6 +3266,30 @@
 				};
 				screenshot = "https://raw.githubusercontent.com/flachware/typollipse/main/res/screenshot.png";
 			},
+			{
+				titles = {
+					en = "Proofing Tool";
+				};
+				url = "https://github.com/morisawausa/ProofingTool";
+				path = "ProofingTool.glyphsPlugin";
+				descriptions = {
+					en = "*File >  Proofing Tool* generates proofs in Waterfall or Paragraph layouts, ideal for comparison across the font family’s design space. Please refer to the [Readme](https://github.com/morisawausa/ProofingTool) for template formatting instructions. *Requires Vanilla and DrawBot.*";
+				};
+				screenshot = "https://raw.githubusercontent.com/morisawausa/ProofingTool/master/docs/sample_waterfall_edit.png";
+				dependencies = (vanilla, drawbot);
+				minVersion = 3062;
+			},
+			{
+				titles = {
+					en = "All Angles";
+				};
+				url = "https://github.com/morisawausa/AllAngles";
+				path = "AllAngles.glyphsReporter";
+				descriptions = {
+					en = "*View > Show All Angles* is a reporter that displays all angles of straight lines and (optionally) handles of the currently selected glyph.";
+				};
+				screenshot = "https://raw.githubusercontent.com/morisawausa/AllAngles/glyphs-3/Images/application-window.png";
+			},
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
 		);
 		scripts = (
@@ -3698,6 +3722,16 @@
 					en = "Naipe Foundry Scripts";
 				};
 				url = "https://github.com/naipefoundry/Naipe-Foundry-Glyphs-Scripts/";
+			},
+			{
+				descriptions = {
+					en = "A selection of scripts by Occupant Fonts";
+				};
+				installName = "Occupant Scripts";
+				titles = {
+					en = "Occupant Scripts";
+				};
+				url = "https://github.com/morisawausa/Glyphs-Scripts";
 			},
 			// *** INSERT NEW SCRIPTS ABOVE THIS LINE
 		);
