@@ -2681,7 +2681,7 @@
 					vanilla
 				);
 				descriptions = {
-					en = "*Window > Unicode Info:* shows a floating window with Unicode and orthography information about the currently selected glyph. It also shows which orthographies your font supports, and can add missing characters. Press the *Query* button to show information about the current glyph.";
+					en = "*Window > Unicode Info:* shows a floating window with Unicode and orthography information about the currently selected glyph. It also shows which orthographies your font supports, and can add missing characters.";
 				};
 				donationURL = "https://ko-fi.com/jenskutilek";
 				path = UnicodeInfo.glyphsPlugin;
