@@ -3290,6 +3290,17 @@
 				};
 				screenshot = "https://raw.githubusercontent.com/morisawausa/AllAngles/glyphs-3/Images/application-window.png";
 			},
+			{
+				title = {
+					en = "Export Proxy";
+				};
+				url = "https://github.com/jansindl3r/ExportProxy";
+				path = "ExportProxy.glyphsFileFormat";
+				description = {
+					en = "*Export Proxy* is a tool that exports fonts in .ttf, .otf & variable .ttf using chain of these Google font tools `glyphsLib`, `ufo2ft`, `fontmake`, `ufoLib2`";
+				};
+				screenshot = "https://raw.githubusercontent.com/jansindl3r/ExportProxy/main/ExportProxy.png";
+			}
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
 		);
 		scripts = (
