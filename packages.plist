@@ -3733,6 +3733,16 @@
 				};
 				url = "https://github.com/morisawausa/Glyphs-Scripts";
 			},
+			{
+				descriptions = {
+					en = "A collection of scripts by Jan Šindler";
+				};
+				installName = "Jan Sindler";
+				titles = {
+					en = "Jan Šindler's Scripts";
+				};
+				url = "https://github.com/jansindl3r/Glyphs-Scripts";
+			},
 			// *** INSERT NEW SCRIPTS ABOVE THIS LINE
 		);
 		modules = (
