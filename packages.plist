@@ -3735,7 +3735,7 @@
 			},
 			{
 				descriptions = {
-					en = "A collection of scripts by Jan Šindler";
+					en = "Scripts by Jan Šindler\n**Components**\n- *Copy Position & Settings of Smart Components:* Copies the position and settings of smart components from a selected glyph to other selected glyphs. You select input glyph and then select either one or more glyphs to paste the components to.\n- *Decompose components in selected glyphs by pattern:* Removes components from selected glyphs that match a regex pattern.\n- *Set Y position of components in selected glyphs* \n**Font**\n- *Check Italics Have Same Width:* Checks if glyphs on Italic, Slant or actually any other has the same width as their parent layer.\n- *yMin & yMax:* Gets lowest and highest Y values of all masters in the font.\n**Glyphs**\n- *Baseline Glyph:* Creates a glyph that shows the vertical metrics.\n- *Check Glyphs Width Against a Glyph:* Usecase: Check if all tabular numbers (`*.\.tf.*`) have the same width as zero.tf.\n- *Clear Backgrounds with Empty Components* \n- *Copy masters to Background* \n- *Glyphs with Transformed Components* \n- *Remove empty paths from selected glyphs:* Sometimes paths have 0 nodes\n- *Save Stroked Shapes to a Layer:* Saves the stroked shapes to a new layer with the suffix \".stroke-source\". If this layer already exists, it will be used to generate the master layer.\n- *Tab with open corner glyphs*";
 				};
 				installName = "Jan Sindler";
 				titles = {
