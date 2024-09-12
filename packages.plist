@@ -3325,7 +3325,7 @@
                 };
                 path = "ShowBopomofo.glyphsReporter";
                 donationURL = "https://ko-fi.com/yintzuyuan";
-                screenshot = "https://raw.githubusercontent.com/yintzuyuan/ShowBopomofo/main/ShowBopomofo.png";
+                screenshot = "https://raw.githubusercontent.com/yintzuyuan/ShowBopomofo/main/ShowBopomofo.gif";
                 minGlyphsVersion = "3.2.3";
                 minSystemVersion = "14.0";
             },
