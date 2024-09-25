@@ -656,7 +656,7 @@
 			{
 				descriptions = {
 					en = "*Filter > Retractor* (de: *Retraktor,* fr: *Retracteur,* es: *Retractor,* zh: 📐直线化) deletes (‘retracts’) all Bézier control points (a. k. a. BCPs, handles), making sure only straight line segments remain. This can be useful if you want to be certain that accidentally added curve segments are removed in designs where this is necessary, or when you want to simplify a vectorisation with many small curve segments.";
-					ru = "*Фильтр > Извлекатель*  удаляет («втягивает») все точки на кривой Безье (они же ВСР, рукоятки рычага), при этом остаются только сегменты прямых линий. Это уместно, если вы хотите быть уверены, что случайно добавленные сегменты кривых будут удалены в проектах, где это необходимо, или когда вы хотите упростить векторизацию с большим количеством небольших сегментов кривых.";
+					ru = "*Фильтр > Извлекатель* удаляет («втягивает») все точки на кривой Безье (они же ВСР, рукоятки рычага), при этом остаются только сегменты прямых линий. Это уместно, если вы хотите быть уверены, что случайно добавленные сегменты кривых будут удалены в проектах, где это необходимо, или когда вы хотите упростить векторизацию с большим количеством небольших сегментов кривых.";
 				};
 				path = Retractor.glyphsFilter;
 				screenshot = "https://raw.githubusercontent.com/mekkablue/Retractor/master/Retractor.png";
@@ -831,7 +831,7 @@
 			},
 			{
 				descriptions = {
-					en = "*View > Show Siblings* Superimposes a group of predefined glyphs in the background of your letters. This can be both pretty helpful in the beginning of a design as well as at intermediate progress where quick proof overview is needed. The degree of a desired match depends on each design, of course. Current Scripts: Latin, Greek, Cyrillic and »Twins« (glyph alternates like  *g.ss01* or  *g.alt.*";
+					en = "*View > Show Siblings* Superimposes a group of predefined glyphs in the background of your letters. This can be both pretty helpful in the beginning of a design as well as at intermediate progress where quick proof overview is needed. The degree of a desired match depends on each design, of course. Current Scripts: Latin, Greek, Cyrillic and »Twins« (glyph alternates like *g.ss01* or *g.alt.*";
 					ru = "*Просмотр > Показать «родственников»* накладывает группу определенных «родственных» глифов на фон ваших букв. Может пригодиться в начале работы над дизайном, так и на промежуточных этапах, когда требуется быстрый просмотр и проверка. Но степень желаемого совпадения, конечно, зависит от определенного дизайна шрифта. Текущие шрифты: Латинский, Греческий, Кириллица и глифы «близнецы» (альтернативные глифы, например *g.ss01* или *g.alt.*).";
 				};
 				donationURL = "https://ko-fi.com/M4M580HG";
@@ -1659,7 +1659,7 @@
 				);
 				descriptions = {
 					en = "*Collect-Hangul* lets you select or input Korean hangul characters easily by selecting consonants and vowels.\n\n**If it isn't installed on your device, you can install the paid script version at *LineGap's Script* on the *Scripts* tab. (The script version has more functionalities.)**";
-					ko = "*한글모으기*는 초성, 중성, 종성 자소 선택으로 한글을 쉽게  입력 및 선택할 수 있고, 선택된 결과를 저장할 수 있어 한글 폰트 제작에 매우 유용합니다.\n\n**플러그인이 설치가 안되면, *스크립트* 탭의 라인갭 스크립트(Linegap's Script)를 통해 스크립트(유료)을 이용하실 수 있습니다.(스크립트 버전은 보다 많은 기능들을 지원하고 있습니다.)**";
+					ko = "*한글모으기*는 초성, 중성, 종성 자소 선택으로 한글을 쉽게 입력 및 선택할 수 있고, 선택된 결과를 저장할 수 있어 한글 폰트 제작에 매우 유용합니다.\n\n**플러그인이 설치가 안되면, *스크립트* 탭의 라인갭 스크립트(Linegap's Script)를 통해 스크립트(유료)을 이용하실 수 있습니다.(스크립트 버전은 보다 많은 기능들을 지원하고 있습니다.)**";
 				};
 				path = CollectHangul.glyphsPlugin;
 				screenshot = "https://raw.githubusercontent.com/nanife/CollectHangul_Glyphs/master/mainView.png";
@@ -2497,7 +2497,7 @@
 				};
 				descriptions = {
 					en = "A plug-in for editing and exporting OpenType MATH table. _Edit → Edit MATH Constants..._ for editing font-level MATH table constants, _Glyph → Edit MATH Variants..._ for editing glyph-level MATH variants,
-  assembly, and extended shape flag, and _View → Show MATH Italic Correction_, _View → Show MATH Top Accent Position_, _View → Show MATH Cut-ins_ for showing various MATH positioning info.";
+ assembly, and extended shape flag, and _View → Show MATH Italic Correction_, _View → Show MATH Top Accent Position_, _View → Show MATH Cut-ins_ for showing various MATH positioning info.";
 				};
 				screenshot = "https://raw.githubusercontent.com/Nagwa-Limited-Community/Glyphs-MATH-Plugin/main/dialog-math-constants.png";
 				url = "https://github.com/Nagwa-Limited-Community/Glyphs-MATH-Plugin.git";
@@ -2916,9 +2916,9 @@
 				descriptions = {
 					en = "This plugin displays characters in a nine-box grid while editing, allowing users to easily adjust font size to maintain consistency through comparison with reference characters. Customizable reference characters and light/dark mode display are also available. Suitable for use in creating East Asian fonts. See GitHub page for more information.";
 					zh-Hant = "這個外掛能在九宮格中顯示編輯中的字符，讓使用者透過對照參考字，更輕鬆的調整字體大小使之維持一致。可自定義參考字符並提供亮暗模式顯示。適合在製作東亞字型時使用。更多相關訊息見 GitHub 頁面。";
-                    zh-Hans = "这个外挂能在九宫格中显示编辑中的字符，让使用者通过对照参考字，更轻松的调整字体大小使之维持一致。可自定义参考字符并提供亮暗模式显示。适合在制作东亚字型时使用。更多相关信息见 GitHub 页面。";
-                    ja = "このプラグインは、編集中の文字を九宮格のグリッドで表示し、ユーザーが文字のサイズを調整して、参照文字との比較により一貫性を維持しやすくします。参照文字のカスタマイズと明暗モードの表示も可能です。東アジアのフォントを作成する際に適しています。詳細は GitHub ページを参照してください。";
-                    ko = "이 플러그인은 편집 중인 문자를 아홉 칸 그리드로 표시하여 사용자가 참고 문자와의 비교를 통해 일관성을 유지하기 쉽게 합니다. 참고 문자의 사용자 정의 및 밝기/어두운 모드 표시도 가능합니다. 동아시아 글꼴을 제작할 때 적합합니다. 자세한 내용은 GitHub 페이지를 참조하세요.";
+					zh-Hans = "这个外挂能在九宫格中显示编辑中的字符，让使用者通过对照参考字，更轻松的调整字体大小使之维持一致。可自定义参考字符并提供亮暗模式显示。适合在制作东亚字型时使用。更多相关信息见 GitHub 页面。";
+					ja = "このプラグインは、編集中の文字を九宮格のグリッドで表示し、ユーザーが文字のサイズを調整して、参照文字との比較により一貫性を維持しやすくします。参照文字のカスタマイズと明暗モードの表示も可能です。東アジアのフォントを作成する際に適しています。詳細は GitHub ページを参照してください。";
+					ko = "이 플러그인은 편집 중인 문자를 아홉 칸 그리드로 표시하여 사용자가 참고 문자와의 비교를 통해 일관성을 유지하기 쉽게 합니다. 참고 문자의 사용자 정의 및 밝기/어두운 모드 표시도 가능합니다. 동아시아 글꼴을 제작할 때 적합합니다. 자세한 내용은 GitHub 페이지를 참조하세요.";
 				};
 				donationURL = "https://ko-fi.com/yintzuyuan";
 				screenshot = "https://github.com/yintzuyuan/NineBoxView/raw/main/NineBoxView_image1.png";
@@ -3114,7 +3114,7 @@
 					paddle
 				);
 				descriptions = {
-					en = "Script Deck is a virtual pad controller to hold and launch your favourite scripts with simple button clicks. No more script menu digging. No more shortcut memorizing. Highly customizable: set colors and icons, name your decks, etc.  \n\n[Plugin Page](https://markfromberg.com/projects/script-deck-3)  \n[Manual PDF](https://markfromberg.com/user/images/glyphs/plugins/Script%20Deck%20Manual.pdf)  \n\nTry it out and see that you cannot live without it.";
+					en = "Script Deck is a virtual pad controller to hold and launch your favourite scripts with simple button clicks. No more script menu digging. No more shortcut memorizing. Highly customizable: set colors and icons, name your decks, etc.\n\n[Plugin Page](https://markfromberg.com/projects/script-deck-3)\n[Manual PDF](https://markfromberg.com/user/images/glyphs/plugins/Script%20Deck%20Manual.pdf)\n\nTry it out and see that you cannot live without it.";
 				};
 				path = "Script Deck.glyphsPlugin";
 				screenshot = "https://markfromberg.com/user/images/glyphs/plugins/Script%20Deck%20PM%20Cover@1x.png";
@@ -3276,7 +3276,7 @@
 				url = "https://github.com/morisawausa/ProofingTool";
 				path = "ProofingTool.glyphsPlugin";
 				descriptions = {
-					en = "*File >  Proofing Tool* generates proofs in Waterfall or Paragraph layouts, ideal for comparison across the font family’s design space. Please refer to the [Readme](https://github.com/morisawausa/ProofingTool) for template formatting instructions. *Requires Vanilla and DrawBot.*";
+					en = "*File > Proofing Tool* generates proofs in Waterfall or Paragraph layouts, ideal for comparison across the font family’s design space. Please refer to the [Readme](https://github.com/morisawausa/ProofingTool) for template formatting instructions. *Requires Vanilla and DrawBot.*";
 				};
 				screenshot = "https://raw.githubusercontent.com/morisawausa/ProofingTool/master/docs/sample_waterfall_edit.png";
 				dependencies = (vanilla, drawbot);
@@ -3308,27 +3308,27 @@
 				screenshot = "https://raw.githubusercontent.com/mekkablue/AnchorComponents/main/AnchorComponents.png";
 			},
 			{
-                titles = {
-                    en = "Show Bopomofo";
-                    "zh-Hant" = "顯示注音符號";
-                    "zh-Hans" = "显示注音符号";
-                    ja = "注音符号を表示";
-                    ko = "주음부호 표시";
-                };
-                url = "https://github.com/yintzuyuan/ShowBopomofo";
-                descriptions = {
-                    en = "*View > Show Bopomofo* displays the corresponding Bopomofo (ㄅㄆㄇㄈ) when editing characters. This is particularly helpful when dealing with Chinese characters, as the character names are often not intuitive.";
-                    "zh-Hant" = "*顯示 > 顯示 注音符號* 在編輯字符時顯示對應的注音符號（ㄅㄆㄇㄈ）。這對於處理中文字符特別有幫助，因為字符名稱通常不太直觀。";
-                    "zh-Hans" = "*视图 > 显示注音符号* 在编辑字符时显示对应的注音符号（ㄅㄆㄇㄈ）。这对于处理中文字符特别有帮助，因为字符名称通常不太直观。";
-                    ja = "*表示 > 注音符号 を表示* 文字の編集時に対応する注音符号（ㄅㄆㄇㄈ）を表示します。漢字のグリフ名は直感的でないことが多いため、中国語の文字を扱う際に特に役立ちます。";
-                    ko = "*보기 > 주음부호 보기* 문자 편집 시 해당하는 주음부호（ㄅㄆㄇㄈ）를 표시합니다. 글리프 이름이 직관적이지 않은 경우가 많아 중국어 문자를 다룰 때 특히 유용합니다.";
-                };
-                path = "ShowBopomofo.glyphsReporter";
-                donationURL = "https://ko-fi.com/yintzuyuan";
-                screenshot = "https://raw.githubusercontent.com/yintzuyuan/ShowBopomofo/main/ShowBopomofo.gif";
-                minGlyphsVersion = "3.2.3";
-                minSystemVersion = "14.0";
-            },
+				titles = {
+					en = "Show Bopomofo";
+					"zh-Hant" = "顯示注音符號";
+					"zh-Hans" = "显示注音符号";
+					ja = "注音符号を表示";
+					ko = "주음부호 표시";
+				};
+				url = "https://github.com/yintzuyuan/ShowBopomofo";
+				descriptions = {
+					en = "*View > Show Bopomofo* displays the corresponding Bopomofo (ㄅㄆㄇㄈ) when editing characters. This is particularly helpful when dealing with Chinese characters, as the character names are often not intuitive.";
+					"zh-Hant" = "*顯示 > 顯示 注音符號* 在編輯字符時顯示對應的注音符號（ㄅㄆㄇㄈ）。這對於處理中文字符特別有幫助，因為字符名稱通常不太直觀。";
+					"zh-Hans" = "*视图 > 显示注音符号* 在编辑字符时显示对应的注音符号（ㄅㄆㄇㄈ）。这对于处理中文字符特别有帮助，因为字符名称通常不太直观。";
+					ja = "*表示 > 注音符号 を表示* 文字の編集時に対応する注音符号（ㄅㄆㄇㄈ）を表示します。漢字のグリフ名は直感的でないことが多いため、中国語の文字を扱う際に特に役立ちます。";
+					ko = "*보기 > 주음부호 보기* 문자 편집 시 해당하는 주음부호（ㄅㄆㄇㄈ）를 표시합니다. 글리프 이름이 직관적이지 않은 경우가 많아 중국어 문자를 다룰 때 특히 유용합니다.";
+				};
+				path = "ShowBopomofo.glyphsReporter";
+				donationURL = "https://ko-fi.com/yintzuyuan";
+				screenshot = "https://raw.githubusercontent.com/yintzuyuan/ShowBopomofo/main/ShowBopomofo.gif";
+				minGlyphsVersion = "3.2.3";
+				minSystemVersion = "14.0";
+			},
 			{
 				titles = {
 					en = "Wall Script";
@@ -3411,7 +3411,7 @@
 			},
 			{
 				descriptions = {
-					en = "- *Analyse Manuscript:* Calculates the minimal character set required for the pasted text. Ideal for starting a font for specific text (e. g. book).\n- *Batch Metric keys:* Applies the specified logic of metrics key to the selected glyphs.\n- *Copy Kerning Pairs:* Copies kerning patterns to another. It supports pair-to-pair and preset group copying.\n- *Copy kerning to Greek & Cyrillic:* Copies your Latin kerning to the common shapes of Greek and Cyrillic, including small caps, using predefined dictionary.Best  after finishing Latin kerning and before starting Cyrillic and Greek.\n- *Create .case alternate:* Duplicates selected glyphs but as components, giving them .case suffix and the sidebearings.\n- *Delete Diagonal Nodes Between Extremes:* Good for cleaning TTF curve. It removes Diagonal Node Between Extremes, after placing the current outline in the background.\n- *Display Unlocked Kerning Pairs:* Shows unlocked kerning pairs (exceptions) in the edit view.\n- *Duplicate Glyph with Component:* Duplicates selected glyphs but as components, giving them 001 suffix or above depending on availability.\n- *Export Glyph Annotations as PDF:* Generates Glyphs annotations as PDF on Desktop.\n- *Export InDesign Tagged Text with All Glyphs:* Saves InDesign tagged text file that contains all glyphs for typesetting a specimen, using glyph ID.\n- *Guideline Locker:* Locks selected guidelines and unlocks all global guidelines.\n- *Instance Slider:* Lets you define interpolation values of instances more graphically, using sliders and preview. Vanilla and Robofab required.\n- *Kerning Exception:* Makes an kerning exception of the current pair. Note: Current glyph is considered the RIGHT side of the glyph.\n- *Nudge-move by Numerical Value:* Nudge-moves selected nodes by the values specified in the window.\n- *Permutation Text Generator:* Outputs glyph permutation text for kerning.\n- *Rename Kerning Groups:* Lets you rename kerning names and pairs associated with them.\n- *Report Compatibility by Numbers:* Outputs path count, node count, anchor count etc. of selected glyphs in the Macro Window.\n- *Report Glyphs with Acute-angled Node:* Reports glyphs that have nodes with very acute angle (default: less than 15 degrees).\n- *Report Metrics Keys:* Reports possibly wrong keys. It reports non-existent glyphs in the keys, glyphs using different keys in each layer, and nested keys.\n- *Search Glyph In Class Features:* Searches glyphs in OpenType classes and features if they are used.\n- *Set Kerning Groups (Lat-Grk-Cyr):* Sets kerning groups. Groups Latin Greek and Cyrillic together. I advise you use Split Lat-Grk-Cyr Kerning script later.\n- *Split Lat-Grk-Cyr Kerning:* Splits kerning groups of LGC (Latin, Greek, Cyrillic) and reconstructs kerning accordingly. Kern once, split later.\n- *Sync Edit Views:* Refreshes the edit view contents of non-front files. Have multiple files open!\n- *Transform Images with Proper Maths:* Batch scale and move images in selected layers, using the maths you learned at school.\n- *Un-Round Corners:* Removes corners of outlines of the selected letters (current master only).";
+					en = "- *Analyse Manuscript:* Calculates the minimal character set required for the pasted text. Ideal for starting a font for specific text (e. g. book).\n- *Batch Metric keys:* Applies the specified logic of metrics key to the selected glyphs.\n- *Copy Kerning Pairs:* Copies kerning patterns to another. It supports pair-to-pair and preset group copying.\n- *Copy kerning to Greek & Cyrillic:* Copies your Latin kerning to the common shapes of Greek and Cyrillic, including small caps, using predefined dictionary.Best after finishing Latin kerning and before starting Cyrillic and Greek.\n- *Create .case alternate:* Duplicates selected glyphs but as components, giving them .case suffix and the sidebearings.\n- *Delete Diagonal Nodes Between Extremes:* Good for cleaning TTF curve. It removes Diagonal Node Between Extremes, after placing the current outline in the background.\n- *Display Unlocked Kerning Pairs:* Shows unlocked kerning pairs (exceptions) in the edit view.\n- *Duplicate Glyph with Component:* Duplicates selected glyphs but as components, giving them 001 suffix or above depending on availability.\n- *Export Glyph Annotations as PDF:* Generates Glyphs annotations as PDF on Desktop.\n- *Export InDesign Tagged Text with All Glyphs:* Saves InDesign tagged text file that contains all glyphs for typesetting a specimen, using glyph ID.\n- *Guideline Locker:* Locks selected guidelines and unlocks all global guidelines.\n- *Instance Slider:* Lets you define interpolation values of instances more graphically, using sliders and preview. Vanilla and Robofab required.\n- *Kerning Exception:* Makes an kerning exception of the current pair. Note: Current glyph is considered the RIGHT side of the glyph.\n- *Nudge-move by Numerical Value:* Nudge-moves selected nodes by the values specified in the window.\n- *Permutation Text Generator:* Outputs glyph permutation text for kerning.\n- *Rename Kerning Groups:* Lets you rename kerning names and pairs associated with them.\n- *Report Compatibility by Numbers:* Outputs path count, node count, anchor count etc. of selected glyphs in the Macro Window.\n- *Report Glyphs with Acute-angled Node:* Reports glyphs that have nodes with very acute angle (default: less than 15 degrees).\n- *Report Metrics Keys:* Reports possibly wrong keys. It reports non-existent glyphs in the keys, glyphs using different keys in each layer, and nested keys.\n- *Search Glyph In Class Features:* Searches glyphs in OpenType classes and features if they are used.\n- *Set Kerning Groups (Lat-Grk-Cyr):* Sets kerning groups. Groups Latin Greek and Cyrillic together. I advise you use Split Lat-Grk-Cyr Kerning script later.\n- *Split Lat-Grk-Cyr Kerning:* Splits kerning groups of LGC (Latin, Greek, Cyrillic) and reconstructs kerning accordingly. Kern once, split later.\n- *Sync Edit Views:* Refreshes the edit view contents of non-front files. Have multiple files open!\n- *Transform Images with Proper Maths:* Batch scale and move images in selected layers, using the maths you learned at school.\n- *Un-Round Corners:* Removes corners of outlines of the selected letters (current master only).";
 				};
 				installName = "Toshi Omagari";
 				titles = {
@@ -3711,7 +3711,7 @@
 					zh-Hant = "殷慈遠的腳本集";
 				};
 				url = "https://github.com/yintzuyuan/Glyphs_Scripts";
-                dependencies = (
+				dependencies = (
 					vanilla
 				);
 			},
