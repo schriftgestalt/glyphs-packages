@@ -3336,7 +3336,7 @@
 				url = "https://github.com/RezaBohloul/Wall-Script";
 				path = "Wall Script.glyphsPlugin";
 				descriptions = {
-					en = "You do not need memorize too much shortcut for favorite scripts, just define shortcut for wall script like and use it instead of all shortcut. After installation, you will never imagine working without it. Upon installation, you will locate Wall Script in the window menu";
+					en = "You do not need memorize too much shortcut for favorite scripts, just define shortcut for wall script and use it instead of all shortcut. After installation, you will never imagine working without it. Upon installation, you will locate Wall Script in the window menu";
 				};
 				screenshot = "https://raw.githubusercontent.com/RezaBohloul/Wall-Script/main/Image/Wall%20Script.png";
 			},
