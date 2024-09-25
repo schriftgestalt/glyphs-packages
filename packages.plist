@@ -2391,18 +2391,15 @@
 				minVersion = 3091;
 			},
 			{
-				archs = (
-					intel
-				);
 				descriptions = {
 					en = "*View > Show LT Global Background* displays the outline of a selected glyph in the background, similar to the *Global Mask* functionality in Fontlab V.";
 				};
-				path = "LT-Global-Background.glyphsReporter";
+				path = "LDGlobalBackground.glyphsReporter";
 				titles = {
 					en = "Leedotype Global Background";
 				};
-				url = "https://github.com/Leedotype/global-background";
-				screenshot = "https://raw.githubusercontent.com/Leedotype/global-background/main/images/screenshot.png";
+				url = "https://github.com/Leedotype/LDGlobalBackground";
+				screenshot = "https://raw.githubusercontent.com/Leedotype/LDGlobalBackground/main/images/screenshot.png";
 			},
 			{
 				descriptions = {
