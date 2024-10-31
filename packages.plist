@@ -3340,7 +3340,17 @@
 				};
 				screenshot = "https://raw.githubusercontent.com/RezaBohloul/Wall-Script/main/Image/Wall%20Script.png";
 			},
-
+			{
+				titles = {
+					en = "Text Sequencer";
+				};
+				url = "https://github.com/RafalBuchner/TextSequencer";
+				path = "TextSequencer.glyphsPalette";
+				descriptions = {
+					en = "A plugin that helps in generating spacing/kerning sequence strings in the glyph edit window.";
+				};
+				screenshot = "https://raw.githubusercontent.com/RafalBuchner/TextSequencer/refs/heads/main/header.png";
+			},
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
 		);
 		scripts = (
