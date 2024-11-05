@@ -2391,9 +2391,6 @@
 				minVersion = 3091;
 			},
 			{
-				archs = (
-					intel
-				);
 				descriptions = {
 					en = "*View > Show LT Global Background* displays the outline of a selected glyph in the background, similar to the *Global Mask* functionality in Fontlab V.";
 				};
