@@ -2023,7 +2023,7 @@
 			},
 			{
 				descriptions = {
-					en = "*View > Show Kinks* will highlight the nodes that may produce kinks in yellow. When you select it, it will tell you the angle between the handles and their proportions. If any one of the values match the other masters (becoming light gray), a kink will not happen.";
+					en = "*View > Show Kinks* will highlight the nodes that may produce kinks in yellow. When you select it, it will tell you the angle between the handles and their proportions. If any one of the values match the other masters (becoming light gray), a kink will not happen. (This plug-in was formerly known as *Show Smooth Node Angle and Proportion.*)";
 				};
 				path = "ShowKinks.glyphsReporter";
 				screenshot = "https://raw.githubusercontent.com/harbortype/ShowSmoothNodeAngleAndProportion/master/images/preview.png";
