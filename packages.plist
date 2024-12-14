@@ -2584,7 +2584,7 @@
 				url = "https://github.com/slobzheninov/ConvertCase";
 				path = "ConvertCase.glyphsPalette";
 				descriptions = {
-					en = "Palette plugin that converts case (UPPER CASE, Title Case, lower case) in the current tab. Converts only the selected text (if any) or the whole text (if nothing is selected).";
+					en = "Palette plugin that converts case (UPPER CASE, Title Case, lower case) in the current tab. Converts only the selected text (if any) or the whole text (if nothing is selected). ";
 				};
 				screenshot = "https://user-images.githubusercontent.com/60325634/152044080-39e1115b-612b-4660-9020-3bc35b81be5d.png";
 			},
@@ -2599,7 +2599,7 @@
 				url = "https://github.com/mekkablue/DuplicateNodes";
 				path = "DuplicateNodes.glyphsFilter";
 				descriptions = {
-					en = "*Filter > Duplicate Nodes* (*en:* Duplicate Nodes, *de:* Punkte verdoppeln, *fr:* Dupliquer nœuds, *es:* Duplicar nodos, *pt:* Duplicar nodos) is a Glyphs.app filter for duplicating selected on-curve nodes in place.";
+					en = "*Filter > Duplicate Nodes* (*en:* Duplicate Nodes, *de:* Punkte verdoppeln, *fr:* Dupliquer nœuds, *es:* Duplicar nodos, *pt:* Duplicar nodos) is a Glyphs.app filter for duplicating selected on-curve nodes in place. Hold down **Opt** to duplicate the same nodes in all (compatible) masters. Hold down **Shift** to add the new nodes not exactly on top, but with 1u distance (will change the following segment slightly).";
 				};
 				screenshot = "https://raw.githubusercontent.com/mekkablue/DuplicateNodes/main/DuplicateNodes.png";
 			},
