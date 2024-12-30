@@ -2339,7 +2339,7 @@
 			},
 			{
 				descriptions = {
-					en = "*Filter > Green Harmony* (de: *Grüne Harmonie,* fr: *Harmonie verte,* es: *Armonía verde,* cs: *Zelená harmonie,* pt: *Harmonia verde,* jp: 緑の調和, ko: 녹색 조화, zh: 绿色和谐) moves selected green on-curve nodes to their G2 position, creating a harmonized transition from one curve segment to the next. Or *all* green nodes if none are selected.";
+					en = "*Filter > Green Harmony* (de: *Grüne Harmonie,* fr: *Harmonie verte,* es: *Armonía verde,* cs: *Zelená harmonie,* pt: *Harmonia verde,* jp: 緑の調和, ko: 녹색 조화, zh: 绿色和谐) moves selected green on-curve nodes to their G2 position, creating a harmonized transition from one curve segment to the next. Or *all* green nodes if none are selected. Hold down Opt to harmonize on all masters.";
 				};
 				path = "GreenHarmony.glyphsFilter";
 				screenshot = "https://raw.githubusercontent.com/slobzheninov/GreenHarmony/main/GreenHarmonyScreenshot.png";
@@ -2928,7 +2928,7 @@
 					en = "Master Stepper";
 				};
 				descriptions = {
-					en = "Palette for stepping through your glyphs, while displaying all masters at once.";
+					en = "Palette for stepping through your glyphs, while displaying all masters at once. Hold down Shift to step only through glyphs currently displayed in Font view. Hold down Opt one line for each master, followed by all composites with the glyph. Hold down Ctrl to go to step to the next glyph in the current tab content.";
 				};
 				screenshot = "https://raw.githubusercontent.com/mekkablue/MasterStepper/main/MasterStepper.png";
 				url = "https://github.com/mekkablue/MasterStepper";
