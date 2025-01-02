@@ -3326,17 +3326,17 @@
 				minGlyphsVersion = "3.2.3";
 				minSystemVersion = "14.0";
 			},
-			{
-				titles = {
-					en = "Wall Script";
-				};
-				url = "https://github.com/RezaBohloul/Wall-Script";
-				path = "Wall Script.glyphsPlugin";
-				descriptions = {
-					en = "You do not need memorize too much shortcut for favorite scripts, just define shortcut for wall script and use it instead of all shortcut. You will never imagine working without it. Upon installation, you will locate Wall Script in the window menu";
-				};
-				screenshot = "https://raw.githubusercontent.com/RezaBohloul/Wall-Script/main/Image/Wall%20Script.png";
-			},
+			// {
+			// 	titles = {
+			// 		en = "Wall Script";
+			// 	};
+			// 	url = "https://github.com/RezaBohloul/Wall-Script";
+			// 	path = "Wall Script.glyphsPlugin";
+			// 	descriptions = {
+			// 		en = "You do not need memorize too much shortcut for favorite scripts, just define shortcut for wall script and use it instead of all shortcut. You will never imagine working without it. Upon installation, you will locate Wall Script in the window menu";
+			// 	};
+			// 	screenshot = "https://raw.githubusercontent.com/RezaBohloul/Wall-Script/main/Image/Wall%20Script.png";
+			// },
 			{
 				titles = {
 					en = "Text Sequencer";
