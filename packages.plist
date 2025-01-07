@@ -2051,11 +2051,11 @@
 					en = "*View > Show Fill Background Path* is a simple Reporter plugin that fills the background path of the selected glyph with a semi-transparent \"non-photo blue\" color (#a4dded).";
 				};
 				path = FillBackgroundPath.glyphsReporter;
-				screenshot = "https://raw.githubusercontent.com/markmonroy/FillBackgroundPath/master/FillBackgroundPath.png";
+				screenshot = "https://raw.githubusercontent.com/schriftgestalt/FillBackgroundPath/master/FillBackgroundPath.png";
 				titles = {
 					en = "Fill Background Path";
 				};
-				url = "https://github.com/markmonroy/FillBackgroundPath";
+				url = "https://github.com/schriftgestalt/FillBackgroundPath";
 			},
 			{
 				descriptions = {
