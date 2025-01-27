@@ -3869,6 +3869,7 @@
 				url = "https://github.com/schriftgestalt/vanilla";
 			},
 			{
+				branch = python3;
 				descriptions = {
 					en = "A Python library with objects that deal with data usually associated with fonts and type design.";
 					ru = "Библиотека Python с объектами, связанными с шрифтами и тайп дизайном.";
