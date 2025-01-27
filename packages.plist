@@ -3348,6 +3348,21 @@
 				};
 				screenshot = "https://raw.githubusercontent.com/RafalBuchner/TextSequencer/refs/heads/main/header.png";
 			},
+			{
+				titles = {
+					en = "Realign Handles";
+					de = "Anfasser neu ausrichten";
+					fr = "Realigner poignées";
+					es = "Realinear manejadores";
+				};
+				url = "https://github.com/mekkablue/RealignHandles";
+				path = "RealignHandles.glyphsFilter";
+				descriptions = {
+					en = "*Filter > Realign Handles* fixes interpolation kinks by realigning handles next to (green) curve nodes. Hold down Opt key for applying to all master layers at once, or use as *Filter* parameter with value `RealignHandles` in *Font Info > Exports* for auto-fixing kinks static exports.";
+				};
+				screenshot = "https://raw.githubusercontent.com/mekkablue/RealignHandles/main/RealignHandles.png";
+			},
+			
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
 		);
 		scripts = (
