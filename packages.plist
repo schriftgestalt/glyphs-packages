@@ -3317,15 +3317,13 @@
 				descriptions = {
 					en = "*View > Show Bopomofo* displays the corresponding Bopomofo (ㄅㄆㄇㄈ) when editing characters. This is particularly helpful when dealing with Chinese characters, as the character names are often not intuitive.";
 					"zh-Hant" = "*顯示 > 顯示 注音符號* 在編輯字符時顯示對應的注音符號（ㄅㄆㄇㄈ）。這對於處理中文字符特別有幫助，因為字符名稱通常不太直觀。";
-					"zh-Hans" = "*视图 > 显示注音符号* 在编辑字符时显示对应的注音符号（ㄅㄆㄇㄈ）。这对于处理中文字符特别有帮助，因为字符名称通常不太直观。";
+					"zh-Hans" = "*视图 > 显示 注音符号* 在编辑字符时显示对应的注音符号（ㄅㄆㄇㄈ）。这对于处理中文字符特别有帮助，因为字符名称通常不太直观。";
 					ja = "*表示 > 注音符号 を表示* 文字の編集時に対応する注音符号（ㄅㄆㄇㄈ）を表示します。漢字のグリフ名は直感的でないことが多いため、中国語の文字を扱う際に特に役立ちます。";
 					ko = "*보기 > 주음부호 보기* 문자 편집 시 해당하는 주음부호（ㄅㄆㄇㄈ）를 표시합니다. 글리프 이름이 직관적이지 않은 경우가 많아 중국어 문자를 다룰 때 특히 유용합니다.";
 				};
 				path = "ShowBopomofo.glyphsReporter";
 				donationURL = "https://ko-fi.com/yintzuyuan";
 				screenshot = "https://raw.githubusercontent.com/yintzuyuan/ShowBopomofo/main/ShowBopomofo.gif";
-				minGlyphsVersion = "3.2.3";
-				minSystemVersion = "14.0";
 			},
 			// {
 			// 	titles = {
