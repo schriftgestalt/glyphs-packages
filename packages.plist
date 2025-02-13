@@ -3850,6 +3850,16 @@
 				};
 				url = "https://github.com/RezaBohloul/RezaBohloul";
 			 },
+ 			{
+ 				descriptions = {
+ 					en = "Collection of scripts designed to streamline workflows, by Uruguayan foundry Reset Type Studio.";
+ 				};
+ 				installName = "Reset Type";
+ 				titles = {
+ 					en = "Scripts by Reset Type Studio";
+ 				};
+ 				url = "https://github.com/Reset-Type-Studio/Glyphs-Scripts";
+ 			 },
 			// *** INSERT NEW SCRIPTS ABOVE THIS LINE
 		);
 		modules = (
