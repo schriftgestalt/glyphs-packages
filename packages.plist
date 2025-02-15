@@ -3384,6 +3384,18 @@
 				);
 				screenshot = "https://formkunft.com/glyphs/plugins/light-table/screenshot.png";
 			},
+			{
+				titles = {
+					en = "Angularize";
+				};
+				url = "https://github.com/mekkablue/Angularize";
+				path = "Angularize.glyphsFilter";
+				descriptions = {
+					en = "*Filter > Angularize* subdivides curves into straight line segments.";
+				};
+				screenshot = "https://raw.githubusercontent.com/mekkablue/Angularize/main/Angularize.png";
+			},
+			
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
 		);
 		scripts = (
