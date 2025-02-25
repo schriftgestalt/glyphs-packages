@@ -119,7 +119,7 @@ installName = "Some Name";
 
 ### `screenshot` (string, optional)
 
-An URL to a image illustrating the use case of the extension.
+A URL to an image illustrating the use case of the extension.
 
 ### `branch` (string, optional)
 
@@ -162,8 +162,8 @@ This is useful if you share code across plug-ins or if you want to offer a Pytho
 ### `identifier` (string, optional)
 
 The internal identifier that Glyphs uses.
-It may not contain the characters `<`, `>`, or `/` and must be less then 50 characters in length.
-In general, it best to just use the characters `a`-`z`, `A`-`Z`, `0`-`9`, `-`, and `_`.
+It may not contain the characters `<`, `>`, or `/` and must be less than 50 characters in length.
+In general, it is best to just use the characters `a`-`z`, `A`-`Z`, `0`-`9`, `-`, and `_`.
 
 This is mostly used by modules so that they can be included as dependencies.
 The identifier is also useful for plug-ins to provide a short ID that can be used for Glyph’s deep links:
@@ -185,7 +185,7 @@ If no `identifier` is set, the deep links use the URL-encoded `"en"` title inste
 
 ### `archs` (list of strings, optional)
 
-If the extension works only with ARM (Apple silicon: M1, M2, …) or Intel (x86) processors, specify either `arm` or `intel`:
+If the extension works only with ARM (Apple Silicon: M1, M2, …) or Intel (x86) processors, specify either `arm` or `intel`:
 
 ```
 archs = (arm);
@@ -228,7 +228,7 @@ Plug-in:
 		minVersion = 895;
 	},
 
-Outdated plug-in that is only shown in older version of Glyphs:
+Outdated plug-in that is only shown in older versions of Glyphs:
 
 	{
 		titles = {
