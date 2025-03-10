@@ -1335,7 +1335,7 @@
 					en = "Allows one to rotate the currently-selected glyph to preview it from multiple angles";
 				};
 				path = RotateView.glyphsPlugin;
-				screenshot = "https://github.com/aaronbell/RotateView/raw/master/RotateView-1.png";
+				screenshot = "https://github.com/aaronbell/RotateView/raw/master/RotateView-2.png";
 				titles = {
 					en = "Rotate View";
 				};
