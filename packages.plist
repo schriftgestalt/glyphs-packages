@@ -3395,7 +3395,18 @@
 				};
 				screenshot = "https://raw.githubusercontent.com/mekkablue/Angularize/main/Angularize.png";
 			},
-			
+			{
+				titles = {
+					en = "Groups Shelf";
+				};
+				url = "https://github.com/pkolchanov/GroupsShelf";
+				path = "GroupsShelf.glyphsPlugin";
+				descriptions = {
+					en = "*Window > Groups Shelf* is a kerning group manager. Visualise and manage kerning groups. Rename groups while copying kerning values. Automatically add missing composites. [Learn more](https://github.com/pkolchanov/GroupsShelf)";
+				};
+				identifier = "groups-shelf";
+				screenshot = "https://raw.githubusercontent.com/pkolchanov/GroupsShelf/main/img/PluginManagerScreenshot.png";
+			},
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
 		);
 		scripts = (
