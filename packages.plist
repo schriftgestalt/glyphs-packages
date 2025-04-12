@@ -412,7 +412,7 @@
 				description = "*Filter > Trace Image* is a plugin to trace bitmap images into editable paths. You can choose between the [porace](http://potrace.sourceforge.net) and the [autotrace](http://autotrace.sourceforge.net) algorithm.";
 			},
 			{
-				name = "SpeedPunk.glyphsReporter";
+				name = "SpeedPunk_py.glyphsReporter";
 				title = "Speed Punk";
 				url = "https://github.com/yanone/speedpunk";
 				description = "Understand and improve your outlines with this curvature comb visualization.";
