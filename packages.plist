@@ -3377,7 +3377,7 @@
 					en = "Light Table provides a rich set of tools and visualizations for managing your font projects. It’s built on top of Git. That means that your notes, sketch files, and Python scripts can be part of your project’s version history, too. Deeply integrated into Glyphs, Light Table’s features are always at your fingertips. And for custom needs, there is an extensive Python API. Learn more on the [Light Table website](https://formkunft.com/light-table/).";
 					it = "Tavolo Luminoso è un plugin per gestire il controllo di versione con Git direttamente in Glyphs.";
 					zh-Hans = "透写台是一款协助您在 Glyphs 中使用 Git 进行版本管理的插件。";
-					zh-Hant = "透寫台提供豐富的工具和視覺化功能來管理您的字型專案。它以 Git 為基礎建構。這表示您的筆記、草圖檔案和 Python 指令碼也可以成為專案版本歷史的一部分。深度整合到 Glyphs 中，透寫台的功能隨時可用。若有自訂需求，還提供完整的 Python API。在 [透寫台網站](https://formkunft.com/light-table/) 了解更多。";
+					zh-Hant = "透寫台提供豐富的工具和視覺化功能來管理您的字型專案。它以 Git 為基礎建構。這表示您的筆記、草圖檔案和 Python 腳本也可以成為專案版本歷史的一部分。深度整合到 Glyphs 中，透寫台的功能隨時可用。若有自訂需求，還提供完整的 Python API。在 [透寫台網站](https://formkunft.com/light-table/) 了解更多。";
 				};
 				minGlyphsVersion = "3.3";
 				minSystemVersion = "12";
