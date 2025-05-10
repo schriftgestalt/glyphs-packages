@@ -3357,7 +3357,7 @@
 				url = "https://github.com/mekkablue/RealignHandles";
 				path = "RealignHandles.glyphsFilter";
 				descriptions = {
-					en = "*Filter > Realign Handles* fixes interpolation kinks by realigning handles next to (green) curve nodes. Hold down Opt key for applying to all master layers at once, or use as *Filter* parameter with value `RealignHandles` in *Font Info > Exports* for auto-fixing kinks static exports.";
+					en = "*Filter > Realign Handles* fixes interpolation kinks by realigning handles next to (green) curve nodes. Hold down Opt key for applying to all master layers at once, or use as *PreFilter* parameter with value `RealignHandles` in *Font Info > Exports* for auto-fixing kinks in static exports.";
 				};
 				screenshot = "https://raw.githubusercontent.com/mekkablue/RealignHandles/main/RealignHandles.png";
 			},
