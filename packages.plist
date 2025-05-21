@@ -3409,6 +3409,17 @@
 				identifier = "groups-shelf";
 				screenshot = "https://raw.githubusercontent.com/pkolchanov/GroupsShelf/main/img/PluginManagerScreenshot.png";
 			},
+			{
+				titles = {
+					en = "Highlight Imprecise Italic Angle";
+				};
+				url = "https://github.com/michaelrafailyk/HighlightImpreciseItalicAngle";
+				descriptions = {
+					en = "Highlights the path segments which angle is not precise to master's Italic Angle and is within observed angle range (±10 degrees around Italic Angle). Also it adds dots around the nodes to indicate the horizontal direction of node movement for angle correction.";
+				};
+				path = "HighlightImpreciseItalicAngle.glyphsReporter";
+				screenshot = "https://raw.githubusercontent.com/michaelrafailyk/HighlightImpreciseItalicAngle/master/HighlightImpreciseItalicAngle.gif";
+			},
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
 		);
 		scripts = (
