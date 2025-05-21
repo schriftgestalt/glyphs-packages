@@ -28,7 +28,7 @@ Here is an example:
 	url = "https://github.com/example/some-plugin";
 	path = "SomePlugin.glyphsPlugin";
 	descriptions = {
-		en = "Some short description."
+		en = "Some short description.";
 	};
 },
 ```
