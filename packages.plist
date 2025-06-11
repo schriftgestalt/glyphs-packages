@@ -3420,6 +3420,21 @@
 				path = "HighlightImpreciseItalicAngle.glyphsReporter";
 				screenshot = "https://raw.githubusercontent.com/michaelrafailyk/HighlightImpreciseItalicAngle/master/PreviewStatic.png";
 			},
+			{
+				dependencies = (
+					fontTools
+				);
+				descriptions = {
+					en = "*Corretto* is a versatile post-processing plugin that fine-tunes and fixes up your fonts each time you export them. Developers can add their own post-processing plugins to Corretto.";
+				};
+				donationURL = "https://ko-fi.com/jenskutilek";
+				minGlyphsVersion = "3.1";
+				path = Corretto.glyphsPlugin;
+				titles = {
+					en = "Corretto Post-Processor";
+				};
+				url = "https://github.com/jenskutilek/CorrettoPlugin";
+			},
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
 		);
 		scripts = (
