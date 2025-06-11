@@ -3425,7 +3425,7 @@
 					fontTools
 				);
 				descriptions = {
-					en = "*Corretto* is a versatile post-processing plugin that fine-tunes and fixes up your fonts each time you export them. Developers can add their own post-processing plugins to Corretto.";
+					en = "*Corretto* is a versatile post-processing plugin that fine-tunes and fixes up your fonts each time you export them. Developers can add their own post-processing plugins to Corretto. Documentation: <https://corretto.kutilek.de/>";
 				};
 				donationURL = "https://ko-fi.com/jenskutilek";
 				minGlyphsVersion = "3.1";
