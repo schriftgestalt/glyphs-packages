@@ -3323,7 +3323,7 @@
 				};
 				path = "ShowChinesePhonetics.glyphsReporter";
 				donationURL = "https://ko-fi.com/yintzuyuan";
-				screenshot = "https://github.com/yintzuyuan/ShowChinesePhonetics/raw/main/ShowChinesePhonetics.png";
+				screenshot = "https://raw.githubusercontent.com/yintzuyuan/ShowBopomofo/main/ShowBopomofo.gif";
 			},
 			// {
 			// 	titles = {
