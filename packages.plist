@@ -3315,11 +3315,11 @@
 				};
 				url = "https://github.com/yintzuyuan/ShowChinesePhonetics";
 				descriptions = {
-					en = "*View > Show Chinese Phonetics* displays the corresponding Chinese phonetics when editing characters. This is particularly helpful when dealing with Chinese characters, as the character names are often not intuitive.";
-					"zh-Hant" = "*顯示 > 顯示 漢語發音* 在編輯字符時顯示對應的漢語發音。這對於處理中文字符特別有幫助，因為字符名稱通常不太直觀。";
-					"zh-Hans" = "*视图 > 显示 汉语发音* 在编辑字符时显示对应的汉语发音。这对于处理中文字符特别有帮助，因为字符名称通常不太直观。";
-					ja = "*表示 > 中国語発音 を表示* 文字の編集時に対応する中国語発音を表示します。漢字のグリフ名は直感的でないことが多いため、中国語の文字を扱う際に特に役立ちます。";
-					ko = "*보기 > 중국어 발음을 표시* 문자 편집 시 해당하는 중국어 발음을 표시합니다. 글리프 이름이 직관적이지 않은 경우가 많아 중국어 문자를 다룰 때 특히 유용합니다.";
+                    en = "*View > Show Chinese Phonetics* displays the corresponding Chinese phonetics when editing characters. You can switch between three displaymodes via the context menu (right-click): Bopomofo, Pinyin (tone marks), and Pinyin (numbers). This is particularly helpful for Chinese characters, whose glyph names are often not intuitive.";
+                    "zh-Hant" = "*顯示 > 顯示 漢語發音* 在編輯字符時顯示對應的漢語發音，並可以透過右鍵選單切換三種顯示模式：注音符號、漢語拼音（聲調符號）及漢語拼音（數字）。這對於處理中文字符特別有幫助，因為字符名稱通常不太直觀。";
+                    "zh-Hans" = "*视图 > 显示 汉语发音* 在编辑字符时显示对应的汉语发音，并可以通过右键菜单切换三种显示模式：注音符号、汉语拼音（声调符号）及汉语拼音（数字）。这对于处理中文字符特别有帮助，因为字符名称通常不太直观。";
+                    ja = "*表示 > 中国語発音 を表示* 文字の編集時に対応する中国語発音を表示します。右クリックメニューで3つの表示モード（注音符号、ピンイン（声調記号）、ピンイン（数字声調））を切り替えることができます。漢字のグリフ名は直感的でないことが多いため、中国語の文字を扱う際に特に役立ちます。";
+                    ko = "*보기 > 중국어 발음을 표시* 문자 편집 시 해당하는 중국어 발음을 표시하며, 오른쪽 클릭 메뉴를 통해 주음 부호, 한어 병음(성조 부호), 한어 병음(숫자)의 세 가지 표시 모드를 전환할 수 있습니다. 글리프 이름이 직관적이지 않은 경우가 많아 중국어 문자를 다룰 때 특히 유용합니다.";
 				};
 				path = "ShowChinesePhonetics.glyphsReporter";
 				donationURL = "https://ko-fi.com/yintzuyuan";
