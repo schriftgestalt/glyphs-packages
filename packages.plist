@@ -3313,7 +3313,7 @@
 					ja = "中国語発音を表示";
 					ko = "중국어 발음을 표시";
 				};
-				url = "https://github.com/yintzuyuan/ShowChinesePhonetics";
+				url = "https://github.com/yintzuyuan/ShowBopomofo";
 				descriptions = {
                     en = "*View > Show Chinese Phonetics* displays the corresponding Chinese phonetics when editing characters. You can switch between three displaymodes via the context menu (right-click): Bopomofo, Pinyin (tone marks), and Pinyin (numbers). This is particularly helpful for Chinese characters, whose glyph names are often not intuitive.";
                     "zh-Hant" = "*顯示 > 顯示 漢語發音* 在編輯字符時顯示對應的漢語發音，並可以透過右鍵選單切換三種顯示模式：注音符號、漢語拼音（聲調符號）及漢語拼音（數字）。這對於處理中文字符特別有幫助，因為字符名稱通常不太直觀。";
