@@ -19,14 +19,14 @@
 					zh-Hans = "拆字小组";
 				};
 				url = "https://github.com/3type/EOD";
-				path = "Plugins/Plugin-Palette/EOD.glyphsPalette";
+				path = "EOD.glyphsPalette";
 				descriptions = {
-					en = "EOD is a Glyphs 3 palette designed to improve the efficiency of Chinese font designers. Provides easy-to-use glyph disassembly and analysis functions. See [the repository readme](https://github.com/3type/EOD/tree/master/Plugins/Plugin-Palette) for details.";
-					ru = "EOD—это палитра Glyphs 3, разработанная для удобства работы дизайнеров китайских шрифтов. Предоставляет простые в использовании функции разборки и анализа глифов. Подробности см. в [readme репозитория](https://github.com/3type/EOD/tree/master/Plugins/Plugin-Palette).";
-					zh-Hans = "对CJK字符元素快速拆解及分析。 [获取详情](https://github.com/3type/EOD/tree/master/Plugins/Plugin-Palette)";
+					en = "EOD is a Glyphs 3 palette designed to improve the efficiency of Chinese font designers. Provides easy-to-use glyph disassembly and analysis functions. See [the repository readme](https://github.com/3type/EOD/) for details.";
+					ru = "EOD—это палитра Glyphs 3, разработанная для удобства работы дизайнеров китайских шрифтов. Предоставляет простые в использовании функции разборки и анализа глифов. Подробности см. в [readme репозитория](https://github.com/3type/EOD/).";
+					zh-Hans = "对CJK字符元素快速拆解及分析。 [获取详情](https://github.com/3type/EOD/)";
 				};
 				minVersion = 3065;
-				screenshot = "https://raw.githubusercontent.com/3type/EOD/master/Plugins/Plugin-Palette/img/EOD-Demo-Disassemble.gif";
+				screenshot = "https://raw.githubusercontent.com/3type/EOD/master/img/EOD-Demo-Disassemble.gif";
 			},
 			{
 				titles = {
