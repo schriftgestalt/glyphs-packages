@@ -3435,6 +3435,21 @@
 				};
 				url = "https://github.com/jenskutilek/CorrettoPlugin";
 			},
+			{
+				dependencies = (
+					fontTools
+				);
+				descriptions = {
+					en = "*Better VF Export* adds a VF+ option to the *File > Export* dialog. It exports exactly like the default VF export (same destination and webfonts), except that it fixes the duplicate `Italic` in `fvar` PS Names, and it allows full control over the `STAT` table with `Axis Values` parameters in your Variable Font Setting. See the [documentation in the repo readme](https://github.com/mekkablue/BetterVFExport) for details.";
+				};
+				donationURL = "https://ko-fi.com/mekkablue";
+				minGlyphsVersion = "3.3";
+				path = BetterVFExport.glyphsFileFormat;
+				titles = {
+					en = "Better VF Export";
+				};
+				url = "https://github.com/mekkablue/BetterVFExport";
+			},
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
 		);
 		scripts = (
