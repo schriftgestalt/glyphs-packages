@@ -3926,6 +3926,17 @@
  				};
  				url = "https://github.com/Reset-Type-Studio/Glyphs-Scripts";
  			 },
+			{
+    			descriptions = {
+        			en = "AI-driven macro editor for Glyphs. Build/Edit code by chatting, run scripts instantly, and use a local LLM for zero cost. Optional RAG connects your own docs.";
+    			};
+    			installName = "GlyphsGPT with Chat";
+    			path = "GlyphsGPTwithChat";
+				titles = {
+       				en = "GlyphsGPT with Chat";
+    			};
+    			url = "https://github.com/ShoExperiment/GlyphsGPTwithChat";
+			},
 			// *** INSERT NEW SCRIPTS ABOVE THIS LINE
 		);
 		modules = (
