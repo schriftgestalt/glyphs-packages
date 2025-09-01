@@ -3937,6 +3937,77 @@
 				};
 				url = "https://github.com/ShoExperiment/GlyphsGPTwithChat";
 			},
+			{
+				descriptions = {
+					en = "Set of scripts, including helper tools for Rovas production, by Hungarian designer Roland Hüse.";
+				};
+				installName = "rolandhuse";
+				titles = {
+					en = "Roland Hüse";
+				};
+				url = "https://github.com/rolandhuse/glyphsscripts";
+			},
+			{
+				descriptions = {
+					en = "In-house production tools of TypeType foundry, maintained by Viktor Rubenko.";
+				};
+				installName = "typetype";
+				titles = {
+					en = "TypeType";
+				};
+				url = "https://github.com/ViktorRubenko/TypeType_Glyphs";
+			},
+			{
+				descriptions = {
+					en = "Experimental scripts by Cosimo Lupo (@anthrotype) for fontmake production.";
+				};
+				installName = "anthrotype";
+				titles = {
+					en = "Anthrotype";
+				};
+				url = "https://github.com/anthrotype/glyphs-scripts";
+			},
+			{
+				descriptions = {
+					en = "Bela Frank’s StringSmash generates strings for spacing and kerning.";
+				};
+				installName = "StringSmash";
+				path = "StringSmash/Glyphs";
+				titles = {
+					en = "StringSmash";
+				};
+				url = "https://github.com/FrankFonts/StringSmash";
+			},
+			{
+				descriptions = {
+					en = "Scripts by German designer Felix Kett, for paths, metrics and font info.";
+				};
+				installName = "Felix Kett";
+				titles = {
+					en = "fkett scripts";
+				};
+				url = "https://github.com/fkett/Glyphs-Scripts";
+			},
+			{
+				descriptions = {
+					en = "KernBot.IO by Joseph Grable will improve your productivity and save you time during the metric spacing and kerning phases of your font development workflow. It displays an interface aiming to center your focus on the space between your letterforms. It re-centers the space between your letterforms, allowing you to quickly view any letter combination that uses your chosen kerning pair combination. It displays lists of all the kerning-keys within your font. It then lists every letter and all possible letter combinations that utilize the selected kerning-key-pair. It also makes use of optional buttons to display your kerning in context, including a spacing string sequence maker, and a word generator.";
+				};
+				installName = "KernBot";
+				titles = {
+					en = "KernBot.IO";
+				};
+				url = "https://github.com/joeygrable94/KernBot.io";
+			},
+			{
+				descriptions = {
+					en = "Alexandr Hudeček’s script ‘unlocks’ kerning for selected pairs of glyphs, i.e., it turns group kerning into kerning exceptions.";
+				};
+				installName = "KerningPairsUnlocker";
+				titles = {
+					en = "Kerning Pairs Unlocker";
+				};
+				url = "https://github.com/lexislav/Kerning-pair-unlocker";
+			},
 			// *** INSERT NEW SCRIPTS ABOVE THIS LINE
 		);
 		modules = (
