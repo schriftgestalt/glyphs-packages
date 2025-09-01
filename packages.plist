@@ -2480,12 +2480,12 @@
 				url = "https://github.com/Mark2Mark/presenter-pro-plugin";
 				minVersion = 3062;
 			},
- 			{
- 				path = "showMasterName.glyphsReporter";
- 				title = "Show Master Name";
- 				url = "https://github.com/guidoferreyra/ShowMasterName";
- 				description = "The plugin will show in the top left corner of the Edit view a text with the master name and the axes locations. It can be useful to know 'where you are' in projects with large number of masters.";
- 				screenshot = "https://raw.githubusercontent.com/guidoferreyra/ShowMasterName/main/preview.png";
+			{
+				path = "showMasterName.glyphsReporter";
+				title = "Show Master Name";
+				url = "https://github.com/guidoferreyra/ShowMasterName";
+				description = "The plugin will show in the top left corner of the Edit view a text with the master name and the axes locations. It can be useful to know 'where you are' in projects with large number of masters.";
+				screenshot = "https://raw.githubusercontent.com/guidoferreyra/ShowMasterName/main/preview.png";
 			},
 			{
 				titles = {
@@ -2937,41 +2937,41 @@
 				donationURL = "https://ko-fi.com/mekkablue";
 			},
 			{
- 				titles = {
- 					en = "Rainbow FontView";
- 				};
- 				descriptions = {
- 					en = "Plugin to sorting dynamically FontView based of Layer/Glyph Color Labels";
- 				};
- 				screenshot = "https://raw.githubusercontent.com/HugoJourdan/Rainbow-FontView/main/Preview.png";
- 				url = "https://github.com/HugoJourdan/Rainbow-FontView";
- 				path = "Rainbow FontView.glyphsPlugin";
- 				minGlyphsVersion = "3.1";
- 			},
+				titles = {
+					en = "Rainbow FontView";
+				};
+				descriptions = {
+					en = "Plugin to sorting dynamically FontView based of Layer/Glyph Color Labels";
+				};
+				screenshot = "https://raw.githubusercontent.com/HugoJourdan/Rainbow-FontView/main/Preview.png";
+				url = "https://github.com/HugoJourdan/Rainbow-FontView";
+				path = "Rainbow FontView.glyphsPlugin";
+				minGlyphsVersion = "3.1";
+			},
 			{
- 				titles = {
- 					en = "Show Angle, Distance and Italic Width";
- 				};
- 				descriptions = {
- 					en = "Plugin that shows the Angle, Distance and Italic Width of the selection. Click the panel to switch between Distance and Italic WIdth in italic layers.";
- 				};
- 				screenshot = "https://github.com/slobzheninov/ShowAngle/assets/60325634/e8ef927b-efe2-4774-a1b9-4bd707b16070";
- 				url = "https://github.com/slobzheninov/ShowAngle";
- 				path = "Show Angle and Distance.glyphsPlugin";
- 				minGlyphsVersion = "2.5";
- 			},
+				titles = {
+					en = "Show Angle, Distance and Italic Width";
+				};
+				descriptions = {
+					en = "Plugin that shows the Angle, Distance and Italic Width of the selection. Click the panel to switch between Distance and Italic WIdth in italic layers.";
+				};
+				screenshot = "https://github.com/slobzheninov/ShowAngle/assets/60325634/e8ef927b-efe2-4774-a1b9-4bd707b16070";
+				url = "https://github.com/slobzheninov/ShowAngle";
+				path = "Show Angle and Distance.glyphsPlugin";
+				minGlyphsVersion = "2.5";
+			},
 			{
- 				titles = {
- 					en = "Selection Shelf";
- 				};
- 				descriptions = {
- 					en = "Save a selection to a 'shelf', give it a name, and retrieve the selection later. If you have certain nodes that you are often selecting and referring to, you can save them as a named selection by typing a name in the text field and clicking 'Save'. To retrieve the selection later, double click on its name in the list. If you have no longer any need for the selection, click on it in the list and press Delete to remove it.";
- 				};
- 				screenshot = "https://github.com/simoncozens/SelectionShelf/blob/main/screenshot.png?raw=true";
- 				url = "https://github.com/simoncozens/SelectionShelf";
- 				path = "SelectionShelf.glyphsPalette";
- 				minGlyphsVersion = "3.0";
- 			},
+				titles = {
+					en = "Selection Shelf";
+				};
+				descriptions = {
+					en = "Save a selection to a 'shelf', give it a name, and retrieve the selection later. If you have certain nodes that you are often selecting and referring to, you can save them as a named selection by typing a name in the text field and clicking 'Save'. To retrieve the selection later, double click on its name in the list. If you have no longer any need for the selection, click on it in the list and press Delete to remove it.";
+				};
+				screenshot = "https://github.com/simoncozens/SelectionShelf/blob/main/screenshot.png?raw=true";
+				url = "https://github.com/simoncozens/SelectionShelf";
+				path = "SelectionShelf.glyphsPalette";
+				minGlyphsVersion = "3.0";
+			},
 			{
 				titles = {
 					en = "Unnest Components";
@@ -2980,9 +2980,9 @@
 				descriptions = {
 					en = "*Filter > Unnest Components* (de: *Komponenten entpacken*) ‘unpacks’, ‘unnests’ or ‘flattens’ components, i.e. it decomposes composites step by step until there is only one level of composition. Nested components are not bad per se, use it only if you know what you are doing. Unnesting only makes sense for TrueType exports (.ttf or TT-flavored .woff and .woff2). It has no effect on CFF exports (.otf or CFF-flavored .woff and .woff2) because PostScript-based fonts have no components. You can have the filter run at export time with a *Filter* custom parameter, with `UnnestComponents` in the filter value.";
 				};
- 				url = "https://github.com/mekkablue/UnnestComponents";
- 				path = "UnnestComponents.glyphsFilter";
- 				minGlyphsVersion = "3.2";
+				url = "https://github.com/mekkablue/UnnestComponents";
+				path = "UnnestComponents.glyphsFilter";
+				minGlyphsVersion = "3.2";
 			},
 			{
 				titles = {
@@ -2992,9 +2992,9 @@
 					en = "The plugin will scale the opposite handle to maintain the same curvature level when the selected handle changes. For example, the plugin can be used to change the weight of terminals. [Watch demo video](https://github.com/pkolchanov/HarmonicMove)";
 				};
 				screenshot = "https://github.com/pkolchanov/HarmonicMove/blob/master/img/PluginManager.png?raw=true";
- 				url = "https://github.com/pkolchanov/HarmonicMove";
- 				path = "HarmonicMove.glyphsTool";
- 				minGlyphsVersion = "3.2";
+				url = "https://github.com/pkolchanov/HarmonicMove";
+				path = "HarmonicMove.glyphsTool";
+				minGlyphsVersion = "3.2";
 			},
 			{
 				titles = {
@@ -3005,9 +3005,9 @@
 				descriptions = {
 					en = "CPAL/COLR Juggler (de: *COLR/CPAL-Jongleur,* fr: *Jongleur COLR/CPAL*) randomly rotates color layers between palette colors. For export it makes most sense to copy and paste this prefilter into an instance in *Font Info > Exports* (Cmd-I, Cmd-3): `{customParameters = ({name = PreFilter; value = COLRCPALJuggler;});}`";
 				};
- 				url = "https://github.com/mekkablue/CPAL-COLR-Juggler";
- 				path = "COLRCPALJuggler.glyphsFilter";
- 				minGlyphsVersion = "3.2";
+				url = "https://github.com/mekkablue/CPAL-COLR-Juggler";
+				path = "COLRCPALJuggler.glyphsFilter";
+				minGlyphsVersion = "3.2";
 			},
 			{
 				titles = {
@@ -3016,10 +3016,10 @@
 				descriptions = {
 					en = "*View > Show Handle Relations* displays the relative handle lengths for smooth connections between curves, and for nodes that connect a straight line and a curve (“tangent points”).\n\nThis helps you avoid kinks in interpolations by keeping the relative handle lengths consistent across all masters.";
 				};
- 				url = "https://github.com/justanotherfoundry/freemix-glyphsapp";
- 				path = "HandleRelations/HandleRelations.glyphsReporter";
+				url = "https://github.com/justanotherfoundry/freemix-glyphsapp";
+				path = "HandleRelations/HandleRelations.glyphsReporter";
 				screenshot = "https://raw.githubusercontent.com/justanotherfoundry/freemix-glyphsapp/master/HandleRelations/HandleRelations.png";
- 				minGlyphsVersion = "3.1";
+				minGlyphsVersion = "3.1";
 			},
 			{
 				descriptions = {
@@ -3043,7 +3043,7 @@
 					en = "Straighten Short Curves";
 				};
 				url = "https://github.com/mekkablue/StraightenShortCurves";
- 				minGlyphsVersion = "3.1";
+				minGlyphsVersion = "3.1";
 			},
 			{
 				descriptions = {
@@ -3315,11 +3315,11 @@
 				};
 				url = "https://github.com/yintzuyuan/ShowBopomofo";
 				descriptions = {
-                    en = "*View > Show Chinese Phonetics* displays the corresponding Chinese phonetics when editing characters. You can switch between three displaymodes via the context menu (right-click): Bopomofo, Pinyin (tone marks), and Pinyin (numbers). This is particularly helpful for Chinese characters, whose glyph names are often not intuitive.";
-                    "zh-Hant" = "*顯示 > 顯示 漢語發音* 在編輯字符時顯示對應的漢語發音，並可以透過右鍵選單切換三種顯示模式：注音符號、漢語拼音（聲調符號）及漢語拼音（數字）。這對於處理中文字符特別有幫助，因為字符名稱通常不太直觀。";
-                    "zh-Hans" = "*视图 > 显示 汉语发音* 在编辑字符时显示对应的汉语发音，并可以通过右键菜单切换三种显示模式：注音符号、汉语拼音（声调符号）及汉语拼音（数字）。这对于处理中文字符特别有帮助，因为字符名称通常不太直观。";
-                    ja = "*表示 > 中国語発音 を表示* 文字の編集時に対応する中国語発音を表示します。右クリックメニューで3つの表示モード（注音符号、ピンイン（声調記号）、ピンイン（数字声調））を切り替えることができます。漢字のグリフ名は直感的でないことが多いため、中国語の文字を扱う際に特に役立ちます。";
-                    ko = "*보기 > 중국어 발음을 표시* 문자 편집 시 해당하는 중국어 발음을 표시하며, 오른쪽 클릭 메뉴를 통해 주음 부호, 한어 병음(성조 부호), 한어 병음(숫자)의 세 가지 표시 모드를 전환할 수 있습니다. 글리프 이름이 직관적이지 않은 경우가 많아 중국어 문자를 다룰 때 특히 유용합니다.";
+					en = "*View > Show Chinese Phonetics* displays the corresponding Chinese phonetics when editing characters. You can switch between three displaymodes via the context menu (right-click): Bopomofo, Pinyin (tone marks), and Pinyin (numbers). This is particularly helpful for Chinese characters, whose glyph names are often not intuitive.";
+					"zh-Hant" = "*顯示 > 顯示 漢語發音* 在編輯字符時顯示對應的漢語發音，並可以透過右鍵選單切換三種顯示模式：注音符號、漢語拼音（聲調符號）及漢語拼音（數字）。這對於處理中文字符特別有幫助，因為字符名稱通常不太直觀。";
+					"zh-Hans" = "*视图 > 显示 汉语发音* 在编辑字符时显示对应的汉语发音，并可以通过右键菜单切换三种显示模式：注音符号、汉语拼音（声调符号）及汉语拼音（数字）。这对于处理中文字符特别有帮助，因为字符名称通常不太直观。";
+					ja = "*表示 > 中国語発音 を表示* 文字の編集時に対応する中国語発音を表示します。右クリックメニューで3つの表示モード（注音符号、ピンイン（声調記号）、ピンイン（数字声調））を切り替えることができます。漢字のグリフ名は直感的でないことが多いため、中国語の文字を扱う際に特に役立ちます。";
+					ko = "*보기 > 중국어 발음을 표시* 문자 편집 시 해당하는 중국어 발음을 표시하며, 오른쪽 클릭 메뉴를 통해 주음 부호, 한어 병음(성조 부호), 한어 병음(숫자)의 세 가지 표시 모드를 전환할 수 있습니다. 글리프 이름이 직관적이지 않은 경우가 많아 중국어 문자를 다룰 때 특히 유용합니다.";
 				};
 				path = "ShowChinesePhonetics.glyphsReporter";
 				donationURL = "https://ko-fi.com/yintzuyuan";
@@ -3915,27 +3915,27 @@
 					en = "Reza Bahloul's Scripts";
 				};
 				url = "https://github.com/RezaBohloul/RezaBohloul";
-			 },
- 			{
- 				descriptions = {
- 					en = "Collection of scripts designed to streamline workflows, by Uruguayan foundry Reset Type Studio.";
- 				};
- 				installName = "Reset Type";
- 				titles = {
- 					en = "Scripts by Reset Type Studio";
- 				};
- 				url = "https://github.com/Reset-Type-Studio/Glyphs-Scripts";
- 			 },
+			},
 			{
-    			descriptions = {
-        			en = "AI-driven macro editor for Glyphs. Build/Edit code by chatting, run scripts instantly, and use a local LLM for zero cost. Optional RAG connects your own docs.";
-    			};
-    			installName = "GlyphsGPT with Chat";
-    			path = "GlyphsGPTwithChat";
+				descriptions = {
+					en = "Collection of scripts designed to streamline workflows, by Uruguayan foundry Reset Type Studio.";
+				};
+				installName = "Reset Type";
 				titles = {
-       				en = "GlyphsGPT with Chat";
-    			};
-    			url = "https://github.com/ShoExperiment/GlyphsGPTwithChat";
+					en = "Scripts by Reset Type Studio";
+				};
+				url = "https://github.com/Reset-Type-Studio/Glyphs-Scripts";
+			},
+			{
+				descriptions = {
+					en = "AI-driven macro editor for Glyphs. Build/Edit code by chatting, run scripts instantly, and use a local LLM for zero cost. Optional RAG connects your own docs.";
+				};
+				installName = "GlyphsGPT with Chat";
+				path = "GlyphsGPTwithChat";
+				titles = {
+					en = "GlyphsGPT with Chat";
+				};
+				url = "https://github.com/ShoExperiment/GlyphsGPTwithChat";
 			},
 			// *** INSERT NEW SCRIPTS ABOVE THIS LINE
 		);
