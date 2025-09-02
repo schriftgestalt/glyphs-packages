@@ -3841,7 +3841,7 @@
 			},
 			{
 				descriptions = {
-					de = "Florian Pirchers Sammlung von Glyphs Skripten.";
+					de = "Florian Pirchers Sammlung von Glyphs-Skripten.";
 					en = "Florian Pircher’s collection of Glyphs scripts.";
 				};
 				installName = "Florian Pircher";
