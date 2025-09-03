@@ -4008,6 +4008,16 @@
 				};
 				url = "https://github.com/lexislav/Kerning-pair-unlocker";
 			},
+			{
+				descriptions = {
+					en = "Turns any font into Papyrus.";
+				};
+				installName = "papyrify";
+				titles = {
+					en = "Papyrify";
+				};
+				url = "https://github.com/mekkablue/Papyrify";
+			},
 			// *** INSERT NEW SCRIPTS ABOVE THIS LINE
 		);
 		modules = (
