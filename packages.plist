@@ -4177,6 +4177,16 @@
 					en = "Python API for the Light Table plugin.";
 				};
 			},
+			{
+				titles = {
+					en = "Glyphs MCP";
+				};
+				url = "https://github.com/thierryc/Glyphs-mcp";
+				path = "src/glyphs-mcp/Glyphs MCP.glyphsPlugin";
+				descriptions = {
+					en = "*Edit > Start MCP Server* exposes Glyphs tools via the Model Context Protocol for agent integration.";
+				};
+			},
 		);
 	};
 }
