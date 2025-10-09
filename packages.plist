@@ -3450,16 +3450,16 @@
 				};
 				url = "https://github.com/mekkablue/BetterVFExport";
 			},
-			{
-				titles = {
-					en = "Glyphs MCP";
-				};
-				url = "https://github.com/thierryc/Glyphs-mcp";
-				path = "src/glyphs-mcp/Glyphs MCP.glyphsPlugin";
-				descriptions = {
-					en = "*Edit > Start MCP Server* exposes Glyphs tools via the Model Context Protocol for agent integration.";
-				};
-			},
+			// {
+			// 	titles = {
+			// 		en = "Glyphs MCP";
+			// 	};
+			// 	url = "https://github.com/thierryc/Glyphs-mcp";
+			// 	path = "src/glyphs-mcp/Glyphs MCP.glyphsPlugin";
+			// 	descriptions = {
+			// 		en = "*Edit > Start MCP Server* exposes Glyphs tools via the Model Context Protocol for agent integration.";
+			// 	};
+			// },
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
 		);
 		scripts = (
