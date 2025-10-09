@@ -3495,16 +3495,27 @@
 				};
 				url = "https://github.com/mekkablue/BetterVFExport";
 			},
-			// {
-			// 	titles = {
-			// 		en = "Glyphs MCP";
-			// 	};
-			// 	url = "https://github.com/thierryc/Glyphs-mcp";
-			// 	path = "src/glyphs-mcp/Glyphs MCP.glyphsPlugin";
-			// 	descriptions = {
-			// 		en = "*Edit > Start MCP Server* exposes Glyphs tools via the Model Context Protocol for agent integration.";
-			// 	};
-			// },
+			{
+				titles = {
+					en = "Glyphs MCP";
+				};
+				url = "https://github.com/thierryc/Glyphs-mcp";
+				path = "src/glyphs-mcp/Glyphs MCP.glyphsPlugin";
+				minGlyphsVersion = "3.1";
+				dependencies = (
+					FastMCP
+				);
+				descriptions = {
+					en = "*Edit > Start MCP Server* exposes Glyphs tools via the Model Context Protocol for agent integration.";
+					fr = "*Edit > Start MCP Server* expose les outils de Glyphs via le Model Context Protocol pour l’intégration avec des agents.";
+					de = "*Edit > Start MCP Server* stellt Glyphs‑Werkzeuge über das Model Context Protocol für die Integration von Agents bereit.";
+					it = "*Edit > Start MCP Server* espone gli strumenti di Glyphs tramite il Model Context Protocol per l’integrazione con agenti.";
+					es = "*Edit > Start MCP Server* expone las herramientas de Glyphs mediante el Model Context Protocol para la integración con agentes.";
+					zh = "*Edit > Start MCP Server* 通过 Model Context Protocol 暴露 Glyphs 工具，便于与智能代理集成。";
+					ja = "*Edit > Start MCP Server* は、Model Context Protocol を通じて Glyphs のツールを公開し、エージェント統合を可能にします。";
+				};
+				screenshot = "https://raw.githubusercontent.com/thierryc/Glyphs-mcp/refs/heads/main/GlyphsMcpScreenshot.png";
+			},
 			{
 				titles = {
 					en = "Zoom to Selection";
@@ -4389,6 +4400,17 @@
 				};
 				minVersion = "3337";
 				maxVersion = "3799";
+			},
+			{
+				identifier = FastMCP;
+				titles = {
+					en = "FastMCP";
+				};
+				url = "https://github.com/jlowin/fastmcp";
+				path = "src/fastmcp";
+				descriptions = {
+					en = "FastMCP runtime for building Model Context Protocol servers and clients.";
+				};
 			},
 		);
 	};
