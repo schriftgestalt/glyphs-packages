@@ -3472,7 +3472,7 @@
 				descriptions = {
 					en = "Adds a command in the View menu that allows users to quickly zoom the edit view to the selected range.";
 					zh-Hant = "在「顯示」選單中建立一個選項，讓使用者能夠將編輯畫面快速拉近至選取範圍。";
-					zh-Hans = "在"视图"菜单中创建一个命令，让用户能够将编辑画面快速拉近至选取范围。";
+					zh-Hans = "在「视图」菜单中创建一个命令，让用户能够将编辑画面快速拉近至选取范围。";
 					ja = "「表示」メニューに選択範囲へ編集画面を素早くズームするコマンドを追加します。";
 				};
 				donationURL = "https://ko-fi.com/yintzuyuan";
