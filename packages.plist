@@ -3460,6 +3460,24 @@
 			// 		en = "*Edit > Start MCP Server* exposes Glyphs tools via the Model Context Protocol for agent integration.";
 			// 	};
 			// },
+			{
+				titles = {
+					en = "Zoom to Selection";
+					zh-Hant = "拉至選取範圍";
+					zh-Hans = "缩放至所选项";
+					ja = "選択範囲にズーム";
+				};
+				path = "Zoom to Selection.glyphsPlugin";
+				url = "https://github.com/yintzuyuan/zoom-to-selection";
+				descriptions = {
+					en = "Adds a command in the View menu that allows users to quickly zoom the edit view to the selected range.";
+					zh-Hant = "在「顯示」選單中建立一個選項，讓使用者能夠將編輯畫面快速拉近至選取範圍。";
+					zh-Hans = "在「视图」菜单中创建一个命令，让用户能够将编辑画面快速拉近至选取范围。";
+					ja = "「表示」メニューに選択範囲へ編集画面を素早くズームするコマンドを追加します。";
+				};
+				donationURL = "https://ko-fi.com/yintzuyuan";
+				screenshot = "https://github.com/yintzuyuan/zoom-to-selectiom/raw/main/cover.png";
+			},
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
 		);
 		scripts = (
