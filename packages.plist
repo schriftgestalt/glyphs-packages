@@ -3476,7 +3476,7 @@
 					ja = "「表示」メニューに選択範囲へ編集画面を素早くズームするコマンドを追加します。";
 				};
 				donationURL = "https://ko-fi.com/yintzuyuan";
-				screenshot = "https://github.com/yintzuyuan/zoom-to-selectiom/raw/main/cover.png";
+				screenshot = "https://github.com/yintzuyuan/zoom-to-selection/raw/main/cover.png";
 			},
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
 		);
