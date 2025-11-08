@@ -3435,7 +3435,6 @@
 					ru = "Карандаш Инструмент";
 				};
 				url = "https://github.com/jbd-io/PencilTool.glyphsPlugin";
-				installName = PencilTool;
 				path = "PencilTool.glyphsPlugin";
 				descriptions = {
 					en = "Draw freely with a pencil-like tool directly in Edit View. Adjust thickness and smoothing using the tool palette.";
