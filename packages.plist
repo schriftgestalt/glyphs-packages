@@ -3421,6 +3421,37 @@
 				screenshot = "https://raw.githubusercontent.com/michaelrafailyk/HighlightImpreciseItalicAngle/master/PreviewStatic.png";
 			},
 			{
+				titles = {
+					en = "Pencil Tool";
+					fr = "Crayon Outil";
+					de = "Bleistift-Werkzeug";
+					es = "Lápiz Herramienta";
+					zh = "铅笔工具";
+					ja = "鉛筆ツール";
+					pt = "Lápis Ferramenta";
+					it = "Matita Strumento";
+					nl = "Potlood Gereedschap";
+					ko = "연필 도구";
+					ru = "Карандаш Инструмент";
+				};
+				url = "https://github.com/jbd-io/PencilTool.glyphsPlugin";
+				path = "PencilTool.glyphsPlugin";
+				descriptions = {
+					en = "Draw freely with a pencil-like tool directly in Edit View. Adjust thickness and smoothing using the tool palette.";
+					fr = "Dessinez librement avec un outil crayon directement dans la vue d’édition. Réglez l’épaisseur et le lissage via la palette de l’outil.";
+					de = "Zeichnen Sie frei mit einem bleistiftähnlichen Werkzeug direkt in der Bearbeitungsansicht. Passen Sie Dicke und Glättung über die Werkzeugpalette an.";
+					es = "Dibuja libremente con una herramienta tipo lápiz directamente en la vista de edición. Ajusta el grosor y el suavizado usando la paleta de herramientas.";
+					zh = "在编辑视图中使用铅笔工具自由绘制。可通过工具面板调整线条粗细和平滑度。";
+					ja = "編集ビューで鉛筆ツールを使って自由に描画できます。ツールパレットで太さと滑らかさを調整可能です。";
+					pt = "Desenhe livremente com uma ferramenta tipo lápis diretamente na Visualização de Edição. Ajuste a espessura e suavização usando a paleta de ferramentas.";
+					it = "Disegna liberamente con uno strumento simile a una matita direttamente nella vista di modifica. Regola spessore e levigatura tramite la palette degli strumenti.";
+					nl = "Teken vrij met een potloodachtig gereedschap direct in de bewerkingsweergave. Pas dikte en gladheid aan met het gereedschapspalet.";
+					ko = "편집 뷰에서 연필 도구를 사용하여 자유롭게 그릴 수 있습니다. 도구 팔레트를 사용하여 굵기와 매끄러움을 조절하세요.";
+					ru = "Рисуйте свободно с инструментом «Карандаш» прямо в режиме редактирования. Настраивайте толщину и сглаживание через панель инструментов.";
+				};
+				screenshot = "https://raw.githubusercontent.com/jbd-io/PencilTool.glyphsPlugin/e9fd8752a26258555eae20872f603cb94e703ef8/PencilToolCover.png";
+			},
+			{
 				dependencies = (
 					fontTools
 				);
