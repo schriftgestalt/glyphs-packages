@@ -3434,7 +3434,7 @@
 					ko = "연필 도구";
 					ru = "Карандаш Инструмент";
 				};
-				url = "https://github.com/jbd-io/PencilTool.glyphsPlugin";
+				url = "https://github.com/jbd-io/PencilTool_GlyphsPlugin";
 				path = "PencilTool.glyphsPlugin";
 				descriptions = {
 					en = "Draw freely with a pencil-like tool directly in Edit View. Adjust thickness and smoothing using the tool palette.";
