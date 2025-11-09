@@ -3449,7 +3449,7 @@
 					ko = "편집 뷰에서 연필 도구를 사용하여 자유롭게 그릴 수 있습니다. 도구 팔레트를 사용하여 굵기와 매끄러움을 조절하세요.";
 					ru = "Рисуйте свободно с инструментом «Карандаш» прямо в режиме редактирования. Настраивайте толщину и сглаживание через панель инструментов.";
 				};
-				screenshot = "https://raw.githubusercontent.com/jbd-io/PencilTool.glyphsPlugin/e9fd8752a26258555eae20872f603cb94e703ef8/PencilToolCover.png";
+				screenshot = "https://raw.githubusercontent.com/jbd-io/PencilTool_GlyphsPlugin/refs/heads/main/PencilToolCover.png";
 			},
 			{
 				dependencies = (
