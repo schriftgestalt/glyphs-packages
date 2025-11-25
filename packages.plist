@@ -3509,6 +3509,18 @@
 				donationURL = "https://ko-fi.com/yintzuyuan";
 				screenshot = "https://github.com/yintzuyuan/zoom-to-selection/raw/main/cover.png";
 			},
+			{
+				titles = {
+					en = "Pencil Modifier";
+				};
+				descriptions = {
+					en = "Enhances the Pencil tool with three features: drawing simplified paths, redrawing existing paths, and drawing closed paths.";
+				};
+				url = "https://github.com/michaelrafailyk/PencilModifier";
+				path = "PencilModifier.glyphsPlugin";
+				screenshot = "https://raw.githubusercontent.com/michaelrafailyk/PencilModifier/main/Images/RedrawPath.png";
+				donationURL = "https://ko-fi.com/michaelrafailyk";
+			},
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
 		);
 		scripts = (
