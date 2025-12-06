@@ -4233,7 +4233,7 @@
 					en = "jkUnicode";
 				};
 				url = "https://github.com/jenskutilek/jkUnicode";
-				path = "lib/jkUnicode";
+				path = "src/jkUnicode";
 			},
 			{
 				identifier = lighttable;
