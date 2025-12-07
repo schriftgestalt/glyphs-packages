@@ -4248,6 +4248,18 @@
 					en = "Python API for the Light Table plugin.";
 				};
 			},
+			{
+			    titles = {
+			        en = "Anchor Tools";
+			    };
+			    url = "https://github.com/moon-box-cloud/AnchorTools";
+			    path = "AnchorTools.glyphsPlugin";
+			    descriptions = {
+			        en = "Inspect, harmonize and auto-fill anchors across glyphs and masters.";
+			    };
+			    screenshot = "https://github.com/moon-box-cloud/AnchorTools/blob/main/img/main_panel.png";
+			    minVersion = 3000;
+			}
 		);
 	};
 }
