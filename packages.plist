@@ -2902,20 +2902,20 @@
 			},
 			{
 				titles = {
-					en = "Nine Box View";
+					en = "NineBoxView";
 					zh-Hant = "九宮格預覽";
 					zh-Hans = "九宫格预览";
-					ja = "九宮格プレビュー";
-					ko = "구궁격 미리보기";
+					ja = "九マスビュー";
+					ko = "나인박스뷰";
 				};
 				path = "Nine Box View.glyphsPlugin";
 				url = "https://github.com/yintzuyuan/NineBoxView";
 				descriptions = {
-					en = "This plugin displays characters in a nine-box grid while editing, allowing users to easily adjust font size to maintain consistency through comparison with reference characters. Customizable reference characters and light/dark mode display are also available. Suitable for use in creating East Asian fonts. See GitHub page for more information.";
-					zh-Hant = "這個外掛能在九宮格中顯示編輯中的字符，讓使用者透過對照參考字，更輕鬆的調整字體大小使之維持一致。可自定義參考字符並提供亮暗模式顯示。適合在製作東亞字型時使用。更多相關訊息見 GitHub 頁面。";
-					zh-Hans = "这个外挂能在九宫格中显示编辑中的字符，让使用者通过对照参考字，更轻松的调整字体大小使之维持一致。可自定义参考字符并提供亮暗模式显示。适合在制作东亚字型时使用。更多相关信息见 GitHub 页面。";
-					ja = "このプラグインは、編集中の文字を九宮格のグリッドで表示し、ユーザーが文字のサイズを調整して、参照文字との比較により一貫性を維持しやすくします。参照文字のカスタマイズと明暗モードの表示も可能です。東アジアのフォントを作成する際に適しています。詳細は GitHub ページを参照してください。";
-					ko = "이 플러그인은 편집 중인 문자를 아홉 칸 그리드로 표시하여 사용자가 참고 문자와의 비교를 통해 일관성을 유지하기 쉽게 합니다. 참고 문자의 사용자 정의 및 밝기/어두운 모드 표시도 가능합니다. 동아시아 글꼴을 제작할 때 적합합니다. 자세한 내용은 GitHub 페이지를 참조하세요.";
+					en = "The free and open-source NineBoxView plugin displays characters in a nine-box grid while editing, allowing users to easily adjust font size to maintain consistency through comparison with reference characters. Customizable reference characters and light/dark mode display are also available. Suitable for use in creating East Asian fonts. See GitHub page for more information.";
+					zh-Hant = "這個免費開源版的九宮格預覽外掛能在九宮格中顯示編輯中的字符，讓使用者透過對照參考字，更輕鬆的調整字體大小使之維持一致。可自定義參考字符並提供亮暗模式顯示。適合在製作東亞字型時使用。更多相關訊息見 GitHub 頁面。";
+					zh-Hans = "这个免费开源版的九宫格预览外挂能在九宫格中显示编辑中的字符，让使用者通过对照参考字，更轻松的调整字体大小使之维持一致。可自定义参考字符并提供亮暗模式显示。适合在制作东亚字型时使用。更多相关信息见 GitHub 页面。";
+					ja = "この無料オープンソース版の九マスビューは、編集中の文字を九マスのグリッドで表示し、ユーザーが文字のサイズを調整して、参照文字との比較により一貫性を維持しやすくします。参照文字のカスタマイズと明暗モードの表示も可能です。東アジアのフォントを作成する際に適しています。詳細は GitHub ページを参照してください。";
+					ko = "이 무료 오픈소스 버전의 나인박스뷰는 편집 중인 문자를 아홉 칸 그리드로 표시하여 사용자가 참고 문자와의 비교를 통해 일관성을 유지하기 쉽게 합니다. 참고 문자의 사용자 정의 및 밝기/어두운 모드 표시도 가능합니다. 동아시아 글꼴을 제작할 때 적합합니다. 자세한 내용은 GitHub 페이지를 참조하세요.";
 				};
 				donationURL = "https://ko-fi.com/yintzuyuan";
 				screenshot = "https://github.com/yintzuyuan/NineBoxView/raw/main/NineBoxView_image1.png";
@@ -3521,6 +3521,25 @@
 				path = "PencilModifier.glyphsPlugin";
 				screenshot = "https://raw.githubusercontent.com/michaelrafailyk/PencilModifier/main/Images/RedrawPath.png";
 				donationURL = "https://ko-fi.com/michaelrafailyk";
+			},
+			{
+				titles = {
+					en = "Hanzi IDS Component Explorer";
+					ja = "漢字IDS部品検索";
+					zh-Hans = "汉字IDS部件查询";
+					zh-Hant = "漢字IDS部件查詢";
+				};
+				descriptions = {
+					en = "*Window > Hanzi IDS Component Explorer* decomposes Chinese characters and explores related glyphs. Features include IDS decomposition tree, sister characters (same structure), derived characters (using this as component), charset filtering, color filtering, and CNS database links.";
+					ja = "*ウインドウ > 漢字IDS部品検索* は漢字を分解し、関連する字形を探索します。IDS 分解ツリー、同字根検索（同じ構造）、派生字検索（この字を部品として使用）、文字セットフィルタリング、カラーフィルタリング、CNS データベースリンクなどの機能があります。";
+					zh-Hans = "*窗口 > 汉字IDS部件查询* 用于拆解汉字结构并查询相关字符。功能包括 IDS 拆解树、同字根查询（相同结构）、衍生字查询（以本字为部件）、字集筛选、颜色筛选和全字库链接。";
+					zh-Hant = "*視窗 > 漢字IDS部件查詢* 用於拆解漢字結構並查詢相關字符。功能包括 IDS 拆解樹、同字根查詢（相同結構）、衍生字查詢（以本字為部件）、字集篩選、顏色篩選和全字庫連結。";
+				};
+				url = "https://github.com/yintzuyuan/HanziIDSComponentExplorer";
+				path = "HanziIDSComponentExplorer.glyphsPlugin";
+				screenshot = "https://raw.githubusercontent.com/yintzuyuan/HanziIDSComponentExplorer/main/screenshot.png";
+				donationURL = "https://ko-fi.com/yintzuyuan";
+				minGlyphsVersion = "3.0";
 			},
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
 		);
