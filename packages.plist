@@ -4248,6 +4248,8 @@
 				descriptions = {
 					en = "Python API for the Light Table plugin.";
 				};
+				minVersion = "3337";
+				maxVersion = "3799";
 			},
 		);
 	};
