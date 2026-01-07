@@ -3379,7 +3379,8 @@
 					zh-Hans = "透写台是一款协助您在 Glyphs 中使用 Git 进行版本管理的插件。";
 					zh-Hant = "透寫台提供豐富的工具和視覺化功能來管理您的字型專案。它以 Git 為基礎建構。這表示您的筆記、草圖檔案和 Python 腳本也可以成為專案版本歷史的一部分。深度整合到 Glyphs 中，透寫台的功能隨時可用。若有自訂需求，還提供完整的 Python API。在 [透寫台網站](https://formkunft.com/light-table/) 了解更多。";
 				};
-				minGlyphsVersion = "3.3";
+				minVersion = "3337";
+				maxVersion = "3799";
 				minSystemVersion = "12";
 				dependencies = (
 					lighttable
