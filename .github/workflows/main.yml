@@ -21,3 +21,5 @@ jobs:
         run: plutil -lint packages.plist
       - name: Validate Install Names
         run: swift validate-install-names.swift
+      - name: Validate Paths
+        run: swift validate-paths.swift
