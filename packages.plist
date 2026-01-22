@@ -3544,6 +3544,26 @@
 					vanilla
 				);
 			},
+			{
+				titles = {
+					en = "NineBoxView Pro";
+					"zh-Hant" = "九宮格預覽 Pro";
+					"zh-Hans" = "九宫格预览 Pro";
+					ja = "九マスビュー Pro";
+					ko = "나인박스뷰 Pro";
+				};
+				descriptions = {
+					en = "Nine-grid preview for CJK font design. Drag & drop glyphs, pin reference glyphs, and streamline your Hanzi, Kana, and Hangul workflows. Fully functional 14-day trial.";
+					"zh-Hant" = "CJK 字型設計九宮格預覽。拖放字符、固定參考字，為漢字、假名、韓文工作流程提供流暢體驗。14 天完整功能試用。";
+					"zh-Hans" = "CJK 字体设计九宫格预览。拖放字符、固定参考字，为汉字、假名、韩文工作流程提供流畅体验。14 天完整功能试用。";
+					ja = "CJK フォントデザイン向け九マスプレビュー。グリフのドラッグ＆ドロップ、参照グリフ固定機能で、漢字・仮名・ハングルワークフローを効率化。14日間フル機能トライアル。";
+					ko = "CJK 폰트 디자인을 위한 나인박스 미리보기. 드래그 앤 드롭, 참조 글리프 고정 기능으로 한자, 가나, 한글 워크플로우를 효율화. 14일 전체 기능 체험.";
+				};
+				url = "https://github.com/yintzuyuan/NineBoxView-Pro";
+				path = "NineBoxView Pro.glyphsPlugin";
+				minGlyphsVersion = "3.2";
+				screenshot = "https://raw.githubusercontent.com/yintzuyuan/NineBoxView-Pro/main/screenshot.png";
+			},
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
 		);
 		scripts = (
