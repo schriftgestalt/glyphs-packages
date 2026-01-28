@@ -3437,7 +3437,7 @@
 			{
 				titles = {
 					en = "Pencil Tool";
-					fr = "Crayon Outil";
+					fr = "Outil Crayon";
 					de = "Bleistift-Werkzeug";
 					es = "Lápiz Herramienta";
 					zh = "铅笔工具";
@@ -3576,6 +3576,68 @@
 				path = "NineBoxView Pro.glyphsPlugin";
 				minGlyphsVersion = "3.2";
 				screenshot = "https://raw.githubusercontent.com/yintzuyuan/NineBoxView-Pro/main/screenshot.png";
+			},
+			{
+				titles = {
+					en = "Ballpen Tool";
+					fr = "Stylo bille";
+					de = "Kugelschreiber-Werkzeug";
+					es = "Herramienta Bolígrafo";
+					zh = "圆珠笔工具";
+					ja = "ボールペンツール";
+					pt = "Ferramenta Caneta";
+					it = "Strumento Penna a Sfera";
+					nl = "Balpen Gereedschap";
+					ko = "볼펜 도구";
+					ru = "Инструмент Шариковая ручка";
+				};
+				url = "https://github.com/jbd-io/BallpenTool_GlyphsPlugin";
+				path = "BallpenTool.glyphsPlugin";
+				descriptions = {
+					en = "Draw smooth, consistent monoline strokes with a ballpoint pen–like tool directly in Edit View. Adjust thickness and smoothing using the companion palette.";
+					fr = "Dessinez des tracés monolinéaires lisses et réguliers avec un outil de type stylo bille directement dans la vue d’édition. Réglez l’épaisseur et le lissage via la palette dédiée.";
+					de = "Zeichnen Sie glatte, gleichmäßige Monolinien mit einem kugelschreiberähnlichen Werkzeug direkt in der Bearbeitungsansicht. Passen Sie Dicke und Glättung über die Palette an.";
+					es = "Dibuja trazos monolineales suaves y uniformes con una herramienta tipo bolígrafo directamente en la vista de edición. Ajusta el grosor y el suavizado desde la paleta.";
+					zh = "在编辑视图中使用圆珠笔工具绘制平滑、统一宽度的单线条。可通过配套面板调整线条粗细和平滑度。";
+					ja = "編集ビューでボールペンのようなツールを使い、滑らかで均一なモノラインを描画できます。パレットで太さと滑らかさを調整できます。";
+					pt = "Desenhe traços monolineares suaves e consistentes com uma ferramenta tipo caneta diretamente na Visualização de Edição. Ajuste a espessura e o suavizamento pela paleta.";
+					it = "Disegna tratti monolineari fluidi e uniformi con uno strumento simile a una penna a sfera direttamente nella vista di modifica. Regola spessore e levigatura tramite la palette.";
+					nl = "Teken vloeiende, consistente monolijnen met een balpenachtig gereedschap direct in de bewerkingsweergave. Pas dikte en gladheid aan via het palet.";
+					ko = "편집 뷰에서 볼펜과 같은 도구로 부드럽고 일정한 모노라인 스트로크를 그릴 수 있습니다. 팔레트에서 두께와 부드러움을 조절하세요.";
+					ru = "Рисуйте плавные и равномерные моноштрихи с помощью инструмента «Шариковая ручка» прямо в режиме редактирования. Настраивайте толщину и сглаживание через палитру.";
+				};
+				screenshot = "https://raw.githubusercontent.com/jbd-io/BallpenTool_GlyphsPlugin/refs/heads/main/BallpenToolCover.png";
+			},
+			{
+				titles = {
+					en = "Brush Tool";
+					fr = "Outil Pinceau";
+					de = "Pinsel-Werkzeug";
+					es = "Herramienta Pincel";
+					zh = "画笔工具";
+					ja = "ブラシツール";
+					pt = "Ferramenta Pincel";
+					it = "Strumento Pennello";
+					nl = "Penseel Gereedschap";
+					ko = "브러시 도구";
+					ru = "Инструмент Кисть";
+				};
+				url = "https://github.com/jbd-io/BrushTool_GlyphsPlugin";
+				path = "BrushTool.glyphsPlugin";
+				descriptions = {
+					en = "Draw bold, flat monoline strokes with a fixed-width flat brush tool directly in Edit View. Square endings and adjustable thickness and smoothing make it ideal for calligraphic sketching and expressive lettering.";
+					fr = "Dessinez des tracés monolinéaires larges et plats avec un outil pinceau à largeur fixe directement dans la vue d’édition. Les extrémités carrées, l’épaisseur et le lissage réglables en font un outil idéal pour le croquis calligraphique et le lettrage expressif.";
+					de = "Zeichnen Sie kräftige, flache Monolinien mit einem Pinselwerkzeug mit fester Breite direkt in der Bearbeitungsansicht. Quadratische Enden sowie einstellbare Dicke und Glättung eignen sich ideal für kalligrafische Skizzen und ausdrucksstarkes Lettering.";
+					es = "Dibuja trazos monolineales anchos y planos con una herramienta de pincel de ancho fijo directamente en la vista de edición. Los extremos cuadrados y el ajuste de grosor y suavizado la hacen ideal para bocetos caligráficos y lettering expresivo.";
+					zh = "在编辑视图中使用固定宽度的平刷工具绘制粗犷、平坦的单线条笔画。方形收尾以及可调节的粗细和平滑度，非常适合书法草图和富有表现力的字形设计。";
+					ja = "編集ビューで固定幅のフラットブラシツールを使い、太く平坦なモノラインを描画できます。角ばった終端と太さ・滑らかさの調整により、カリグラフィ的なスケッチや表現力のあるレタリングに最適です。";
+					pt = "Desenhe traços monolineares largos e planos com uma ferramenta de pincel plano de largura fixa diretamente na Visualização de Edição. Extremidades quadradas e ajustes de espessura e suavização tornam a ferramenta ideal para esboços caligráficos e lettering expressivo.";
+					it = "Disegna tratti monolineari ampi e piatti con uno strumento pennello a larghezza fissa direttamente nella vista di modifica. Le estremità squadrate e la regolazione di spessore e levigatura lo rendono ideale per schizzi calligrafici e lettering espressivo.";
+					nl = "Teken brede, platte monolijnen met een penseelgereedschap met vaste breedte direct in de bewerkingsweergave. Vierkante uiteinden en instelbare dikte en gladheid maken het ideaal voor kalligrafische schetsen en expressief letterwerk.";
+					ko = "편집 뷰에서 고정 폭의 플랫 브러시 도구로 굵고 평평한 모노라인 스트로크를 그릴 수 있습니다. 각진 끝 처리와 두께·부드러움 조절로 캘리그래피 스케치와 표현적인 레터링에 적합합니다.";
+					ru = "Рисуйте широкие плоские моноштрихи с помощью кисти фиксированной ширины прямо в режиме редактирования. Квадратные окончания и настраиваемая толщина и сглаживание идеально подходят для каллиграфических эскизов и выразительного леттеринга.";
+				};
+				screenshot = "https://raw.githubusercontent.com/jbd-io/BrushTool_GlyphsPlugin/refs/heads/main/BrushToolCover.png";
 			},
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
 		);
