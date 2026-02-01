@@ -3579,7 +3579,7 @@
 			},
 			{
 				titles = {
-					en = "Ballpen Tool";
+					en = "Ballpoint Tool";
 					fr = "Stylo bille";
 					de = "Kugelschreiber-Werkzeug";
 					es = "Herramienta Bolígrafo";
@@ -3591,8 +3591,8 @@
 					ko = "볼펜 도구";
 					ru = "Инструмент Шариковая ручка";
 				};
-				url = "https://github.com/jbd-io/BallpenTool_GlyphsPlugin";
-				path = "BallpenTool.glyphsPlugin";
+				url = "https://github.com/jbd-io/BallpointTool_GlyphsPlugin";
+				path = "BallpointTool.glyphsPlugin";
 				descriptions = {
 					en = "Draw smooth, consistent monoline strokes with a ballpoint pen–like tool directly in Edit View. Adjust thickness and smoothing using the companion palette.";
 					fr = "Dessinez des tracés monolinéaires lisses et réguliers avec un outil de type stylo bille directement dans la vue d’édition. Réglez l’épaisseur et le lissage via la palette dédiée.";
@@ -3606,7 +3606,7 @@
 					ko = "편집 뷰에서 볼펜과 같은 도구로 부드럽고 일정한 모노라인 스트로크를 그릴 수 있습니다. 팔레트에서 두께와 부드러움을 조절하세요.";
 					ru = "Рисуйте плавные и равномерные моноштрихи с помощью инструмента «Шариковая ручка» прямо в режиме редактирования. Настраивайте толщину и сглаживание через палитру.";
 				};
-				screenshot = "https://raw.githubusercontent.com/jbd-io/BallpenTool_GlyphsPlugin/refs/heads/main/BallpenToolCover.png";
+				screenshot = "https://raw.githubusercontent.com/jbd-io/BallpointTool_GlyphsPlugin/refs/heads/main/BallpointToolCover.png";
 			},
 			{
 				titles = {
