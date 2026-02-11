@@ -2453,7 +2453,7 @@
 					paddle
 				);
 				descriptions = {
-					en = "Mark Zones now available for Glyphs 3. This is a fully functional 14 days trial. More infos in the link below.\nContact me for Student Discounts.";
+					en = "Displays custom reference zones per master in the Edit View. Define zones by position, thickness, color, overshoot, and name — filtered by script, category, glyph name, or any combination. Drag zone edges directly in the editor, with linked glyphs that transform automatically. Create zones from selection with one right-click, optionally applied to all compatible masters at once.\n[See the manual](https://markfromberg.com/projects/mark-zones-3) for details.\n\nFully functional 14-day trial. Contact me for Student Discounts.";
 				};
 				path = "Mark Zones.glyphsReporter";
 				screenshot = "https://github.com/Mark2Mark/mark-zones-plugin/blob/main/.images/MarkZones-Hero-Light.png?raw=true";
