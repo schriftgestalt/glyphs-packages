@@ -4207,6 +4207,16 @@
 				};
 				url = "https://github.com/mekkablue/Papyrify";
 			},
+			{
+				descriptions = {
+					en = "Build wayfinding lozenges as ligatures within the frontmost font.";
+				};
+				installName = "lozenge-builder";
+				titles = {
+					en = "Lozenge Builder";
+				};
+				url = "https://github.com/mekkablue/LozengeBuilder";
+			},
 			// *** INSERT NEW SCRIPTS ABOVE THIS LINE
 		);
 		modules = (
