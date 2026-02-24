@@ -3645,7 +3645,7 @@
 					es = "GlyphsMCP";
 				};
 				url = "https://github.com/nmassi/glyphs-mcp";
-				path = "GlyphsMCP.glyphsPlugin";
+				path = "plugin/GlyphsMCP.glyphsPlugin";
 				descriptions = {
 					en = "MCP bridge for AI-assisted type design. Lets Claude, Cursor, or any MCP client read and write font data directly in GlyphsApp — bidirectional, real-time, live in the editor.";
 					es = "Puente MCP para diseño tipográfico asistido por IA. Permite que Claude, Cursor o cualquier cliente MCP lean y escriban datos de fuentes directamente en GlyphsApp — bidireccional, en tiempo real, en vivo en el editor.";
