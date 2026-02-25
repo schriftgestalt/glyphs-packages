@@ -3647,7 +3647,7 @@
 				url = "https://github.com/nmassi/glyphs-mcp";
 				path = "plugin/GlyphsMCP.glyphsPlugin";
 				descriptions = {
-					en = "MCP bridge for AI-assisted type design. Lets any MCP client read and write font data directly in GlyphsApp.";
+					en = "MCP bridge for AI-assisted type design. Lets any MCP client read and write font data directly in GlyphsApp. Beta — use with caution. See [documentation](https://github.com/nmassi/glyphs-mcp#readme) for setup and details.";
 				};
 				screenshot = "https://raw.githubusercontent.com/nmassi/glyphs-mcp/main/assets/Plugin-Manager.png";
 			},
