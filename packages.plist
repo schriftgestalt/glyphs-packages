@@ -3505,7 +3505,8 @@
 				path = "plugin-manager/Glyphs MCP.glyphsPlugin";
 				minGlyphsVersion = "3.1";
 				dependencies = (
-					FastMCP
+					FastMCP,
+					MCP
 				);
 				descriptions = {
 					en = "*Edit > Start MCP Server* exposes Glyphs tools via the Model Context Protocol for agent integration in Codex and Claude Code AI apps. See the [documentation](https://www.ap.cx/Glyphs-App-MCP-Server).";
@@ -4405,7 +4406,20 @@
 				maxVersion = "3799";
 			},
 			{
+				identifier = MCP;
+				hidden = 1;
+				titles = {
+					en = "MCP";
+				};
+				url = "https://github.com/modelcontextprotocol/python-sdk";
+				path = "src/mcp";
+				descriptions = {
+					en = "Python SDK for the Model Context Protocol.";
+				};
+			},
+			{
 				identifier = FastMCP;
+				hidden = 1;
 				titles = {
 					en = "FastMCP";
 				};
