@@ -4423,7 +4423,8 @@
 				titles = {
 					en = "FastMCP";
 				};
-				url = "https://github.com/jlowin/fastmcp";
+				url = "https://github.com/PrefectHQ/fastmcp/tree/main/src/fastmcp"; 
+				branch = "main";
 				path = "src/fastmcp";
 				descriptions = {
 					en = "FastMCP runtime for building Model Context Protocol servers and clients.";
