@@ -3497,8 +3497,9 @@
 			},
 			{
 				titles = {
-					en = "Glyphs MCP";
+					en = "Glyphs MCP Server";
 				};
+				identifier = "glyphsmcpserver";
 				url = "https://github.com/thierryc/Glyphs-mcp";
 				path = "src/glyphs-mcp/Glyphs MCP.glyphsPlugin";
 				minGlyphsVersion = "3.1";
