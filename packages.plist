@@ -3500,6 +3500,7 @@
 					en = "Glyphs MCP Server";
 				};
 				identifier = "glyphsmcpserver";
+				installName = "glyphs-mcp-server";
 				url = "https://github.com/thierryc/Glyphs-mcp";
 				path = "plugin-manager/Glyphs MCP.glyphsPlugin";
 				minGlyphsVersion = "3.1";
@@ -3656,6 +3657,7 @@
 					en = "GlyphsMCP";
 				};
 				identifier = "glyphsmcp";
+				installName = "glyphs-mcp";
 				url = "https://github.com/nmassi/glyphs-mcp";
 				path = "plugin/GlyphsMCP.glyphsPlugin";
 				descriptions = {
