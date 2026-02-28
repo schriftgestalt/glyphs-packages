@@ -4421,7 +4421,7 @@
 				titles = {
 					en = "FastMCP";
 				};
-				url = "https://github.com/PrefectHQ/fastmcp";
+				url = "https://github.com/PrefectHQ/fastmcp.git";
 				branch = "main";
 				path = "src/fastmcp";
 				dependencies = (
