@@ -3650,7 +3650,35 @@
 					en = "MCP bridge for AI-assisted type design. Lets any MCP client read and write font data directly in GlyphsApp. Beta — use with caution. See [documentation](https://github.com/nmassi/glyphs-mcp#readme) for setup and details.";
 				};
 				screenshot = "https://raw.githubusercontent.com/nmassi/glyphs-mcp/main/assets/Plugin-Manager.png";
+				donationURL = "https://ko-fi.com/nnniiicccooo";
 			},
+
+		{
+			titles = {
+				en = "Golden Axes";
+			};
+			url = "https://github.com/nmassi/GoldenAxes";
+			path = "GoldenAxes.glyphsReporter";
+			descriptions = {
+				en = "Live variable font interpolation overlay in Edit View. Scrub axes, animate, and compare interpolated outlines against your current master.";
+			};
+			screenshot = "https://raw.githubusercontent.com/nmassi/GoldenAxes/main/Assets/GoldenAxes02.png";
+				donationURL = "https://ko-fi.com/nnniiicccooo";
+		},
+		{
+			titles = {
+				en = "Golden Axes Palette";
+			};
+			url = "https://github.com/nmassi/GoldenAxes";
+			path = "GoldenAxesPalette.glyphsPalette";
+			descriptions = {
+				en = "Sidebar palette for Golden Axes with axis sliders, animation controls, and a live text preview of your variable font design space.";
+			};
+			screenshot = "https://raw.githubusercontent.com/nmassi/GoldenAxes/main/Assets/GoldenAxes02.png";
+				donationURL = "https://ko-fi.com/nnniiicccooo";
+
+		},
+
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
 		);
 		scripts = (
