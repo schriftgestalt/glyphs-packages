@@ -3651,6 +3651,18 @@
 				};
 				screenshot = "https://raw.githubusercontent.com/nmassi/glyphs-mcp/main/assets/Plugin-Manager.png";
 			},
+			{
+				titles = {
+					en = "Combine Layers";
+				};
+				identifier = "combinelayers";
+				url = "https://github.com/mansgreback/CombineLayers";
+				path = "CombineLayers.glyphsFilter";
+				descriptions = {
+					en = "*Filter > Combine Layers* combines paths from different masters and layers using boolean operations (Add, Exclusion, Intersection) with path direction control. Create cutout effects, stencil layers, inline/outline combos, and other multi-layer designs at export time.";
+				};
+				screenshot = "https://raw.githubusercontent.com/mansgreback/CombineLayers/main/images/The%20Plugin%20Dialog.png";
+			},
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
 		);
 		scripts = (
