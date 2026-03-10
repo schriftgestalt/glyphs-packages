@@ -3663,6 +3663,17 @@
 				};
 				screenshot = "https://raw.githubusercontent.com/mansgreback/CombineLayers/main/images/The%20Plugin%20Dialog.png";
 			},
+			{
+				titles = {
+					en = "Stripper";
+				};
+				url = "https://github.com/mekkablue/Stripper";
+				path = "Stripper.glyphsFilter";
+				descriptions = {
+					en = "*Filter > Stripper* *Filter > Stripper* overlays your glyph shapes with a repeating stripe pattern and intersects them, cutting the outlines into parallel bands.";
+				};
+				screenshot = "https://raw.githubusercontent.com/mekkablue/Stripper/main/Stripper.png";
+			},
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
 		);
 		scripts = (
