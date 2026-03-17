@@ -3663,16 +3663,16 @@
 				};
 				screenshot = "https://raw.githubusercontent.com/mansgreback/CombineLayers/main/images/The%20Plugin%20Dialog.png";
 			},
-			{
-				titles = {
-					en = "AI Font Generator";
-				};
-				url = "https://github.com/mansgreback/AIFontGenerator";
-				path = "AIFontGenerator.glyphsPlugin";
-				descriptions = {
-					en = "*Filter > AI Generate Full Font* generates a complete font from a few sample glyphs using AI. Select reference glyphs, choose an output mode (new master, background layer, or overwrite), and the plugin produces matching letterforms for every glyph in your font. Requires internet connection.";
-				};
-			},
+//			{
+//				titles = {
+//					en = "AI Font Generator";
+//				};
+//				url = "https://github.com/mansgreback/AIFontGenerator";
+//				path = "AIFontGenerator.glyphsPlugin";
+//				descriptions = {
+//					en = "*Filter > AI Generate Full Font* generates a complete font from a few sample glyphs using AI. Select reference glyphs, choose an output mode (new master, background layer, or overwrite), and the plugin produces matching letterforms for every glyph in your font. Requires internet connection.";
+//				};
+//			},
 			{
 				titles = {
 					en = "Stripper";
