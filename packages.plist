@@ -4262,6 +4262,16 @@
 				};
 				url = "https://github.com/mekkablue/LozengeBuilder";
 			},
+			{
+				descriptions = {
+					en = "Sort production scripts and store them for each project.";
+				};
+				installName = "script-juggler";
+				titles = {
+					en = "Script Juggler";
+				};
+				url = "https://github.com/mekkablue/ScriptJuggler";
+			}
 			// *** INSERT NEW SCRIPTS ABOVE THIS LINE
 		);
 		modules = (
