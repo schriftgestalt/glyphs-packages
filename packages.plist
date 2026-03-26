@@ -4400,7 +4400,7 @@
 					en = "jkGlyphsHelpers";
 				};
 				url = "https://github.com/jenskutilek/jkGlyphsHelpers";
-				path = "lib/jkGlyphsHelpers";
+				path = "src/jkGlyphsHelpers";
 			},
 			{
 				identifier = jkunicode;
