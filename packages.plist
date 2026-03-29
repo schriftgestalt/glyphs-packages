@@ -3684,6 +3684,17 @@
 				};
 				screenshot = "https://raw.githubusercontent.com/mekkablue/Stripper/main/Stripper.png";
 			},
+			{
+				titles = {
+					en = "Pixel Slanter";
+				};
+				url = "https://github.com/mekkablue/PixelSlanter";
+				path = "PixelSlanter.glyphsFilter";
+				descriptions = {
+					en = "*Filter > Pixel Slanter* pseudo-slants pixel fonts by shifting the components of each glyph into slanted positions, simulating an italic angle without distorting the individual pixel shapes.";
+				};
+				screenshot = "https://raw.githubusercontent.com/mekkablue/PixelSlanter/main/PixelSlanter.png";
+			},
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
 		);
 		scripts = (
