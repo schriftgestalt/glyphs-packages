@@ -4282,7 +4282,18 @@
 					en = "Script Juggler";
 				};
 				url = "https://github.com/mekkablue/ScriptJuggler";
-			}
+			},
+			{
+				descriptions = {
+					en = "Production scripts by Josep Patau.";
+				};
+				installName = "tipo-pepel-scripts";
+				titles = {
+					en = "Tipo Pepel Scripts";
+				};
+				url = "https://github.com/joseppatau/Tipo-Pepel-Scripts";
+			},
+			
 			// *** INSERT NEW SCRIPTS ABOVE THIS LINE
 		);
 		modules = (
