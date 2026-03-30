@@ -4196,7 +4196,7 @@
 				descriptions = {
 					en = "In-house production tools of TypeType foundry, maintained by Viktor Rubenko.";
 				};
-				installName = "typetype";
+				installName = "TypeType";
 				titles = {
 					en = "TypeType";
 				};
@@ -4247,7 +4247,7 @@
 				descriptions = {
 					en = "Alexandr Hudeček’s script ‘unlocks’ kerning for selected pairs of glyphs, i.e., it turns group kerning into kerning exceptions.";
 				};
-				installName = "KerningPairsUnlocker";
+				installName = "Kerning Pairs Unlocker";
 				titles = {
 					en = "Kerning Pairs Unlocker";
 				};
@@ -4257,7 +4257,7 @@
 				descriptions = {
 					en = "Turns any font into Papyrus.";
 				};
-				installName = "papyrify";
+				installName = "Papyrify";
 				titles = {
 					en = "Papyrify";
 				};
@@ -4267,7 +4267,7 @@
 				descriptions = {
 					en = "Build wayfinding lozenges as ligatures within the frontmost font.";
 				};
-				installName = "lozenge-builder";
+				installName = "Lozenge Builder";
 				titles = {
 					en = "Lozenge Builder";
 				};
@@ -4277,7 +4277,7 @@
 				descriptions = {
 					en = "Sort production scripts and store them for each project.";
 				};
-				installName = "script-juggler";
+				installName = "Script Juggler";
 				titles = {
 					en = "Script Juggler";
 				};
@@ -4287,7 +4287,7 @@
 				descriptions = {
 					en = "Production scripts by Josep Patau.";
 				};
-				installName = "tipo-pepel-scripts";
+				installName = "Tipo Pepel";
 				titles = {
 					en = "Tipo Pepel Scripts";
 				};
