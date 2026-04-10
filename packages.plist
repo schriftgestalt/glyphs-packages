@@ -3695,6 +3695,20 @@
 				};
 				screenshot = "https://raw.githubusercontent.com/mekkablue/PixelSlanter/main/PixelSlanter.png";
 			},
+			{
+				titles = {
+					en = "Subtractor";
+					de = "Abzieher";
+					fr = "Soustracteur";
+					es = "Sustractor";
+				};
+				url = "https://github.com/mekkablue/Subtractor";
+				path = "Subtractor.glyphsFilter";
+				descriptions = {
+					en = "*Filter > Subtractor* (de: *Abzieher,* fr: *Soustracteur,* es: *Sustractor*) subtracts prebuilt shapes from your glyph layers, with some optional randomization.";
+				};
+				screenshot = "https://raw.githubusercontent.com/mekkablue/Subtractor/main/Subtractor.png";
+			},
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
 		);
 		scripts = (
