@@ -3,6 +3,16 @@
 		plugins = (
 			{
 				titles = {
+					en = "CmdZoom";
+				};
+				url = "https://github.com/thierryblancpain/cmdzoom";
+				path = "CmdZoom.glyphsPlugin";
+				descriptions = {
+					en = "Figma-style CMD + scroll zoom. Hold the CMD key and scroll with your trackpad or mouse wheel over the edit view to zoom in and out, centred on the cursor.";
+				};
+			},
+{
+				titles = {
 					en = "FastScripts";
 				};
 				url = "https://github.com/ViktorRubenko/FastScripts";
