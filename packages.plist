@@ -3709,18 +3709,18 @@
 				};
 				screenshot = "https://raw.githubusercontent.com/mekkablue/Subtractor/main/Subtractor.png";
 			},
-             {
-                titles = {
+			{
+				titles = {
 					en = "TypeSpan";
 				};
-				identifier = "typespan";
-                url = "https://github.com/TypeSpan/TypeSpan-Glyphs";
-                path = "TypeSpan.glyphsReporter";
-                description = {
+				identifier = typespan;
+				url = "https://github.com/TypeSpan/TypeSpan-Glyphs";
+				path = "TypeSpan.glyphsReporter";
+				descriptions = {
 					en = "Tracks time spent per glyph, master, and font file — displayed as a live overlay in the edit tab. Open preferences from *Window > TypeSpan Preferences* or right-click the canvas. Export a web report from *File > Export TypeSpan Report*. Visit [Official Site - https://typespan.com](https://typespan.com) for more.";
-                };
-                screenshot = "https://raw.githubusercontent.com/TypeSpan/TypeSpan-Glyphs/refs/heads/main/images/cover.png";
-            }
+				};
+				screenshot = "https://raw.githubusercontent.com/TypeSpan/TypeSpan-Glyphs/refs/heads/main/images/cover.png";
+			}
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
 		);
 		scripts = (
