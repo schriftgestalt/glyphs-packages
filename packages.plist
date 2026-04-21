@@ -3720,7 +3720,19 @@
 					en = "Tracks time spent per glyph, master, and font file — displayed as a live overlay in the edit tab. Open preferences from *Window > TypeSpan Preferences* or right-click the canvas. Export a web report from *File > Export TypeSpan Report*. Visit [Official Site - https://typespan.com](https://typespan.com) for more.";
 				};
 				screenshot = "https://raw.githubusercontent.com/TypeSpan/TypeSpan-Glyphs/refs/heads/main/images/cover.png";
-			}
+			},
+			{
+				titles = {
+					en = "Vertical Rotated Preview";
+				};
+				identifier = VerticalRotatedPreview;
+				url = "https://github.com/Tosche/Vertical-Rotated-Preview";
+				path = "VerticalRotatedWindow.glyphsPlugin";
+				descriptions = {
+					en = "Window to display Edit View content in a vertical-rotated orientation. Especially useful for vertical scripts like Mongolian.";
+				};
+				screenshot = "https://raw.githubusercontent.com/Tosche/Vertical-Rotated-Preview/blob/main/Screenshot.png";
+			},
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
 		);
 		scripts = (
