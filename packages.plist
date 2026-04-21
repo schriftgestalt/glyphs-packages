@@ -3731,7 +3731,7 @@
 				descriptions = {
 					en = "Window to display Edit View content in a vertical-rotated orientation. Especially useful for vertical scripts like Mongolian.";
 				};
-				screenshot = "https://raw.githubusercontent.com/Tosche/Vertical-Rotated-Preview/blob/main/Screenshot.png";
+				screenshot = "https://raw.githubusercontent.com/Tosche/Vertical-Rotated-Preview/blob/main/Screenshot.jpg";
 			},
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
 		);
