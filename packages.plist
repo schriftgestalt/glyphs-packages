@@ -4496,6 +4496,16 @@
 				minVersion = "3337";
 				maxVersion = "3799";
 			},
-		);
+	{
+		author = "Jona Saucedo";
+		description = "Converts any typeface to a dot type version using a global grid. Works universally with Sans Serif, Serif, Monospace and Variable Fonts. Features 7 dot shapes, gradient mode, grid offset controls, presets, and composite glyph support.";
+		fileName = "DotType.glyphsFilter";
+		id = "com.nonfoundry.DotType";
+		minGlyphsVersion = "3.0";
+		name = "DotType";
+		title = "DotType";
+		url = "https://github.com/TheJonassss/DotType";
+	},
+	);
 	};
 }
