@@ -1259,6 +1259,7 @@
 					ru = "Трассировка изображения";
 				};
 				url = "https://github.com/schriftgestalt/GlyphsTracePlugin";
+				maxVersion = "3799";
 			},
 			{
 				descriptions = {
@@ -1271,6 +1272,7 @@
 					en = "Speed Punk";
 				};
 				url = "https://github.com/yanone/speedpunk";
+				maxVersion = "3799";
 			},
 			{
 				descriptions = {
