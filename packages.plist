@@ -3739,12 +3739,12 @@
 			{
 				descriptions = {
 					en = "Converts any typeface to a dot type version using a global grid. Works universally with Sans Serif, Serif, Monospace and Variable Fonts. Features 7 dot shapes, gradient mode, grid offset controls, presets, and composite glyph support.";
-				}
+				};
 				path = "DotType.glyphsFilter";
 				minGlyphsVersion = "3.0";
 				titles = {
 					en = "DotType";
-				}
+				};
 				url = "https://github.com/TheJonassss/DotType";
 			},
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
