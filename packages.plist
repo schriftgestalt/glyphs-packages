@@ -1120,30 +1120,30 @@
 				};
 				url = "https://github.com/mekkablue/DeleteSmallPaths";
 			},
-			{
-				descriptions = {
-					en = "*View > Show Rekha* shows a Rekha line in Bengali, Devanagari and Gurmukhi letters. It takes its values from a custom parameter in *File > Font Info > Masters* called *Rekha*, with comma-separated values for height, thickness and overshoot. If a *rekha* anchor is present in the glyph, it will use it as the left edge of the Rekha line.";
-					ru = "*Просмотр > Показать Rekha* показывает линию Rekha (горизонтальный элемент) в буквах бенгальского языка, деванагари и гурмукхи. Она берет свои значения из кастомного параметра в *Файл > Информация о шрифте > Мастера* под названием *Rekha*, со значениями высоты, толщины и проскакивание, разделенными запятыми. Если в глифе присутствует якорь *rekha*, он будет использоваться в качестве левого края линии Rekha.";
-				};
-				path = RekhaViewer.glyphsReporter;
-				screenshot = "https://raw.githubusercontent.com/mekkablue/Rekha/master/RekhaViewer.png";
-				titles = {
-					en = "Rekha Viewer";
-				};
-				url = "https://github.com/mekkablue/Rekha";
-			},
-			{
-				descriptions = {
-					en = "*Filter > RekhaMaker* inserts a Rekha line in Bengali, Devanagari and Gurmukhi letters. Supply values for height, thickness and overshoot, and press the *Insert* button. If a *rekha* anchor is present in the glyph, it will use it as the left edge of the Rekha line.";
-					ru = "*Фильтр > RekhaMaker* вставляет линию Rekha из букв бенгальского языка, деванагари и гурмукхи. Задайте значения высоты, толщины и проскакивания и нажмите кнопку *Вставить*. Если в глифе присутствует якорь *rekha*, он будет использоваться в качестве левого края линии Rekha.";
-				};
-				path = RekhaMaker.glyphsFilter;
-				screenshot = "https://raw.githubusercontent.com/mekkablue/Rekha/master/RekhaMaker.png";
-				titles = {
-					en = "Rekha Maker";
-				};
-				url = "https://github.com/mekkablue/Rekha";
-			},
+			// {
+			// 	descriptions = {
+			// 		en = "*View > Show Rekha* shows a Rekha line in Bengali, Devanagari and Gurmukhi letters. It takes its values from a custom parameter in *File > Font Info > Masters* called *Rekha*, with comma-separated values for height, thickness and overshoot. If a *rekha* anchor is present in the glyph, it will use it as the left edge of the Rekha line.";
+			// 		ru = "*Просмотр > Показать Rekha* показывает линию Rekha (горизонтальный элемент) в буквах бенгальского языка, деванагари и гурмукхи. Она берет свои значения из кастомного параметра в *Файл > Информация о шрифте > Мастера* под названием *Rekha*, со значениями высоты, толщины и проскакивание, разделенными запятыми. Если в глифе присутствует якорь *rekha*, он будет использоваться в качестве левого края линии Rekha.";
+			// 	};
+			// 	path = RekhaViewer.glyphsReporter;
+			// 	screenshot = "https://raw.githubusercontent.com/mekkablue/Rekha/master/RekhaViewer.png";
+			// 	titles = {
+			// 		en = "Rekha Viewer";
+			// 	};
+			// 	url = "https://github.com/mekkablue/Rekha";
+			// },
+			// {
+			// 	descriptions = {
+			// 		en = "*Filter > RekhaMaker* inserts a Rekha line in Bengali, Devanagari and Gurmukhi letters. Supply values for height, thickness and overshoot, and press the *Insert* button. If a *rekha* anchor is present in the glyph, it will use it as the left edge of the Rekha line.";
+			// 		ru = "*Фильтр > RekhaMaker* вставляет линию Rekha из букв бенгальского языка, деванагари и гурмукхи. Задайте значения высоты, толщины и проскакивания и нажмите кнопку *Вставить*. Если в глифе присутствует якорь *rekha*, он будет использоваться в качестве левого края линии Rekha.";
+			// 	};
+			// 	path = RekhaMaker.glyphsFilter;
+			// 	screenshot = "https://raw.githubusercontent.com/mekkablue/Rekha/master/RekhaMaker.png";
+			// 	titles = {
+			// 		en = "Rekha Maker";
+			// 	};
+			// 	url = "https://github.com/mekkablue/Rekha";
+			// },
 			{
 				descriptions = {
 					en = "*Filter > Remove Kerning Exceptions* (de: *Kerning-Ausnahmen entfernen,* fr: *Supprimer les exceptions de crénage,* es: *Borrar excepciones de kerning*) removes all kerning exception of selected glyphs in the current master, leaving group kerning intact. Its true power lies in its application as custom parameter. This can be useful in situations where you change the shape of a letter with a *Rename Glyphs* parameter, and its kerning exceptions do not apply anymore.";
@@ -2637,19 +2637,19 @@
 				url = "https://github.com/schriftgestalt/ThickerOutlines";
 				description = "Draw a thicker outline to stand out more over a background image";
 			},
-			{
-				titles = {
-					en = "RekhaBrekha";
-					de = "RäckhaBräckha";
-					fr = "RékhaBrékha";
-				};
-				path = "RekhaBrekha.glyphsFilter";
-				url = "https://github.com/mekkablue/RekhaBrekha";
-				descriptions = {
-					en = "RekhaBrekha (de: *RäckhaBräckha,* fr: *RékhaBrékha*) is for you if you use regular Bengali, Devanagari or Gurmukhi letters as components in conjuncts, and the conjuncts end up having a rekha line or two too many. RekhaBrekha will decompose any component that references an active (exporting) Bengali, Devanagari or Gurmukhi letter.\n\nRekhaBrekha is only useful as a PreFilter in your static font exports, especially in TrueType-flavored exports. To add the PreFilter, copy this line:\n\n`{customParameters = ({name = PreFilter;value = RekhaBrekha;});}`\n\n... and paste it in your export’s custom parameters.";
-				};
-				minVersion = 3000;
-			},
+			// {
+			// 	titles = {
+			// 		en = "RekhaBrekha";
+			// 		de = "RäckhaBräckha";
+			// 		fr = "RékhaBrékha";
+			// 	};
+			// 	path = "RekhaBrekha.glyphsFilter";
+			// 	url = "https://github.com/mekkablue/RekhaBrekha";
+			// 	descriptions = {
+			// 		en = "RekhaBrekha (de: *RäckhaBräckha,* fr: *RékhaBrékha*) is for you if you use regular Bengali, Devanagari or Gurmukhi letters as components in conjuncts, and the conjuncts end up having a rekha line or two too many. RekhaBrekha will decompose any component that references an active (exporting) Bengali, Devanagari or Gurmukhi letter.\n\nRekhaBrekha is only useful as a PreFilter in your static font exports, especially in TrueType-flavored exports. To add the PreFilter, copy this line:\n\n`{customParameters = ({name = PreFilter;value = RekhaBrekha;});}`\n\n... and paste it in your export’s custom parameters.";
+			// 	};
+			// 	minVersion = 3000;
+			// },
 			{
 				titles = {
 					en = "Show HT Letterspacer Areas";
@@ -3746,6 +3746,18 @@
 					en = "DotType";
 				};
 				url = "https://github.com/TheJonassss/DotType";
+			},
+			{
+				titles = {
+					en = "Rekha";
+				};
+				path = "Rekha.glyphsPlugin";
+				minGlyphsVersion = "3.0";
+				descriptions = {
+						en = "*Filter > RekhaMaker* inserts a Rekha line in Bengali, Devanagari and Gurmukhi letters. Supply values for height, thickness and overshoot, and press the *Insert* button. If a *rekha* anchor is present in the glyph, it will use it as the left edge of the Rekha line, likewise *rekha_stop* anchors for creating a right edge. You can use alternate *rekha* and *rekha_stop* anchors with arbitrary suffixes for multiple interruptions of the Rekha line.\n*View > Show Rekha* shows a Rekha line in Bengali, Devanagari and Gurmukhi letters. It takes its values from a custom parameter in *File > Font Info > Masters* called *Rekha*, with comma-separated values for height, thickness and overshoot.\nThis version incorporates the RekhaBrekha functionality by default.";
+				};
+				screenshot = "https://raw.githubusercontent.com/mekkablue/Rekha/blob/main/rekha.png";
+				url = "https://github.com/mekkablue/Rekha";
 			},
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
 		);
