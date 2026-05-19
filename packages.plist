@@ -3756,7 +3756,7 @@
 				descriptions = {
 						en = "*Filter > RekhaMaker* inserts a Rekha line in Bengali, Devanagari and Gurmukhi letters. Supply values for height, thickness and overshoot, and press the *Insert* button. If a *rekha* anchor is present in the glyph, it will use it as the left edge of the Rekha line, likewise *rekha_stop* anchors for creating a right edge. You can use alternate *rekha* and *rekha_stop* anchors with arbitrary suffixes for multiple interruptions of the Rekha line.\n*View > Show Rekha* shows a Rekha line in Bengali, Devanagari and Gurmukhi letters. It takes its values from a custom parameter in *File > Font Info > Masters* called *Rekha*, with comma-separated values for height, thickness and overshoot.\nThis version incorporates the RekhaBrekha functionality by default.";
 				};
-				screenshot = "https://raw.githubusercontent.com/mekkablue/Rekha/blob/main/rekha.png";
+				screenshot = "https://raw.githubusercontent.com/mekkablue/Rekha/refs/heads/master/rekha.png";
 				url = "https://github.com/mekkablue/Rekha";
 			},
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
