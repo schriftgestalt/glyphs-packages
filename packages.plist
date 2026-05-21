@@ -3498,16 +3498,28 @@
 				};
 				url = "https://github.com/mekkablue/BetterVFExport";
 			},
-			// {
-			// 	titles = {
-			// 		en = "Glyphs MCP";
-			// 	};
-			// 	url = "https://github.com/thierryc/Glyphs-mcp";
-			// 	path = "src/glyphs-mcp/Glyphs MCP.glyphsPlugin";
-			// 	descriptions = {
-			// 		en = "*Edit > Start MCP Server* exposes Glyphs tools via the Model Context Protocol for agent integration.";
-			// 	};
-			// },
+			{
+				titles = {
+					en = "Glyphs MCP Server";
+				};
+				identifier = "glyphsmcpserver";
+				url = "https://github.com/thierryc/Glyphs-mcp";
+				path = "plugin-manager/Glyphs MCP.glyphsPlugin";
+				minGlyphsVersion = "3.1";
+				dependencies = (
+					FastMCP
+				);
+				descriptions = {
+					en = "*Edit > Start MCP Server* exposes Glyphs tools via the Model Context Protocol for agent integration in Codex and Claude Code AI apps. See the [documentation](https://www.ap.cx/Glyphs-App-MCP-Server).";
+					fr = "*Edit > Start MCP Server* expose les outils de Glyphs via le Model Context Protocol pour l’intégration d’agents dans les apps IA Codex et Claude Code. Consultez la [documentation](https://www.ap.cx/Glyphs-App-MCP-Server).";
+					de = "*Edit > Start MCP Server* stellt Glyphs-Werkzeuge über das Model Context Protocol für die Agenten-Integration in den KI-Apps Codex und Claude Code bereit. Siehe [Dokumentation](https://www.ap.cx/Glyphs-App-MCP-Server).";
+					it = "*Edit > Start MCP Server* espone gli strumenti di Glyphs tramite il Model Context Protocol per l’integrazione di agenti nelle app di IA Codex e Claude Code. Consulta la [documentazione](https://www.ap.cx/Glyphs-App-MCP-Server).";
+					es = "*Edit > Start MCP Server* expone las herramientas de Glyphs mediante Model Context Protocol para la integración de agentes en las apps de IA Codex y Claude Code. Consulta la [documentación](https://www.ap.cx/Glyphs-App-MCP-Server).";
+					zh = "*Edit > Start MCP Server* 通过 Model Context Protocol 在 Codex 和 Claude Code AI 应用中实现 Glyphs 工具的智能代理集成。请参阅[文档](https://www.ap.cx/Glyphs-App-MCP-Server)。";
+					ja = "*Edit > Start MCP Server* は Model Context Protocol を通じて、Codex と Claude Code の AI アプリで Glyphs ツールのエージェント連携を可能にします。[ドキュメント](https://www.ap.cx/Glyphs-App-MCP-Server)を参照してください。";
+				};
+				screenshot = "https://raw.githubusercontent.com/thierryc/Glyphs-mcp/refs/heads/main/GlyphsMcpScreenshot.png";
+			},
 			{
 				titles = {
 					en = "Zoom to Selection";
@@ -3647,6 +3659,7 @@
 					en = "GlyphsMCP";
 				};
 				identifier = "glyphsmcp";
+				installName = "glyphs-mcp";
 				url = "https://github.com/nmassi/glyphs-mcp";
 				path = "plugin/GlyphsMCP.glyphsPlugin";
 				descriptions = {
@@ -4520,6 +4533,34 @@
 				};
 				minVersion = "3337";
 				maxVersion = "3799";
+			},
+			{
+				identifier = MCP;
+				hidden = 0;
+				titles = {
+					en = "MCP";
+				};
+				url = "https://github.com/modelcontextprotocol/python-sdk";
+				path = "src/mcp";
+				descriptions = {
+					en = "Python SDK for the Model Context Protocol.";
+				};
+			},
+			{
+				identifier = FastMCP;
+				hidden = 0;
+				titles = {
+					en = "FastMCP";
+				};
+				url = "https://github.com/PrefectHQ/fastmcp.git";
+				branch = "main";
+				path = "src/fastmcp";
+				dependencies = (
+					MCP
+				);
+				descriptions = {
+					en = "FastMCP runtime for building Model Context Protocol servers and clients.";
+				};
 			},
 		);
 	};
