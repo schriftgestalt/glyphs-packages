@@ -4521,6 +4521,22 @@
 				minVersion = "3337";
 				maxVersion = "3799";
 			},
+			{
+				identifier = "taipo-chat";
+				titles = {
+					en = "Taipo Chat";
+				};
+				url = "https://github.com/zimka/taipo";
+				path = "TaipoChat.glyphsPlugin";
+				descriptions = {
+					en = "A type-design assistant inside Glyphs. Describe a problem in plain language; it reads your font, proposes a step-by-step plan, and applies node-level edits only after you type `Approve`. Every change shows a red/green diff overlay. Bring your own OpenAI-compatible API key; your .glyphs file stays on your Mac. Open source (MIT).";
+				};
+				screenshot = "https://raw.githubusercontent.com/zimka/taipo/main/assets/screen_taipo_chat.png";
+				dependencies = (
+					vanilla
+				);
+				minVersion = "3400";
+			},
 		);
 	};
 }
