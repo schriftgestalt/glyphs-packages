@@ -3759,6 +3759,18 @@
 				screenshot = "https://raw.githubusercontent.com/mekkablue/Rekha/refs/heads/master/rekha.png";
 				url = "https://github.com/mekkablue/Rekha";
 			},
+			{
+				identifier = "vf-clamp";
+				titles = {
+					en = "vf-clamp";
+				};
+				url = "https://github.com/Liiift-Studio/vf-clamp-glyphs";
+				path = "vf-clamp.glyphsPlugin";
+				descriptions = {
+					en = "*Script > vf-clamp > Generate Restricted VFs…* generates a variable font restricted to a set of named instances — useful for per-purchase font delivery or producing scoped subfamilies. Source can be a .ttf/.otf on disk or the currently-open Glyphs document. Output formats: .glyphs, TTF, OTF, WOFF, WOFF2. Open source (MIT).";
+				};
+				minVersion = "3200";
+			},
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
 		);
 		scripts = (
