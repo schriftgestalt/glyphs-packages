@@ -3760,7 +3760,23 @@
 				url = "https://github.com/mekkablue/Rekha";
 			},
 			{
-				identifier = "vf-clamp";
+				identifier = "taipo-chat";
+				titles = {
+					en = "Taipo Chat";
+				};
+				url = "https://github.com/zimka/taipo";
+				path = "TaipoChat.glyphsPlugin";
+				descriptions = {
+					en = "A type-design assistant inside Glyphs. Describe a problem in plain language; it reads your font, proposes a step-by-step plan, and applies node-level edits only after you type `Approve`. Every change shows a red/green diff overlay. Bring your own OpenAI-compatible API key; your .glyphs file stays on your Mac. Open source (MIT).";
+				};
+				screenshot = "https://raw.githubusercontent.com/zimka/taipo/main/assets/screen_taipo_chat.png";
+				dependencies = (
+					vanilla
+				);
+				minVersion = "3400";
+			},
+      {
+        identifier = "vf-clamp";
 				titles = {
 					en = "vf-clamp";
 				};
@@ -3770,7 +3786,7 @@
 					en = "*Script > vf-clamp > Generate Restricted VFs…* generates a variable font restricted to a set of named instances — useful for per-purchase font delivery or producing scoped subfamilies. Source can be a .ttf/.otf on disk or the currently-open Glyphs document. Output formats: .glyphs, TTF, OTF, WOFF, WOFF2. Open source (MIT).";
 				};
 				minVersion = "3200";
-			},
+       },
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
 		);
 		scripts = (
@@ -4532,22 +4548,6 @@
 				};
 				minVersion = "3337";
 				maxVersion = "3799";
-			},
-			{
-				identifier = "taipo-chat";
-				titles = {
-					en = "Taipo Chat";
-				};
-				url = "https://github.com/zimka/taipo";
-				path = "TaipoChat.glyphsPlugin";
-				descriptions = {
-					en = "A type-design assistant inside Glyphs. Describe a problem in plain language; it reads your font, proposes a step-by-step plan, and applies node-level edits only after you type `Approve`. Every change shows a red/green diff overlay. Bring your own OpenAI-compatible API key; your .glyphs file stays on your Mac. Open source (MIT).";
-				};
-				screenshot = "https://raw.githubusercontent.com/zimka/taipo/main/assets/screen_taipo_chat.png";
-				dependencies = (
-					vanilla
-				);
-				minVersion = "3400";
 			},
 		);
 	};
