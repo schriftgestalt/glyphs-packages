@@ -4558,6 +4558,13 @@
 				minVersion = "3337";
 				maxVersion = "3799";
 			},
-		);
+		 {
+            titles = { en = "Version Bumper"; };
+            url = "https://github.com/rsztype/Version-Bumper";
+            path = "Version-Bumper.glyphsPalette";
+            descriptions = { en = "Adds an Auto-bump switch to the inspector that increments versionMinor by 0.001 and saves on every export."; };
+            screenshot = "https://raw.githubusercontent.com/rsztype/Version-Bumper/main/RSZVersionBumper.png";
+        },
+	);
 	};
 }
