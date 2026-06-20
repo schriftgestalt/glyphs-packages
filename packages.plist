@@ -4385,7 +4385,16 @@
 				};
 				url = "https://github.com/joseppatau/Tipo-Pepel-Scripts";
 			},
-			
+			{
+				descriptions = {
+					en = "Adjusts the weight & width of selected glyphs.";
+				};
+				installName = "Cape Arcona Type Foundry";
+				titles = {
+					en = "Cape Arcona Type Foundry";
+				};
+				url = "https://github.com/CapeArconaTypeFoundry/Cape-Weightor";
+			},
 			// *** INSERT NEW SCRIPTS ABOVE THIS LINE
 		);
 		modules = (
