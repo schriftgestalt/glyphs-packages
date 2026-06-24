@@ -3789,6 +3789,18 @@
        },
 			{
 				titles = {
+					en = "Ultimate Measure";
+				};
+				url = "https://github.com/sashakoltsov/UltimateMeasure";
+				path = "UltimateMeasure.glyphsReporter";
+				descriptions = {
+					en = "*View > Ultimate Measure*. Hold Option for live stem and edge measurement and full cross-section slices (Option+Shift); with a node selected, shows X/Y distances to the node, handle, corner or overlap crossing under the cursor.";
+				};
+				identifier = "ultimate-measure";
+				screenshot = "https://raw.githubusercontent.com/sashakoltsov/UltimateMeasure/main/screenshot.gif";
+			},
+			{
+				titles = {
 					en = "AI Font Assistant";
 				};
 				url = "https://github.com/mixfont/ai-font-assistant";
@@ -4414,7 +4426,16 @@
 				};
 				url = "https://github.com/joseppatau/Tipo-Pepel-Scripts";
 			},
-			
+			{
+				descriptions = {
+					en = "Adjusts the weight & width of selected glyphs.";
+				};
+				installName = "Cape Arcona Type Foundry";
+				titles = {
+					en = "Cape Arcona Type Foundry";
+				};
+				url = "https://github.com/CapeArconaTypeFoundry/Cape-Weightor";
+			},
 			// *** INSERT NEW SCRIPTS ABOVE THIS LINE
 		);
 		modules = (
