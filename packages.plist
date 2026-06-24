@@ -1882,7 +1882,7 @@
 				titles = {
 					en = GlyphSILE;
 				};
-				maxVersion = "2000";
+				maxGlyphsVersion = "2.99";
 				url = "https://github.com/simoncozens/GlyphSILE.glyphsplugin";
 			},
 			{
