@@ -3775,8 +3775,8 @@
 				);
 				minVersion = "3400";
 			},
-      {
-        identifier = "vf-clamp";
+			{
+				identifier = "vf-clamp";
 				titles = {
 					en = "vf-clamp";
 				};
@@ -3786,7 +3786,7 @@
 					en = "*Script > vf-clamp > Generate Restricted VFs…* generates a variable font restricted to a set of named instances — useful for per-purchase font delivery or producing scoped subfamilies. Source can be a .ttf/.otf on disk or the currently-open Glyphs document. Output formats: .glyphs, TTF, OTF, WOFF, WOFF2. Open source (MIT).";
 				};
 				minVersion = "3200";
-       },
+			},
 			{
 				titles = {
 					en = "Ultimate Measure";
