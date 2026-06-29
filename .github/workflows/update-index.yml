@@ -1,0 +1,41 @@
+name: Update Package Index
+
+on:
+  schedule:
+    - cron: "0 */6 * * *" # four times a day
+  workflow_dispatch:
+
+permissions:
+  contents: write # needed to manage the Release asset
+
+# never let two runs (e.g. a scheduled run and a manual dispatch) publish at once
+concurrency:
+  group: update-package-index
+  cancel-in-progress: false
+
+jobs:
+  build:
+    name: Build and publish ordered URL list
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+      - name: Install dependencies
+        run: pip install openstep-plist
+      - name: Build ordered URL list
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 build-update-index.py
+      - name: Publish as Release asset
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh release view info >/dev/null 2>&1 \
+            || gh release create info \
+                 --title "Package Index" \
+                 --notes "Auto-updated list of package URLs ordered by last update." \
+                 --latest=false
+          gh release upload info packages-by-update --clobber
