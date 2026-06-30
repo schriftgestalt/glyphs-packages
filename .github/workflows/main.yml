@@ -20,6 +20,6 @@ jobs:
       - name: Lint Property List
         run: plutil -lint packages.plist
       - name: Validate Install Names
-        run: swift validate-install-names.swift
+        run: swift system/validate-install-names.swift
       - name: Validate Paths
-        run: swift validate-paths.swift
+        run: swift system/validate-paths.swift

@@ -1,4 +1,4 @@
-name: Update Package Index
+name: Update Info
 
 on:
   schedule:
@@ -15,7 +15,7 @@ concurrency:
 
 jobs:
   build:
-    name: Build and publish ordered URL list
+    name: Compile and publish package index info
     runs-on: ubuntu-latest
     timeout-minutes: 15
     steps:
@@ -24,18 +24,18 @@ jobs:
         with:
           python-version: "3.x"
       - name: Install dependencies
-        run: pip install openstep-plist
-      - name: Build ordered URL list
+        run: pip install openstep-plist pillow
+      - name: Build package index info
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python3 build-update-index.py
+        run: python3 system/compile-info.py
       - name: Publish as Release asset
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           gh release view info >/dev/null 2>&1 \
             || gh release create info \
-                 --title "Package Index" \
-                 --notes "Auto-updated list of package URLs ordered by last update." \
+                 --title "Info" \
+                 --notes "Auto-updating metadata about the package index." \
                  --latest=false
-          gh release upload info packages-by-update --clobber
+          gh release upload info packages-info.json --clobber
