@@ -250,8 +250,7 @@ def main():
     }
 
     with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
-        json.dump(output, f, ensure_ascii=False, indent=2)
-        f.write("\n")
+        json.dump(output, f, ensure_ascii=False, separators=(",", ":"))
 
     log(
         "wrote {} URLs and {} screenshot sizes to {}".format(
