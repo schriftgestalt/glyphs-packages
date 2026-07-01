@@ -4444,8 +4444,8 @@
 					en = "The Python 3 runtime packaged for Glyphs.\n⚠️ Verify the selected Python in *Glyphs > Settings > Addons > Python version.* To use this one, make sure you pick the one that says ‘Glyphs’ after the version number. [More info in the tutorial.](https://glyphsapp.com/learn/extending-glyphs)";
 					ru = "Python 3, созданный для Glyphs.\n⚠️ Проверьте возможность использования Python 3, зайдя в меню *Glyphs > Настройки > Дополнения > Python version.* Вам доступна эта версия, если после номера версии написано ‘Glyphs’. [Больше информации в учебнике.](https://glyphsapp.com/learn/extending-glyphs)";
 				};
-				url = "https://github.com/schriftgestalt/GlyphsPythonPlugin";
-				archiveURL = "https://github.com/schriftgestalt/GlyphsPythonPlugin/releases/download/python-3.14/GlyphsPythonPlugin.zip";
+				url = "https://github.com/schriftgestalt/GlyphsPython";
+				archiveURL = "https://github.com/schriftgestalt/GlyphsPython/releases/download/python-3.14/GlyphsPython.zip";
 				installName = "Python";
 				minVersion = "3800";
 			},
