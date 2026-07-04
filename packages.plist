@@ -4409,6 +4409,17 @@
 				};
 				url = "https://github.com/CapeArconaTypeFoundry/Cape-Weightor";
 			},
+			{
+				descriptions = {
+					en = "Set of Glyphs 3+ scripts by Brazilian designer Diego Maldonado.";
+				};
+				installName = "Diego Maldonado";
+				titles = {
+					en = "Diego Maldonado’s Scripts";
+				};
+				url = "https://github.com/diegommaldo/Glyphs3-Scripts.git";
+				
+			}
 			// *** INSERT NEW SCRIPTS ABOVE THIS LINE
 		);
 		modules = (
