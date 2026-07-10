@@ -3801,6 +3801,35 @@
 				identifier = "ultimate-measure";
 				screenshot = "https://raw.githubusercontent.com/sashakoltsov/UltimateMeasure/main/screenshot.gif";
 			},
+			{
+				titles = {
+					en = "AI Font Assistant";
+				};
+				url = "https://github.com/mixfont/ai-font-assistant";
+				path = "AI Font Assistant.glyphsPlugin";
+				descriptions = {
+					ar = "يوسّع مجموعة أساسية من المحارف إلى خط كامل باستخدام الذكاء الاصطناعي.";
+					cs = "Rozšíří základní sadu glyfů na kompletní písmo pomocí AI.";
+					de = "Erweitert einen Grundbestand an Glyphen mithilfe von KI zu einer vollständigen Schrift.";
+					en = "Extends a base set of glyphs into a complete font using AI.";
+					es = "Amplía un conjunto base de glifos para convertirlo en una fuente completa mediante IA.";
+					fr = "Étend un jeu de glyphes de base en une police complète grâce à l'IA.";
+					it = "Estende un set base di glifi in un font completo usando l'IA.";
+					ja = "AIを使って基本的なグリフセットを完全なフォントへ拡張します。";
+					ko = "AI를 사용해 기본 글리프 세트를 완성된 폰트로 확장합니다.";
+					pt = "Expande um conjunto base de glifos para uma fonte completa usando IA.";
+					ru = "С помощью ИИ расширяет базовый набор глифов до полноценного шрифта.";
+					tr = "Temel bir glif kümesini yapay zeka kullanarak eksiksiz bir yazı tipine dönüştürür.";
+					zh-Hans = "使用 AI 将一组基础字形扩展为完整字体。";
+					zh-Hant = "使用 AI 將一組基本字形擴展為完整字體。";
+				};
+				dependencies = (
+					vanilla
+				);
+				identifier = "mixfont-ai-font-assistant";
+				minGlyphsVersion = "3.0";
+				screenshot = "https://static.mixfont.com/assets/20260615-224854-glyphs1_3_v1-o9l5ajgo.webp";
+			},
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
 		);
 		scripts = (
