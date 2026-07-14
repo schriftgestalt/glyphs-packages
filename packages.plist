@@ -567,6 +567,7 @@
 					ru = "Показывать заполненный контур при редактировании";
 				};
 				url = "https://github.com/mekkablue/ShowFilledPreview";
+				maxVersion = "3799";
 			},
 			{
 				descriptions = {
@@ -1437,6 +1438,7 @@
 					fr = "Afficher remplissage noir";
 				};
 				url = "https://github.com/Tosche/ShowBlackFill";
+				maxVersion = "3799";
 			},
 			{
 				titles = {
