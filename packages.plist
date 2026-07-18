@@ -3815,17 +3815,17 @@
 				screenshot = "https://raw.githubusercontent.com/sashakoltsov/UltimateMeasure/main/screenshot.gif";
 			},
 			{
-        		descriptions = {
-           			en = "Toggle the grey Hangul component cloud overlay of composites referencing the current glyph.";
-            		ko = "편집 중인 글자를 참조하는 컴포넌트의 회색 한글 구름을 끄고 켤 수 있습니다.";
-        		};
-        		path = "HideHangulClouds.glyphsPlugin";
+				descriptions = {
+					en = "Toggle the grey Hangul component cloud overlay of composites referencing the current glyph.";
+					ko = "편집 중인 글자를 참조하는 컴포넌트의 회색 한글 구름을 끄고 켤 수 있습니다.";
+				};
+				path = "HideHangulClouds.glyphsPlugin";
 				titles = {
 					en = "Hide Hangul Cloud";
 					ko = "한글 구름 숨기기";
 				};
-        		url = "https://github.com/eeanzn/HideHangulClouds";
-    		},
+				url = "https://github.com/eeanzn/HideHangulClouds";
+			},
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
 		);
 		scripts = (
