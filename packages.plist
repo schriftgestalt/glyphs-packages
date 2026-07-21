@@ -4644,7 +4644,6 @@
 			},
 			{
 				identifier = lighttable-glyphs3;
-				installName = lighttable;
 				hidden = 1;
 				titles = {
 					en = "Light Table API";
