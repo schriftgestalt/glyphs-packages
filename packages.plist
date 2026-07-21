@@ -3426,10 +3426,10 @@
 					zh-Hans = "透写台";
 					zh-Hant = "透寫台";
 				};
+				installName = "Light Table";
 				url = "https://formkunft.com/light-table/";
 				archiveURL = "https://formkunft.com/glyphs/extensions/archive/light-table/latest";
 				path = "Light Table.glyphsPlugin";
-				branch = "release";
 				descriptions = {
 					de = "Leuchttisch bietet eine Fülle von Werkzeugen und Visualisierungen für die Verwaltung deiner Schriftprojekte. Es baut auf Git auf. Das bedeutet, dass auch deine Notizen, Skizzen und Python-Skripte Teil der Versionsgeschichte deines Projekts sein können. Durch die tiefe Integration in Glyphs stehen die Funktionen von Leuchttisch jederzeit zur Verfügung. Und für individuelle Anforderungen gibt es eine umfangreiche Python-API. Weitere Informationen gibt es auf der [Leuchttisch-Website](https://formkunft.com/light-table/).";
 					en = "Light Table provides a rich set of tools and visualizations for managing your font projects. It’s built on top of Git. That means that your notes, sketch files, and Python scripts can be part of your project’s version history, too. Deeply integrated into Glyphs, Light Table’s features are always at your fingertips. And for custom needs, there is an extensive Python API. Learn more on the [Light Table website](https://formkunft.com/light-table/).";
@@ -4660,7 +4660,7 @@
 			},
 			{
 				identifier = lighttable;
-				installName = lighttable;
+				installName = "Light Table";
 				hidden = 1;
 				titles = {
 					en = "Light Table API";
@@ -4668,7 +4668,6 @@
 				"url" = "https://formkunft.com/light-table/";
 				"archiveURL" = "https://formkunft.com/glyphs/extensions/archive/light-table/latest";
 				path = "Python API/lighttable";
-				branch = "release";
 				descriptions = {
 					en = "Python API for the Light Table plugin.";
 				};
