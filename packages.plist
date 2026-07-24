@@ -1284,7 +1284,6 @@
 					en = "Speed Punk";
 				};
 				url = "https://github.com/yanone/speedpunk";
-				maxVersion = "3799";
 			},
 			{
 				descriptions = {
