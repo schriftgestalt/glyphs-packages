@@ -77,6 +77,46 @@
 					zh-Hant = "*顯示* → *顯示零寬度字符* • 繪製彩色線條以指示零寬度字符的存在。";
 				};
 				screenshot = "https://florianpircher.com/glyphs/plugins/show-zero-width-glyphs/screenshot.png";
+				maxVersion = "3799";
+			},
+			{
+				titles = {
+					ar = "إظهار الصور الرمزية بعرض صفري";
+					cs = "Zobrazit glyfy s nulovou šířkou";
+					de = "Breitenlose Glyphen anzeigen";
+					en = "Show Zero-Width Glyphs";
+					es = "Mostrar glifos de ancho cero";
+					fr = "Afficher les glyphes sans chasse";
+					it = "Mostra glifi a larghezza zero";
+					ja = "ゼロ幅グリフを表示";
+					ko = "너비가 0인 글리프 보기";
+					pt = "Mostrar glifos sem tamanho";
+					ru = "Показать глифы нулевой ширины";
+					tr = "Sıfır Genişlikli Glifler Göster";
+					zh-Hans = "显示零宽度字符形";
+					zh-Hant = "顯示零寬度字符";
+				};
+				url = "https://github.com/florianpircher/Show-Zero-Width-Glyphs";
+				archiveURL = "https://formkunft.com/glyphs/extensions/archive/show-zero-width-glyphs/latest";
+				path = "Show Zero-Width Glyphs.glyphsReporter";
+				descriptions = {
+					ar = "*العرض* ← *إظهار الصور الرمزية بعرض صفري* • يرسم خطوطًا ملونة للإشارة إلى وجود صور رمزية بعرض صفري.";
+					cs = "*Zobrazení* → *Zobrazit glyfy s nulovou šířkou* kreslí barevné čáry k označení přítomnosti glyfů s nulovou šířkou.";
+					de = "*Ansicht* → *Breitenlose Glyphen anzeigen* zeichnet eine farbige Linie, um die Gegenwart von breitenlosen Glyphen anzuzeigen";
+					en = "*View* → *Show Zero-Width Glyphs* draws colored lines to indicate the presence of zero-width glyphs.";
+					es = "*Vista* → *Mostrar glifos de ancho cero* dibuja líneas de colores para indicar la presencia de glifos de ancho cero.";
+					fr = "*Affichage* → *Afficher les glyphes sans chasse* trace des lignes de couleur pour indiquer la présence de glyphes sans chasse.";
+					it = "*Vista* → *Mostra glifi a larghezza zero* disegna linee colorate per indicare la presenza di glifi di larghezza zero.";
+					ja = "*表示* → *ゼロ幅グリフを表示* • ゼロ幅グリフの存在をしめｓ宇";
+					ko = "*보기* → *너비가 0인 글리프 보기* • 너비가 0인 글리프 상태를 나타내기 위해 컬러 라인을 그립니다.";
+					pt = "*Visualizar* → *Mostrar glifos sem tamanho* desenha linhas coloridas para indicar a presenças de glifos sem tamanho.";
+					ru = "*Просмотр* → *Показать глифы нулевой ширины* рисует цветные линии, указывающие на наличие глифов нулевой ширины.";
+					tr = "*Görüntü* → *Sıfır Genişlikli Glifler Göster*, sıfır genişlikli gliflerin varlığını belirtmek için renkli çizgiler çizer.";
+					zh-Hans = "*视图* → *显示零宽度字符形* • 绘制彩色线条以指示零宽度字符形的存在。";
+					zh-Hant = "*顯示* → *顯示零寬度字符* • 繪製彩色線條以指示零寬度字符的存在。";
+				};
+				screenshot = "https://florianpircher.com/glyphs/plugins/show-zero-width-glyphs/screenshot.png";
+				minVersion = "3877";
 			},
 			{
 				titles = {
@@ -114,6 +154,46 @@
 					zh-Hant = "按住 Control 鍵可以使用箭頭鍵移動選擇。";
 				};
 				screenshot = "https://florianpircher.com/glyphs/plugins/keyboard-selection-travel/screenshot.png";
+				maxVersion = "3799";
+			},
+			{
+				titles = {
+					ar = "نقل التحديد بمفاتيح الأسهم";
+					cs = "Posuňte výběr pomocí kláves se šipkami";
+					de = "Auswahl mit Pfeiltasten bewegen";
+					en = "Keyboard Selection Travel";
+					es = "Mueve la selección con las teclas de flecha";
+					fr = "Déplacer la sélection avec les touches flèches";
+					it = "Sposta la selezione con i tasti freccia";
+					ja = "矢印キーで選択範囲を移動";
+					ko = "화살표 키로 선택 항목 이동";
+					pt = "Mova a seleção com as setas";
+					ru = "Перемещение выделения при помощи клавиш со стрелками";
+					tr = "Ok tuşlarıyla seçimi taşıyın";
+					zh-Hans = "用方向键移动选择";
+					zh-Hant = "使用箭頭鍵移動選擇";
+				};
+				url = "https://github.com/florianpircher/Keyboard-Selection-Travel";
+				archiveURL = "https://formkunft.com/glyphs/extensions/archive/keyboard-selection-travel/latest";
+				path = "Keyboard Selection Travel.glyphsPlugin";
+				descriptions = {
+					ar = "اضغط مع الاستمرار على مفتاح التحكم لنقل التحديد باستخدام مفاتيح الأسهم.";
+					cs = "Přidržte stisknutou klávesu Control a pomocí kláves se šipkami přesuňte výběr.";
+					de = "Halte die Control-Taste gedrückt, um mit den Pfeiltasten die Auswahl zu bewegen.";
+					en = "Hold down the Control key to move the selection with the arrow keys.";
+					es = "Mantén presionada la tecla Control para mover la selección con las teclas de flecha.";
+					fr = "Maintenez la touche Contrôle enfoncée pour déplacer la sélection à l’aide des touches fléchées.";
+					it = "Tieni premuto il tasto Control per spostare la selezione con i tasti freccia.";
+					ja = "Controlキーを押したまま、矢印キーで選択範囲を移動します。";
+					ko = "Control 키를 누른 상태에서 화살표 키로 선택 항목을 이동하세요.";
+					pt = "Mantenha premida a tecla para mover a seleção com as setas.";
+					ru = "Удерживайте нажатой клавишу Control, чтобы переместить выделение, используя клавиши со стрелками.";
+					tr = "Seçimi ok tuşlarıyla taşımak için Kontrol tuşunu basılı tutun.";
+					zh-Hans = "按住 Control 键可使用方向键移动所选内容。";
+					zh-Hant = "按住 Control 鍵可以使用箭頭鍵移動選擇。";
+				};
+				screenshot = "https://florianpircher.com/glyphs/plugins/keyboard-selection-travel/screenshot.png";
+				minVersion = "3877";
 			},
 			{
 				titles = {
@@ -139,6 +219,33 @@
 				};
 				screenshot = "https://florianpircher.com/glyphs/plugins/guten-tag/screenshot.png";
 				minVersion = 3066;
+				maxVersion = "3799";
+			},
+			{
+				titles = {
+					en = "Guten Tag";
+				};
+				url = "https://github.com/florianpircher/GutenTag";
+				archiveURL = "https://formkunft.com/glyphs/extensions/archive/guten-tag/latest";
+				path = "Guten Tag.glyphsPalette";
+				descriptions = {
+					ar = "ضع علامة على الصور الرمزية الخاصة بك وتنقل بسرعة بين الصور الرمزية ذات الصلة.اقرأ [دليل Guten Tag](https://florianpircher.com/glyphs/plugins/guten-tag/Handbook.pdf) لمعرفة التفاصيل.";
+					cs = "Označte své glyfy a rychle procházejte mezi souvisejícími glyfy. Podrobnosti najdete v [příručce Guten Tag](https://florianpircher.com/glyphs/plugins/guten-tag/Handbook.pdf).";
+					de = "Tagge deine Glyphen und navigiere schnell zwischen verwandten Glyphen. Lies das [Guten Tag Handbuch](https://florianpircher.com/glyphs/plugins/guten-tag/Handbook.pdf) für Details.";
+					en = "Tag your glyphs and quickly navigate between related glyphs. Read the [Guten Tag handbook](https://florianpircher.com/glyphs/plugins/guten-tag/Handbook.pdf) for details.";
+					es = "Etiqueta tus glifos y navega rápidamente entre los glifos relacionados. Lea el [manual de Guten Tag](https://florianpircher.com/glyphs/plugins/guten-tag/Handbook.pdf) para obtener más detalles.";
+					fr = "Marquez vos glyphes et naviguez rapidement entre les glyphes connectés. Lisez le [Manuel Guten Tag](https://florianpircher.com/glyphs/plugins/guten-tag/Handbook.pdf) pour plus de détails.";
+					it = "Tagga i tuoi glifi e naviga rapidamente tra i glifi correlati. Leggi il [Manuale di Guten Tag](https://florianpircher.com/glyphs/plugins/guten-tag/Handbook.pdf) per i dettagli.";
+					ja = "グリフにタグ付けして、関連するグリフ間をすばやく移動します。くわしくは [Guten Tag ハンドブック](https://florianpircher.com/glyphs/plugins/guten-tag/Handbook.pdf) をお読みください。";
+					ko = "글리프에 태그를 지정하고 관련 글리프 사이를 빠르게 탐색하세요. 자세한 내용은 [Guten Tag 핸드북](https://florianpircher.com/glyphs/plugins/guten-tag/Handbook.pdf)을 참조하세요.";
+					pt = "Marque os seus glifos e navegue rapidamente entre glifos relacionados. Leia o [manual Guten Tag](https://florianpircher.com/glyphs/plugins/guten-tag/Handbook.pdf) para mais detalhes.";
+					ru = "Присваивайте глифам метки, чтобы быстро находить нужные глифы. Подробности читайте в [Руководстве по Guten Tag](https://florianpircher.com/glyphs/plugins/guten-tag/Handbook.pdf).";
+					tr = "Glif’lerinizi etiketleyin ve ilgili glif’ler arasında hızla gezinin. Ayrıntılar için [Guten Tag el kitabını](https://florianpircher.com/glyphs/plugins/guten-tag/Handbook.pdf) okuyun.";
+					zh-Hans = "为您的字形添加标签，以快速浏览相关字形。请阅读[Guten Tag 手册](https://florianpircher.com/glyphs/plugins/guten-tag/Handbook.pdf)以了解详细信息。";
+					zh-Hant = "標記您的字形，並在相關字形之間快速導覽。詳情請閱讀 [Guten Tag 手冊](https://florianpircher.com/glyphs/plugins/guten-tag/Handbook.pdf)。";
+				};
+				screenshot = "https://florianpircher.com/glyphs/plugins/guten-tag/screenshot.png";
+				minVersion = "3877";
 			},
 			{
 				titles = {
@@ -176,6 +283,7 @@
 					zh-Hant = "在關閉目前字型視窗的「檔案」選單中新增「關閉視窗」命令。";
 				};
 				screenshot = "https://florianpircher.com/glyphs/plugins/close-window/screenshot.png";
+				maxVersion = "3799";
 			},
 			{
 				descriptions = {
@@ -2904,6 +3012,46 @@
 				branch = "release";
 				path = "Anchor Annotations.glyphsReporter";
 				screenshot = "https://florianpircher.com/glyphs/plugins/anchor-annotations/screenshot.png";
+				maxVersion = "3799";
+			},
+			{
+				titles = {
+					ar = "شروحات نقاط الارتساء";
+					cs = "Poznámky kotvy";
+					de = "Ankeranmerkungen";
+					en = "Anchor Annotations";
+					es = "Anotaciones de anclas";
+					fr = "Annotations des ancres";
+					it = "Annotazioni delle ancore";
+					ja = "アンカー注釈";
+					ko = "앵커 주석";
+					pt = "Anotações de âncora";
+					ru = "Аннотации для якорей";
+					tr = "Çıpa Açıklamaları";
+					zh-Hans = "锚点注释";
+					zh-Hant = "錨點標註";
+				};
+				descriptions = {
+					ar = "تُظهر الأسماء لنقاط ارتساء غير محددة في الطبقات غير النشطة، وتعيين الألوان لنقاط ارتساء معينة، وتقصير أسماء نقاط الارتساء المعروضة من خلال استبدال النص، والمزيد من أوضاع عرض نقاط الارتساء. قم بالتنشيط باستخدام «عرض» ← «إظهار شروحات نقاط الارتساء».";
+					cs = "Zobrazení názvů kotev pro nevybrané kotvy a kotvy v neaktivních vrstvách, přiřazení barev konkrétním kotvám, zkrácení zobrazených názvů kotev nahrazením textu a další režimy zobrazení kotev. Aktivace pomocí *Zobrazit* → *Zobrazit poznámky kotvy*.";
+					de = "Zeige Ankernamen für nicht ausgewählte Anker und Anker in inaktiven Ebenen an, weise Farben gewissen Ankernamen zu, verkürze die Anzeigenamen von Ankern und weitere Anker-Anzeigemodi. Mit *Ansicht* → *Ankeranmerkungen anzeigen* aktivieren.";
+					en = "Show anchor names for unselected anchors and anchors in inactive layers, assign colors to certain anchors, shorten the displayed anchor names via text replacement, and more anchor display modes. Activate with *View* → *Show Anchor Annotations*.";
+					es = "Muestra nombres de anclas para anclas sin seleccionar y anclas en capas inactivas, asigna colores a ciertas anclas, acorta los nombres de las anclas que se muestran a través del reemplazo de texto y más modos de visualización de anclas. Actívalos con *Vista* → *Mostrar anotaciones de anclas*.";
+					fr = "Affichez les noms d’ancre pour les ancres non sélectionnées et les ancres des couches inactives, attribuez des couleurs à certaines ancres, raccourcissez les noms d’ancre affichés via le remplacement de texte, et bénéficiez de davantage de modes d’affichage d’ancre. Activez avec *Affichage* → *Afficher les annotations des ancres*.";
+					it = "Mostra i nomi delle ancore per le ancore non selezionate e per quelle inattive, assegna colori a determinati nomi di ancore, abbrevia i nomi delle ancore mostrati tramite la sostituzione del testo e altre modalità di visualizzazione delle ancore. Attivare con *Vista* → *Mostra annotazioni delle ancore*.";
+					ja = "非選択のアンカーや非アクティブレイヤのアンカーの名前を表示したり、特定のアンカーに色を割り当てたり、テキスト置換で表示されるアンカー名を短くしたり、その他のアンカー表示モードを追加したりします。「表示」→「アンカー注釈を表示」で有効にします。";
+					ko = "비활성 레이어의 앵커 및 선택되지 않은 앵커에 대한 앵커 이름을 표시하고, 특정 앵커에 색상을 할당하고, 텍스트 대체를 통해 표시된 앵커 이름을 줄이고, 추가 앵커 표시 모드를 제공합니다. “보기” → “앵커 주석 표시”로 활성화합니다.";
+					pt = "Mostrar nomes de âncoras para âncoras não selecionadas e âncoras em camadas inativas, atribuir cores a certas âncoras, encurtar os nomes das âncoras exibidas através de substituição de texto, e mais modos de visualização de âncoras. Ativar com *Visualizar* → *Mostrar anotações de âncoras*.";
+					ru = "Показывает имена якорей для невыбранных якорей и якорей в неактивных слоях. Даёт возможность покрасить в цвета определённые якоря, сократить имена якорей с помощью замены текста и других режимов отображения якорей. Включить *Просмотр* → *Показать аннотации для якорей*.";
+					tr = "Seçilmemiş çıpalar ve etkin olmayan katmanlarda bulunan çıpalar için çıpa isimlerini göster, belirli çıpalara renkler ata, görüntülenen çıpa adlarını metin değiştirme yoluyla kısalt ve daha fazla çıpa görüntüleme modu. *Görünüm* → *Çıpa Açıklamalarını Göster* yoluyla etkinleştir.";
+					zh-Hans = "显示未选中锚点和非活动层中锚点的锚点名称，为某些锚点指定颜色，通过文本替换缩短显示的锚点名称，以及更多锚点显示模式。使用“查看”→“显示锚点注释”激活。";
+					zh-Hant = "顯示未選取的錨點和未啟用層中錨點的名稱，為某些錨點分配顏色，透過文字替換來縮短顯示的錨點名稱，以及更多錨點顯示模式。以「瀏覽」→「顯示錨點標註」來啟用。";
+				};
+				url = "https://github.com/florianpircher/Anchor-Annotations";
+				archiveURL = "https://formkunft.com/glyphs/extensions/archive/anchor-annotations/latest";
+				path = "Anchor Annotations.glyphsReporter";
+				screenshot = "https://florianpircher.com/glyphs/plugins/anchor-annotations/screenshot.png";
+				minVersion = "3877";
 			},
 			{
 				titles = {
