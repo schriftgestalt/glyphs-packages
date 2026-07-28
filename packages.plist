@@ -4009,6 +4009,19 @@
 					en = "Runs a tiny local HTTP server inside Glyphs so a link in an HTML file, email, wiki, spec, or proofing sheet can open an Edit tab in your frontmost font. E.g. `http://127.0.0.1:49152/frontmostfont/newtab/ABC` opens a new tab showing *ABC*. The text can also be passed as a query parameter: `http://127.0.0.1:49152/frontmostfont/newtab/?text=A%2FA.ss01%20BC`. An optional `zoom` parameter sets the tab’s zoom level, e.g. `http://127.0.0.1:49152/frontmostfont/newtab/ABC?zoom=200`.";
 				};
 			},
+			{
+				identifier = "glyphs-icon-grid";
+				titles = {
+					en = "GlyphsIconGrid";
+				};
+				url = "https://github.com/thierryc/GlyphsIconGrid";
+				path = "IconGrid.glyphsReporter";
+				screenshot = "https://raw.githubusercontent.com/thierryc/GlyphsIconGrid/v0.1.1/docs/images/icon-grid-overview.png";
+				descriptions = {
+					en = "*View > Show Icon Grid* draws a metric-aligned icon construction grid with square cells, circular guides, and hover alignment cues. Spacing follows the active master’s H stem.";
+				};
+				minVersion = "3530";
+			},
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
 		);
 		scripts = (
