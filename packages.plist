@@ -4018,7 +4018,7 @@
 				path = "IconGrid.glyphsReporter";
 				screenshot = "https://raw.githubusercontent.com/thierryc/GlyphsIconGrid/v0.1.1/docs/images/icon-grid-overview.png";
 				descriptions = {
-					en = "*View > Show Icon Grid* draws a metric-aligned icon construction grid with square cells, circular guides, and hover alignment cues. Spacing follows the active master’s H stem.";
+					en = "*View > Show Icon Grid* draws a metric-aligned icon construction grid with square cells, circular guides, and hover alignment cues. Spacing follows the active master’s H stem.\n\nFor Glyphs MCP automation, [download the optional AI skill and installer](https://github.com/thierryc/GlyphsIconGrid/releases/latest/download/GlyphsIconGrid-Skill.zip).";
 				};
 				minVersion = "3530";
 			},
