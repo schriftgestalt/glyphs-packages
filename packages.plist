@@ -4009,6 +4009,36 @@
 					en = "Runs a tiny local HTTP server inside Glyphs so a link in an HTML file, email, wiki, spec, or proofing sheet can open an Edit tab in your frontmost font. E.g. `http://127.0.0.1:49152/frontmostfont/newtab/ABC` opens a new tab showing *ABC*. The text can also be passed as a query parameter: `http://127.0.0.1:49152/frontmostfont/newtab/?text=A%2FA.ss01%20BC`. An optional `zoom` parameter sets the tab’s zoom level, e.g. `http://127.0.0.1:49152/frontmostfont/newtab/ABC?zoom=200`.";
 				};
 			},
+			{
+				titles = {
+					en = "Italify";
+				};
+				url = "https://github.com/eweracs/Italify";
+				path = "ItalifyG3.glyphsPlugin";
+				descriptions = {
+					en = "Italify is your solution to optically corrected obliques. Read more on the [website](https://www.sebastiancarewe.com/italify).";
+					de = "Italify liefert optisch korrigierte Obliques. Mehr auf der [Webseite](https://www.sebastiancarewe.com/italify).";
+					fr = "Italify permet la création d’obliques optiquement corrigées. Plus d’informations sur le [site web](https://www.sebastiancarewe.com/italify).";
+				};
+				screenshot = "https://www.sebastiancarewe.com/italify/images/italifyFilter.png";
+				minGlyphsVersion = "3.2";
+				maxVersion = "3799";
+			},
+			{
+				titles = {
+					en = "Italify";
+				};
+				url = "https://www.sebastiancarewe.com/italify";
+				archiveURL = "https://github.com/eweracs/Italify/releases/latest/download/Italify.zip";
+				path = "ItalifyG4.glyphsPlugin";
+				descriptions = {
+					en = "Italify is your solution to optically corrected obliques. Read more on the [website](https://www.sebastiancarewe.com/italify).";
+					de = "Italify liefert optisch korrigierte Obliques. Mehr auf der [Webseite](https://www.sebastiancarewe.com/italify).";
+					fr = "Italify permet la création d’obliques optiquement corrigées. Plus d’informations sur le [site web](https://www.sebastiancarewe.com/italify).";
+				};
+				screenshot = "https://www.sebastiancarewe.com/italify/images/italifyFilter.png";
+				minVersion = "4000";
+			},
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
 		);
 		scripts = (
