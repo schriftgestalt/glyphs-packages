@@ -4010,6 +4010,36 @@
 				};
 			},
 			{
+				titles = {
+					en = "Italify";
+				};
+				url = "https://github.com/eweracs/Italify";
+				path = "ItalifyG3.glyphsPlugin";
+				descriptions = {
+					en = "Italify is your solution to optically corrected obliques. Read more on the [website](https://www.sebastiancarewe.com/italify).";
+					de = "Italify liefert optisch korrigierte Obliques. Mehr auf der [Webseite](https://www.sebastiancarewe.com/italify).";
+					fr = "Italify permet la création d’obliques optiquement corrigées. Plus d’informations sur le [site web](https://www.sebastiancarewe.com/italify).";
+				};
+				screenshot = "https://www.sebastiancarewe.com/italify/images/italifyFilter.png";
+				minGlyphsVersion = "3.2";
+				maxVersion = "3799";
+			},
+			{
+				titles = {
+					en = "Italify";
+				};
+				url = "https://www.sebastiancarewe.com/italify";
+				archiveURL = "https://github.com/eweracs/Italify/releases/latest/download/Italify.zip";
+				path = "ItalifyG4.glyphsPlugin";
+				descriptions = {
+					en = "Italify is your solution to optically corrected obliques. Read more on the [website](https://www.sebastiancarewe.com/italify).";
+					de = "Italify liefert optisch korrigierte Obliques. Mehr auf der [Webseite](https://www.sebastiancarewe.com/italify).";
+					fr = "Italify permet la création d’obliques optiquement corrigées. Plus d’informations sur le [site web](https://www.sebastiancarewe.com/italify).";
+				};
+				screenshot = "https://www.sebastiancarewe.com/italify/images/italifyFilter.png";
+				minVersion = "4000";
+			},
+			{
 				identifier = "glyphs-icon-grid";
 				titles = {
 					en = "GlyphsIconGrid";
