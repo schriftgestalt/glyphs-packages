@@ -1,0 +1,41 @@
+name: Update Info
+
+on:
+  schedule:
+    - cron: "0 */6 * * *" # four times a day
+  workflow_dispatch:
+
+permissions:
+  contents: write # needed to manage the Release asset
+
+# never let two runs (e.g. a scheduled run and a manual dispatch) publish at once
+concurrency:
+  group: update-package-index
+  cancel-in-progress: false
+
+jobs:
+  build:
+    name: Compile and publish package index info
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+      - name: Install dependencies
+        run: pip install openstep-plist pillow
+      - name: Build package index info
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 system/compile-info.py
+      - name: Publish as Release asset
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh release view info >/dev/null 2>&1 \
+            || gh release create info \
+                 --title "Info" \
+                 --notes "Auto-updating metadata about the package index." \
+                 --latest=false
+          gh release upload info packages-info.json --clobber

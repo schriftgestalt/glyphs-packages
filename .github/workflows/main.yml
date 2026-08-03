@@ -19,7 +19,5 @@ jobs:
       - uses: actions/checkout@v2
       - name: Lint Property List
         run: plutil -lint packages.plist
-      - name: Validate Install Names
-        run: swift validate-install-names.swift
-      - name: Validate Paths
-        run: swift validate-paths.swift
+      - name: Validate Package Paths and Install Names
+        run: swift system/validate-packages.swift

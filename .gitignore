@@ -1,1 +1,3 @@
 .DS_Store
+packages-info.json
+__pycache__/
