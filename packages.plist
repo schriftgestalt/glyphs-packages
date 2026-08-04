@@ -4039,6 +4039,17 @@
 				screenshot = "https://www.sebastiancarewe.com/italify/images/italifyFilter.png";
 				minVersion = "4000";
 			},
+			{
+				titles = {
+					en = "Version Bumper";
+				};
+				url = "https://github.com/rsztype/Plugins";
+				path = "Version-Bumper/Version-Bumper.glyphsPalette";
+				descriptions = {
+					en = "Adds an Auto-bump switch to the inspector that increments versionMinor by 0.001 and saves on every export.";
+				};
+				screenshot = "https://raw.githubusercontent.com/rsztype/Plugins/main/Version-Bumper/RSZVersionBumper.png";
+			},
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
 		);
 		scripts = (
@@ -4848,17 +4859,6 @@
 					en = "Python API for the Light Table plugin.";
 				};
 				minVersion = "3877";
-			},
-			{
-				titles = {
-					en = "Version Bumper";
-				};
-				url = "https://github.com/rsztype/Plugins";
-				path = "Version-Bumper/Version-Bumper.glyphsPalette";
-				descriptions = {
-					en = "Adds an Auto-bump switch to the inspector that increments versionMinor by 0.001 and saves on every export.";
-				};
-				screenshot = "https://raw.githubusercontent.com/rsztype/Plugins/main/Version-Bumper/RSZVersionBumper.png";
 			},
 		);
 	};
