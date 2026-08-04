@@ -4853,12 +4853,12 @@
 				titles = {
 					en = "Version Bumper";
 				};
-				url = "https://github.com/rsztype/Version-Bumper";
-				path = "Version-Bumper.glyphsPalette";
+				url = "https://github.com/rsztype/Plugins";
+				path = "Version-Bumper/Version-Bumper.glyphsPalette";
 				descriptions = {
 					en = "Adds an Auto-bump switch to the inspector that increments versionMinor by 0.001 and saves on every export.";
 				};
-				screenshot = "https://raw.githubusercontent.com/rsztype/Version-Bumper/main/RSZVersionBumper.png";
+				screenshot = "https://raw.githubusercontent.com/rsztype/Plugins/main/Version-Bumper/RSZVersionBumper.png";
 			},
 		);
 	};
