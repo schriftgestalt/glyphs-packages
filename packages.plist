@@ -4670,7 +4670,7 @@
 			},
 			{
 				descriptions = {
-					en = "Scripts by Giuseppe Salerno (Resistenza Type): StyleLinker previews and applies style linking for exportable instances; ShortNames previews and applies short PostScript font names and file names for exportable instances.";
+					en = "Scripts by Giuseppe Salerno (Resistenza Type):\n\n- **StyleLinker** — previews and applies style linking (Bold/Italic/Bold Italic) for exportable instances.\n\n- **ShortNames** — previews and applies short PostScript font names and file names for exportable instances.";
 				};
 				installName = rsztype;
 				titles = {
