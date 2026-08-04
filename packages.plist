@@ -4666,9 +4666,18 @@
 				titles = {
 					en = "Diego Maldonado’s Scripts";
 				};
-				url = "https://github.com/diegommaldo/Glyphs3-Scripts.git";
-				
-			}
+				url = "https://github.com/diegommaldo/Glyphs3-Scripts.git";	
+			},
+			{
+				descriptions = {
+					en = "Scripts by Giuseppe Salerno (Resistenza Type): StyleLinker previews and applies style linking for exportable instances; ShortNames previews and applies short PostScript font names and file names for exportable instances.";
+				};
+				installName = rsztype;
+				titles = {
+					en = "Resistenza Type Scripts";
+				};
+				url = "https://github.com/rsztype/Scripts";
+			},
 			// *** INSERT NEW SCRIPTS ABOVE THIS LINE
 		);
 		modules = (
