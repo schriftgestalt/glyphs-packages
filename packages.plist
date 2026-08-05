@@ -4047,7 +4047,7 @@
 				url = "https://github.com/rsztype/Numeratore";
 				path = "Numeratore.glyphsPalette";
 				descriptions = {
-					en = "Adds an *Increase Vers.* switch to the inspector that increments versionMinor by 0.001 and saves on every export. Previously released as *Version Bumper* — remove that one after installing, to avoid two palettes.";
+					en = "An inspector switch that bumps versionMinor by 0.001 and saves on every export. Formerly *Version Bumper* — remove that one to avoid two palettes.";
 				};
 				screenshot = "https://raw.githubusercontent.com/rsztype/Numeratore/main/Numeratore.png";
 			},
