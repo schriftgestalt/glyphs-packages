@@ -4040,15 +4040,16 @@
 				minVersion = "4000";
 			},
 			{
+				identifier = numeratore;
 				titles = {
-					en = "Version Bumper";
+					en = "Numeratore";
 				};
-				url = "https://github.com/rsztype/Version-Bumper";
-				path = "Version-Bumper.glyphsPalette";
+				url = "https://github.com/rsztype/Numeratore";
+				path = "Numeratore.glyphsPalette";
 				descriptions = {
-					en = "Adds an Auto-bump switch to the inspector that increments versionMinor by 0.001 and saves on every export.";
+					en = "An inspector switch that bumps versionMinor by 0.001 and saves on every export. (Old. Version Bumper)";
 				};
-				screenshot = "https://raw.githubusercontent.com/rsztype/Version-Bumper/main/RSZVersionBumper.png";
+				screenshot = "https://raw.githubusercontent.com/rsztype/Numeratore/main/Numeratore.png";
 			},
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
 		);
