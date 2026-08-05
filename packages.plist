@@ -4049,6 +4049,7 @@
 				descriptions = {
 					en = "An inspector switch that bumps versionMinor by 0.001 and saves on every export. (Old. Version Bumper)";
 				};
+				donationURL = "https://ko-fi.com/beppeartz";
 				screenshot = "https://raw.githubusercontent.com/rsztype/Numeratore/main/Numeratore.png";
 			},
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
@@ -4673,6 +4674,7 @@
 				descriptions = {
 					en = "Scripts by Giuseppe Salerno (Resistenza Type):\n\n- 🔗 **StyleLinker** — previews and applies style linking (Bold/Italic/Bold Italic) for exportable instances.\n\n- ✂️ **ShortNames** — previews and applies short PostScript font names and file names for exportable instances.";
 				};
+				donationURL = "https://ko-fi.com/beppeartz";
 				installName = rsztype;
 				titles = {
 					en = "Resistenza Type Scripts";
