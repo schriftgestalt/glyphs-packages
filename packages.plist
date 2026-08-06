@@ -4672,7 +4672,7 @@
 			},
 			{
 				descriptions = {
-					en = "Scripts by Giuseppe Salerno (Resistenza Type):\n\n- 🔗 **StyleLinker** — previews and applies style linking (Bold/Italic/Bold Italic) for exportable instances.\n\n- ✂️ **ShortNames** — previews and applies short PostScript font names and file names for exportable instances.\n\n- 👯 **MasterTwins** — clones one master into another, either the whole font or just the selected glyphs, choosing whether paths, components, anchors, metrics and hints travel.";
+					en = "Scripts by Giuseppe Salerno (Resistenza Type):\n\n- 👯 **MasterTwins** — clones one master into another, either the whole font or just the selected glyphs, choosing whether paths, components, anchors, metrics and hints travel.\n\n- 📮 **Postino** — delivers the selected glyphs to any of the other open fonts, filling every master of the destination.\n\n- ✂️ **ShortNames** — previews and applies short PostScript font names and file names for exportable instances.\n\n- 🔗 **StyleLinker** — previews and applies style linking (Bold/Italic/Bold Italic) for exportable instances.";
 				};
 				donationURL = "https://ko-fi.com/beppeartz";
 				installName = rsztype;
