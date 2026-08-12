@@ -4040,6 +4040,19 @@
 				minVersion = "4000";
 			},
 			{
+				identifier = numeratore;
+				titles = {
+					en = "Numeratore";
+				};
+				url = "https://github.com/rsztype/Numeratore";
+				path = "Numeratore.glyphsPalette";
+				descriptions = {
+					en = "An inspector switch that bumps versionMinor by 0.001 and saves on every export. (Old. Version Bumper)";
+				};
+				donationURL = "https://ko-fi.com/beppeartz";
+				screenshot = "https://raw.githubusercontent.com/rsztype/Numeratore/main/Numeratore.png";
+			},
+			{
 				identifier = "glyphs-icon-grid";
 				titles = {
 					en = "GlyphsIconGrid";
@@ -4668,9 +4681,19 @@
 				titles = {
 					en = "Diego Maldonado’s Scripts";
 				};
-				url = "https://github.com/diegommaldo/Glyphs3-Scripts.git";
-				
-			}
+				url = "https://github.com/diegommaldo/Glyphs3-Scripts.git";	
+			},
+			{
+				descriptions = {
+					en = "Scripts by Giuseppe Salerno (Resistenza Type):\n\n- 👯 **MasterTwins** — clones one master into another, either the whole font or just the selected glyphs, choosing whether paths, components, anchors, metrics and hints travel.\n\n- 📮 **Postino** — delivers the selected glyphs to any of the other open fonts, filling every master of the destination.\n\n- ✂️ **ShortNames** — previews and applies short PostScript font names and file names for exportable instances.\n\n- 🔗 **StyleLinker** — previews and applies style linking (Bold/Italic/Bold Italic) for exportable instances.";
+				};
+				donationURL = "https://ko-fi.com/beppeartz";
+				installName = rsztype;
+				titles = {
+					en = "Resistenza Type Scripts";
+				};
+				url = "https://github.com/rsztype/Scripts";
+			},
 			// *** INSERT NEW SCRIPTS ABOVE THIS LINE
 		);
 		modules = (
