@@ -4052,6 +4052,19 @@
 				donationURL = "https://ko-fi.com/beppeartz";
 				screenshot = "https://raw.githubusercontent.com/rsztype/Numeratore/main/Numeratore.png";
 			},
+			{
+				identifier = "glyphs-icon-grid";
+				titles = {
+					en = "GlyphsIconGrid";
+				};
+				url = "https://github.com/thierryc/GlyphsIconGrid";
+				path = "IconGrid.glyphsReporter";
+				screenshot = "https://raw.githubusercontent.com/thierryc/GlyphsIconGrid/v0.1.1/docs/images/icon-grid-overview.png";
+				descriptions = {
+					en = "*View > Show Icon Grid* draws a metric-aligned icon construction grid with square cells, circular guides, and hover alignment cues. Spacing follows the active master’s H stem.\n\nFor Glyphs MCP automation, [download the optional AI skill and installer](https://github.com/thierryc/GlyphsIconGrid/releases/latest/download/GlyphsIconGrid-Skill.zip).";
+				};
+				minVersion = "3530";
+			},
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
 		);
 		scripts = (
