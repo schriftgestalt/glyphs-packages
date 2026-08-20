@@ -4049,7 +4049,7 @@
 				url = "https://github.com/rsztype/Numeratore";
 				path = "Numeratore.glyphsPalette";
 				descriptions = {
-					en = "Two inspector switches: one bumps versionMinor by 0.001 and saves on every export, the other puts that version on the end of the exported file's name — Nautica.otf becomes Nautica-v1.023.otf. (Old. Version Bumper)";
+					en = "Two inspector switches: one bumps versionMinor by 0.001 and saves on every export, the other puts that version on the end of every file the export wrote — Nautica.otf becomes Nautica-1.023.otf, webfonts included. (Old. Version Bumper)";
 				};
 				donationURL = "https://ko-fi.com/beppeartz";
 				screenshot = "https://raw.githubusercontent.com/rsztype/Numeratore/main/Numeratore.png";
