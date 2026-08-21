@@ -4055,6 +4055,19 @@
 				screenshot = "https://raw.githubusercontent.com/rsztype/Numeratore/main/Numeratore.png";
 			},
 			{
+				identifier = "increase-font-version-on-export";
+				titles = {
+					en = "Increase Font Version on Export";
+				};
+				url = "https://github.com/rsztype/Plugins";
+				path = "Increase Font Version on Export/Increase Font Version on Export.glyphsPlugin";
+				descriptions = {
+					en = "Like Numeratore, but *without the palette*: registers a real tick box in Font Info's Custom Parameters (Increase Font Version on Export) that bumps versionMinor by 0.001 and saves on every export. No interface of its own — the setting lives in the font, not on your machine.";
+				};
+				donationURL = "https://ko-fi.com/beppeartz";
+				screenshot = "https://raw.githubusercontent.com/rsztype/Plugins/main/Increase%20Font%20Version%20on%20Export/IncreaseFontVersionOnExport.png";
+			},
+			{
 				identifier = "glyphs-icon-grid";
 				titles = {
 					en = "GlyphsIconGrid";
