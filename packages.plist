@@ -3403,7 +3403,6 @@
 					"zh-Hans" = "**LTTR/INK**是一个受到了**赫里特·诺尔泽的《笔画：书写理论》**一书影响而诞生的笔画对比度控制工具。使用**骨架**和丰富的笔画样式快速制作你的**参数化**字体设计。\n\nLTTR/INK是一款可以快速上手并且充满乐趣的工具。\n\n模拟的书写工具：**平头笔**、**点尖笔**、**圆头笔刷**、**平头笔刷**、**马克笔**\n\n[教程](https://www.lttrink.com/zh/tutorials/lttrink-glyphs?utm_source=glppmn&utm_medium=inkap&utm_campaign=gl4&utm_content=glppmnlk&utm_term=tutorials) • [学院](https://www.lttrink.com/zh/academy?utm_source=glppmn&utm_medium=inkap&utm_campaign=gl4&utm_content=glppmnlk&utm_term=academy) • [购买](https://www.lttrink.com/zh/pricing-glyphs?utm_source=glppmn&utm_medium=inkap&utm_campaign=gl4&utm_content=glppmnlk&utm_term=purchase)";
 				};
 				screenshot = "https://raw.githubusercontent.com/lttrcorp/lttrink-for-glyphs-plugin-manager/glyphs4/lttrink-screenshot.png";
-				minSystemVersion = "12.0";
 				minGlyphsVersion = "4.0";
 			},
 			{
