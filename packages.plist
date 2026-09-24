@@ -4745,7 +4745,21 @@
 				};
 				url = "https://github.com/rsztype/Scripts";
 			},
-			// *** INSERT NEW SCRIPTS ABOVE THIS LINE
+			{
+				descriptions = {
+					en = "A collection of modular drawing and font-production tools for Glyphs 4.";
+				};
+				installName = "AP Font Tools";
+				titles = {
+					en = "AP Font Tools";
+				};
+				url = "https://github.com/loweredcase/glyphs-tools";
+				minGlyphsVersion = "4.0";
+				dependencies = (
+					vanilla
+				);
+			},
+						// *** INSERT NEW SCRIPTS ABOVE THIS LINE
 		);
 		modules = (
 			{
