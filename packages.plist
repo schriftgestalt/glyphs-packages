@@ -4759,7 +4759,7 @@
 					vanilla
 				);
 			},
-						// *** INSERT NEW SCRIPTS ABOVE THIS LINE
+			// *** INSERT NEW SCRIPTS ABOVE THIS LINE
 		);
 		modules = (
 			{
