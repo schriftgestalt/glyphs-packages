@@ -4116,6 +4116,20 @@
 				minVersion = 3200;
 				screenshot = "https://raw.githubusercontent.com/fanzhixiang777/ProportionalBold/main/docs/before-after.png";
 			},
+			{
+				titles = {
+					en = "Show OHno";
+					cs = "Show OHno";
+				};
+				url = "https://github.com/otregler-pils/Show-OHno";
+				path = "ShowOHno.glyphsReporter";
+				identifier = "ShowOHno";
+				descriptions = {
+					en = "*View > Show OHno* shows a spacing proof card (e.g. `HHxHnxnn`) above the selected glyph in the Edit View, with kerning and active stylistic sets applied. The card fades out when it doesn’t fit or the zoom is out of range. Right-click in the Edit View to switch the proof string, theme, size and other options.";
+					cs = "*View > Show OHno* zobrazí nad vybraným glyfem v Edit View kartu s kontrolním stringem pro spacing (např. `HHxHnxnn`), včetně kerningu a aktivních stylistických sad. Když se karta nevejde nebo je zoom mimo nastavený rozsah, plynule zmizí. Pravým tlačítkem v Edit View přepneš string, téma, velikost a další volby.";
+				};
+				minVersion = "3000";
+			},
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
 		);
 		scripts = (
