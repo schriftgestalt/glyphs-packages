@@ -4126,6 +4126,7 @@
 					en = "Films the font you are drawing: a word travelling along its own variable axes, written out as MP4, GIF or a PNG sequence. No timeline and no keyframes \U2014 each axis gets a lane, with a from and a to, and the word travels between them. A document holding more than one variable setting is asked which one to film. A font with no axes is not turned away: it is filmed as the static font of the master in front, its lanes becoming size and tracking. What is filmed is the exported font \U2014 filters, parameters and features included \U2014 not the drawing.";
 				};
 				donationURL = "https://ko-fi.com/beppeartz";
+				screenshot = "https://raw.githubusercontent.com/rsztype/Plugins/main/Kinomat/Kinomat.png";
 			},
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
 		);
