@@ -4123,7 +4123,8 @@
 				url = "https://github.com/rsztype/Plugins";
 				path = "Kinomat/Kinomat.glyphsPlugin";
 				descriptions = {
-					en = "**A font with axes needs a variable font export** \U2014 that is the font Kinomat films, and without one it says so and does not open.\n\nA word travels along the font's own axes and comes out as MP4, GIF or a PNG sequence. No timeline: each axis gets a lane, with a from and a to. What is filmed is the exported font, filters and parameters included, not the drawing.\n\nThis is the demo: writing the film out, the image or video behind the word, and saving a project need a one-off Pro key from [resistenza.es/tools](https://resistenza.es/tools/).";
+					en = "Films a word travelling along the font's own variable axes, and writes it out as MP4, GIF or a PNG sequence. One lane per axis, a from and a to, no timeline.\n\nNeeds a variable font export in Font Info \U25B8 Exports. Writing the film out needs a Pro key: [resistenza.es/tools](https://resistenza.es/tools/).";
+
 
 				};
 				donationURL = "https://ko-fi.com/beppeartz";
