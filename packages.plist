@@ -4118,6 +4118,18 @@
 			},
 			{
 				titles = {
+					en = "Kinomat";
+				};
+				url = "https://github.com/rsztype/Plugins";
+				path = "Kinomat/Kinomat.glyphsPlugin";
+				descriptions = {
+					en = "Films a word travelling along the font's own variable axes, and writes it out as MP4, GIF or a PNG sequence. One lane per axis, a from and a to, no timeline.\n\nNeeds a variable font export in Font Info \U25B8 Exports. Writing the film out needs a Pro key: [resistenza.es/tools](https://resistenza.es/tools/).";
+				};
+				donationURL = "https://ko-fi.com/beppeartz";
+				screenshot = "https://raw.githubusercontent.com/rsztype/Plugins/main/Kinomat/Kinomat.png";
+			},
+			{
+				titles = {
 					en = "Show OHno";
 				};
 				url = "https://github.com/otregler-pils/Show-OHno";
