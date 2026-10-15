@@ -4043,6 +4043,9 @@
 				screenshot = "https://www.sebastiancarewe.com/italify/images/italifyFilter.png";
 				minGlyphsVersion = "3.2";
 				maxVersion = "3799";
+				dependencies = (
+					italify-glyphs3
+				);
 			},
 			{
 				titles = {
@@ -4058,6 +4061,9 @@
 				};
 				screenshot = "https://www.sebastiancarewe.com/italify/images/italifyFilter.png";
 				minVersion = "4000";
+				dependencies = (
+					italify
+				);
 			},
 			{
 				identifier = numeratore;
@@ -4974,6 +4980,34 @@
 					en = "Python API for the Light Table plugin.";
 				};
 				minVersion = "3877";
+			},
+			{
+				identifier = italify-glyphs3;
+				hidden = 1;
+				titles = {
+					en = "Italify API";
+				};
+				url = "https://github.com/eweracs/Italify";
+				path = "Python API/italify";
+				descriptions = {
+					en = "Python API for the Italify plugin.";
+				};
+				minGlyphsVersion = "3.2";
+				maxVersion = "3799";
+			},
+			{
+				identifier = italify;
+				hidden = 1;
+				titles = {
+					en = "Italify API";
+				};
+				url = "https://www.sebastiancarewe.com/italify";
+				archiveURL = "https://github.com/eweracs/Italify/releases/latest/download/Italify.zip";
+				path = "Python API/italify";
+				descriptions = {
+					en = "Python API for the Italify plugin.";
+				};
+				minVersion = "4000";
 			},
 		);
 	};
