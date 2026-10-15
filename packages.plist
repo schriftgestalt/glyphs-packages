@@ -4141,6 +4141,20 @@
 				};
 				minVersion = "3855";
 			},
+			{
+				titles = {
+					en = "AZ Context";
+				};
+				url = "https://github.com/azerty-typefaces/AZ-Context";
+				path = "AZ-Context.glyphsPlugin";
+				descriptions = {
+					en = "*View > Show AZ Context* draws the glyphs you choose around the glyph you edit, as faint outlines on the canvas. Type them once in the *AZ Context* palette, as characters or `/name`, and every glyph you open sits in that context, following the tab's OpenType features. *Axes* mode draws the edited glyph in your other masters along an axis instead. Works when one glyph is typed in the Edit tab.";
+				};
+				screenshot = "https://raw.githubusercontent.com/azerty-typefaces/AZ-Context/main/docs/images/axes.png";
+				dependencies = (
+					vanilla
+				);
+			},
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
 		);
 		scripts = (
