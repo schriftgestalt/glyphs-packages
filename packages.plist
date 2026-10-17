@@ -4163,6 +4163,17 @@
 					vanilla
 				);
 			},
+			{
+				titles = {
+					en = "AZ Shadow";
+				};
+				url = "https://github.com/azerty-typefaces/AZ-Shadow";
+				path = "AZ-Shadow.glyphsPlugin";
+				descriptions = {
+					en = "*View > Show AZ Shadow* draws a reference glyph, the H by default, over the glyph you edit and the other glyphs of the tab, so widths, heights and weights read against it at a glance. With the Select tool the shadow stays light, so your outline and nodes read through it; with any other tool it gets stronger. Pick the glyph, its colour and opacity, its alignment (left edges, advance-width centres or right edges) and where it shows in the *AZ Shadow* palette.";
+				};
+				screenshot = "https://raw.githubusercontent.com/azerty-typefaces/AZ-Shadow/main/docs/images/hero.png";
+			},
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
 		);
 		scripts = (
