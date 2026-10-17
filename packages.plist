@@ -4150,6 +4150,21 @@
 			},
 			{
 				titles = {
+					en = "AZ Symmetrify";
+				};
+				url = "https://github.com/azerty-typefaces/AZ-Symmetrify";
+				path = "AZ-Symmetry.glyphsPlugin";
+				descriptions = {
+					en = "The *AZ Symmetrify* palette keeps a glyph symmetric while you draw. Flip a switch and the axis places itself through the centre of the shape; from then on you draw one half and the other is rebuilt from it, live. *Mirror Horizontal* flips left over right, *Mirror Vertical* top over bottom, and *Custom* turns the glyph a half-turn for S, N, Z and o, keeping the side of a diagonal you can angle. Italics mirror as if upright, and a selected guide can serve as the axis. *Window > AZ Toolkit > Symmetrify* browses the bound glyphs and finds the ones that could take a symmetry.";
+				};
+				screenshot = "https://raw.githubusercontent.com/azerty-typefaces/AZ-Symmetrify/main/docs/images/hero.jpg";
+				minSystemVersion = "10.14";
+				dependencies = (
+					vanilla
+				);
+			},
+			{
+				titles = {
 					en = "AZ Shadow";
 				};
 				url = "https://github.com/azerty-typefaces/AZ-Shadow";
