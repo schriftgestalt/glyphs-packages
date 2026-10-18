@@ -4043,8 +4043,12 @@
 				screenshot = "https://www.sebastiancarewe.com/italify/images/italifyFilter.png";
 				minGlyphsVersion = "3.2";
 				maxVersion = "3799";
+				dependencies = (
+					italify-glyphs3
+				);
 			},
 			{
+				identifier = italify-plugin;
 				titles = {
 					en = "Italify";
 				};
@@ -4058,6 +4062,9 @@
 				};
 				screenshot = "https://www.sebastiancarewe.com/italify/images/italifyFilter.png";
 				minVersion = "4000";
+				dependencies = (
+					italify
+				);
 			},
 			{
 				identifier = numeratore;
@@ -4143,17 +4150,29 @@
 			},
 			{
 				titles = {
-					en = "AZ Context";
+					en = "AZ Symmetrify";
 				};
-				url = "https://github.com/azerty-typefaces/AZ-Context";
-				path = "AZ-Context.glyphsPlugin";
+				url = "https://github.com/azerty-typefaces/AZ-Symmetrify";
+				path = "AZ-Symmetry.glyphsPlugin";
 				descriptions = {
-					en = "*View > Show AZ Context* draws the glyphs you choose around the glyph you edit, as faint outlines on the canvas. Type them once in the *AZ Context* palette, as characters or `/name`, and every glyph you open sits in that context, following the tab's OpenType features. *Axes* mode draws the edited glyph in your other masters along an axis instead. Works when one glyph is typed in the Edit tab.";
+					en = "The *AZ Symmetrify* palette keeps a glyph symmetric while you draw. Flip a switch and the axis places itself through the centre of the shape; from then on you draw one half and the other is rebuilt from it, live. *Mirror Horizontal* flips left over right, *Mirror Vertical* top over bottom, and *Custom* turns the glyph a half-turn for S, N, Z and o, keeping the side of a diagonal you can angle. Italics mirror as if upright, and a selected guide can serve as the axis. *Window > AZ Toolkit > Symmetrify* browses the bound glyphs and finds the ones that could take a symmetry.";
 				};
-				screenshot = "https://raw.githubusercontent.com/azerty-typefaces/AZ-Context/main/docs/images/axes.png";
+				screenshot = "https://raw.githubusercontent.com/azerty-typefaces/AZ-Symmetrify/main/docs/images/hero.jpg";
+				minSystemVersion = "10.14";
 				dependencies = (
 					vanilla
 				);
+			},
+			{
+				titles = {
+					en = "AZ Shadow";
+				};
+				url = "https://github.com/azerty-typefaces/AZ-Shadow";
+				path = "AZ-Shadow.glyphsPlugin";
+				descriptions = {
+					en = "*View > Show AZ Shadow* draws a reference glyph, the H by default, over the glyph you edit and the other glyphs of the tab, so widths, heights and weights read against it at a glance. With the Select tool the shadow stays light, so your outline and nodes read through it; with any other tool it gets stronger. Pick the glyph, its colour and opacity, its alignment (left edges, advance-width centres or right edges) and where it shows in the *AZ Shadow* palette.";
+				};
+				screenshot = "https://raw.githubusercontent.com/azerty-typefaces/AZ-Shadow/main/docs/images/hero.png";
 			},
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
 		);
@@ -4988,6 +5007,34 @@
 					en = "Python API for the Light Table plugin.";
 				};
 				minVersion = "3877";
+			},
+			{
+				identifier = italify-glyphs3;
+				hidden = 1;
+				titles = {
+					en = "Italify API";
+				};
+				url = "https://github.com/eweracs/Italify";
+				path = "Python API/italify";
+				descriptions = {
+					en = "Python API for the Italify plugin.";
+				};
+				minGlyphsVersion = "3.2";
+				maxVersion = "3799";
+			},
+			{
+				identifier = italify;
+				hidden = 1;
+				titles = {
+					en = "Italify API";
+				};
+				url = "https://www.sebastiancarewe.com/italify";
+				archiveURL = "https://github.com/eweracs/Italify/releases/latest/download/Italify.zip";
+				path = "Python API/italify";
+				descriptions = {
+					en = "Python API for the Italify plugin.";
+				};
+				minVersion = "4000";
 			},
 		);
 	};
