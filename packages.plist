@@ -4188,6 +4188,18 @@
 					vanilla
 				);
 			},
+			{
+				titles = {
+					en = "AZ Docker";
+				};
+				url = "https://github.com/azerty-typefaces/AZ-Docker";
+				path = "AZ-Docker.glyphsPlugin";
+				descriptions = {
+					en = "Adds an *AZ Docker* tab to the left sidebar of the Edit view. Drag any floating window onto it, a plugin palette, the Kerning window or a script's window, and its content docks into the sidebar as a card, still live and usable. Fold, reorder and resize the cards, or drag one out to float it again. Hiding the sidebar hides every docked window at once, and docked windows come back docked the next time you open a font.";
+				};
+				screenshot = "https://raw.githubusercontent.com/azerty-typefaces/AZ-Docker/main/docs/images/hero.png";
+				minGlyphsVersion = "4.0";
+			},
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
 		);
 		scripts = (
