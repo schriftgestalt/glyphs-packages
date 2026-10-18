@@ -4200,6 +4200,20 @@
 				screenshot = "https://raw.githubusercontent.com/azerty-typefaces/AZ-Docker/main/docs/images/hero.png";
 				minGlyphsVersion = "4.0";
 			},
+			{
+				titles = {
+					en = "AZ Super Preview";
+				};
+				url = "https://github.com/azerty-typefaces/AZ-SuperPreview";
+				path = "AZ-SuperPreview.glyphsPlugin";
+				descriptions = {
+					en = "*Window > AZ Toolkit > Super Preview* opens a window that previews every master or instance of the font, interpolated live as you draw. *Overview* gives each one its own card at the same size, sorted by axis value: click a card to make that master active or to send the instance to the Preview bar, and Shift-click it to ghost its outline behind the others as a reference. *Waterfall* sets one style down a ladder of sizes, across several columns in a wide window. Show metrics, kerning, spacing and outlines on the cards, or scan a QR code to follow the preview on another device on the same Wi-Fi. In Glyphs 4 it can also live as a tab in the Edit view's left sidebar.";
+				};
+				screenshot = "https://raw.githubusercontent.com/azerty-typefaces/AZ-SuperPreview/main/docs/images/hero.gif";
+				dependencies = (
+					vanilla
+				);
+			},
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
 		);
 		scripts = (
