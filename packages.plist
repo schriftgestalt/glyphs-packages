@@ -5062,6 +5062,22 @@
 				};
 				minVersion = "4000";
 			},
+			{
+				descriptions = {
+					en = "Everyday type design tools by Plau. *Script > Plau* builds math, dash, period/bullet and arrow glyphs from the hyphen and period, makes segments parallel or symmetric, centers components vertically, and fills Font Info metadata (family name, foundry, vendor ID, copyright, clean version string). Several scripts replace existing glyph content: try them on a copy of your font.";
+					pt = "Ferramentas do dia a dia de desenho de tipos, da Plau. *Script > Plau* cria símbolos matemáticos, travessões, ponto centrado/bullet e setas a partir do hífen e do ponto, deixa segmentos paralelos ou simétricos, centraliza componentes na vertical e preenche os metadados do Font Info. Vários scripts substituem o conteúdo de glifos existentes: teste em uma cópia da fonte.";
+				};
+				dependencies = (
+					vanilla
+				);
+				installName = "Plau";
+				minVersion = "4000";
+				path = "Plau";
+				titles = {
+					en = "Plau Scripts";
+				};
+				url = "https://github.com/rosaiani/glyphs-scripts";
+			},
 		);
 	};
 }
