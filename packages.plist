@@ -4202,6 +4202,72 @@
 			},
 			{
 				titles = {
+					ar = "خط العقدة";
+					cs = "Uzlový tah";
+					de = "Knotenkontur";
+					en = "Knot Stroke";
+					es = "Trazo de nudo";
+					fr = "Contour noué";
+					it = "Contorno a nodo";
+					ja = "結び目ストローク";
+					ko = "매듭 획";
+					pt = "Traço de nó";
+					ru = "Узловой штрих";
+					tr = "Düğüm Konturu";
+					"zh-Hans" = "绳结描边";
+					"zh-Hant" = "繩結描邊";
+				};
+				descriptions = {
+					ar = "*عامل تصفية > خط العقدة* يرسم خطًا حول المسارات المركزية مثل *إزاحة المنحنى* ويقطع الخيط السفلي عند كل تقاطع، فتتشابك الخيوط بالتناوب فوق بعضها وتحت بعضها.";
+					cs = "*Filtr > Uzlový tah* vytvoří z osových cest tah jako *Odsazená cesta* a v každém křížení přeruší spodní pramen, takže se prameny střídavě proplétají nad sebou a pod sebou.";
+					de = "*Filter > Knotenkontur* konturiert Mittellinienpfade wie *Verfetten* und trennt an jeder Kreuzung den unteren Strang auf, sodass sich die Stränge abwechselnd über- und untereinander verflechten.";
+					en = "*Filter > Knot Stroke* strokes centerline paths like *Offset Curve* and cuts the under-strand at every crossing, so the strands weave over and under each other.";
+					es = "*Filtros > Trazo de nudo* da trazo a los trazados centrales como *Desplazar curva* y corta la hebra inferior en cada cruce, de modo que las hebras se entrelazan pasando alternativamente por encima y por debajo.";
+					fr = "*Filtre > Contour noué* applique un contour aux tracés centraux comme *Décaler le contour* et coupe le brin inférieur à chaque croisement, de sorte que les brins s'entrelacent en passant tour à tour dessus et dessous.";
+					it = "*Filtro > Contorno a nodo* applica un contorno ai tracciati centrali come *Compensa tracciati* e interrompe il filo inferiore a ogni incrocio, così i fili si intrecciano passando a turno sopra e sotto.";
+					ja = "*フィルタ > 結び目ストローク* は、*パスをオフセット* のように中心線パスにストロークを付け、交差するたびに下側の線を途切れさせて、線が交互に上下に絡み合う結び目にします。";
+					ko = "*필터 > 매듭 획*는 *획의 설정*처럼 중심선 패스에 획을 적용하고, 교차할 때마다 아래쪽 가닥을 잘라 가닥들이 번갈아 위아래로 얽히게 합니다.";
+					pt = "*Filtro > Traço de nó* aplica traço aos caminhos centrais como o *Expandir vetores* e corta o fio inferior em cada cruzamento, para que os fios se entrelacem passando alternadamente por cima e por baixo.";
+					ru = "*Фильтр > Узловой штрих* обводит осевые контуры, как *Сместить кривую*, и разрывает нижнюю нить в каждом пересечении, так что нити поочерёдно проходят то сверху, то снизу.";
+					tr = "*Filtre > Düğüm Konturu*, merkez çizgi yollarına *Kıvrımı Kaydır* gibi kontur uygular ve her kesişimde alttaki teli keser; teller sırayla birbirinin üstünden ve altından geçerek örülür.";
+					"zh-Hans" = "*滤镜 > 绳结描边* 像 *偏移曲线* 一样为中心线路径描边，并在每个交叉处切断下方的线条，使线条交替地上下穿插，形成绳结。";
+					"zh-Hant" = "*濾鏡 > 繩結描邊* 像 *計算曲線偏移* 一樣為中心線路徑描邊，並在每個交叉處切斷下方的線條，使線條交替地上下穿插，形成繩結。";
+				};
+				url = "https://github.com/dirdam/glyphs-knot-stroke";
+				path = "KnotStroke.glyphsFilter";
+				screenshot = "https://raw.githubusercontent.com/dirdam/glyphs-knot-stroke/main/docs/KnotStroke.png";
+				minGlyphsVersion = "3.0";
+				minSystemVersion = "13.0";
+				dependencies = (vanilla);
+				donationURL = "https://ko-fi.com/dirdam";
+			},
+			{
+				titles = {
+					cs = "3D náklon";
+					de = "3D-Kippen";
+					en = "3D Tilt";
+					es = "Inclinación 3D";
+					fr = "Inclinaison 3D";
+					it = "Inclinazione 3D";
+					ja = "3D傾斜";
+					ko = "3D 기울이기";
+					pt = "Inclinação 3D";
+					"zh-Hans" = "3D倾斜";
+					"zh-Hant" = "3D傾斜";
+				};
+				url = "https://github.com/mekkablue/Tilt";
+				path = "Tilt.glyphsFilter";
+				descriptions = {
+					en = "*Filter > 3D Tilt* (de: *3D-Kippen,* fr: *Inclinaison 3D,* it: *Inclinazione 3D,* es: *Inclinación 3D,* pt: *Inclinação 3D,* cs: *3D náklon,* ja: *3D傾斜,* ko: *3D 기울이기,* zh-Hans: *3D倾斜,* zh-Hant: *3D傾斜*) tilts glyphs with real perspective around the center of their bounding box, so a rectangle becomes a trapezoid. Enter an *Angle* (the direction of the tilt, 0 = north, counterclockwise) and the *Tilt of plane* in degrees. Two numbers with a colon in between, e.g. `10:30`, give a random value in between.";
+				};
+				screenshot = "https://raw.githubusercontent.com/mekkablue/Tilt/main/Tilt.png";
+				dependencies = (
+					vanilla
+				);
+				minGlyphsVersion = "4.0";
+			},
+      {
+				titles = {
 					en = "AZ Super Preview";
 				};
 				url = "https://github.com/azerty-typefaces/AZ-SuperPreview";
@@ -5075,6 +5141,22 @@
 					en = "Python API for the Italify plugin.";
 				};
 				minVersion = "4000";
+			},
+			{
+				descriptions = {
+					en = "Everyday type design tools by Plau. *Script > Plau* builds math, dash, period/bullet and arrow glyphs from the hyphen and period, makes segments parallel or symmetric, centers components vertically, and fills Font Info metadata (family name, foundry, vendor ID, copyright, clean version string). Several scripts replace existing glyph content: try them on a copy of your font.";
+					pt = "Ferramentas do dia a dia de desenho de tipos, da Plau. *Script > Plau* cria símbolos matemáticos, travessões, ponto centrado/bullet e setas a partir do hífen e do ponto, deixa segmentos paralelos ou simétricos, centraliza componentes na vertical e preenche os metadados do Font Info. Vários scripts substituem o conteúdo de glifos existentes: teste em uma cópia da fonte.";
+				};
+				dependencies = (
+					vanilla
+				);
+				installName = "Plau";
+				minVersion = "4000";
+				path = "Plau";
+				titles = {
+					en = "Plau Scripts";
+				};
+				url = "https://github.com/rosaiani/glyphs-scripts";
 			},
 		);
 	};
