@@ -4241,6 +4241,31 @@
 				dependencies = (vanilla);
 				donationURL = "https://ko-fi.com/dirdam";
 			},
+			{
+				titles = {
+					cs = "3D náklon";
+					de = "3D-Kippen";
+					en = "3D Tilt";
+					es = "Inclinación 3D";
+					fr = "Inclinaison 3D";
+					it = "Inclinazione 3D";
+					ja = "3D傾斜";
+					ko = "3D 기울이기";
+					pt = "Inclinação 3D";
+					"zh-Hans" = "3D倾斜";
+					"zh-Hant" = "3D傾斜";
+				};
+				url = "https://github.com/mekkablue/Tilt";
+				path = "Tilt.glyphsFilter";
+				descriptions = {
+					en = "*Filter > 3D Tilt* (de: *3D-Kippen,* fr: *Inclinaison 3D,* it: *Inclinazione 3D,* es: *Inclinación 3D,* pt: *Inclinação 3D,* cs: *3D náklon,* ja: *3D傾斜,* ko: *3D 기울이기,* zh-Hans: *3D倾斜,* zh-Hant: *3D傾斜*) tilts glyphs with real perspective around the center of their bounding box, so a rectangle becomes a trapezoid. Enter an *Angle* (the direction of the tilt, 0 = north, counterclockwise) and the *Tilt of plane* in degrees. Two numbers with a colon in between, e.g. `10:30`, give a random value in between.";
+				};
+				screenshot = "https://raw.githubusercontent.com/mekkablue/Tilt/main/Tilt.png";
+				dependencies = (
+					vanilla
+				);
+				minGlyphsVersion = "4.0";
+			},
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
 		);
 		scripts = (
