@@ -4938,6 +4938,18 @@
 				};
 				url = "https://github.com/rosaiani/glyphs-scripts";
 			},
+			{
+			    titles = {
+			        en = "Kasper Pyndt's Scripts";
+			    };
+			    descriptions = {
+			        en = "Drawing, spacing, proofing, and font-production scripts by Kasper Pyndt (Approximate Type). Available under *Script > Kasper Pyndt*.";
+			    };
+			    url = "https://github.com/KasperPyndt/Glyphs-Scripts";
+			    installName = "Kasper Pyndt";
+			    minGlyphsVersion = "4.0";
+			    dependencies = (vanilla);
+			},
 			// *** INSERT NEW SCRIPTS ABOVE THIS LINE
 		);
 		modules = (
