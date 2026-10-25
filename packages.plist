@@ -4279,6 +4279,66 @@
 					vanilla
 				);
 			},
+			{
+				titles = {
+					en = "Måns AI Kerning";
+				};
+				url = "https://github.com/mansgreback/mans-ai-tools";
+				path = "AIKerning.glyphsPlugin";
+				descriptions = {
+					en = "Kerns your font for you. Free on A–Z a–z; the full version kerns the whole font or any selection, with kerning groups, exceptions, tolerance and threshold settings. Needs the vanilla module and internet access: the model runs on a server. One license unlocks all Måns AI Tools plugins.";
+				};
+				screenshot = "https://raw.githubusercontent.com/mansgreback/mans-ai-tools/main/screenshots/kern.png";
+				minVersion = 3300;
+				dependencies = (
+					vanilla
+				);
+			},
+			{
+				titles = {
+					en = "Måns AI Spacing";
+				};
+				url = "https://github.com/mansgreback/mans-ai-tools";
+				path = "AISpacing.glyphsPlugin";
+				descriptions = {
+					en = "Spaces your font for you. Free on A–Z a–z; the full version spaces any glyphs, with a lock mode that keeps your spacing on reference glyphs of your choice. Needs the vanilla module and internet access: the model runs on a server. One license unlocks all Måns AI Tools plugins.";
+				};
+				screenshot = "https://raw.githubusercontent.com/mansgreback/mans-ai-tools/main/screenshots/space.png";
+				minVersion = 3300;
+				dependencies = (
+					vanilla
+				);
+			},
+			{
+				titles = {
+					en = "Måns AI Anchors";
+				};
+				url = "https://github.com/mansgreback/mans-ai-tools";
+				path = "AIAnchors.glyphsPlugin";
+				descriptions = {
+					en = "Places your anchors for you. Free: top and bottom on A–Z a–z; the full version does any Latin glyph — letters, accents and combining marks, ogonek, center, topright and topleft — plus a right-click menu to set, reset or custom-place anchors on any glyph. Needs the vanilla module and internet access: the model runs on a server. One license unlocks all Måns AI Tools plugins.";
+				};
+				screenshot = "https://raw.githubusercontent.com/mansgreback/mans-ai-tools/main/screenshots/anchors.png";
+				minVersion = 3300;
+				dependencies = (
+					vanilla
+				);
+			},
+			{
+				titles = {
+					en = "Måns AI Variable Font";
+				};
+				url = "https://github.com/mansgreback/mans-ai-tools";
+				path = "AIVariable.glyphsPlugin";
+				descriptions = {
+					en = "Makes a variable font for you from a single style font, with every node kept so the masters stay compatible. Free: Weight and Width masters for A–Z a–z; the full version does the whole font, your choice of axes, composites kept as components. Needs the vanilla module and internet access: the model runs on a server. One license unlocks all Måns AI Tools plugins.";
+				};
+				screenshot = "https://raw.githubusercontent.com/mansgreback/mans-ai-tools/main/screenshots/variable.png";
+				minVersion = 3300;
+				dependencies = (
+					vanilla
+				);
+			},
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
 		);
 		scripts = (
