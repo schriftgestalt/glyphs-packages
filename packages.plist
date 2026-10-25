@@ -4940,10 +4940,10 @@
 			},
 			{
 			    titles = {
-			        en = "Kasper Pyndt's Scripts";
+			        en = "Scripts by Kasper Pyndt (Approximate Type)";
 			    };
 			    descriptions = {
-			        en = "Drawing, spacing, proofing, and font-production scripts by Kasper Pyndt (Approximate Type). Available under *Script > Kasper Pyndt*.";
+			        en = "Drawing, spacing, proofing, and font-production scripts by Kasper Pyndt. Including (but not limited to):\n- *Variable Axis Player:* Provides an auto-player for Glyphs 4’s built-in variable sliders\n- *Copy Selection as Vectors:* Copy selection from an edit tab in Glyphs and paste it into InDesign or Illustrator with CMD+V\n- *Find Inflections* & *Fix Inflections*\n- *Export Package Builder:* Build export folders with sub-folders for Desktop, Web, App & Variable\n- *Old Print:* Add nodes to glyphs to make them look old and imperfect. Reverse revivalism!\n- *Generate Samples in All Masters:* Write sample text simultaneously in all masters\n- *Check Vertical Disalignments:* Reports glyphs with nodes placed near, but not directly on, an alignment zone\n- *Open All Drawn Glyphs*\n- *Apply/Remove Kern Pairs Globally*\n- *Assign Uppercase Kerning Groups to SmallCaps*\n- *Copy Kerning from Source Pair:* Without copying the kern group\n- *Show Glyphs Missing Kern Groups*\n- *Show Positive Kern Pairs*";
 			    };
 			    url = "https://github.com/KasperPyndt/Glyphs-Scripts";
 			    installName = "Kasper Pyndt";
