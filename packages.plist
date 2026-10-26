@@ -4279,6 +4279,34 @@
 					vanilla
 				);
 			},
+			{
+				titles = {
+					en = "GitHub Issues";
+				};
+				url = "https://github.com/eweracs/glyphs-issue-manager";
+				path = "GitHubIssuesG3.glyphsPlugin";
+				descriptions = {
+					en = "*Window > GitHub Issues* shows the GitHub issues of the current font’s repository in a floating panel. Filter them by the glyph you are editing, open the glyphs they mention, and comment on, close, create and edit issues, and add labels, assignees and milestones.";
+				};
+				screenshot = "https://raw.githubusercontent.com/eweracs/glyphs-issue-manager/master/Images/Screenshot.png";
+				minGlyphsVersion = "3.5";
+				maxVersion = "3799";
+				minSystemVersion = "13.0";
+			},
+			{
+				titles = {
+					en = "GitHub Issues";
+				};
+				url = "https://github.com/eweracs/glyphs-issue-manager";
+				archiveURL = "https://github.com/eweracs/glyphs-issue-manager/releases/latest/download/GitHubIssues.zip";
+				path = "GitHubIssuesG4.glyphsPlugin";
+				descriptions = {
+					en = "*Window > GitHub Issues* shows the GitHub issues of the current font’s repository in a floating panel. Filter them by the glyph you are editing, open the glyphs they mention, and comment on, close, create and edit issues, and add labels, assignees and milestones.";
+				};
+				screenshot = "https://raw.githubusercontent.com/eweracs/glyphs-issue-manager/master/Images/Screenshot.png";
+				minVersion = "4000";
+				minSystemVersion = "13.0";
+			},
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
 		);
 		scripts = (
