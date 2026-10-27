@@ -4367,6 +4367,20 @@
 				minVersion = "4000";
 				minSystemVersion = "13.0";
 			},
+      {
+				titles = {
+					en = "AZ Keyring";
+				};
+				url = "https://github.com/azerty-typefaces/AZ-Keyring";
+				path = "AZ-Keyring.glyphsPlugin";
+				descriptions = {
+					en = "Hold a trigger and a ring of up to eight actions opens around the cursor: flick toward one and let go to run it, a script from your Scripts folder or any command from the Glyphs menus. Press 1 to 8 to fire a pill directly, or Tab for the next ring. A second trigger opens a ring matched to what is selected: component, path, segment, node or anchor. Keep several profiles, and let the Recents ring put your most-used actions one flick away. Set it up in *Window > AZ Toolkit > Keyring*. In Glyphs 4 it also adds a tab to the Edit view's sidebar. Paid plugin with a 30-day free trial: buy a licence from inside the plugin.";
+				};
+				screenshot = "https://raw.githubusercontent.com/azerty-typefaces/AZ-Keyring/main/docs/images/hero.png";
+				dependencies = (
+					vanilla
+				);
+			},
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
 		);
 		scripts = (
