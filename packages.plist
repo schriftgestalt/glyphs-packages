@@ -4281,6 +4281,108 @@
 			},
 			{
 				titles = {
+					en = "Måns AI Kerning";
+				};
+				url = "https://github.com/mansgreback/mans-ai-tools";
+				path = "AIKerning.glyphsPlugin";
+				descriptions = {
+					en = "Kerns your font for you. Free on A–Z a–z; the full version kerns the whole font or any selection, with kerning groups, exceptions, tolerance and threshold settings. Needs the vanilla module and internet access: the model runs on a server. One license unlocks all Måns AI Tools plugins.";
+				};
+				screenshot = "https://raw.githubusercontent.com/mansgreback/mans-ai-tools/main/screenshots/kern.png";
+				minVersion = 3300;
+				dependencies = (
+					vanilla
+				);
+			},
+			{
+				titles = {
+					en = "Måns AI Spacing";
+				};
+				url = "https://github.com/mansgreback/mans-ai-tools";
+				path = "AISpacing.glyphsPlugin";
+				descriptions = {
+					en = "Spaces your font for you. Free on A–Z a–z; the full version spaces any glyphs, with a lock mode that keeps your spacing on reference glyphs of your choice. Needs the vanilla module and internet access: the model runs on a server. One license unlocks all Måns AI Tools plugins.";
+				};
+				screenshot = "https://raw.githubusercontent.com/mansgreback/mans-ai-tools/main/screenshots/space.png";
+				minVersion = 3300;
+				dependencies = (
+					vanilla
+				);
+			},
+			{
+				titles = {
+					en = "Måns AI Anchors";
+				};
+				url = "https://github.com/mansgreback/mans-ai-tools";
+				path = "AIAnchors.glyphsPlugin";
+				descriptions = {
+					en = "Places your anchors for you. Free: top and bottom on A–Z a–z; the full version does any Latin glyph — letters, accents and combining marks, ogonek, center, topright and topleft — plus a right-click menu to set, reset or custom-place anchors on any glyph. Needs the vanilla module and internet access: the model runs on a server. One license unlocks all Måns AI Tools plugins.";
+				};
+				screenshot = "https://raw.githubusercontent.com/mansgreback/mans-ai-tools/main/screenshots/anchors.png";
+				minVersion = 3300;
+				dependencies = (
+					vanilla
+				);
+			},
+			{
+				titles = {
+					en = "Måns AI Variable Font";
+				};
+				url = "https://github.com/mansgreback/mans-ai-tools";
+				path = "AIVariable.glyphsPlugin";
+				descriptions = {
+					en = "Makes a variable font for you from a single style font, with every node kept so the masters stay compatible. Free: Weight and Width masters for A–Z a–z; the full version does the whole font, your choice of axes, composites kept as components. Needs the vanilla module and internet access: the model runs on a server. One license unlocks all Måns AI Tools plugins.";
+				};
+				screenshot = "https://raw.githubusercontent.com/mansgreback/mans-ai-tools/main/screenshots/variable.png";
+				minVersion = 3300;
+				dependencies = (
+					vanilla
+				);
+			},
+      {
+				titles = {
+					en = "GitHub Issues";
+				};
+				url = "https://github.com/eweracs/glyphs-issue-manager";
+				path = "GitHubIssuesG3.glyphsPlugin";
+				descriptions = {
+					en = "*Window > GitHub Issues* shows the GitHub issues of the current font’s repository in a floating panel. Filter them by the glyph you are editing, open the glyphs they mention, and comment on, close, create and edit issues, and add labels, assignees and milestones.";
+				};
+				screenshot = "https://raw.githubusercontent.com/eweracs/glyphs-issue-manager/master/Images/Screenshot.png";
+				minGlyphsVersion = "3.5";
+				maxVersion = "3799";
+				minSystemVersion = "13.0";
+			},
+			{
+				titles = {
+					en = "GitHub Issues";
+				};
+				url = "https://github.com/eweracs/glyphs-issue-manager";
+				archiveURL = "https://github.com/eweracs/glyphs-issue-manager/releases/latest/download/GitHubIssues.zip";
+				path = "GitHubIssuesG4.glyphsPlugin";
+				descriptions = {
+					en = "*Window > GitHub Issues* shows the GitHub issues of the current font’s repository in a floating panel. Filter them by the glyph you are editing, open the glyphs they mention, and comment on, close, create and edit issues, and add labels, assignees and milestones.";
+				};
+				screenshot = "https://raw.githubusercontent.com/eweracs/glyphs-issue-manager/master/Images/Screenshot.png";
+				minVersion = "4000";
+				minSystemVersion = "13.0";
+			},
+      {
+				titles = {
+					en = "AZ Keyring";
+				};
+				url = "https://github.com/azerty-typefaces/AZ-Keyring";
+				path = "AZ-Keyring.glyphsPlugin";
+				descriptions = {
+					en = "Hold a trigger and a ring of up to eight actions opens around the cursor: flick toward one and let go to run it, a script from your Scripts folder or any command from the Glyphs menus. Press 1 to 8 to fire a pill directly, or Tab for the next ring. A second trigger opens a ring matched to what is selected: component, path, segment, node or anchor. Keep several profiles, and let the Recents ring put your most-used actions one flick away. Set it up in *Window > AZ Toolkit > Keyring*. In Glyphs 4 it also adds a tab to the Edit view's sidebar. Paid plugin with a 30-day free trial: buy a licence from inside the plugin.";
+				};
+				screenshot = "https://raw.githubusercontent.com/azerty-typefaces/AZ-Keyring/main/docs/images/hero.png";
+				dependencies = (
+					vanilla
+				);
+			},
+      {
+				titles = {
 					en = "AZ Letter Digger";
 				};
 				url = "https://github.com/azerty-typefaces/AZ-LetterDigger";
@@ -4954,10 +5056,10 @@
 			},
 			{
 			    titles = {
-			        en = "Kasper Pyndt's Scripts";
+			        en = "Scripts by Kasper Pyndt (Approximate Type)";
 			    };
 			    descriptions = {
-			        en = "Drawing, spacing, proofing, and font-production scripts by Kasper Pyndt (Approximate Type). Available under *Script > Kasper Pyndt*.";
+			        en = "Drawing, spacing, proofing, and font-production scripts by Kasper Pyndt. Including (but not limited to):\n- *Variable Axis Player:* Provides an auto-player for Glyphs 4’s built-in variable sliders\n- *Copy Selection as Vectors:* Copy selection from an edit tab in Glyphs and paste it into InDesign or Illustrator with CMD+V\n- *Find Inflections* & *Fix Inflections*\n- *Export Package Builder:* Build export folders with sub-folders for Desktop, Web, App & Variable\n- *Old Print:* Add nodes to glyphs to make them look old and imperfect. Reverse revivalism!\n- *Generate Samples in All Masters:* Write sample text simultaneously in all masters\n- *Check Vertical Disalignments:* Reports glyphs with nodes placed near, but not directly on, an alignment zone\n- *Open All Drawn Glyphs*\n- *Apply/Remove Kern Pairs Globally*\n- *Assign Uppercase Kerning Groups to SmallCaps*\n- *Copy Kerning from Source Pair:* Without copying the kern group\n- *Show Glyphs Missing Kern Groups*\n- *Show Positive Kern Pairs*";
 			    };
 			    url = "https://github.com/KasperPyndt/Glyphs-Scripts";
 			    installName = "Kasper Pyndt";
