@@ -4381,6 +4381,20 @@
 					vanilla
 				);
 			},
+      {
+				titles = {
+					en = "AZ Letter Digger";
+				};
+				url = "https://github.com/azerty-typefaces/AZ-LetterDigger";
+				path = "AZ-LetterDigger.glyphsPlugin";
+				descriptions = {
+					en = "*Window > AZ Toolkit > Letter Digger* finds the best words to proof a letter, ranked from wordlists in 45 languages. Type a letter or a glyph name, or leave the field empty to proof the glyph you are editing, and *Show Words* opens the words in an Edit tab. Steer the ranking toward a construction group (ascenders, bowls…) or toward the glyphs carrying one of your tags, or turn *Smart ranking* off to get random words, like word-o-mat.";
+				};
+				screenshot = "https://raw.githubusercontent.com/azerty-typefaces/AZ-LetterDigger/main/docs/images/hero.png";
+				dependencies = (
+					vanilla
+				);
+			},
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
 		);
 		scripts = (
