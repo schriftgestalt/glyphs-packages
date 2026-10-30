@@ -2849,6 +2849,7 @@
 				titles = {
 					en = "Color Flow";
 				};
+
 				url = "https://github.com/HugoJourdan/Color-Flow";
 			},
 			{
@@ -4758,6 +4759,7 @@
 				descriptions = {
 					en = "Script working with Color Flow Plugin to toggle item with shortcut";
 				};
+                maxVersion = "3799";
 				installName = "Color Flow Script";
 				titles = {
 					en = "Color Flow Script";
