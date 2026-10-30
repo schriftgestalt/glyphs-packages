@@ -2849,6 +2849,7 @@
 				titles = {
 					en = "Color Flow";
 				};
+				maxVersion = "3799";
 				url = "https://github.com/HugoJourdan/Color-Flow";
 			},
 			{
@@ -4281,6 +4282,21 @@
 			},
 			{
 				titles = {
+					en = "AZ Colorflow";
+				};
+				url = "https://github.com/azerty-typefaces/AZ-Colorflow";
+				path = "AZ-Colorflow.glyphsPlugin";
+				descriptions = {
+					en = "AZ Colorflow tracks your progress with layer color labels, so each master keeps its own. Name and order your steps in *Glyphs > Settings > AZ Toolkit*, and each row of the Font View sidebar fills up as a color bar. Select glyphs, hold Control and Option and click: a wheel of your steps opens at the cursor, drag to a color to apply it. Sort the Font View by color, and *File > Open Colorflow Report…* charts your colors over time, master by master, with a lane per category and script. Replaces Color Flow.";
+				};
+				screenshot = "https://raw.githubusercontent.com/azerty-typefaces/AZ-Colorflow/main/docs/images/hero.png";
+				dependencies = (
+					vanilla
+				);
+				minGlyphsVersion = "4.0";
+			},
+			{
+				titles = {
 					en = "Måns AI Kerning";
 				};
 				url = "https://github.com/mansgreback/mans-ai-tools";
@@ -4746,6 +4762,7 @@
 				descriptions = {
 					en = "Script working with Color Flow Plugin to toggle item with shortcut";
 				};
+				maxVersion = "3799";
 				installName = "Color Flow Script";
 				titles = {
 					en = "Color Flow Script";
