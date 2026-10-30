@@ -2849,7 +2849,7 @@
 				titles = {
 					en = "Color Flow";
 				};
-
+				maxVersion = "3799";
 				url = "https://github.com/HugoJourdan/Color-Flow";
 			},
 			{
@@ -4294,6 +4294,9 @@
 					vanilla
 				);
 				minGlyphsVersion = "4.0";
+			},
+			{
+				titles = {
 					en = "Måns AI Kerning";
 				};
 				url = "https://github.com/mansgreback/mans-ai-tools";
@@ -4759,7 +4762,7 @@
 				descriptions = {
 					en = "Script working with Color Flow Plugin to toggle item with shortcut";
 				};
-                maxVersion = "3799";
+				maxVersion = "3799";
 				installName = "Color Flow Script";
 				titles = {
 					en = "Color Flow Script";
