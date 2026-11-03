@@ -4399,6 +4399,7 @@
 				name = "TunniBars.glyphsPlugin";
 				title = "Tunni Bars";
 				url = "https://github.com/mekkablue/TunniBars";
+				path = "TunniBars.glyphsPlugin";
 				description = "*View > Show Tunni Bars* displays the Tunni bar between the two handles of each curve segment: blue if the handles are balanced, grey if not. Drag a Tunni bar to move both handles in sync, double-click it to balance them.";
 				screenshot = "https://raw.githubusercontent.com/mekkablue/TunniBars/main/TunniBars.png";
 			},
