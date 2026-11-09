@@ -3396,7 +3396,7 @@
 					"zh-Hans" = "Advanced Stroke Contrast Tool (先进的笔画对比度控制工具) — LTTR/INK";
 				};
 				url = "https://github.com/lttrcorp/lttrink-for-glyphs-plugin-manager";
-				branch = "glyphs3;
+				branch = "glyphs3-macos-11";
 				path = "Letterink.glyphsTool";
 				identifier = "lttrink-glyphs3-macos-11";
 				descriptions = {
