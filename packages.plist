@@ -309,6 +309,7 @@
 				url = "https://github.com/Mark2Mark/Show-Stems";
 				description = "*View > Show Stems* shows a measurement line (even in edit mode) with all distances between the outlines. If any distance matches the saved metrics in the Glyphs Palette, it will highlight in green and tell you which one it matches. The vertical position is attached to the Glyphsapp measurement line and can be moved around the same way.\nShortcut: Cmd-Opt-Ctrl-S (like **S**tems)\nWritten by Mark Frömberg (@Mark2Mark)";
 				screenshot = "https://raw.githubusercontent.com/Mark2Mark/Show-Stems/master/Images/Show%20Stems%2003.png";
+				branch = Glyphs2;
 			},
 			{
 				name = "Erode.glyphsFilter";
