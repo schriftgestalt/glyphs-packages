@@ -9,52 +9,71 @@ guard let data = NSDictionary(contentsOfFile: "packages.plist"),
 	exit(2)
 }
 
-enum VersionRange {
-	case buildNumber(min: Int?, max: Int?)
-	case glyphsVersion(min: [Int]?, max: [Int]?)
-
+struct VersionRange {
+	let min: [Int]?
+	let max: [Int]?
+	
 	var description: String {
-		switch self {
-		case .buildNumber(let min, let max):
-			if let min, let max {
-				return "versions \(min)-\(max)"
-			}
-			else if let min {
-				return "minVersion: \(min)"
-			}
-			else if let max {
-				return "maxVersion: \(max)"
-			}
-		case .glyphsVersion(let min, let max):
-			if let min, let max {
-				return "versions \(formatVersion(min))-\(formatVersion(max))"
-			}
-			else if let min {
-				return "minGlyphsVersion: \(formatVersion(min))"
-			}
-			else if let max {
-				return "maxGlyphsVersion: \(formatVersion(max))"
-			}
+		if let min, let max {
+			return "\(formatVersion(min))-\(formatVersion(max))"
+		}
+		else if let min {
+			return ">= \(formatVersion(min))"
+		}
+		else if let max {
+			return "<= \(formatVersion(max))"
 		}
 		return "no version constraints"
 	}
+	
+	func overlaps(with other: VersionRange) -> Bool {
+		// Bounds are inclusive; a missing bound is unbounded.
+		if let max, let otherMin = other.min, compareVersions(max, otherMin) < 0 {
+			return false
+		}
+		if let otherMax = other.max, let min, compareVersions(otherMax, min) < 0 {
+			return false
+		}
+		return true
+	}
+}
 
-	func overlaps(with other: VersionRange) -> Bool? {
-		switch (self, other) {
-		case (.buildNumber(let minA, let maxA), .buildNumber(let minB, let maxB)):
-			let minV = minA ?? 0
-			let maxV = maxA ?? Int.max
-			let otherMinV = minB ?? 0
-			let otherMaxV = maxB ?? Int.max
-			return !(maxV < otherMinV || otherMaxV < minV)
-		case (.glyphsVersion(let minA, let maxA), .glyphsVersion(let minB, let maxB)):
-			let minG = minA ?? [0]
-			let maxG = maxA ?? [Int.max]
-			let otherMinG = minB ?? [0]
-			let otherMaxG = maxB ?? [Int.max]
-			return !(compareVersions(maxG, otherMinG) < 0 || compareVersions(otherMaxG, minG) < 0)
-		default:
+struct VersionConstraints {
+	let buildNumber: VersionRange?
+	let glyphsVersion: VersionRange?
+	let systemVersion: VersionRange?
+	
+	var description: String {
+		let ranges = [("build", buildNumber), ("Glyphs", glyphsVersion), ("macOS", systemVersion)]
+		let descriptions = ranges.compactMap { name, range in
+			range.map { "\(name): \($0.description)" }
+		}
+		return descriptions.isEmpty ? "no version constraints" : descriptions.joined(separator: ", ")
+	}
+	
+	func overlaps(with other: VersionConstraints) -> Bool? {
+		let inputs = [
+			(self.buildNumber, other.buildNumber),
+			(self.glyphsVersion, other.glyphsVersion),
+			(self.systemVersion, other.systemVersion),
+		]
+		
+		for (range, otherRange) in inputs {
+			if let range, let otherRange, !range.overlaps(with: otherRange) {
+				return false
+			}
+		}
+		
+		let hasGlyphsConstraint = self.buildNumber != nil || self.glyphsVersion != nil
+		let otherHasGlyphsConstraint = other.buildNumber != nil || other.glyphsVersion != nil
+		let sharesGlyphsConstraint = (buildNumber != nil && other.buildNumber != nil)
+			|| (self.glyphsVersion != nil && other.glyphsVersion != nil)
+		
+		if hasGlyphsConstraint && otherHasGlyphsConstraint && !sharesGlyphsConstraint {
 			return nil
+		}
+		else {
+			return true
 		}
 	}
 }
@@ -63,18 +82,15 @@ struct PackageEntry {
 	let packageType: String
 	let title: String
 	let url: String
-	let versionRange: VersionRange?
-
+	let versions: VersionConstraints
+	
 	var versionDescription: String {
-		versionRange?.description ?? "no version constraints"
+		self.versions.description
 	}
-
+	
 	/// Returns `true` if ranges overlap, `false` if they do not, and `nil` if their types differ.
 	func overlaps(with other: PackageEntry) -> Bool? {
-		guard let versionRange, let otherRange = other.versionRange else {
-			return true
-		}
-		return versionRange.overlaps(with: otherRange)
+		self.versions.overlaps(with: other.versions)
 	}
 }
 
@@ -84,7 +100,7 @@ func formatVersion(_ version: [Int]) -> String {
 
 func compareVersions(_ a: [Int], _ b: [Int]) -> Int {
 	let maxLength = max(a.count, b.count)
-	for i in 0..<maxLength {
+	for i in 0 ..< maxLength {
 		let aValue = i < a.count ? a[i] : 0
 		let bValue = i < b.count ? b[i] : 0
 		if aValue < bValue { return -1 }
@@ -94,24 +110,58 @@ func compareVersions(_ a: [Int], _ b: [Int]) -> Int {
 }
 
 func parseVersionString(_ string: String) -> [Int]? {
-	let components = string.split(separator: ".").compactMap { Int($0) }
-	return components.isEmpty ? nil : components
+	let components = string.split(separator: ".", omittingEmptySubsequences: false)
+	var version: [Int] = []
+	
+	for component in components {
+		guard !component.isEmpty,
+		      component.allSatisfy({ $0 >= "0" && $0 <= "9" }),
+		      let number = Int(component) else {
+			return nil
+		}
+		version.append(number)
+	}
+	
+	return version.isEmpty ? nil : version
 }
 
-func versionRange(for package: NSDictionary) -> VersionRange? {
-	let minVersion = (package["minVersion"] as? Int) ?? (package["minVersion"] as? String).flatMap(Int.init)
-	let maxVersion = (package["maxVersion"] as? Int) ?? (package["maxVersion"] as? String).flatMap(Int.init)
-	if minVersion != nil || maxVersion != nil {
-		return .buildNumber(min: minVersion, max: maxVersion)
-	}
+struct VersionValidationError: Error, CustomStringConvertible {
+	let description: String
+}
 
-	let minGlyphsVersion = (package["minGlyphsVersion"] as? String).flatMap(parseVersionString)
-	let maxGlyphsVersion = (package["maxGlyphsVersion"] as? String).flatMap(parseVersionString)
-	if minGlyphsVersion != nil || maxGlyphsVersion != nil {
-		return .glyphsVersion(min: minGlyphsVersion, max: maxGlyphsVersion)
+func versionRange(
+	for package: NSDictionary,
+	minKey: String,
+	maxKey: String,
+	buildNumber: Bool,
+) throws -> VersionRange? {
+	func parseBound(_ key: String) throws -> [Int]? {
+		guard let value = package[key] else {
+			return nil
+		}
+		let string = (value as? String) ?? (buildNumber ? (value as? Int).map { String($0) } : nil)
+		guard let string, let version = parseVersionString(string),
+		      !buildNumber || version.count == 1 else {
+			throw VersionValidationError(description: "invalid \(key): \(value)")
+		}
+		return version
 	}
+	
+	let min = try parseBound(minKey)
+	let max = try parseBound(maxKey)
+	
+	if let min, let max, compareVersions(min, max) > 0 {
+		throw VersionValidationError(description: "\(minKey) exceeds \(maxKey)")
+	}
+	
+	return min == nil && max == nil ? nil : VersionRange(min: min, max: max)
+}
 
-	return nil
+func versionConstraints(for package: NSDictionary) throws -> VersionConstraints {
+	try VersionConstraints(
+		buildNumber: versionRange(for: package, minKey: "minVersion", maxKey: "maxVersion", buildNumber: true),
+		glyphsVersion: versionRange(for: package, minKey: "minGlyphsVersion", maxKey: "maxGlyphsVersion", buildNumber: false),
+		systemVersion: versionRange(for: package, minKey: "minSystemVersion", maxKey: "maxSystemVersion", buildNumber: false))
 }
 
 func packageTitle(_ package: NSDictionary) -> String? {
@@ -140,21 +190,31 @@ for packageType in ["plugins", "scripts", "modules"] {
 	guard let packageList = packages[packageType] as? [NSDictionary] else {
 		continue
 	}
-
+	
 	for package in packageList {
 		guard let url = package["url"] as? String else {
 			print("Package missing url: \(package)")
 			hasError = true
 			continue
 		}
-
+		
 		let title = packageTitle(package)
+		
+		let versions: VersionConstraints; do {
+			versions = try versionConstraints(for: package)
+		}
+		catch {
+			print("Invalid version range: \(title ?? "untitled package") [\(url)]: \(error)")
+			hasError = true
+			continue
+		}
+		
 		let entry = PackageEntry(
 			packageType: packageType,
 			title: title ?? "untitled package",
 			url: url,
-			versionRange: versionRange(for: package))
-
+			versions: versions)
+		
 		let installName = (package["installName"] as? String) ?? URL(string: url)?.lastPathComponent
 		if let installName {
 			installNameEntries[installName.lowercased(), default: []].append(entry)
@@ -163,11 +223,11 @@ for packageType in ["plugins", "scripts", "modules"] {
 			print("Package missing install name and url")
 			hasError = true
 		}
-
+		
 		guard packageType == "plugins" else {
 			continue
 		}
-
+		
 		guard let path = package["path"] as? String else {
 			print("Plugin missing path: \(package)")
 			hasError = true
@@ -178,6 +238,7 @@ for packageType in ["plugins", "scripts", "modules"] {
 			hasError = true
 			continue
 		}
+		
 		pathEntries[path, default: []].append(entry)
 	}
 }
@@ -185,14 +246,14 @@ for packageType in ["plugins", "scripts", "modules"] {
 var hasConflicts = false
 
 for (path, entries) in pathEntries {
-	for i in 0..<entries.count {
-		for j in (i + 1)..<entries.count {
+	for i in 0 ..< entries.count {
+		for j in (i + 1) ..< entries.count {
 			let entryA = entries[i]
 			let entryB = entries[j]
 			guard let reason = conflictReason(for: entryA, and: entryB) else {
 				continue
 			}
-
+			
 			hasConflicts = true
 			print("Path conflict (\(reason)): \(path)")
 			for entry in [entryA, entryB] {
@@ -203,17 +264,17 @@ for (path, entries) in pathEntries {
 }
 
 for (installName, entries) in installNameEntries where !legacyInstallNameExceptions.contains(installName) {
-	for i in 0..<entries.count {
-		for j in (i + 1)..<entries.count {
+	for i in 0 ..< entries.count {
+		for j in (i + 1) ..< entries.count {
 			let entryA = entries[i]
 			let entryB = entries[j]
-
+			
 			// Entries from one repository install into the same directory.
 			guard entryA.url != entryB.url,
-				  let reason = conflictReason(for: entryA, and: entryB) else {
+			      let reason = conflictReason(for: entryA, and: entryB) else {
 				continue
 			}
-
+			
 			hasConflicts = true
 			print("Duplicate install name (\(reason)): \(installName)")
 			for entry in [entryA, entryB] {
