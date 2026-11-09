@@ -3386,7 +3386,7 @@
 				};
 				screenshot = "https://raw.githubusercontent.com/lttrcorp/lttrink-for-glyphs-plugin-manager/glyphs3/lttrink-screenshot.png";
 				minSystemVersion = "10.13";
-				minSystemVersion = "11.4";
+				maxSystemVersion = "11.4";
 				minGlyphsVersion = "3.0";
 				maxGlyphsVersion = "3.99";
 			},
