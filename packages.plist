@@ -4457,6 +4457,41 @@
 				description = "*View > Show Tunni Bars* displays the Tunni bar between the two handles of each curve segment: blue if the handles are balanced, grey if not. Drag a Tunni bar to move both handles in sync, double-click it to balance them.";
 				screenshot = "https://raw.githubusercontent.com/mekkablue/TunniBars/main/TunniBars.png";
 			},
+			{
+				titles = {
+					en = "Gravitation";
+					zh = "重心区域";
+					zh-Hans = "重心区域";
+					zh-Hant = "重心區域";
+					ja = "重心エリア";
+					ko = "무게중심 영역";
+					de = "Gravitation";
+					fr = "Gravitation";
+					es = "Gravitación";
+					pt = "Gravitação";
+					ru = "Зона центра тяжести";
+					ar = "منطقة مركز الثقل";
+				};
+				descriptions = {
+					en = "*View → Show Gravitation* • Shows each glyph's center of gravity and how its ink is spread, to help balance CJK glyphs and keep them consistent across the font. Right-click for options, a font-wide reference, and a list of off-center glyphs.";
+					zh = "*视图* → *显示重心区域* • 显示每个字形的重心及墨迹的分布范围，帮助平衡字形结构并保持全字库一致。右键可调整选项、计算全字库参考，并列出重心偏离的字形。";
+					zh-Hans = "*视图* → *显示重心区域* • 显示每个字形的重心及墨迹的分布范围，帮助平衡字形结构并保持全字库一致。右键可调整选项、计算全字库参考，并列出重心偏离的字形。";
+					zh-Hant = "*顯示* → *顯示重心區域* • 顯示每個字形的重心及墨跡的分佈範圍，幫助平衡字形結構並保持全字庫一致。按右鍵可調整選項、計算全字庫參考，並列出重心偏離的字形。";
+					ja = "*表示* → *重心エリアを表示* • 各グリフの重心と墨の広がりを表示し、文字のバランスを整え、フォント全体の一貫性を保つのに役立ちます。右クリックで設定の変更、フォント全体の基準値の計算、重心がずれたグリフの一覧表示ができます。";
+					ko = "*보기* → *무게중심 영역 보기* • 각 글리프의 무게중심과 획이 퍼진 범위를 표시하여, 글자의 균형을 잡고 폰트 전체의 일관성을 유지하도록 돕습니다. 오른쪽 클릭으로 옵션 변경, 폰트 전체 기준값 계산, 무게중심이 벗어난 글리프 목록 보기를 할 수 있습니다.";
+					de = "*Ansicht* → *Gravitation anzeigen* • Zeigt den Schwerpunkt jeder Glyphe und die Streuung ihrer Fläche, um CJK-Glyphen auszubalancieren und im ganzen Font einheitlich zu halten. Per Rechtsklick: Optionen, eine Referenz für den ganzen Font und eine Liste der Glyphen mit verschobenem Schwerpunkt.";
+					fr = "*Affichage* → *Afficher Gravitation* • Affiche le centre de gravité de chaque glyphe et la répartition de son encre, pour équilibrer les glyphes CJK et les garder cohérents dans toute la fonte. Clic droit : options, référence pour toute la fonte et liste des glyphes décentrés.";
+					es = "*Vista* → *Mostrar Gravitación* • Muestra el centro de gravedad de cada glifo y cómo se reparte su tinta, para equilibrar los glifos CJK y mantenerlos coherentes en toda la fuente. Con clic derecho: opciones, una referencia de toda la fuente y una lista de los glifos descentrados.";
+					pt = "*Visualizar* → *Mostrar Gravitação* • Mostra o centro de gravidade de cada glifo e como sua tinta se distribui, para equilibrar glifos CJK e mantê-los consistentes em toda a fonte. Com o botão direito: opções, uma referência de toda a fonte e uma lista dos glifos fora do centro.";
+					ru = "Включается в меню *Просмотр* • Показывает центр тяжести каждого глифа и распределение его заливки, помогая сбалансировать глифы CJK и сохранить их единообразие во всём шрифте. По правому клику: настройки, эталон для всего шрифта и список глифов со смещённым центром.";
+					ar = "يُفعَّل من قائمة *عرض* • يعرض مركز الثقل لكل حرف وكيفية توزّع الحبر فيه، للمساعدة على موازنة حروف CJK والحفاظ على اتساقها في الخط بأكمله. انقر بزر الفأرة الأيمن لتغيير الخيارات، وحساب مرجع للخط بأكمله، وعرض الحروف المنزاحة عن المركز.";
+				};
+				url = "https://github.com/georgeyjm/glyphs-gravitation";
+				screenshot = "https://raw.githubusercontent.com/georgeyjm/glyphs-gravitation/main/screenshot.png";
+				path = "Gravitation.glyphsReporter";
+				dependencies = (fontTools);
+				identifier = "georgeyjm-gravitation";
+			},
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
 		);
 		scripts = (
