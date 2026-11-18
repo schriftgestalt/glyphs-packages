@@ -4492,6 +4492,19 @@
 				dependencies = (fontTools);
 				identifier = "georgeyjm-gravitation";
 			},
+			{
+				titles = {
+					en = "Ink Trap Generator";
+				};
+				path = "InkTrapGenerator.glyphsFilter";
+				url = "https://github.com/TheJonassss/InkTrapGenerator";
+				descriptions = {
+					en = "Inserts ink traps into concave joints. Three trap shapes (conic, flat, rounded) plus an automatic chamfer, absolute or stem-relative depth, mouth smoothing, a thin-stroke guardrail, selection-aware application, and savable presets.";
+				};
+				screenshot = "https://raw.githubusercontent.com/TheJonassss/InkTrapGenerator/main/docs/images/cover.png";
+				dependencies = (vanilla);
+				minGlyphsVersion = "3.4.1";
+			},
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
 		);
 		scripts = (
