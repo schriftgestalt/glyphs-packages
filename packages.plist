@@ -4505,6 +4505,22 @@
 				dependencies = (vanilla);
 				minGlyphsVersion = "3.4.1";
 			},
+{
+				titles = {
+					de = "Kerning-Sand";
+					en = "Kerning Sand";
+				};
+				identifier = "KerningSand";
+				url = "https://github.com/fantastischlab/glyphs3_kerning_sand";
+				path = "KerningSand.glyphsPalette";
+				descriptions = {
+					de = "*Fenster > Palette > Kerning-Sand* schüttet Sand in die Lücken zwischen Glyphen und zeigt in Grün, Gelb und Rot, wo Spacing und Kerning nicht stimmen. Ausgangspunkt sind n o H O, von Hand gespacet. Die Palette passt die Vorbreiten und das Kerning der übrigen Glyphen daran an, mit Undo. Läuft auf dem Mac, ohne Server. [Dokumentation](https://github.com/fantastischlab/glyphs3_kerning_sand/blob/main/DOCUMENTATION.md)";
+					en = "*Window > Palette > Kerning Sand* pours sand into the gaps between glyphs and shows in green, yellow and red where spacing and kerning are off. It starts from n o H O, spaced by hand. The palette fits the sidebearings and kerning of the other glyphs to them, with undo. Runs on your Mac, no server. [Documentation](https://github.com/fantastischlab/glyphs3_kerning_sand/blob/main/DOCUMENTATION.md)";
+				};
+				screenshot = "https://raw.githubusercontent.com/fantastischlab/glyphs3_kerning_sand/main/screenshot.png";
+				minGlyphsVersion = "3.0";
+				maxGlyphsVersion = "3.99";
+			},
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
 		);
 		scripts = (
