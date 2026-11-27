@@ -4505,7 +4505,7 @@
 				dependencies = (vanilla);
 				minGlyphsVersion = "3.4.1";
 			},
-{
+			{
 				titles = {
 					de = "Kerning-Sand";
 					en = "Kerning Sand";
@@ -4519,7 +4519,6 @@
 				};
 				screenshot = "https://raw.githubusercontent.com/fantastischlab/glyphs3_kerning_sand/main/screenshot.png";
 				minGlyphsVersion = "3.0";
-				maxGlyphsVersion = "3.99";
 			},
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
 		);
